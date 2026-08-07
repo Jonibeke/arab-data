@@ -1,1 +1,1 @@
-### bilmadim nimadir qilish kerak
+### Bilmadim nimadir qilish kerak
