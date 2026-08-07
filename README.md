@@ -1,0 +1,1 @@
+### bilmadim nimadir qilish kerak
