@@ -1,0 +1,1840 @@
+const lessons = [
+  {
+    "num": 1,
+    "time": "00:00:35,160 --> 00:00:37,160",
+    "arabic": "فُرْشَاةُ الْأَسْنَانِ",
+    "segs": [
+      {
+        "ar": "فُرْشَاةُ الْأَسْنَانِ",
+        "uz": "tish cho'tkasi"
+      }
+    ],
+    "full_uz": "Tish cho'tkasi.",
+    "note": "فُرْشَاةٌ — cho'tka."
+  },
+  {
+    "num": 2,
+    "time": "00:01:02,140 --> 00:01:06,600",
+    "arabic": "حِينَمَا أُنْهِي إِكْسِيرَ النُّمُوِّ الْبَالِغَ السِّرِّيَّ",
+    "segs": [
+      {
+        "ar": "حِينَمَا",
+        "uz": "qachonki"
+      },
+      {
+        "ar": "أُنْهِي",
+        "uz": "tugatganimda"
+      },
+      {
+        "ar": "إِكْسِيرَ النُّمُوِّ",
+        "uz": "o'sish iksirini"
+      },
+      {
+        "ar": "الْبَالِغَ السِّرِّيَّ",
+        "uz": "maxfiy mukammal"
+      }
+    ],
+    "full_uz": "Maxfiy mukammal o'sish iksirini tugatganimda.",
+    "note": "إِكْسِيرٌ — iksir."
+  },
+  {
+    "num": 3,
+    "time": "00:00:41,840 --> 00:00:45,200",
+    "arabic": "سَأَصْنَعُ جَيْشِي الْخَاصَّ مِنَ الْمُسْتَذْئِبِينَ",
+    "segs": [
+      {
+        "ar": "سَأَصْنَعُ",
+        "uz": "men yasayman"
+      },
+      {
+        "ar": "جَيْشِي الْخَاصَّ",
+        "uz": "o'z qo'shinimni"
+      },
+      {
+        "ar": "مِنَ الْمُسْتَذْئِبِينَ",
+        "uz": "bo'ri odamlardan"
+      }
+    ],
+    "full_uz": "Men bo'ri odamlardan iborat o'z qo'shinimni yarataman.",
+    "note": "جَيْشٌ — qo'shin."
+  },
+  {
+    "num": 4,
+    "time": "00:00:45,200 --> 00:00:47,019",
+    "arabic": "وَسَأَحْكُمُ الْعَالَمَ",
+    "segs": [
+      {
+        "ar": "وَ",
+        "uz": "va"
+      },
+      {
+        "ar": "سَأَحْكُمُ",
+        "uz": "hukmronlik qilaman"
+      },
+      {
+        "ar": "الْعَالَمَ",
+        "uz": "dunyoga"
+      }
+    ],
+    "full_uz": "Va dunyoni boshqaraman.",
+    "note": null
+  },
+  {
+    "num": 5,
+    "time": "00:00:47,019 --> 00:00:50,960",
+    "arabic": "وَاوْ، يَا سَلَامُ! هَذَا رَائِعٌ",
+    "segs": [
+      {
+        "ar": "وَاوْ",
+        "uz": "voy"
+      },
+      {
+        "ar": "يَا سَلَامُ",
+        "uz": "zo'r ekan"
+      },
+      {
+        "ar": "هَذَا رَائِعٌ",
+        "uz": "bu ajoyib"
+      }
+    ],
+    "full_uz": "Voy! Zo'r ekan! Bu ajoyib!",
+    "note": null
+  },
+  {
+    "num": 6,
+    "time": "00:01:38,960 --> 00:01:41,420",
+    "arabic": "أَنْتَ أَفْضَلُ مِنَ التِّلْفَازِ",
+    "segs": [
+      {
+        "ar": "أَنْتَ",
+        "uz": "sen"
+      },
+      {
+        "ar": "أَفْضَلُ",
+        "uz": "yaxshiroqsan"
+      },
+      {
+        "ar": "مِنَ التِّلْفَازِ",
+        "uz": "televizordan"
+      }
+    ],
+    "full_uz": "Sen televizordan ham yaxshiroqsan.",
+    "note": null
+  },
+  {
+    "num": 7,
+    "time": "00:00:52,659 --> 00:00:55,620",
+    "arabic": "أَجَلْ، هَذَا مُمْتِعٌ وَلَكِنَّهُ غَيْرُ آمِنٍ",
+    "segs": [
+      {
+        "ar": "أَجَلْ",
+        "uz": "ha"
+      },
+      {
+        "ar": "هَذَا مُمْتِعٌ",
+        "uz": "bu qiziqarli"
+      },
+      {
+        "ar": "وَلَكِنَّهُ",
+        "uz": "ammo u"
+      },
+      {
+        "ar": "غَيْرُ آمِنٍ",
+        "uz": "xavfsiz emas"
+      }
+    ],
+    "full_uz": "Ha, bu qiziq, ammo xavfsiz emas.",
+    "note": "آمِنٌ — xavfsiz."
+  },
+  {
+    "num": 8,
+    "time": "00:01:44,800 --> 00:01:46,900",
+    "arabic": "هَيَّا يَا تُومُ، حَانَ وَقْتُ النَّوْمِ",
+    "segs": [
+      {
+        "ar": "هَيَّا",
+        "uz": "qani"
+      },
+      {
+        "ar": "يَا تُومُ",
+        "uz": "Tom"
+      },
+      {
+        "ar": "حَانَ وَقْتُ",
+        "uz": "vaqti keldi"
+      },
+      {
+        "ar": "النَّوْمِ",
+        "uz": "uxlashning"
+      }
+    ],
+    "full_uz": "Qani, Tom, uxlash vaqti keldi.",
+    "note": null
+  },
+  {
+    "num": 9,
+    "time": "00:01:01,939 --> 00:01:03,439",
+    "arabic": "حَسَنًا يَا أَبِي",
+    "segs": [
+      {
+        "ar": "حَسَنًا",
+        "uz": "xo'p"
+      },
+      {
+        "ar": "يَا أَبِي",
+        "uz": "dada"
+      }
+    ],
+    "full_uz": "Xo'p, dada.",
+    "note": null
+  },
+  {
+    "num": 10,
+    "time": "00:02:24,800 --> 00:02:26,820",
+    "arabic": "أَوَّلًا سَأَصْنَعُ وَصْفَتِي السِّرِّيَّةَ",
+    "segs": [
+      {
+        "ar": "أَوَّلًا",
+        "uz": "avval"
+      },
+      {
+        "ar": "سَأَصْنَعُ",
+        "uz": "tayyorlayman"
+      },
+      {
+        "ar": "وَصْفَتِي السِّرِّيَّةَ",
+        "uz": "maxfiy retseptimni"
+      }
+    ],
+    "full_uz": "Avval maxfiy retseptimni tayyorlayman.",
+    "note": "وَصْفَةٌ — retsept."
+  },
+  {
+    "num": 11,
+    "time": "00:01:06,840 --> 00:01:11,560",
+    "arabic": "سَنَبْدَأُ بِقَلِيلٍ مِنَ الْفَحْمِ",
+    "segs": [
+      {
+        "ar": "سَنَبْدَأُ",
+        "uz": "boshlaymiz"
+      },
+      {
+        "ar": "بِقَلِيلٍ",
+        "uz": "ozgina"
+      },
+      {
+        "ar": "مِنَ الْفَحْمِ",
+        "uz": "ko'mirdan"
+      }
+    ],
+    "full_uz": "Ozgina ko'mirdan boshlaymiz.",
+    "note": "الْفَحْمُ — ko'mir."
+  },
+  {
+    "num": 12,
+    "time": "00:01:11,560 --> 00:01:13,239",
+    "arabic": "الْبَيْضُ",
+    "segs": [
+      {
+        "ar": "الْبَيْضُ",
+        "uz": "tuxum"
+      }
+    ],
+    "full_uz": "Tuxum.",
+    "note": null
+  },
+  {
+    "num": 13,
+    "time": "00:01:13,239 --> 00:01:15,219",
+    "arabic": "وَقَلِيلٌ مِنَ الْخُبْزِ",
+    "segs": [
+      {
+        "ar": "وَقَلِيلٌ",
+        "uz": "va ozgina"
+      },
+      {
+        "ar": "مِنَ الْخُبْزِ",
+        "uz": "non"
+      }
+    ],
+    "full_uz": "Va ozgina non.",
+    "note": null
+  },
+  {
+    "num": 14,
+    "time": "00:01:15,219 --> 00:01:18,640",
+    "arabic": "وَالزُّبْدَةُ، وَأَخِيرًا رَغْوَةُ الْحِلَاقَةِ",
+    "segs": [
+      {
+        "ar": "وَالزُّبْدَةُ",
+        "uz": "va sariyog'"
+      },
+      {
+        "ar": "وَأَخِيرًا",
+        "uz": "va nihoyat"
+      },
+      {
+        "ar": "رَغْوَةُ الْحِلَاقَةِ",
+        "uz": "soqol olish ko'pigi"
+      }
+    ],
+    "full_uz": "Va sariyog', nihoyat soqol olish ko'pigi.",
+    "note": "رَغْوَةٌ — ko'pik."
+  },
+  {
+    "num": 15,
+    "time": "00:01:18,640 --> 00:01:22,879",
+    "arabic": "سَأُضِيفُ قَلِيلًا مِنْهَا",
+    "segs": [
+      {
+        "ar": "سَأُضِيفُ",
+        "uz": "qo'shaman"
+      },
+      {
+        "ar": "قَلِيلًا",
+        "uz": "ozgina"
+      },
+      {
+        "ar": "مِنْهَا",
+        "uz": "undan"
+      }
+    ],
+    "full_uz": "Undan ozgina qo'shaman.",
+    "note": "أَضَافَ — qo'shmoq."
+  },
+  {
+    "num": 16,
+    "time": "00:02:28,140 --> 00:02:30,480",
+    "arabic": "تْشُو سَاكَا، لَا تَخَافِي يَا صَغِيرَتِي",
+    "segs": [
+      {
+        "ar": "تْشُو سَاكَا",
+        "uz": "Chu Saka"
+      },
+      {
+        "ar": "لَا تَخَافِي",
+        "uz": "qo'rqma"
+      },
+      {
+        "ar": "يَا صَغِيرَتِي",
+        "uz": "kichkintoyim"
+      }
+    ],
+    "full_uz": "Chu Saka, qo'rqma, kichkintoyim.",
+    "note": null
+  },
+  {
+    "num": 17,
+    "time": "00:01:27,079 --> 00:01:29,039",
+    "arabic": "اشْرَبِي يَا صَغِيرَتِي",
+    "segs": [
+      {
+        "ar": "اشْرَبِي",
+        "uz": "ich"
+      },
+      {
+        "ar": "يَا صَغِيرَتِي",
+        "uz": "kichkintoyim"
+      }
+    ],
+    "full_uz": "Ich, kichkintoyim.",
+    "note": null
+  },
+  {
+    "num": 18,
+    "time": "00:02:34,140 --> 00:02:36,220",
+    "arabic": "لَا تَخَافِي، سَيَزْدَادُ حَجْمُكِ عَشَرَةَ أَضْعَافٍ",
+    "segs": [
+      {
+        "ar": "لَا تَخَافِي",
+        "uz": "qo'rqma"
+      },
+      {
+        "ar": "سَيَزْدَادُ",
+        "uz": "ortadi"
+      },
+      {
+        "ar": "حَجْمُكِ",
+        "uz": "hajming"
+      },
+      {
+        "ar": "عَشَرَةَ أَضْعَافٍ",
+        "uz": "o'n baravar"
+      }
+    ],
+    "full_uz": "Qo'rqma, hajming o'n baravar kattalashadi.",
+    "note": "ضِعْفٌ — baravar."
+  },
+  {
+    "num": 19,
+    "time": "00:01:33,039 --> 00:01:35,039",
+    "arabic": "مَاذَا؟ أَلَيْسَتْ لَذِيذَةً؟",
+    "segs": [
+      {
+        "ar": "مَاذَا",
+        "uz": "nima"
+      },
+      {
+        "ar": "أَلَيْسَتْ",
+        "uz": "emasmi"
+      },
+      {
+        "ar": "لَذِيذَةً",
+        "uz": "mazali"
+      }
+    ],
+    "full_uz": "Nima? Mazali emasmi?",
+    "note": "لَذِيذٌ — mazali."
+  },
+  {
+    "num": 20,
+    "time": "00:02:43,100 --> 00:02:45,060",
+    "arabic": "وَجَدْتُهَا! نَسِيتُ أَنْ أُحَرِّكَهَا",
+    "segs": [
+      {
+        "ar": "وَجَدْتُهَا",
+        "uz": "topdim"
+      },
+      {
+        "ar": "نَسِيتُ",
+        "uz": "unutdim"
+      },
+      {
+        "ar": "أَنْ أُحَرِّكَهَا",
+        "uz": "uni aralashtirishni"
+      }
+    ],
+    "full_uz": "Topdim! Uni aralashtirishni unutibman.",
+    "note": "حَرَّكَ — aralashtirmoq, harakatlantirmoq."
+  },
+  {
+    "num": 21,
+    "time": "00:02:52,700 --> 00:02:56,440",
+    "arabic": "هَذَا الْخَلَّاطُ فَوْقَ الصَّوْتِيِّ مُنَاسِبٌ",
+    "segs": [
+      {
+        "ar": "هَذَا",
+        "uz": "bu"
+      },
+      {
+        "ar": "الْخَلَّاطُ",
+        "uz": "aralashtirgich"
+      },
+      {
+        "ar": "فَوْقَ الصَّوْتِيِّ",
+        "uz": "ultratovushli"
+      },
+      {
+        "ar": "مُنَاسِبٌ",
+        "uz": "mos"
+      }
+    ],
+    "full_uz": "Bu ultratovushli aralashtirgich juda mos.",
+    "note": "خَلَّاطٌ — aralashtirgich."
+  },
+  {
+    "num": 22,
+    "time": "00:01:43,219 --> 00:01:47,739",
+    "arabic": "وَلَكِنْ يَا تُومُ، لَا يَجُوزُ أَنْ تَسْتَعْمِلَ مَا لَيْسَ لَكَ",
+    "segs": [
+      {
+        "ar": "وَلَكِنْ",
+        "uz": "ammo"
+      },
+      {
+        "ar": "يَا تُومُ",
+        "uz": "Tom"
+      },
+      {
+        "ar": "لَا يَجُوزُ",
+        "uz": "mumkin emas"
+      },
+      {
+        "ar": "أَنْ تَسْتَعْمِلَ",
+        "uz": "foydalanishing"
+      },
+      {
+        "ar": "مَا لَيْسَ لَكَ",
+        "uz": "senga tegishli bo'lmagan narsadan"
+      }
+    ],
+    "full_uz": "Ammo, Tom, senga tegishli bo'lmagan narsadan foydalanish mumkin emas.",
+    "note": "يَجُوزُ — mumkin bo'lmoq."
+  },
+  {
+    "num": 23,
+    "time": "00:01:47,739 --> 00:01:49,299",
+    "arabic": "إِنَّهَا فُرْشَاةُ وَالِدِكَ",
+    "segs": [
+      {
+        "ar": "إِنَّهَا",
+        "uz": "u"
+      },
+      {
+        "ar": "فُرْشَاةُ",
+        "uz": "cho'tkasi"
+      },
+      {
+        "ar": "وَالِدِكَ",
+        "uz": "otangning"
+      }
+    ],
+    "full_uz": "Bu otangning tish cho'tkasi.",
+    "note": null
+  },
+  {
+    "num": 24,
+    "time": "00:01:49,299 --> 00:01:55,519",
+    "arabic": "تَوَقَّفْ عَنْ هَذَا",
+    "segs": [
+      {
+        "ar": "تَوَقَّفْ",
+        "uz": "to'xta"
+      },
+      {
+        "ar": "عَنْ هَذَا",
+        "uz": "buni qilishdan"
+      }
+    ],
+    "full_uz": "Buni bas qil.",
+    "note": null
+  },
+  {
+    "num": 25,
+    "time": "00:01:55,519 --> 00:01:57,500",
+    "arabic": "أَنْتَ تَتَصَرَّفُ بِتَهَوُّرٍ",
+    "segs": [
+      {
+        "ar": "أَنْتَ",
+        "uz": "sen"
+      },
+      {
+        "ar": "تَتَصَرَّفُ",
+        "uz": "o'zingni tutyapsan"
+      },
+      {
+        "ar": "بِتَهَوُّرٍ",
+        "uz": "o'ylamay, shoshqaloqlik bilan"
+      }
+    ],
+    "full_uz": "Sen o'ylamay ish qilyapsan.",
+    "note": "تَهَوُّرٌ — o'ylamasdan tavakkal qilish."
+  },
+  {
+    "num": 26,
+    "time": "00:01:57,500 --> 00:02:14,120",
+    "arabic": "أَنْتَ قُلْتَهَا",
+    "segs": [
+      {
+        "ar": "أَنْتَ",
+        "uz": "o'zing"
+      },
+      {
+        "ar": "قُلْتَهَا",
+        "uz": "shuni aytding"
+      }
+    ],
+    "full_uz": "Buni o'zing aytding.",
+    "note": null
+  },
+  {
+    "num": 27,
+    "time": "00:02:14,120 --> 00:02:17,259",
+    "arabic": "أَنْتَ يَا تُومُ فَتًى كَبِيرٌ",
+    "segs": [
+      {
+        "ar": "أَنْتَ",
+        "uz": "sen"
+      },
+      {
+        "ar": "يَا تُومُ",
+        "uz": "Tom"
+      },
+      {
+        "ar": "فَتًى كَبِيرٌ",
+        "uz": "katta yigitsan"
+      }
+    ],
+    "full_uz": "Sen endi katta yigitsan, Tom.",
+    "note": null
+  },
+  {
+    "num": 28,
+    "time": "00:02:17,259 --> 00:02:18,879",
+    "arabic": "بِعَقْلٍ كَعَقْلِ نُولِك",
+    "segs": [
+      {
+        "ar": "بِعَقْلٍ",
+        "uz": "aql bilan"
+      },
+      {
+        "ar": "كَعَقْلِ نُولِك",
+        "uz": "Nolikning aqlidek"
+      }
+    ],
+    "full_uz": "Noliknikidek aql bilan.",
+    "note": null
+  },
+  {
+    "num": 29,
+    "time": "00:02:18,879 --> 00:02:19,879",
+    "arabic": "شُكْرًا",
+    "segs": [
+      {
+        "ar": "شُكْرًا",
+        "uz": "rahmat"
+      }
+    ],
+    "full_uz": "Rahmat.",
+    "note": null
+  },
+  {
+    "num": 30,
+    "time": "00:02:19,879 --> 00:02:24,799",
+    "arabic": "أَعِدِ الْفُرْشَاةَ إِلَى مَكَانِهَا، وَتَظَاهَرْ بِأَنَّكَ لَمْ تَلْمَسْهَا",
+    "segs": [
+      {
+        "ar": "أَعِدِ الْفُرْشَاةَ",
+        "uz": "cho'tkani qaytar"
+      },
+      {
+        "ar": "إِلَى مَكَانِهَا",
+        "uz": "o'z joyiga"
+      },
+      {
+        "ar": "وَتَظَاهَرْ",
+        "uz": "va o'zingni ko'rsat"
+      },
+      {
+        "ar": "بِأَنَّكَ",
+        "uz": "go'yo sen"
+      },
+      {
+        "ar": "لَمْ تَلْمَسْهَا",
+        "uz": "unga tegmagandek"
+      }
+    ],
+    "full_uz": "Cho'tkani o'z joyiga qo'y va unga umuman tegmagandek tut.",
+    "note": "تَظَاهَرَ — o'zini ko'rsatmoq, go'yo qilmoq."
+  },
+  {
+    "num": 31,
+    "time": "00:03:13,800 --> 00:03:23,700",
+    "arabic": "لَا، هَذَا غَيْرُ لَائِقٍ",
+    "segs": [
+      {
+        "ar": "لَا",
+        "uz": "yo'q"
+      },
+      {
+        "ar": "هَذَا",
+        "uz": "bu"
+      },
+      {
+        "ar": "غَيْرُ لَائِقٍ",
+        "uz": "to'g'ri emas"
+      }
+    ],
+    "full_uz": "Yo'q, bu to'g'ri emas.",
+    "note": "لَائِقٌ — munosib, to'g'ri."
+  },
+  {
+    "num": 32,
+    "time": "00:03:23,970 --> 00:03:28,060",
+    "arabic": "هَيَّا يَا تُومُ، أَسْرِعْ، مَا الْأَمْرُ؟",
+    "segs": [
+      {
+        "ar": "هَيَّا",
+        "uz": "qani"
+      },
+      {
+        "ar": "يَا تُومُ",
+        "uz": "Tom"
+      },
+      {
+        "ar": "أَسْرِعْ",
+        "uz": "tezroq"
+      },
+      {
+        "ar": "مَا الْأَمْرُ",
+        "uz": "nima bo'ldi"
+      }
+    ],
+    "full_uz": "Qani, Tom, tezroq! Nima bo'ldi?",
+    "note": null
+  },
+  {
+    "num": 33,
+    "time": "00:03:28,060 --> 00:03:39,320",
+    "arabic": "انْتَهَيْتُ يَا أَبِي! سِيمْكَا، نُولِك، أَرْجُوكُمَا",
+    "segs": [
+      {
+        "ar": "انْتَهَيْتُ",
+        "uz": "tugatdim"
+      },
+      {
+        "ar": "يَا أَبِي",
+        "uz": "dada"
+      },
+      {
+        "ar": "سِيمْكَا، نُولِك",
+        "uz": "Simka, Nolik"
+      },
+      {
+        "ar": "أَرْجُوكُمَا",
+        "uz": "iltimos"
+      }
+    ],
+    "full_uz": "Tugatdim, dada! Simka, Nolik, iltimos.",
+    "note": null
+  },
+  {
+    "num": 34,
+    "time": "00:03:56,940 --> 00:04:08,280",
+    "arabic": "لَا تَفْزَعْ، أَوَّلًا عَلَيْنَا أَنْ نَعْرِفَ الْجُزْءَ الْمُعَطَّلَ فِيهَا",
+    "segs": [
+      {
+        "ar": "لَا تَفْزَعْ",
+        "uz": "vahimaga tushma"
+      },
+      {
+        "ar": "أَوَّلًا",
+        "uz": "avval"
+      },
+      {
+        "ar": "عَلَيْنَا أَنْ نَعْرِفَ",
+        "uz": "aniqlashimiz kerak"
+      },
+      {
+        "ar": "الْجُزْءَ الْمُعَطَّلَ",
+        "uz": "buzilgan qismni"
+      },
+      {
+        "ar": "فِيهَا",
+        "uz": "uning ichidagi"
+      }
+    ],
+    "full_uz": "Vahimaga tushma. Avval uning qaysi qismi buzilganini aniqlashimiz kerak.",
+    "note": "مُعَطَّلٌ — buzilgan."
+  },
+  {
+    "num": 35,
+    "time": "00:04:10,220 --> 00:04:14,540",
+    "arabic": "الْفُرْشَاةُ الْكَهْرَبَائِيَّةُ بَسِيطَةٌ جِدًّا",
+    "segs": [
+      {
+        "ar": "الْفُرْشَاةُ الْكَهْرَبَائِيَّةُ",
+        "uz": "elektr tish cho'tkasi"
+      },
+      {
+        "ar": "بَسِيطَةٌ جِدًّا",
+        "uz": "juda sodda"
+      }
+    ],
+    "full_uz": "Elektr tish cho'tkasi juda sodda tuzilgan.",
+    "note": null
+  },
+  {
+    "num": 36,
+    "time": "00:04:25,840 --> 00:04:29,800",
+    "arabic": "إِنْ كُنْتُمْ تَعْلَمُونَ أَجْزَاءَهَا الثَّلَاثَةَ",
+    "segs": [
+      {
+        "ar": "إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "uz": "agar bilsangiz"
+      },
+      {
+        "ar": "أَجْزَاءَهَا الثَّلَاثَةَ",
+        "uz": "uning uchta qismini"
+      }
+    ],
+    "full_uz": "Agar uning uchta qismini bilsangiz.",
+    "note": null
+  },
+  {
+    "num": 37,
+    "time": "00:04:57,344 --> 00:05:04,480",
+    "arabic": "الْمُدَّخَرَةُ، وَالْمُحَرِّكُ، وَجُزْءٌ ذَكِيٌّ لِنَقْلِ الْحَرَكَةِ يَصِلُ الْمُحَرِّكَ بِرَأْسِ الشُّعَيْرَاتِ",
+    "segs": [
+      {
+        "ar": "الْمُدَّخَرَةُ",
+        "uz": "batareya"
+      },
+      {
+        "ar": "وَالْمُحَرِّكُ",
+        "uz": "motor"
+      },
+      {
+        "ar": "وَجُزْءٌ ذَكِيٌّ",
+        "uz": "aqlli mexanizm"
+      },
+      {
+        "ar": "لِنَقْلِ الْحَرَكَةِ",
+        "uz": "harakatni uzatish uchun"
+      },
+      {
+        "ar": "يَصِلُ الْمُحَرِّكَ",
+        "uz": "motorni bog'laydi"
+      },
+      {
+        "ar": "بِرَأْسِ الشُّعَيْرَاتِ",
+        "uz": "cho'tka boshiga"
+      }
+    ],
+    "full_uz": "U batareya, motor va harakatni motordan cho'tka boshiga uzatuvchi aqlli mexanizmdan iborat.",
+    "note": "الْمُحَرِّكُ — motor."
+  },
+  {
+    "num": 38,
+    "time": "00:02:52,860 --> 00:02:56,620",
+    "arabic": "هَذَا هُوَ سِرُّ الْفُرْشَاةِ الْكَهْرَبَائِيَّةِ",
+    "segs": [
+      {
+        "ar": "هَذَا هُوَ",
+        "uz": "mana shu"
+      },
+      {
+        "ar": "سِرُّ",
+        "uz": "siri"
+      },
+      {
+        "ar": "الْفُرْشَاةِ الْكَهْرَبَائِيَّةِ",
+        "uz": "elektr tish cho'tkasining"
+      }
+    ],
+    "full_uz": "Mana shu elektr tish cho'tkasining siri.",
+    "note": null
+  },
+  {
+    "num": 39,
+    "time": "00:02:56,620 --> 00:03:06,560",
+    "arabic": "يَأْخُذُ الْجُزْءُ الذَّكِيُّ الدَّوَرَانَ مِنَ الْمُحَرِّكِ لِيَجْعَلَ رَأْسَ الشُّعَيْرَاتِ يَدُورُ بِسُرْعَةٍ كَبِيرَةٍ، إِلَى الْخَلْفِ وَإِلَى الْأَمَامِ وَإِلَى الْيَمِينِ وَإِلَى الْيَسَارِ",
+    "segs": [
+      {
+        "ar": "يَأْخُذُ الْجُزْءُ الذَّكِيُّ",
+        "uz": "aqlli mexanizm oladi"
+      },
+      {
+        "ar": "الدَّوَرَانَ مِنَ الْمُحَرِّكِ",
+        "uz": "motorning aylanishini"
+      },
+      {
+        "ar": "لِيَجْعَلَ",
+        "uz": "shunda"
+      },
+      {
+        "ar": "رَأْسَ الشُّعَيْرَاتِ",
+        "uz": "cho'tka boshi"
+      },
+      {
+        "ar": "يَدُورُ بِسُرْعَةٍ كَبِيرَةٍ",
+        "uz": "juda tez aylansin"
+      },
+      {
+        "ar": "إِلَى الْخَلْفِ وَإِلَى الْأَمَامِ وَإِلَى الْيَمِينِ وَإِلَى الْيَسَارِ",
+        "uz": "orqaga, oldinga, o'ngga va chapga"
+      }
+    ],
+    "full_uz": "Aqlli mexanizm motorning aylanishini olib, cho'tka boshini juda tez orqaga, oldinga, o'ngga va chapga harakatlantiradi.",
+    "note": "الدَّوَرَانُ — aylanish."
+  },
+  {
+    "num": 40,
+    "time": "00:03:06,560 --> 00:03:08,340",
+    "arabic": "وَهَكَذَا تُنَظِّفُ أَسْنَانَكُمْ",
+    "segs": [
+      {
+        "ar": "وَهَكَذَا",
+        "uz": "shu tariqa"
+      },
+      {
+        "ar": "تُنَظِّفُ",
+        "uz": "tozalaydi"
+      },
+      {
+        "ar": "أَسْنَانَكُمْ",
+        "uz": "tishlaringizni"
+      }
+    ],
+    "full_uz": "Shu tariqa tishlaringizni tozalaydi.",
+    "note": null
+  },
+  {
+    "num": 41,
+    "time": "00:05:20,740 --> 00:05:24,180",
+    "arabic": "إِذَنْ، مَاذَا سَنَفْعَلُ؟",
+    "segs": [
+      {
+        "ar": "إِذَنْ",
+        "uz": "unda"
+      },
+      {
+        "ar": "مَاذَا",
+        "uz": "nima"
+      },
+      {
+        "ar": "سَنَفْعَلُ",
+        "uz": "qilamiz"
+      }
+    ],
+    "full_uz": "Unda, nima qilamiz?",
+    "note": null
+  },
+  {
+    "num": 42,
+    "time": "00:03:12,600 --> 00:03:13,860",
+    "arabic": "إِلَيْكَ مَا سَنَفْعَلُهُ",
+    "segs": [
+      {
+        "ar": "إِلَيْكَ",
+        "uz": "mana"
+      },
+      {
+        "ar": "مَا سَنَفْعَلُهُ",
+        "uz": "qiladigan ishimiz"
+      }
+    ],
+    "full_uz": "Mana nima qilamiz.",
+    "note": null
+  },
+  {
+    "num": 43,
+    "time": "00:05:42,912 --> 00:05:44,180",
+    "arabic": "أَوَّلًا، نُخْرِجُ الْمُحَرِّكَ",
+    "segs": [
+      {
+        "ar": "أَوَّلًا",
+        "uz": "avval"
+      },
+      {
+        "ar": "نُخْرِجُ",
+        "uz": "chiqaramiz"
+      },
+      {
+        "ar": "الْمُحَرِّكَ",
+        "uz": "motorni"
+      }
+    ],
+    "full_uz": "Avval motorni chiqaramiz.",
+    "note": null
+  },
+  {
+    "num": 44,
+    "time": "00:03:16,140 --> 00:03:17,640",
+    "arabic": "ثُمَّ الْمُسَنَّنَاتُ",
+    "segs": [
+      {
+        "ar": "ثُمَّ",
+        "uz": "keyin"
+      },
+      {
+        "ar": "الْمُسَنَّنَاتُ",
+        "uz": "tishli g'ildiraklar"
+      }
+    ],
+    "full_uz": "Keyin tishli g'ildiraklarni.",
+    "note": "مُسَنَّنَاتٌ — tishli g'ildiraklar."
+  },
+  {
+    "num": 45,
+    "time": "00:03:17,640 --> 00:03:19,640",
+    "arabic": "ثُمَّ جُزْءَ نَقْلِ الْحَرَكَةِ",
+    "segs": [
+      {
+        "ar": "ثُمَّ",
+        "uz": "keyin"
+      },
+      {
+        "ar": "جُزْءَ",
+        "uz": "qismni"
+      },
+      {
+        "ar": "نَقْلِ الْحَرَكَةِ",
+        "uz": "harakat uzatish"
+      }
+    ],
+    "full_uz": "Keyin harakat uzatish qismini.",
+    "note": null
+  },
+  {
+    "num": 46,
+    "time": "00:03:19,640 --> 00:03:21,800",
+    "arabic": "وَكَمْ مِنَ الْوَقْتِ يَكْفِي لِهَذَا؟",
+    "segs": [
+      {
+        "ar": "وَكَمْ",
+        "uz": "qancha"
+      },
+      {
+        "ar": "مِنَ الْوَقْتِ",
+        "uz": "vaqt"
+      },
+      {
+        "ar": "يَكْفِي",
+        "uz": "kerak bo'ladi"
+      },
+      {
+        "ar": "لِهَذَا",
+        "uz": "bunga"
+      }
+    ],
+    "full_uz": "Bunga qancha vaqt kerak bo'ladi?",
+    "note": null
+  },
+  {
+    "num": 47,
+    "time": "00:03:21,800 --> 00:03:22,420",
+    "arabic": "سَاعَتَانِ",
+    "segs": [
+      {
+        "ar": "سَاعَتَانِ",
+        "uz": "ikki soat"
+      }
+    ],
+    "full_uz": "Ikki soat.",
+    "note": null
+  },
+  {
+    "num": 48,
+    "time": "00:03:22,420 --> 00:03:24,040",
+    "arabic": "مَاذَا؟ لَا!",
+    "segs": [
+      {
+        "ar": "مَاذَا",
+        "uz": "nima"
+      },
+      {
+        "ar": "لَا",
+        "uz": "yo'q"
+      }
+    ],
+    "full_uz": "Nima? Yo'q!",
+    "note": null
+  },
+  {
+    "num": 49,
+    "time": "00:03:24,040 --> 00:03:26,220",
+    "arabic": "هَيَّا، اسْتَمِعْ إِلَيَّ يَا تُومُ",
+    "segs": [
+      {
+        "ar": "هَيَّا",
+        "uz": "qani"
+      },
+      {
+        "ar": "اسْتَمِعْ إِلَيَّ",
+        "uz": "meni tingla"
+      },
+      {
+        "ar": "يَا تُومُ",
+        "uz": "Tom"
+      }
+    ],
+    "full_uz": "Qani, meni tingla, Tom.",
+    "note": null
+  },
+  {
+    "num": 50,
+    "time": "00:03:26,220 --> 00:03:28,260",
+    "arabic": "وَافْتَحْ لِي غِطَاءَ الْمُدَّخَرَاتِ",
+    "segs": [
+      {
+        "ar": "وَافْتَحْ",
+        "uz": "ochib ber"
+      },
+      {
+        "ar": "لِي",
+        "uz": "menga"
+      },
+      {
+        "ar": "غِطَاءَ",
+        "uz": "qopqog'ini"
+      },
+      {
+        "ar": "الْمُدَّخَرَاتِ",
+        "uz": "batareya bo'limining"
+      }
+    ],
+    "full_uz": "Menga batareya bo'limining qopqog'ini ochib ber.",
+    "note": "غِطَاءٌ — qopqoq."
+  },
+  {
+    "num": 51,
+    "time": "00:03:28,260 --> 00:03:31,760",
+    "arabic": "انْتَظِرْنِي هُنَا",
+    "segs": [
+      {
+        "ar": "انْتَظِرْنِي",
+        "uz": "meni kut"
+      },
+      {
+        "ar": "هُنَا",
+        "uz": "shu yerda"
+      }
+    ],
+    "full_uz": "Meni shu yerda kut.",
+    "note": null
+  },
+  {
+    "num": 52,
+    "time": "00:03:31,760 --> 00:03:38,620",
+    "arabic": "هَذِهِ أَسْنَانُكُمْ",
+    "segs": [
+      {
+        "ar": "هَذِهِ",
+        "uz": "mana bular"
+      },
+      {
+        "ar": "أَسْنَانُكُمْ",
+        "uz": "tishlaringiz"
+      }
+    ],
+    "full_uz": "Mana bular tishlaringiz.",
+    "note": null
+  },
+  {
+    "num": 53,
+    "time": "00:03:38,620 --> 00:03:40,580",
+    "arabic": "أَعْنِي، إِنَّهَا لَيْسَتْ أَسْنَانَكُمْ",
+    "segs": [
+      {
+        "ar": "أَعْنِي",
+        "uz": "ya'ni"
+      },
+      {
+        "ar": "إِنَّهَا",
+        "uz": "ular"
+      },
+      {
+        "ar": "لَيْسَتْ",
+        "uz": "emas"
+      },
+      {
+        "ar": "أَسْنَانَكُمْ",
+        "uz": "tishlaringiz"
+      }
+    ],
+    "full_uz": "Ya'ni, bular sizlarning tishlaringiz emas.",
+    "note": null
+  },
+  {
+    "num": 54,
+    "time": "00:03:40,580 --> 00:03:41,720",
+    "arabic": "تَعْلَمُونَ قَصْدِي",
+    "segs": [
+      {
+        "ar": "تَعْلَمُونَ",
+        "uz": "bilasizlar"
+      },
+      {
+        "ar": "قَصْدِي",
+        "uz": "nima demoqchi ekanimni"
+      }
+    ],
+    "full_uz": "Nima demoqchi ekanimni bilasizlar.",
+    "note": "قَصْدٌ — maqsad, nazarda tutilgan narsa."
+  },
+  {
+    "num": 55,
+    "time": "00:03:41,719 --> 00:03:44,000",
+    "arabic": "نَحْنُ الْآنَ نَسْتَعْمِلُ فُرْشَاةَ الْأَسْنَانِ",
+    "segs": [
+      {
+        "ar": "نَحْنُ الْآنَ",
+        "uz": "hozir biz"
+      },
+      {
+        "ar": "نَسْتَعْمِلُ",
+        "uz": "ishlatamiz"
+      },
+      {
+        "ar": "فُرْشَاةَ الْأَسْنَانِ",
+        "uz": "tish cho'tkasini"
+      }
+    ],
+    "full_uz": "Hozir biz tish cho'tkasidan foydalanamiz.",
+    "note": null
+  },
+  {
+    "num": 56,
+    "time": "00:03:44,000 --> 00:03:45,780",
+    "arabic": "وَلَكِنْ فِي الْمَاضِي الْبَعِيدِ",
+    "segs": [
+      {
+        "ar": "وَلَكِنْ",
+        "uz": "ammo"
+      },
+      {
+        "ar": "فِي الْمَاضِي الْبَعِيدِ",
+        "uz": "qadim zamonlarda"
+      }
+    ],
+    "full_uz": "Ammo qadim zamonlarda.",
+    "note": null
+  },
+  {
+    "num": 57,
+    "time": "00:03:45,780 --> 00:03:50,340",
+    "arabic": "الْمِصْرِيُّونَ الْقُدَمَاءُ اسْتَعْمَلُوا عُودَ الْأَرَاكِ لِحَكِّ أَسْنَانِهِمْ",
+    "segs": [
+      {
+        "ar": "الْمِصْرِيُّونَ الْقُدَمَاءُ",
+        "uz": "qadimgi misrliklar"
+      },
+      {
+        "ar": "اسْتَعْمَلُوا",
+        "uz": "ishlatishgan"
+      },
+      {
+        "ar": "عُودَ الْأَرَاكِ",
+        "uz": "arak novdasini"
+      },
+      {
+        "ar": "لِحَكِّ أَسْنَانِهِمْ",
+        "uz": "tishlarini tozalash uchun"
+      }
+    ],
+    "full_uz": "Qadimgi misrliklar tishlarini tozalash uchun arak novdasidan foydalanganlar.",
+    "note": "عُودُ الْأَرَاكِ — misvok."
+  },
+  {
+    "num": 58,
+    "time": "00:03:50,340 --> 00:03:54,699",
+    "arabic": "وَالْإِغْرِيقِيُّونَ كَانُوا يَحُكُّونَ أَسْنَانَهُمْ بِقِطْعَةِ قُمَاشٍ",
+    "segs": [
+      {
+        "ar": "وَالْإِغْرِيقِيُّونَ",
+        "uz": "yunonlar esa"
+      },
+      {
+        "ar": "كَانُوا يَحُكُّونَ",
+        "uz": "ishqalashardi"
+      },
+      {
+        "ar": "أَسْنَانَهُمْ",
+        "uz": "tishlarini"
+      },
+      {
+        "ar": "بِقِطْعَةِ قُمَاشٍ",
+        "uz": "bir parcha mato bilan"
+      }
+    ],
+    "full_uz": "Yunonlar esa tishlarini bir parcha mato bilan ishqalashardi.",
+    "note": null
+  },
+  {
+    "num": 59,
+    "time": "00:03:54,699 --> 00:03:59,099",
+    "arabic": "وَالفَايْكِنْغُ، حَسَنًا، لَا أَحَدَ يَعْلَمُ مَا اسْتَعْمَلُوهُ",
+    "segs": [
+      {
+        "ar": "وَالفَايْكِنْغُ",
+        "uz": "vikinglar esa"
+      },
+      {
+        "ar": "حَسَنًا",
+        "uz": "xo'sh"
+      },
+      {
+        "ar": "لَا أَحَدَ يَعْلَمُ",
+        "uz": "hech kim bilmaydi"
+      },
+      {
+        "ar": "مَا اسْتَعْمَلُوهُ",
+        "uz": "ular nimadan foydalanganini"
+      }
+    ],
+    "full_uz": "Vikinglar-chi? Xo'sh, ular nimadan foydalanganini hech kim bilmaydi.",
+    "note": null
+  },
+  {
+    "num": 60,
+    "time": "00:03:59,099 --> 00:04:04,780",
+    "arabic": "وَلَكِنْ قَبْلَ مِائَتَيْ عَامٍ أَتَى رَجُلٌ إِنْجِلِيزِيٌّ اسْمُهُ وِلْيَامُ أَدِيسْ بِفِكْرَةٍ أَفْضَلَ",
+    "segs": [
+      {
+        "ar": "وَلَكِنْ",
+        "uz": "ammo"
+      },
+      {
+        "ar": "قَبْلَ مِائَتَيْ عَامٍ",
+        "uz": "ikki yuz yil oldin"
+      },
+      {
+        "ar": "أَتَى رَجُلٌ إِنْجِلِيزِيٌّ",
+        "uz": "bir ingliz kishi chiqdi"
+      },
+      {
+        "ar": "اسْمُهُ وِلْيَامُ أَدِيسْ",
+        "uz": "uning ismi Uilyam Addis edi"
+      },
+      {
+        "ar": "بِفِكْرَةٍ أَفْضَلَ",
+        "uz": "bundan ham yaxshi g'oya bilan"
+      }
+    ],
+    "full_uz": "Ammo ikki yuz yil oldin Uilyam Addis ismli bir ingliz bundan ham yaxshi g'oyani o'ylab topdi.",
+    "note": null
+  },
+  {
+    "num": 61,
+    "time": "00:04:04,780 --> 00:04:07,240",
+    "arabic": "وَهِيَ حَفْرُ ثُقُوبٍ فِي قِطْعَةِ عَظْمٍ",
+    "segs": [
+      {
+        "ar": "وَهِيَ",
+        "uz": "u esa"
+      },
+      {
+        "ar": "حَفْرُ ثُقُوبٍ",
+        "uz": "teshiklar ochish"
+      },
+      {
+        "ar": "فِي قِطْعَةِ عَظْمٍ",
+        "uz": "bir bo'lak suyakda"
+      }
+    ],
+    "full_uz": "Uning g'oyasi bir bo'lak suyakda teshiklar ochish edi.",
+    "note": "حَفَرَ — qazimoq, teshmoq."
+  },
+  {
+    "num": 62,
+    "time": "00:04:07,240 --> 00:04:11,439",
+    "arabic": "وَأَدْخَلَ فِيهَا حُزَمًا مِنَ الشُّعَيْرَاتِ، فَحَصَلَ عَلَى فُرْشَاةِ الْأَسْنَانِ",
+    "segs": [
+      {
+        "ar": "وَأَدْخَلَ فِيهَا",
+        "uz": "va unga joylashtirdi"
+      },
+      {
+        "ar": "حُزَمًا مِنَ الشُّعَيْرَاتِ",
+        "uz": "tuk dastalarini"
+      },
+      {
+        "ar": "فَحَصَلَ عَلَى",
+        "uz": "natijada hosil qildi"
+      },
+      {
+        "ar": "فُرْشَاةِ الْأَسْنَانِ",
+        "uz": "tish cho'tkasini"
+      }
+    ],
+    "full_uz": "Unga tuk dastalarini joylashtirdi va natijada tish cho'tkasini yaratdi.",
+    "note": "حُزْمَةٌ — dasta."
+  },
+  {
+    "num": 63,
+    "time": "00:04:11,439 --> 00:04:12,840",
+    "arabic": "كَهَذِهِ",
+    "segs": [
+      {
+        "ar": "كَهَذِهِ",
+        "uz": "mana shunday"
+      }
+    ],
+    "full_uz": "Mana shunday.",
+    "note": null
+  },
+  {
+    "num": 64,
+    "time": "00:04:12,840 --> 00:04:18,199",
+    "arabic": "وَمَا عَلَيَّ أَنْ أُخْبِرَكُمْ بِهِ أَنَّ الْفِكْسِيَّ الْخَبِيرَ بِأَعْمَالِ الْإِصْلَاحِ",
+    "segs": [
+      {
+        "ar": "وَمَا عَلَيَّ",
+        "uz": "yana aytishim kerakki"
+      },
+      {
+        "ar": "أَنْ أُخْبِرَكُمْ بِهِ",
+        "uz": "sizlarga"
+      },
+      {
+        "ar": "أَنَّ الْفِكْسِيَّ",
+        "uz": "fiksiklar"
+      },
+      {
+        "ar": "الْخَبِيرَ بِأَعْمَالِ الْإِصْلَاحِ",
+        "uz": "ta'mirlash ishlarining ustalari"
+      }
+    ],
+    "full_uz": "Yana sizlarga aytishim kerakki, ta'mirlash ishlarining ustasi bo'lgan fiksiklar...",
+    "note": null
+  },
+  {
+    "num": 65,
+    "time": "00:04:18,199 --> 00:04:20,980",
+    "arabic": "هُوَ أَنْ تُنَظِّفُوا أَسْنَانَكُمْ دَائِمًا",
+    "segs": [
+      {
+        "ar": "هُوَ",
+        "uz": "shuni maslahat beradi"
+      },
+      {
+        "ar": "أَنْ تُنَظِّفُوا",
+        "uz": "tozalashingizni"
+      },
+      {
+        "ar": "أَسْنَانَكُمْ",
+        "uz": "tishlaringizni"
+      },
+      {
+        "ar": "دَائِمًا",
+        "uz": "doimo"
+      }
+    ],
+    "full_uz": "Doimo tishlaringizni tozalashingizni maslahat beradi.",
+    "note": null
+  },
+  {
+    "num": 66,
+    "time": "00:04:20,980 --> 00:04:22,300",
+    "arabic": "وَلَا سِيَّمَا بَعْدَ الطَّعَامِ",
+    "segs": [
+      {
+        "ar": "وَلَا سِيَّمَا",
+        "uz": "ayniqsa"
+      },
+      {
+        "ar": "بَعْدَ الطَّعَامِ",
+        "uz": "ovqatdan keyin"
+      }
+    ],
+    "full_uz": "Ayniqsa ovqatdan keyin.",
+    "note": null
+  },
+  {
+    "num": 67,
+    "time": "00:04:22,300 --> 00:04:26,040",
+    "arabic": "وَإِلَّا فَسَتَزُورُونَ طَبِيبَ الْأَسْنَانِ مُرْغَمِينَ",
+    "segs": [
+      {
+        "ar": "وَإِلَّا",
+        "uz": "aks holda"
+      },
+      {
+        "ar": "فَسَتَزُورُونَ",
+        "uz": "borishga majbur bo'lasizlar"
+      },
+      {
+        "ar": "طَبِيبَ الْأَسْنَانِ",
+        "uz": "tish shifokoriga"
+      },
+      {
+        "ar": "مُرْغَمِينَ",
+        "uz": "majburan"
+      }
+    ],
+    "full_uz": "Aks holda tish shifokoriga majburan borishingizga to'g'ri keladi.",
+    "note": "مُرْغَمًا — majburan."
+  },
+  {
+    "num": 68,
+    "time": "00:04:29,919 --> 00:04:31,139",
+    "arabic": "إِذَنْ، هَلْ هُنَاكَ عُطْلٌ فِي الْجُزْءِ الْآلِيِّ؟",
+    "segs": [
+      {
+        "ar": "إِذَنْ",
+        "uz": "xo'sh"
+      },
+      {
+        "ar": "هَلْ هُنَاكَ عُطْلٌ",
+        "uz": "nosozlik bormi"
+      },
+      {
+        "ar": "فِي الْجُزْءِ الْآلِيِّ",
+        "uz": "mexanik qismda"
+      }
+    ],
+    "full_uz": "Xo'sh, mexanik qismda nosozlik bormi?",
+    "note": "عُطْلٌ — nosozlik."
+  },
+  {
+    "num": 69,
+    "time": "00:04:31,139 --> 00:04:32,459",
+    "arabic": "لَا، إِنَّهُ جَيِّدٌ",
+    "segs": [
+      {
+        "ar": "لَا",
+        "uz": "yo'q"
+      },
+      {
+        "ar": "إِنَّهُ جَيِّدٌ",
+        "uz": "u yaxshi"
+      }
+    ],
+    "full_uz": "Yo'q, u yaxshi.",
+    "note": null
+  },
+  {
+    "num": 70,
+    "time": "00:04:32,459 --> 00:04:34,199",
+    "arabic": "هَلِ احْتَرَقَ الْمُحَرِّكُ؟",
+    "segs": [
+      {
+        "ar": "هَلِ",
+        "uz": "nahotki"
+      },
+      {
+        "ar": "احْتَرَقَ",
+        "uz": "kuygan bo'lsa"
+      },
+      {
+        "ar": "الْمُحَرِّكُ",
+        "uz": "motor"
+      }
+    ],
+    "full_uz": "Motor kuyganmi?",
+    "note": "احْتَرَقَ — kuyib ketmoq."
+  },
+  {
+    "num": 71,
+    "time": "00:04:34,199 --> 00:04:34,579",
+    "arabic": "لَا",
+    "segs": [
+      {
+        "ar": "لَا",
+        "uz": "yo'q"
+      }
+    ],
+    "full_uz": "Yo'q.",
+    "note": null
+  },
+  {
+    "num": 72,
+    "time": "00:04:34,579 --> 00:04:37,379",
+    "arabic": "إِذَنْ مَا الْمُشْكِلَةُ؟",
+    "segs": [
+      {
+        "ar": "إِذَنْ",
+        "uz": "unda"
+      },
+      {
+        "ar": "مَا",
+        "uz": "nima"
+      },
+      {
+        "ar": "الْمُشْكِلَةُ",
+        "uz": "muammo"
+      }
+    ],
+    "full_uz": "Unda muammo nimada?",
+    "note": null
+  },
+  {
+    "num": 73,
+    "time": "00:04:37,379 --> 00:04:38,620",
+    "arabic": "لَنْ تُصَدِّقَ يَا تُومُ",
+    "segs": [
+      {
+        "ar": "لَنْ تُصَدِّقَ",
+        "uz": "ishonmaysan"
+      },
+      {
+        "ar": "يَا تُومُ",
+        "uz": "Tom"
+      }
+    ],
+    "full_uz": "Tom, bunga ishonmaysan.",
+    "note": null
+  },
+  {
+    "num": 74,
+    "time": "00:04:38,620 --> 00:04:40,980",
+    "arabic": "لَقَدْ فَرَغَتِ الْمُدَّخَرَةُ",
+    "segs": [
+      {
+        "ar": "لَقَدْ",
+        "uz": "allaqachon"
+      },
+      {
+        "ar": "فَرَغَتِ",
+        "uz": "tugab qolgan"
+      },
+      {
+        "ar": "الْمُدَّخَرَةُ",
+        "uz": "batareya"
+      }
+    ],
+    "full_uz": "Batareya tugab qolgan ekan.",
+    "note": "فَرَغَ — tugamoq."
+  },
+  {
+    "num": 75,
+    "time": "00:04:40,980 --> 00:04:45,000",
+    "arabic": "مَاذَا؟ أَعْلَمُ مَا يَجِبُ فِعْلُهُ، سَنُبَدِّلُهَا",
+    "segs": [
+      {
+        "ar": "مَاذَا",
+        "uz": "nima"
+      },
+      {
+        "ar": "أَعْلَمُ",
+        "uz": "bilaman"
+      },
+      {
+        "ar": "مَا يَجِبُ فِعْلُهُ",
+        "uz": "nima qilish kerakligini"
+      },
+      {
+        "ar": "سَنُبَدِّلُهَا",
+        "uz": "uni almashtiramiz"
+      }
+    ],
+    "full_uz": "Nima? Nima qilish kerakligini bilaman, uni almashtiramiz.",
+    "note": "بَدَّلَ — almashtirmoq."
+  },
+  {
+    "num": 76,
+    "time": "00:04:45,000 --> 00:04:55,439",
+    "arabic": "شَغَّلَ وَالِدُكَ الْفُرْشَاةَ، كُلُّ شَيْءٍ عَلَى مَا يُرَامُ",
+    "segs": [
+      {
+        "ar": "شَغَّلَ",
+        "uz": "yoqdi"
+      },
+      {
+        "ar": "وَالِدُكَ",
+        "uz": "otang"
+      },
+      {
+        "ar": "الْفُرْشَاةَ",
+        "uz": "tish cho'tkasini"
+      },
+      {
+        "ar": "كُلُّ شَيْءٍ",
+        "uz": "hamma narsa"
+      },
+      {
+        "ar": "عَلَى مَا يُرَامُ",
+        "uz": "joyida"
+      }
+    ],
+    "full_uz": "Otang tish cho'tkasini yoqdi, hammasi joyida.",
+    "note": "عَلَى مَا يُرَامُ — hammasi joyida."
+  },
+  {
+    "num": 77,
+    "time": "00:04:55,439 --> 00:04:57,300",
+    "arabic": "إِنَّهَا تَعْمَلُ",
+    "segs": [
+      {
+        "ar": "إِنَّهَا",
+        "uz": "u"
+      },
+      {
+        "ar": "تَعْمَلُ",
+        "uz": "ishlayapti"
+      }
+    ],
+    "full_uz": "U ishlayapti.",
+    "note": null
+  },
+  {
+    "num": 78,
+    "time": "00:04:57,300 --> 00:04:59,819",
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "segs": [
+      {
+        "ar": "الْحَمْدُ لِلَّهِ",
+        "uz": "Xudoga shukur"
+      }
+    ],
+    "full_uz": "Xudoga shukur.",
+    "note": null
+  },
+  {
+    "num": 79,
+    "time": "00:04:59,819 --> 00:05:03,980",
+    "arabic": "مُمْتَازٌ، وَلَنْ يَكْتَشِفَ وَالِدُكَ الْقَذَارَةَ الَّتِي خَلَطَهَا بِفُرْشَاتِهِ",
+    "segs": [
+      {
+        "ar": "مُمْتَازٌ",
+        "uz": "ajoyib"
+      },
+      {
+        "ar": "وَلَنْ يَكْتَشِفَ",
+        "uz": "va bilib qolmaydi"
+      },
+      {
+        "ar": "وَالِدُكَ",
+        "uz": "otang"
+      },
+      {
+        "ar": "الْقَذَارَةَ",
+        "uz": "iflos aralashmani"
+      },
+      {
+        "ar": "الَّتِي خَلَطَهَا",
+        "uz": "u aralashtirgan"
+      },
+      {
+        "ar": "بِفُرْشَاتِهِ",
+        "uz": "o'z cho'tkasiga"
+      }
+    ],
+    "full_uz": "Ajoyib! Endi otang cho'tkasiga aralashtirilgan iflos narsani bilib qolmaydi.",
+    "note": "الْقَذَارَةُ — ifloslik."
+  },
+  {
+    "num": 80,
+    "time": "00:05:04,759 --> 00:05:09,319",
+    "arabic": "أَيُّ قَذَارَةٍ؟",
+    "segs": [
+      {
+        "ar": "أَيُّ",
+        "uz": "qanaqa"
+      },
+      {
+        "ar": "قَذَارَةٍ",
+        "uz": "ifloslik"
+      }
+    ],
+    "full_uz": "Qanaqa ifloslik?",
+    "note": null
+  },
+  {
+    "num": 81,
+    "time": "00:05:10,980 --> 00:05:16,600",
+    "arabic": "كَيْفَ تَجْرُؤُ يَا نُولِكُ؟ كَيْفَ تَصِفُ إِكْسِيرِيَ الْمُمَيَّزَ بِالْقَذَارَةِ؟",
+    "segs": [
+      {
+        "ar": "كَيْفَ تَجْرُؤُ",
+        "uz": "qanday jur'at etasan"
+      },
+      {
+        "ar": "يَا نُولِكُ",
+        "uz": "Nolik"
+      },
+      {
+        "ar": "كَيْفَ تَصِفُ",
+        "uz": "qanday qilib ataysan"
+      },
+      {
+        "ar": "إِكْسِيرِيَ الْمُمَيَّزَ",
+        "uz": "mening ajoyib iksirimni"
+      },
+      {
+        "ar": "بِالْقَذَارَةِ",
+        "uz": "ifloslik deb"
+      }
+    ],
+    "full_uz": "Nolik, qanday jur'at etasan? Mening ajoyib iksirimni qanday qilib ifloslik deb ataysan?",
+    "note": "جَرُؤَ — jur'at qilmoq."
+  },
+  {
+    "num": 82,
+    "time": "00:05:16,600 --> 00:05:19,460",
+    "arabic": "تُومُ، يَبْدُو أَنَّ الصَّابُونَ عَالِقٌ بِفُرْشَاتِي",
+    "segs": [
+      {
+        "ar": "تُومُ",
+        "uz": "Tom"
+      },
+      {
+        "ar": "يَبْدُو أَنَّ",
+        "uz": "shekilli"
+      },
+      {
+        "ar": "الصَّابُونَ",
+        "uz": "sovun"
+      },
+      {
+        "ar": "عَالِقٌ",
+        "uz": "yopishib qolgan"
+      },
+      {
+        "ar": "بِفُرْشَاتِي",
+        "uz": "cho'tkamga"
+      }
+    ],
+    "full_uz": "Tom, shekilli cho'tkamga sovun yopishib qolibdi.",
+    "note": "عَالِقٌ — yopishib qolgan."
+  },
+  {
+    "num": 83,
+    "time": "00:05:19,460 --> 00:05:20,980",
+    "arabic": "هَلْ لَدَيْكَ تَفْسِيرٌ؟",
+    "segs": [
+      {
+        "ar": "هَلْ",
+        "uz": "buning"
+      },
+      {
+        "ar": "لَدَيْكَ",
+        "uz": "senda"
+      },
+      {
+        "ar": "تَفْسِيرٌ",
+        "uz": "izohi bormi"
+      }
+    ],
+    "full_uz": "Bunga izohing bormi?",
+    "note": "تَفْسِيرٌ — izoh, tushuntirish."
+  },
+  {
+    "num": 84,
+    "time": "00:05:22,640 --> 00:05:24,280",
+    "arabic": "إِذَنْ، لَا تَعْرِفُ",
+    "segs": [
+      {
+        "ar": "إِذَنْ",
+        "uz": "demak"
+      },
+      {
+        "ar": "لَا تَعْرِفُ",
+        "uz": "bilmaysan"
+      }
+    ],
+    "full_uz": "Demak, bilmaysan.",
+    "note": null
+  },
+  {
+    "num": 85,
+    "time": "00:05:24,280 --> 00:05:28,660",
+    "arabic": "حَسَنًا، لَقَدْ كُشِفَ أَمْرُكَ",
+    "segs": [
+      {
+        "ar": "حَسَنًا",
+        "uz": "xo'sh"
+      },
+      {
+        "ar": "لَقَدْ",
+        "uz": "endi"
+      },
+      {
+        "ar": "كُشِفَ",
+        "uz": "oshkor bo'ldi"
+      },
+      {
+        "ar": "أَمْرُكَ",
+        "uz": "ishing"
+      }
+    ],
+    "full_uz": "Xo'sh, endi ishing fosh bo'ldi.",
+    "note": "كُشِفَ أَمْرُهُ — siri ochilmoq, fosh bo'lmoq."
+  },
+  {
+    "num": 86,
+    "time": "00:05:28,660 --> 00:05:29,980",
+    "arabic": "مَا قَوْلُكَ الْآنَ؟",
+    "segs": [
+      {
+        "ar": "مَا",
+        "uz": "nima"
+      },
+      {
+        "ar": "قَوْلُكَ",
+        "uz": "deysan"
+      },
+      {
+        "ar": "الْآنَ",
+        "uz": "endi"
+      }
+    ],
+    "full_uz": "Endi nima deysan?",
+    "note": null
+  }
+];
+
+if (typeof module !== "undefined" && module.exports) {
+    module.exports = lessons;
+}

@@ -1,0 +1,685 @@
+const lessons = [
+  {
+    "num": 1,
+    "time": "00:00:34,040 --> 00:00:41,280",
+    "arabic": "الرَّسَائِلُ النَّصِّيَّةُ",
+    "segs": null,
+    "full_uz": "SMS xabarlar.",
+    "note": null
+  },
+  {
+    "num": 2,
+    "time": "00:00:41,280 --> 00:00:43,640",
+    "arabic": "هَيَّا لَا أَحَدَ هُنَا",
+    "segs": null,
+    "full_uz": "Qani, bu yerda hech kim yo'q.",
+    "note": null
+  },
+  {
+    "num": 3,
+    "time": "00:00:43,640 --> 00:00:46,439",
+    "arabic": "آهْ انْظُرِي هَاتِفًا مَحْمُولًا",
+    "segs": null,
+    "full_uz": "Voy, qara, mobil telefon bor.",
+    "note": null
+  },
+  {
+    "num": 4,
+    "time": "00:00:46,439 --> 00:00:49,000",
+    "arabic": "أَتَظُنُّ أَنَّهُ هَاتِفُ تُومْ الْجَدِيدُ؟",
+    "segs": null,
+    "full_uz": "Sen bu Tomning yangi telefoni deb o'ylaysanmi?",
+    "note": null
+  },
+  {
+    "num": 5,
+    "time": "00:00:50,719 --> 00:00:53,140",
+    "arabic": "نُولِيكْ تَوَقَّفْ",
+    "segs": null,
+    "full_uz": "Nolik, to'xta.",
+    "note": null
+  },
+  {
+    "num": 6,
+    "time": "00:00:53,140 --> 00:00:54,780",
+    "arabic": "رَائِعٌ",
+    "segs": null,
+    "full_uz": "Ajoyib.",
+    "note": null
+  },
+  {
+    "num": 7,
+    "time": "00:00:54,780 --> 00:00:58,039",
+    "arabic": "اسْتَدِلَّ",
+    "segs": null,
+    "full_uz": "Yo'lni top.",
+    "note": null
+  },
+  {
+    "num": 8,
+    "time": "00:01:00,000 --> 00:01:06,459",
+    "arabic": "هَيَّا يَا تُومْ، سَاعِدْنَا بِسُرْعَةٍ",
+    "segs": [
+      { "ar": "هَيَّا يَا تُومْ", "uz": "qani, Tom" },
+      { "ar": "سَاعِدْنَا بِسُرْعَةٍ", "uz": "bizga tezroq yordam ber" }
+    ],
+    "full_uz": "Qani, Tom, bizga tezroq yordam ber.",
+    "note": null
+  },
+  {
+    "num": 9,
+    "time": "00:01:06,459 --> 00:01:08,879",
+    "arabic": "نُحَاوِلُ إِنْقَاذَ هَاتِفِكَ",
+    "segs": null,
+    "full_uz": "Telefoningni qutqarishga harakat qilyapmiz.",
+    "note": null
+  },
+  {
+    "num": 10,
+    "time": "00:01:08,879 --> 00:01:10,219",
+    "arabic": "هَذَا لَيْسَ لِي",
+    "segs": null,
+    "full_uz": "Bu meniki emas.",
+    "note": null
+  },
+  {
+    "num": 11,
+    "time": "00:01:10,219 --> 00:01:12,620",
+    "arabic": "آهْ، كَاتْيَا نَسِيَتْهُ",
+    "segs": null,
+    "full_uz": "Voy, Katya uni unutib qoldiribdi.",
+    "note": null
+  },
+  {
+    "num": 12,
+    "time": "00:01:12,620 --> 00:01:16,579",
+    "arabic": "كَاتْيَا، كَاتْيَا",
+    "segs": null,
+    "full_uz": "Katya, Katya!",
+    "note": null
+  },
+  {
+    "num": 13,
+    "time": "00:01:16,579 --> 00:01:20,439",
+    "arabic": "فَاتَ الْأَوَانُ ذَهَبَتْ",
+    "segs": [
+      { "ar": "فَاتَ الْأَوَانُ", "uz": "vaqt o'tib ketdi" },
+      { "ar": "ذَهَبَتْ", "uz": "u ketib qoldi" }
+    ],
+    "full_uz": "Vaqt o'tib ketdi, u ketib qoldi.",
+    "note": null
+  },
+  {
+    "num": 14,
+    "time": "00:01:20,439 --> 00:01:23,939",
+    "arabic": "آهْ، إِنَّهَا رِسَالَةٌ نَصِّيَّةٌ",
+    "segs": null,
+    "full_uz": "Voy, bu SMS xabar ekan.",
+    "note": null
+  },
+  {
+    "num": 15,
+    "time": "00:01:23,939 --> 00:01:25,859",
+    "arabic": "لَنْ تَقْرَأَهَا، أَلَيْسَ كَذَلِكَ؟",
+    "segs": null,
+    "full_uz": "Sen buni o'qimaysan, shundaymi?",
+    "note": null
+  },
+  {
+    "num": 16,
+    "time": "00:01:25,859 --> 00:01:29,240",
+    "arabic": "لَا، لَنْ نَفْعَلَ، قَدْ تَكُونُ رِسَالَةً مُهِمَّةً",
+    "segs": [
+      { "ar": "لَا، لَنْ نَفْعَلَ", "uz": "yo'q, qilmaymiz" },
+      { "ar": "قَدْ تَكُونُ رِسَالَةً مُهِمَّةً", "uz": "u muhim xabar bo'lishi mumkin" }
+    ],
+    "full_uz": "Yo'q, qilmaymiz, u muhim xabar bo'lishi mumkin.",
+    "note": null
+  },
+  {
+    "num": 17,
+    "time": "00:01:29,239 --> 00:01:33,119",
+    "arabic": "إِيَّاكَ يَا تُومْ وَأَنْ تَتَجَرَّأَ وَتَقْرَأَ رَسَائِلَهَا",
+    "segs": null,
+    "full_uz": "Tom, uning xabarlarini o'qishga jur'at etma-ya.",
+    "note": null
+  },
+  {
+    "num": 18,
+    "time": "00:01:33,119 --> 00:01:35,479",
+    "arabic": "هَذَا مُثِيرٌ لِلِاهْتِمَامِ",
+    "segs": null,
+    "full_uz": "Bu juda qiziqarli.",
+    "note": null
+  },
+  {
+    "num": 19,
+    "time": "00:01:35,479 --> 00:01:38,199",
+    "arabic": "انْظُرَا لَدَيْهَا رَسَائِلُ كَثِيرَةٌ",
+    "segs": null,
+    "full_uz": "Qaranglar, unda ko'p xabarlar bor.",
+    "note": null
+  },
+  {
+    "num": 20,
+    "time": "00:01:38,199 --> 00:01:41,899",
+    "arabic": "حَسَنًا نُولِيكْ اذْهَبْ وَشَتِّتْ انْتِبَاهَهُ عَنِ الْهَاتِفِ",
+    "segs": [
+      { "ar": "حَسَنًا نُولِيكْ", "uz": "xo'p, Nolik" },
+      { "ar": "اذْهَبْ وَشَتِّتْ انْتِبَاهَهُ عَنِ الْهَاتِفِ", "uz": "borib uning diqqatini telefondan chalg'it" }
+    ],
+    "full_uz": "Xo'p, Nolik, borib uning diqqatini telefondan chalg'it.",
+    "note": null
+  },
+  {
+    "num": 21,
+    "time": "00:01:41,899 --> 00:01:42,379",
+    "arabic": "آهْ",
+    "segs": null,
+    "full_uz": "Voy.",
+    "note": null
+  },
+  {
+    "num": 22,
+    "time": "00:01:42,379 --> 00:01:54,879",
+    "arabic": "شُوسَاكَا أَنْتِ، هَذَا أَنَا نُولِيكْ",
+    "segs": [
+      { "ar": "شُوسَاكَا أَنْتِ", "uz": "Shu-saka, sen" },
+      { "ar": "هَذَا أَنَا نُولِيكْ", "uz": "bu men, Nolikman" }
+    ],
+    "full_uz": "Shu-saka, sen, bu men, Nolikman.",
+    "note": null
+  },
+  {
+    "num": 23,
+    "time": "00:01:54,879 --> 00:02:03,299",
+    "arabic": "مَرْحَبًا",
+    "segs": null,
+    "full_uz": "Salom!",
+    "note": null
+  },
+  {
+    "num": 24,
+    "time": "00:02:03,299 --> 00:02:06,699",
+    "arabic": "سَاعِدُونِي",
+    "segs": null,
+    "full_uz": "Yordam bering!",
+    "note": null
+  },
+  {
+    "num": 25,
+    "time": "00:02:06,699 --> 00:02:11,519",
+    "arabic": "شُوسَاكَا تَوَقَّفِي",
+    "segs": null,
+    "full_uz": "Shu-saka, to'xta.",
+    "note": null
+  },
+  {
+    "num": 26,
+    "time": "00:02:11,519 --> 00:02:18,439",
+    "arabic": "تَوَقَّفِي كَفَى نُبَاحًا",
+    "segs": [
+      { "ar": "تَوَقَّفِي", "uz": "to'xta" },
+      { "ar": "كَفَى نُبَاحًا", "uz": "vovullashing yetar" }
+    ],
+    "full_uz": "To'xta, vovullashing yetar.",
+    "note": null
+  },
+  {
+    "num": 27,
+    "time": "00:02:18,439 --> 00:02:20,439",
+    "arabic": "اخْرُجِي مِنَ الْغُرْفَةِ الْآنَ",
+    "segs": null,
+    "full_uz": "Hozir xonadan chiq.",
+    "note": null
+  },
+  {
+    "num": 28,
+    "time": "00:02:24,879 --> 00:02:37,900",
+    "arabic": "انْتَهَيْنَا لَنْ يَعْمَلَ",
+    "segs": [
+      { "ar": "انْتَهَيْنَا", "uz": "tugadik" },
+      { "ar": "لَنْ يَعْمَلَ", "uz": "ishlamaydi" }
+    ],
+    "full_uz": "Tugadik, ishlamaydi.",
+    "note": null
+  },
+  {
+    "num": 29,
+    "time": "00:02:37,900 --> 00:02:45,639",
+    "arabic": "الْآنَ، أُوهْ، مَاذَا حَدَثَ؟ لَقَدْ تَوَقَّفَ فَجْأَةً",
+    "segs": [
+      { "ar": "الْآنَ، أُوهْ، مَاذَا حَدَثَ", "uz": "hozir... voy, nima bo'ldi" },
+      { "ar": "لَقَدْ تَوَقَّفَ فَجْأَةً", "uz": "to'satdan to'xtab qoldi" }
+    ],
+    "full_uz": "Hozir... voy, nima bo'ldi? To'satdan to'xtab qoldi.",
+    "note": null
+  },
+  {
+    "num": 30,
+    "time": "00:02:45,639 --> 00:02:48,460",
+    "arabic": "اوه يَبْدُو أَنَّكَ خَرَّبْتَهُ يَا تُومْ",
+    "segs": null,
+    "full_uz": "Voy, shekilli, uni buzib qo'yding, Tom.",
+    "note": null
+  },
+  {
+    "num": 31,
+    "time": "00:02:48,460 --> 00:02:50,560",
+    "arabic": "مَاذَا مُسْتَحِيلٌ",
+    "segs": [
+      { "ar": "مَاذَا", "uz": "nima" },
+      { "ar": "مُسْتَحِيلٌ", "uz": "bo'lishi mumkin emas" }
+    ],
+    "full_uz": "Nima? Bo'lishi mumkin emas.",
+    "note": null
+  },
+  {
+    "num": 32,
+    "time": "00:02:50,560 --> 00:02:51,740",
+    "arabic": "بَلَى لَقَدْ فَعَلْتَ",
+    "segs": null,
+    "full_uz": "Aksincha, sen buzding.",
+    "note": null
+  },
+  {
+    "num": 33,
+    "time": "00:02:51,740 --> 00:02:55,740",
+    "arabic": "حَسَنًا يَا تُومْ، كَيْفَ سَتُعِيدُهُ إِلَى كَاتْيَا وَهُوَ مُعَطَّلٌ؟",
+    "segs": [
+      { "ar": "حَسَنًا يَا تُومْ", "uz": "xo'sh, Tom" },
+      { "ar": "كَيْفَ سَتُعِيدُهُ إِلَى كَاتْيَا وَهُوَ مُعَطَّلٌ", "uz": "buzuq holda uni Katyaga qanday qaytarasan" }
+    ],
+    "full_uz": "Xo'sh, Tom, buzuq holda uni Katyaga qanday qaytarasan?",
+    "note": null
+  },
+  {
+    "num": 34,
+    "time": "00:02:56,420 --> 00:02:57,379",
+    "arabic": "أَنَا لَا أَفْهَمُ",
+    "segs": null,
+    "full_uz": "Men tushunmayapman.",
+    "note": null
+  },
+  {
+    "num": 35,
+    "time": "00:02:57,379 --> 00:03:01,500",
+    "arabic": "هَذَا مَا يَحْدُثُ عِنْدَمَا تَقْرَأُ بَرِيدَ شَخْصٍ آخَرَ دُونَ عِلْمِهِ",
+    "segs": null,
+    "full_uz": "Boshqa birovning xatini u bilmagan holda o'qisang, shunday bo'ladi.",
+    "note": null
+  },
+  {
+    "num": 36,
+    "time": "00:03:01,500 --> 00:03:03,320",
+    "arabic": "إِنَّهَا رِسَالَةٌ وَحَسْبُ",
+    "segs": null,
+    "full_uz": "Bu shunchaki bir xabar-ku.",
+    "note": null
+  },
+  {
+    "num": 37,
+    "time": "00:03:03,320 --> 00:03:10,320",
+    "arabic": "الرِّسَالَةُ النَّصِّيَّةُ هِيَ رِسَالَةٌ عَادِيَّةٌ لَكِنَّهَا أَقْصَرُ",
+    "segs": [
+      { "ar": "الرِّسَالَةُ النَّصِّيَّةُ هِيَ رِسَالَةٌ عَادِيَّةٌ", "uz": "SMS xabar oddiy xat kabidir" },
+      { "ar": "لَكِنَّهَا أَقْصَرُ", "uz": "lekin u qisqaroq" }
+    ],
+    "full_uz": "SMS xabar oddiy xat kabidir, lekin u qisqaroq.",
+    "note": null
+  },
+  {
+    "num": 38,
+    "time": "00:03:10,320 --> 00:03:13,480",
+    "arabic": "يُرْسِلُ النَّاسُ الرَّسَائِلَ النَّصِّيَّةَ بِهَوَاتِفِهِمْ",
+    "segs": null,
+    "full_uz": "Odamlar SMS xabarlarni telefonlari orqali yuborishadi.",
+    "note": null
+  },
+  {
+    "num": 39,
+    "time": "00:03:13,480 --> 00:03:19,740",
+    "arabic": "وَلِهَذَا تُعَدُّ قِرَاءَةُ الرَّسَائِلِ عَلَى جِهَازِ شَخْصٍ آخَرَ تَصَرُّفًا غَيْرَ لَائِقٍ وَقَدْ يُزْعِجُ هَذَا الشَّخْصَ",
+    "segs": [
+      { "ar": "وَلِهَذَا تُعَدُّ قِرَاءَةُ الرَّسَائِلِ عَلَى جِهَازِ شَخْصٍ آخَرَ تَصَرُّفًا غَيْرَ لَائِقٍ", "uz": "shuning uchun boshqa birovning asbobidan xabarlarni o'qish noto'g'ri xatti-harakatdir" },
+      { "ar": "وَقَدْ يُزْعِجُ هَذَا الشَّخْصَ", "uz": "va bu o'sha odamni xafa qilishi mumkin" }
+    ],
+    "full_uz": "Shuning uchun boshqa birovning asbobidan xabarlarni o'qish noto'g'ri xatti-harakatdir va bu o'sha odamni xafa qilishi mumkin.",
+    "note": null
+  },
+  {
+    "num": 40,
+    "time": "00:03:19,740 --> 00:03:23,500",
+    "arabic": "وَلِهَذَا عِنْدَمَا نَعْمَلُ نَحْنُ الْفِيكْسِزُ دَاخِلَ الْهَوَاتِفِ",
+    "segs": null,
+    "full_uz": "Shuning uchun biz fiksiyalar telefonlar ichida ishlaganimizda,",
+    "note": null
+  },
+  {
+    "num": 41,
+    "time": "00:03:23,500 --> 00:03:26,800",
+    "arabic": "نَضَعُ دَوْمًا سَمَّاعَاتٍ عِنْدَمَا تَأْتِي مُكَالَمَةٌ",
+    "segs": null,
+    "full_uz": "qo'ng'iroq kelganda doim quloqchinlarni taqib olamiz,",
+    "note": null
+  },
+  {
+    "num": 42,
+    "time": "00:03:26,800 --> 00:03:29,780",
+    "arabic": "حَتَّى لَا نَسْمَعَ مُحَادَثَاتِ النَّاسِ الْخَاصَّةَ بِالْخَطَأِ",
+    "segs": null,
+    "full_uz": "toki odamlarning shaxsiy suhbatlarini bilmasdan eshitib qolmasligimiz uchun.",
+    "note": null
+  },
+  {
+    "num": 43,
+    "time": "00:03:29,780 --> 00:03:31,960",
+    "arabic": "وَهَذَا هُوَ التَّصَرُّفُ السَّلِيمُ",
+    "segs": null,
+    "full_uz": "Va bu to'g'ri xatti-harakat.",
+    "note": null
+  },
+  {
+    "num": 44,
+    "time": "00:03:31,960 --> 00:03:33,540",
+    "arabic": "تَذَكَّرْ ذَلِكَ دَائِمًا",
+    "segs": null,
+    "full_uz": "Buni doim eslab yur.",
+    "note": null
+  },
+  {
+    "num": 45,
+    "time": "00:03:33,540 --> 00:03:39,260",
+    "arabic": "أَعِدُكُمَا أَنَّنِي لَنْ أَقْرَأَ رَسَائِلَ أَحَدٍ آخَرَ",
+    "segs": null,
+    "full_uz": "Sizlarga va'da beraman, boshqa hech kimning xabarini o'qimayman.",
+    "note": null
+  },
+  {
+    "num": 46,
+    "time": "00:03:39,260 --> 00:03:42,240",
+    "arabic": "وَلَكِنْ هَذَا لَنْ يَجْعَلَ الْهَاتِفَ يَعْمَلُ",
+    "segs": null,
+    "full_uz": "Lekin bu telefonni ishlatib bermaydi-ku.",
+    "note": null
+  },
+  {
+    "num": 47,
+    "time": "00:03:42,240 --> 00:03:44,000",
+    "arabic": "مَاذَا؟ هَلْ نُخْبِرُهُ؟",
+    "segs": null,
+    "full_uz": "Nima? Unga aytamizmi?",
+    "note": null
+  },
+  {
+    "num": 48,
+    "time": "00:03:44,000 --> 00:03:47,060",
+    "arabic": "لَا تَقْلَقْ يَا تُومْ",
+    "segs": null,
+    "full_uz": "Xavotir olma, Tom.",
+    "note": null
+  },
+  {
+    "num": 49,
+    "time": "00:03:47,060 --> 00:03:49,560",
+    "arabic": "لِأَنَّنَا نَحْنُ مَنْ أَوْقَفَهُ",
+    "segs": null,
+    "full_uz": "Chunki uni biz to'xtatgan edik.",
+    "note": null
+  },
+  {
+    "num": 50,
+    "time": "00:03:49,560 --> 00:03:51,680",
+    "arabic": "وَالْآنَ سَنُعِيدُ تَشْغِيلَهُ",
+    "segs": null,
+    "full_uz": "Va endi uni qayta ishga tushiramiz.",
+    "note": null
+  },
+  {
+    "num": 51,
+    "time": "00:03:51,680 --> 00:04:00,479",
+    "arabic": "أَرَأَيْتَ الْأَقْطَابَ؟ لَمْ تَكُنْ مَوْصُولَةً",
+    "segs": [
+      { "ar": "أَرَأَيْتَ الْأَقْطَابَ", "uz": "kontaktlarni ko'rdingmi" },
+      { "ar": "لَمْ تَكُنْ مَوْصُولَةً", "uz": "ular ulanmagan edi" }
+    ],
+    "full_uz": "Kontaktlarni ko'rdingmi? Ular ulanmagan edi.",
+    "note": null
+  },
+  {
+    "num": 52,
+    "time": "00:04:00,479 --> 00:04:04,680",
+    "arabic": "سَنَكْتُبُ رِسَالَةً لِلْفِيكْسِزِ الْعَامِلِينَ عِنْدَ كَاتْيَا",
+    "segs": null,
+    "full_uz": "Katyada ishlaydigan fiksiylarga xabar yozamiz,",
+    "note": null
+  },
+  {
+    "num": 53,
+    "time": "00:04:04,680 --> 00:04:06,819",
+    "arabic": "وَهُمْ سَيُصْلِحُونَهَا",
+    "segs": null,
+    "full_uz": "ular esa uni tuzatishadi.",
+    "note": null
+  },
+  {
+    "num": 54,
+    "time": "00:04:06,819 --> 00:04:11,520",
+    "arabic": "فِي كُلِّ مَنْزِلٍ يَعِيشُ الْفِيكْسِزُ",
+    "segs": null,
+    "full_uz": "Har bir uyda fiksiyalar yashaydi,",
+    "note": null
+  },
+  {
+    "num": 55,
+    "time": "00:04:11,520 --> 00:04:14,259",
+    "arabic": "وَالْعَمَلُ الَّذِي يُكَلَّفُونَ بِهِ لَا يَنْتَهِي",
+    "segs": null,
+    "full_uz": "va ularga topshirilgan ish hech tugamaydi.",
+    "note": null
+  },
+  {
+    "num": 56,
+    "time": "00:04:14,259 --> 00:04:15,920",
+    "arabic": "يَبْدَأُ التِّلْفَازُ بِالتَّعَطُّلِ",
+    "segs": null,
+    "full_uz": "Televizor buzila boshlaydi,",
+    "note": null
+  },
+  {
+    "num": 57,
+    "time": "00:04:15,920 --> 00:04:17,740",
+    "arabic": "ثُمَّ يَتَوَقَّفُ جَرَسُ الْبَابِ",
+    "segs": null,
+    "full_uz": "keyin eshik qo'ng'irog'i to'xtaydi,",
+    "note": null
+  },
+  {
+    "num": 58,
+    "time": "00:04:17,740 --> 00:04:19,740",
+    "arabic": "وَالْغَسَّالَةُ تَتَوَقَّفُ عَنِ الدَّوَرَانِ",
+    "segs": null,
+    "full_uz": "kir yuvish mashinasi aylanishdan to'xtaydi,",
+    "note": null
+  },
+  {
+    "num": 59,
+    "time": "00:04:19,740 --> 00:04:21,259",
+    "arabic": "وَالْهَاتِفُ لَا يَرِنُّ",
+    "segs": null,
+    "full_uz": "telefon jiringlamay qoladi.",
+    "note": null
+  },
+  {
+    "num": 60,
+    "time": "00:04:21,259 --> 00:04:26,180",
+    "arabic": "وَفَوْقَ هَذَا كُلِّهِ هُنَاكَ التَّنْظِيفُ وَالتَّزْيِيتُ لِأَجْهِزَةِ الْمَطْبَخِ أَوْ أَلْعَابِ الْأَطْفَالِ",
+    "segs": [
+      { "ar": "وَفَوْقَ هَذَا كُلِّهِ", "uz": "bularning ustiga yana" },
+      { "ar": "هُنَاكَ التَّنْظِيفُ وَالتَّزْيِيتُ لِأَجْهِزَةِ الْمَطْبَخِ أَوْ أَلْعَابِ الْأَطْفَالِ", "uz": "oshxona asboblari yoki bolalar o'yinchoqlarini tozalash va yog'lash bor" }
+    ],
+    "full_uz": "Bularning ustiga yana oshxona asboblari yoki bolalar o'yinchoqlarini tozalash va yog'lash bor,",
+    "note": null
+  },
+  {
+    "num": 61,
+    "time": "00:04:26,180 --> 00:04:28,220",
+    "arabic": "وَكُلُّ أَنْوَاعِ الْأَشْيَاءِ الْأُخْرَى",
+    "segs": null,
+    "full_uz": "va boshqa har xil narsalar.",
+    "note": null
+  },
+  {
+    "num": 62,
+    "time": "00:04:28,220 --> 00:04:31,780",
+    "arabic": "الْبُيُوتُ الْمُعَاصِرَةُ مَمْلُوءَةٌ بِكُلِّ أَنْوَاعِ الْأَجْهِزَةِ",
+    "segs": null,
+    "full_uz": "Zamonaviy uylar har xil asboblarga to'la,",
+    "note": null
+  },
+  {
+    "num": 63,
+    "time": "00:04:31,780 --> 00:04:35,180",
+    "arabic": "وَلِهَذَا يُوَاصِلُ الْفِيكْسِزُ الْعَمَلَ طُولَ اللَّيْلِ وَالنَّهَارِ",
+    "segs": null,
+    "full_uz": "shuning uchun fiksiyalar kechayu kunduz ishlashda davom etishadi.",
+    "note": null
+  },
+  {
+    "num": 64,
+    "time": "00:04:35,180 --> 00:04:38,720",
+    "arabic": "لِسُوءِ الْحَظِّ قَدْ يَجْعَلُ هَذَا الْفِيكْسِيَّ يَنْغَمِسُ كَثِيرًا فِي الْعَمَلِ",
+    "segs": null,
+    "full_uz": "Afsuski, bu fiksiyni ishga juda ham cho'kib ketishiga sabab bo'lishi mumkin,",
+    "note": null
+  },
+  {
+    "num": 65,
+    "time": "00:04:38,720 --> 00:04:43,639",
+    "arabic": "وَيَنْسَى أَمْرَ أَقَارِبِهِ الْفِيكْسِزِ وَأَصْدِقَائِهِ الَّذِينَ يَعِيشُونَ فِي بُيُوتٍ مُجَاوِرَةٍ",
+    "segs": null,
+    "full_uz": "va u qo'shni uylarda yashaydigan qarindosh-urug'lari va do'stlarini unutib qo'yishi mumkin.",
+    "note": null
+  },
+  {
+    "num": 66,
+    "time": "00:04:43,639 --> 00:04:46,500",
+    "arabic": "وَهَذَا خَطَأٌ فَادِحٌ كَالْبَشَرِ تَمَامًا",
+    "segs": null,
+    "full_uz": "Bu esa xuddi odamlardagidek jiddiy xato.",
+    "note": null
+  },
+  {
+    "num": 67,
+    "time": "00:04:46,500 --> 00:04:50,839",
+    "arabic": "عَلَى الْفِيكْسِزِ أَنْ يَزُورَ بَعْضُهُمْ بَعْضًا بَيْنَ وَقْتٍ لِآخَرَ",
+    "segs": null,
+    "full_uz": "Fiksiyalar vaqti-vaqti bilan bir-birlarini ziyorat qilishlari kerak,",
+    "note": null
+  },
+  {
+    "num": 68,
+    "time": "00:04:50,839 --> 00:04:56,480",
+    "arabic": "وَأَنْ يُرْسِلُوا رَسَائِلَ أَوْ عَلَى الْأَقَلِّ تَحِيَّاتِهِمْ لِكَيْ يَبْقَوْا عَلَى تَوَاصُلٍ دَائِمٍ",
+    "segs": [
+      { "ar": "وَأَنْ يُرْسِلُوا رَسَائِلَ أَوْ عَلَى الْأَقَلِّ تَحِيَّاتِهِمْ", "uz": "va xabar yoki hech bo'lmasa salom yuborishlari kerak" },
+      { "ar": "لِكَيْ يَبْقَوْا عَلَى تَوَاصُلٍ دَائِمٍ", "uz": "doimiy aloqada bo'lish uchun" }
+    ],
+    "full_uz": "va xabar yoki hech bo'lmasa salom yuborishlari kerak, doimiy aloqada bo'lish uchun.",
+    "note": null
+  },
+  {
+    "num": 69,
+    "time": "00:04:56,480 --> 00:05:04,060",
+    "arabic": "هَذَا كُلُّ شَيْءٍ إِنَّهُ يَعْمَلُ ثَانِيَةً",
+    "segs": [
+      { "ar": "هَذَا كُلُّ شَيْءٍ", "uz": "mana, hammasi" },
+      { "ar": "إِنَّهُ يَعْمَلُ ثَانِيَةً", "uz": "u yana ishlayapti" }
+    ],
+    "full_uz": "Mana, hammasi, u yana ishlayapti.",
+    "note": null
+  },
+  {
+    "num": 70,
+    "time": "00:05:04,060 --> 00:05:05,100",
+    "arabic": "شُكْرًا لَكُمَا",
+    "segs": null,
+    "full_uz": "Rahmat sizlarga.",
+    "note": null
+  },
+  {
+    "num": 71,
+    "time": "00:05:05,100 --> 00:05:08,899",
+    "arabic": "سَأَتَّصِلُ بِكَاتْيَا لِإِخْبَارِهَا بِأَنَّ هَاتِفَهَا هُنَا",
+    "segs": null,
+    "full_uz": "Katyaga qo'ng'iroq qilib, telefoni bu yerda ekanini aytaman.",
+    "note": null
+  },
+  {
+    "num": 72,
+    "time": "00:05:08,899 --> 00:05:14,839",
+    "arabic": "تُومْ أَنْتَ مَنْ يَتَّصِلُ؟",
+    "segs": null,
+    "full_uz": "Tom, sen qo'ng'iroq qilyapsanmi?",
+    "note": null
+  },
+  {
+    "num": 73,
+    "time": "00:05:14,839 --> 00:05:16,599",
+    "arabic": "أَجَلْ",
+    "segs": null,
+    "full_uz": "Ha.",
+    "note": null
+  },
+  {
+    "num": 74,
+    "time": "00:05:16,599 --> 00:05:18,219",
+    "arabic": "وَبِمَا؟",
+    "segs": null,
+    "full_uz": "Nimaga qo'ng'iroq qilyapsan?",
+    "note": null
+  },
+  {
+    "num": 75,
+    "time": "00:05:18,219 --> 00:05:19,339",
+    "arabic": "بِكَاتْيَا",
+    "segs": null,
+    "full_uz": "Katyaga.",
+    "note": null
+  },
+  {
+    "num": 76,
+    "time": "00:05:19,339 --> 00:05:22,339",
+    "arabic": "وَأَيْنَ هَاتِفُهَا؟",
+    "segs": null,
+    "full_uz": "Uning telefoni qayerda?",
+    "note": null
+  },
+  {
+    "num": 77,
+    "time": "00:05:22,339 --> 00:05:32,019",
+    "arabic": "الْتِقَاطَةٌ جَيِّدَةٌ يَا تُومْ",
+    "segs": null,
+    "full_uz": "Yaxshi ushlading, Tom.",
+    "note": null
+  },
+  {
+    "num": 78,
+    "time": "00:05:32,019 --> 00:05:35,219",
+    "arabic": "أَنْتَ سَرِيعٌ جِدًّا مِثْلَ... مِثْلَ...",
+    "segs": null,
+    "full_uz": "Sen juda tezsan, xuddi... xuddi...",
+    "note": null
+  },
+  {
+    "num": 79,
+    "time": "00:05:35,219 --> 00:05:36,139",
+    "arabic": "مِثْلَ الْفِيكْسِزِ",
+    "segs": null,
+    "full_uz": "xuddi fiksiyalarga o'xshab.",
+    "note": null
+  }
+];
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}
