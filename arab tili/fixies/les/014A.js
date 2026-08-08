@@ -1,0 +1,804 @@
+const lessons = [
+    {
+  num: 1,
+  time: "00:00:46,320 --> 00:00:50,019",
+  arabic: "حَسَنًا يَا صِغَارُ، سَنَتَعَلَّمُ فِي دَرْسِ الْيَوْمِ عَنِ الْمُسَخِّنِ",
+  segs: [
+    { ar: "حَسَنًا يَا صِغَارُ", uz: "Xo'sh, bolajonlar." },
+    { ar: "سَنَتَعَلَّمُ فِي دَرْسِ الْيَوْمِ", uz: "Bugungi darsda o'rganamiz." },
+    { ar: "عَنِ الْمُسَخِّنِ", uz: "Mikroto'lqinli pech haqida." }
+  ],
+  full_uz: "Xo'sh, bolajonlar, bugungi darsda mikroto'lqinli pech haqida o'rganamiz.",
+  note: null
+},
+
+{
+  num: 2,
+  time: "00:00:50,019 --> 00:00:54,960",
+  arabic: "إِنَّهُ جِهَازٌ مُمَيَّزٌ يَسْتَعْمِلُهُ الْبَشَرُ لِتَسْخِينِ كُلِّ أَنْوَاعِ الطَّعَامِ",
+  segs: [
+    { ar: "إِنَّهُ جِهَازٌ مُمَيَّزٌ", uz: "Bu ajoyib qurilma." },
+    { ar: "يَسْتَعْمِلُهُ الْبَشَرُ", uz: "Odamlar undan foydalanadi." },
+    { ar: "لِتَسْخِينِ كُلِّ أَنْوَاعِ الطَّعَامِ", uz: "Har xil ovqatlarni isitish uchun." }
+  ],
+  full_uz: "Bu odamlar har xil ovqatlarni isitish uchun foydalanadigan ajoyib qurilma.",
+  note: null
+},
+
+{
+  num: 3,
+  time: "00:00:54,960 --> 00:00:59,500",
+  arabic: "هَلْ هُنَاكَ احْتِمَالٌ أَنْ يَتِمَّ تَسْخِينُنَا هُنَا؟",
+  segs: [
+    { ar: "هَلْ هُنَاكَ احْتِمَالٌ", uz: "Bizni ham." },
+    { ar: "أَنْ يَتِمَّ تَسْخِينُنَا هُنَا؟", uz: "Shu yerda isitib yuborishlari mumkinmi?" }
+  ],
+  full_uz: "Bizni ham shu yerda isitib yuborishlari mumkinmi?",
+  note: null
+},
+
+{
+  num: 4,
+  time: "00:00:59,500 --> 00:01:02,500",
+  arabic: "إِنْ أَنْصَتُّمْ جَيِّدًا فَسَتَتَعَلَّمُونَ عَنْ هَذَا أَيْضًا",
+  segs: [
+    { ar: "إِنْ أَنْصَتُّمْ جَيِّدًا", uz: "Diqqat bilan tinglasangiz." },
+    { ar: "فَسَتَتَعَلَّمُونَ عَنْ هَذَا أَيْضًا", uz: "Buni ham bilib olasiz." }
+  ],
+  full_uz: "Diqqat bilan tinglasangiz, buni ham bilib olasiz.",
+  note: null
+},
+
+{
+  num: 5,
+  time: "00:01:03,939 --> 00:01:06,500",
+  arabic: "أَلَمْ تَفْهَمْ؟ أَنْصِتْ جَيِّدًا",
+  segs: [
+    { ar: "أَلَمْ تَفْهَمْ؟", uz: "Tushunmadingmi?" },
+    { ar: "أَنْصِتْ جَيِّدًا", uz: "Yaxshilab quloq sol." }
+  ],
+  full_uz: "Tushunmadingmi? Yaxshilab quloq sol.",
+  note: null
+},
+
+{
+  num: 6,
+  time: "00:01:07,319 --> 00:01:09,540",
+  arabic: "أَنَا أَنْصِتُ، أَنَا أَنْصِتُ",
+  segs: [
+    { ar: "أَنَا أَنْصِتُ", uz: "Tinglayapman." },
+    { ar: "أَنَا أَنْصِتُ", uz: "Rostdan ham tinglayapman." }
+  ],
+  full_uz: "Tinglayapman, rostdan ham tinglayapman.",
+  note: null
+},
+
+{
+  num: 7,
+  time: "00:01:09,540 --> 00:01:15,280",
+  arabic: "يَذْهَبُ أَطْفَالُ الْفِيكْسِزِ إِلَى الْمَدْرَسَةِ مِثْلَ أَطْفَالِ الْبَشَرِ",
+  segs: [
+    { ar: "يَذْهَبُ أَطْفَالُ الْفِيكْسِزِ", uz: "Fiksik bolalari ham." },
+    { ar: "إِلَى الْمَدْرَسَةِ", uz: "Maktabga borishadi." },
+    { ar: "مِثْلَ أَطْفَالِ الْبَشَرِ", uz: "Odamlarning bolalari kabi." }
+  ],
+  full_uz: "Fiksik bolalari ham odamlarning bolalari kabi maktabga borishadi.",
+  note: null
+},
+
+{
+  num: 8,
+  time: "00:01:15,280 --> 00:01:18,500",
+  arabic: "لَكِنْ آبَاءُهُمْ يُعَلِّمُونَهُمْ كَثِيرًا مِنَ الدُّرُوسِ أَيْضًا",
+  segs: [
+    { ar: "لَكِنْ آبَاءُهُمْ", uz: "Lekin ota-onalari." },
+    { ar: "يُعَلِّمُونَهُمْ", uz: "Ularga o'rgatishadi." },
+    { ar: "كَثِيرًا مِنَ الدُّرُوسِ أَيْضًا", uz: "Yana ko'p narsalarni." }
+  ],
+  full_uz: "Lekin ota-onalari ularga yana ko'p narsalarni o'rgatishadi.",
+  note: null
+},
+
+{
+  num: 9,
+  time: "00:01:19,120 --> 00:01:22,500",
+  arabic: "يَأْخُذُ أَهَالِي الْفِيكْسِزِ أَطْفَالَهُمْ فِي جَوَلَاتٍ دَاخِلَ الْأَجْهِزَةِ الْمُخْتَلِفَةِ",
+  segs: [
+    { ar: "يَأْخُذُ أَهَالِي الْفِيكْسِزِ أَطْفَالَهُمْ", uz: "Fiksik ota-onalari bolalarini olib borishadi." },
+    { ar: "فِي جَوَلَاتٍ", uz: "Sayohatlarga." },
+    { ar: "دَاخِلَ الْأَجْهِزَةِ الْمُخْتَلِفَةِ", uz: "Turli qurilmalar ichiga." }
+  ],
+  full_uz: "Fiksik ota-onalari bolalarini turli qurilmalar ichiga sayohatga olib borishadi.",
+  note: null
+},
+
+{
+  num: 10,
+  time: "00:01:23,140 --> 00:01:27,579",
+  arabic: "وَيُعَلِّمُونَهُمْ كَيْفَ يُمْكِنُ لِلْفِيكْسِزِ إِبْقَاءُ الْأَجْهِزَةِ فِي حَالٍ جَيِّدَةٍ",
+  segs: [
+    { ar: "وَيُعَلِّمُونَهُمْ", uz: "Ularga o'rgatishadi." },
+    { ar: "كَيْفَ يُمْكِنُ لِلْفِيكْسِزِ", uz: "Fiksiklar qanday qilib." },
+    { ar: "إِبْقَاءُ الْأَجْهِزَةِ فِي حَالٍ جَيِّدَةٍ", uz: "Qurilmalarni yaxshi holatda saqlashni." }
+  ],
+  full_uz: "Ularga fiksiklar qurilmalarni qanday qilib yaxshi holatda saqlashni o'rgatishadi.",
+  note: null
+},
+{
+  num: 11,
+  time: "00:01:29,500 --> 00:01:35,219",
+  arabic: "يَعْرِضُونَ عَلَيْهِمْ طَرِيقَةَ عَمَلِ الْحَاسُوبِ أَوِ التِّلْفَازِ أَوْ مُشَغِّلَاتِ الْأَلْعَابِ",
+  segs: [
+    { ar: "يَعْرِضُونَ عَلَيْهِمْ", uz: "Ularga ko'rsatishadi." },
+    { ar: "طَرِيقَةَ عَمَلِ الْحَاسُوبِ", uz: "Kompyuter qanday ishlashini." },
+    { ar: "أَوِ التِّلْفَازِ", uz: "Yoki televizorning." },
+    { ar: "أَوْ مُشَغِّلَاتِ الْأَلْعَابِ", uz: "Yoxud o'yin pristavkalarining." }
+  ],
+  full_uz: "Ularga kompyuter, televizor va o'yin pristavkalari qanday ishlashini ko'rsatishadi.",
+  note: null
+},
+
+{
+  num: 12,
+  time: "00:01:35,219 --> 00:01:40,060",
+  arabic: "أَوْ أَيٍّ مِنَ الْأَجْهِزَةِ الْمُتَعَدِّدَةِ فِي الْمَطْبَخِ كَالْمَوْقِدِ مَثَلًا",
+  segs: [
+    { ar: "أَوْ أَيٍّ مِنَ الْأَجْهِزَةِ الْمُتَعَدِّدَةِ", uz: "Yoki boshqa turli qurilmalarni." },
+    { ar: "فِي الْمَطْبَخِ", uz: "Oshxonadagi." },
+    { ar: "كَالْمَوْقِدِ مَثَلًا", uz: "Masalan, plitani." }
+  ],
+  full_uz: "Yoki oshxonadagi turli qurilmalarni, masalan, plitani ham ko'rsatishadi.",
+  note: null
+},
+
+{
+  num: 13,
+  time: "00:01:40,060 --> 00:01:43,060",
+  arabic: "بَيْنَ الْفِينَةِ وَالْأُخْرَى يَظْهَرُ جِهَازٌ جَدِيدٌ فِي الْمَنْزِلِ",
+  segs: [
+    { ar: "بَيْنَ الْفِينَةِ وَالْأُخْرَى", uz: "Vaqti-vaqti bilan." },
+    { ar: "يَظْهَرُ جِهَازٌ جَدِيدٌ", uz: "Yangi qurilma paydo bo'ladi." },
+    { ar: "فِي الْمَنْزِلِ", uz: "Uyda." }
+  ],
+  full_uz: "Vaqti-vaqti bilan uyda yangi qurilma paydo bo'ladi.",
+  note: null
+},
+
+{
+  num: 14,
+  time: "00:01:43,060 --> 00:01:45,439",
+  arabic: "شَيْءٌ لَمْ يَرَ الْفِيكْسِزُ مِثْلَهُ مِنْ قَبْلُ",
+  segs: [
+    { ar: "شَيْءٌ", uz: "Shunday narsa." },
+    { ar: "لَمْ يَرَ الْفِيكْسِزُ", uz: "Fiksiklar ilgari ko'rmagan." },
+    { ar: "مِثْلَهُ مِنْ قَبْلُ", uz: "Hech qachon." }
+  ],
+  full_uz: "Fiksiklar ilgari hech qachon ko'rmagan narsa.",
+  note: null
+},
+
+{
+  num: 15,
+  time: "00:01:45,439 --> 00:01:48,299",
+  arabic: "وَلِكَيْ يَتَعَلَّمُوا طَرِيقَةَ عَمَلِ هَذَا الْجِهَازِ",
+  segs: [
+    { ar: "وَلِكَيْ يَتَعَلَّمُوا", uz: "Uni o'rganish uchun." },
+    { ar: "طَرِيقَةَ عَمَلِ", uz: "Qanday ishlashini." },
+    { ar: "هَذَا الْجِهَازِ", uz: "Bu qurilmaning." }
+  ],
+  full_uz: "Bu qurilmaning qanday ishlashini o'rganish uchun.",
+  note: null
+},
+
+{
+  num: 16,
+  time: "00:01:48,299 --> 00:01:53,379",
+  arabic: "يَجْتَمِعُونَ مَعًا وَيَقْرَؤُونَ تَعْلِيمَاتِ الِاسْتِعْمَالِ الَّتِي يَطْبَعُهَا الْبَشَرُ فِي كُتَيِّبٍ",
+  segs: [
+    { ar: "يَجْتَمِعُونَ مَعًا", uz: "Ular bir joyga yig'ilishadi." },
+    { ar: "وَيَقْرَؤُونَ تَعْلِيمَاتِ الِاسْتِعْمَالِ", uz: "Foydalanish yo'riqnomasini o'qishadi." },
+    { ar: "الَّتِي يَطْبَعُهَا الْبَشَرُ فِي كُتَيِّبٍ", uz: "Odamlar bukletga chop etadigan." }
+  ],
+  full_uz: "Ular bir joyga yig'ilib, odamlar bukletga chop etadigan foydalanish yo'riqnomasini o'qishadi.",
+  note: null
+},
+
+{
+  num: 17,
+  time: "00:01:53,379 --> 00:01:56,560",
+  arabic: "رَغْمَ أَنَّهُمْ لَا يَمْلِكُونَ الْوَقْتَ الْكَافِيَ لِقِرَاءَتِهَا",
+  segs: [
+    { ar: "رَغْمَ أَنَّهُمْ", uz: "Garchi ular." },
+    { ar: "لَا يَمْلِكُونَ الْوَقْتَ الْكَافِيَ", uz: "Yetarli vaqtga ega bo'lmasalar ham." },
+    { ar: "لِقِرَاءَتِهَا", uz: "Uni o'qish uchun." }
+  ],
+  full_uz: "Garchi uni o'qishga yetarli vaqtlari bo'lmasa ham.",
+  note: null
+},
+
+{
+  num: 18,
+  time: "00:01:56,560 --> 00:02:00,980",
+  arabic: "إِلَّا أَنَّهُمْ يَتَعَلَّمُونَ اسْتِعْمَالَ هَذِهِ الْأَجْهِزَةِ بِطَرِيقَةٍ صَحِيحَةٍ",
+  segs: [
+    { ar: "إِلَّا أَنَّهُمْ", uz: "Shunga qaramay." },
+    { ar: "يَتَعَلَّمُونَ اسْتِعْمَالَ هَذِهِ الْأَجْهِزَةِ", uz: "Bu qurilmalardan foydalanishni o'rganishadi." },
+    { ar: "بِطَرِيقَةٍ صَحِيحَةٍ", uz: "To'g'ri usulda." }
+  ],
+  full_uz: "Shunga qaramay, bu qurilmalardan to'g'ri foydalanishni o'rganishadi.",
+  note: null
+},
+
+{
+  num: 19,
+  time: "00:02:00,980 --> 00:02:07,900",
+  arabic: "وَالْآنَ حَانَ الْوَقْتُ لِنَتَعَرَّفَ الْمَاغْنِيتْرُونَ أَيْ مَصْدَرَ الْمَوْجَاتِ الْقَصِيرَةِ",
+  segs: [
+    { ar: "وَالْآنَ حَانَ الْوَقْتُ", uz: "Endi vaqt keldi." },
+    { ar: "لِنَتَعَرَّفَ الْمَاغْنِيتْرُونَ", uz: "Magnetron bilan tanishishga." },
+    { ar: "أَيْ مَصْدَرَ الْمَوْجَاتِ الْقَصِيرَةِ", uz: "Ya'ni mikroto'lqinlar manbai bilan." }
+  ],
+  full_uz: "Endi magnetron, ya'ni mikroto'lqinlar manbai bilan tanishish vaqti keldi.",
+  note: null
+},
+
+{
+  num: 20,
+  time: "00:02:07,900 --> 00:02:12,879",
+  arabic: "آهْ، إِذَنْ يَمْتَصُّ الطَّعَامُ الْمَوْجَاتِ الْقَصِيرَةَ وَهِيَ تَقُومُ بِتَسْخِينِهِ",
+  segs: [
+    { ar: "آهْ، إِذَنْ", uz: "Ha, demak." },
+    { ar: "يَمْتَصُّ الطَّعَامُ الْمَوْجَاتِ الْقَصِيرَةَ", uz: "Ovqat mikroto'lqinlarni yutar ekan." },
+    { ar: "وَهِيَ تَقُومُ بِتَسْخِينِهِ", uz: "Va ular uni isitadi." }
+  ],
+  full_uz: "Ha, demak ovqat mikroto'lqinlarni yutar ekan va ular uni isitadi.",
+  note: null
+},
+{
+  num: 21,
+  time: "00:02:12,879 --> 00:02:17,500",
+  arabic: "هَذَا صَحِيحٌ، وَالْآنَ انْظُرِي بِحَذَرٍ إِلَى يَسَارِكِ",
+  segs: [
+    { ar: "هَذَا صَحِيحٌ", uz: "To'g'ri." },
+    { ar: "وَالْآنَ", uz: "Endi esa." },
+    { ar: "انْظُرِي بِحَذَرٍ إِلَى يَسَارِكِ", uz: "Chap tomoningga diqqat bilan qara." }
+  ],
+  full_uz: "To'g'ri. Endi esa chap tomoningga diqqat bilan qara.",
+  note: null
+},
+
+{
+  num: 22,
+  time: "00:02:17,500 --> 00:02:21,340",
+  arabic: "هَايْ، الْحُرِّيَّةُ",
+  segs: [
+    { ar: "هَايْ", uz: "Hey." },
+    { ar: "الْحُرِّيَّةُ", uz: "Erkinlik!" }
+  ],
+  full_uz: "Hey, erkinlik!",
+  note: null
+},
+
+{
+  num: 23,
+  time: "00:02:21,340 --> 00:02:25,560",
+  arabic: "هَايْ تُومُ، أَتُرِيدُ مُتَابَعَةَ التِّلْفَازِ؟",
+  segs: [
+    { ar: "هَايْ تُومُ", uz: "Hey, Tom." },
+    { ar: "أَتُرِيدُ مُتَابَعَةَ التِّلْفَازِ؟", uz: "Televizor ko'rishni xohlaysanmi?" }
+  ],
+  full_uz: "Hey, Tom. Televizor ko'rishni xohlaysanmi?",
+  note: null
+},
+
+{
+  num: 24,
+  time: "00:02:25,560 --> 00:02:28,560",
+  arabic: "لَا أَسْتَطِيعُ، عَلَيَّ أَنْ أَكْتُبَ وَاجِبَاتِي",
+  segs: [
+    { ar: "لَا أَسْتَطِيعُ", uz: "Bo'lmaydi." },
+    { ar: "عَلَيَّ أَنْ أَكْتُبَ وَاجِبَاتِي", uz: "Uy vazifamni qilishim kerak." }
+  ],
+  full_uz: "Bo'lmaydi, uy vazifamni qilishim kerak.",
+  note: null
+},
+
+{
+  num: 25,
+  time: "00:02:29,120 --> 00:02:33,140",
+  arabic: "إِذَنْ أَنْجِزْهَا بِسُرْعَةٍ",
+  segs: [
+    { ar: "إِذَنْ", uz: "Unda." },
+    { ar: "أَنْجِزْهَا بِسُرْعَةٍ", uz: "Uni tezroq tugat." }
+  ],
+  full_uz: "Unda uni tezroq tugat.",
+  note: null
+},
+
+{
+  num: 26,
+  time: "00:02:33,140 --> 00:02:38,319",
+  arabic: "لِسَبَبٍ مَا كُلَّمَا بَدَأْتُ بِالْكِتَابَةِ أَشْعُرُ بِرَغْبَةٍ فِي الْأَكْلِ",
+  segs: [
+    { ar: "لِسَبَبٍ مَا", uz: "Negadir." },
+    { ar: "كُلَّمَا بَدَأْتُ بِالْكِتَابَةِ", uz: "Yozishni boshlashim bilan." },
+    { ar: "أَشْعُرُ بِرَغْبَةٍ فِي الْأَكْلِ", uz: "Ovqat yegim keladi." }
+  ],
+  full_uz: "Negadir yozishni boshlashim bilan ovqat yegim keladi.",
+  note: null
+},
+
+{
+  num: 27,
+  time: "00:02:38,319 --> 00:02:40,020",
+  arabic: "إِذَنْ كُلْهُ بِسُرْعَةٍ",
+  segs: [
+    { ar: "إِذَنْ", uz: "Unda." },
+    { ar: "كُلْهُ بِسُرْعَةٍ", uz: "Uni tezda yeb qo'y." }
+  ],
+  full_uz: "Unda uni tezda yeb qo'y.",
+  note: null
+},
+
+{
+  num: 28,
+  time: "00:02:40,020 --> 00:02:46,560",
+  arabic: "لَا، إِذَا أَكَلْتُهُ بِسُرْعَةٍ فَسَيَحِينُ مَوْعِدُ الْوَاجِبِ فِي وَقْتٍ أَقْصَرَ",
+  segs: [
+    { ar: "لَا", uz: "Yo'q." },
+    { ar: "إِذَا أَكَلْتُهُ بِسُرْعَةٍ", uz: "Agar uni tez yeb qo'ysam." },
+    { ar: "فَسَيَحِينُ مَوْعِدُ الْوَاجِبِ فِي وَقْتٍ أَقْصَرَ", uz: "Uy vazifasini qilish vaqti tezroq keladi." }
+  ],
+  full_uz: "Yo'q, agar uni tez yeb qo'ysam, uy vazifasini qilish vaqti tezroq keladi.",
+  note: null
+},
+
+{
+  num: 29,
+  time: "00:02:47,460 --> 00:02:51,060",
+  arabic: "لَقَدْ أَصْبَحَ بَارِدًا",
+  segs: [
+    { ar: "لَقَدْ أَصْبَحَ", uz: "U." },
+    { ar: "بَارِدًا", uz: "Sovib qolibdi." }
+  ],
+  full_uz: "U sovib qolibdi.",
+  note: null
+},
+
+{
+  num: 30,
+  time: "00:02:51,060 --> 00:02:52,939",
+  arabic: "عَلَيَّ أَنْ أُسَخِّنَهُ",
+  segs: [
+    { ar: "عَلَيَّ", uz: "Men uni." },
+    { ar: "أَنْ أُسَخِّنَهُ", uz: "Isitishim kerak." }
+  ],
+  full_uz: "Men uni isitishim kerak.",
+  note: null
+},
+{
+  num: 31,
+  time: "00:02:55,560 --> 00:02:58,599",
+  arabic: "دَقِيقَةٌ تَكْفِي",
+  segs: [
+    { ar: "دَقِيقَةٌ", uz: "Bir daqiqa." },
+    { ar: "تَكْفِي", uz: "Yetadi." }
+  ],
+  full_uz: "Bir daqiqa yetadi.",
+  note: null
+},
+
+{
+  num: 32,
+  time: "00:02:58,599 --> 00:03:03,479",
+  arabic: "هَذِهِ لَيْسَتْ أَسْلَاكًا عَادِيَّةً",
+  segs: [
+    { ar: "هَذِهِ", uz: "Bular." },
+    { ar: "لَيْسَتْ أَسْلَاكًا عَادِيَّةً", uz: "Oddiy simlar emas." }
+  ],
+  full_uz: "Bular oddiy simlar emas.",
+  note: null
+},
+
+{
+  num: 33,
+  time: "00:03:17,680 --> 00:03:19,659",
+  arabic: "مَاسْيَا، مَا الَّذِي يَحْدُثُ؟",
+  segs: [
+    { ar: "مَاسْيَا", uz: "Masya." },
+    { ar: "مَا الَّذِي يَحْدُثُ؟", uz: "Nima bo'lyapti?" }
+  ],
+  full_uz: "Masya, nima bo'lyapti?",
+  note: null
+},
+
+{
+  num: 34,
+  time: "00:03:19,659 --> 00:03:23,280",
+  arabic: "يَبْدُو أَنَّ الْمُسَخِّنَ يَتَعَرَّضُ لِزِيَادَةِ حَمْلٍ وَقَدْ يَحْتَرِقُ",
+  segs: [
+    { ar: "يَبْدُو أَنَّ", uz: "Aftidan." },
+    { ar: "الْمُسَخِّنَ يَتَعَرَّضُ لِزِيَادَةِ حَمْلٍ", uz: "Mikroto'lqinli pech ortiqcha yuklanib qolgan." },
+    { ar: "وَقَدْ يَحْتَرِقُ", uz: "Yonib ketishi mumkin." }
+  ],
+  full_uz: "Aftidan mikroto'lqinli pech ortiqcha yuklanib qolgan, yonib ketishi mumkin.",
+  note: null
+},
+
+{
+  num: 35,
+  time: "00:03:23,280 --> 00:03:24,960",
+  arabic: "إِذَنْ مِنَ الْأَفْضَلِ أَنْ نَهْرُبَ",
+  segs: [
+    { ar: "إِذَنْ", uz: "Unda." },
+    { ar: "مِنَ الْأَفْضَلِ أَنْ نَهْرُبَ", uz: "Qochganimiz ma'qul." }
+  ],
+  full_uz: "Unda qochganimiz ma'qul.",
+  note: null
+},
+
+{
+  num: 36,
+  time: "00:03:24,960 --> 00:03:28,960",
+  arabic: "مَا الَّذِي تَقْصِدِينَ؟ عَلَيْنَا... عَلَيْنَا إِنْقَاذُ الْمُسَخِّنِ",
+  segs: [
+    { ar: "مَا الَّذِي تَقْصِدِينَ؟", uz: "Nima demoqchisan?" },
+    { ar: "عَلَيْنَا", uz: "Biz." },
+    { ar: "إِنْقَاذُ الْمُسَخِّنِ", uz: "Mikroto'lqinli pechni qutqarishimiz kerak." }
+  ],
+  full_uz: "Nima demoqchisan? Biz mikroto'lqinli pechni qutqarishimiz kerak.",
+  note: null
+},
+
+{
+  num: 37,
+  time: "00:03:42,960 --> 00:03:45,960",
+  arabic: "آهْ، سِيمْكَا وَمَاسْيَا فِي الدَّاخِلِ",
+  segs: [
+    { ar: "آهْ", uz: "Voy." },
+    { ar: "سِيمْكَا وَمَاسْيَا", uz: "Simka bilan Masya." },
+    { ar: "فِي الدَّاخِلِ", uz: "Ichkarida." }
+  ],
+  full_uz: "Voy, Simka bilan Masya ichkarida.",
+  note: null
+},
+
+{
+  num: 38,
+  time: "00:03:47,960 --> 00:03:49,960",
+  arabic: "سِيمْكَا، سَاعِدِينِي",
+  segs: [
+    { ar: "سِيمْكَا", uz: "Simka." },
+    { ar: "سَاعِدِينِي", uz: "Menga yordam ber." }
+  ],
+  full_uz: "Simka, menga yordam ber.",
+  note: null
+},
+
+{
+  num: 39,
+  time: "00:03:54,960 --> 00:03:58,640",
+  arabic: "تِدِيش",
+  segs: [
+    { ar: "تِدِيش", uz: "Tidish!" }
+  ],
+  full_uz: "Tidish!",
+  note: "Elektr razryadi yoki uchqun ovoziga taqlid."
+},
+
+{
+  num: 40,
+  time: "00:03:58,640 --> 00:04:03,560",
+  arabic: "أُوهْ، لَقَدْ تَوَقَّفَ الْمُسَخِّنُ، يَبْدُو أَنَّهُ تَعَطَّلَ",
+  segs: [
+    { ar: "أُوهْ", uz: "Voy." },
+    { ar: "لَقَدْ تَوَقَّفَ الْمُسَخِّنُ", uz: "Mikroto'lqinli pech to'xtab qoldi." },
+    { ar: "يَبْدُو أَنَّهُ تَعَطَّلَ", uz: "Aftidan buzilibdi." }
+  ],
+  full_uz: "Voy, mikroto'lqinli pech to'xtab qoldi. Aftidan buzilibdi.",
+  note: null
+},
+{
+  num: 41,
+  time: "00:04:03,560 --> 00:04:08,420",
+  arabic: "وَمَنْ يَهْتَمُّ أَنْ تَعَطَّلَ، الْمُهِمُّ أَنَّ سِيمْكَا وَمَاسْيَا بِخَيْرٍ يَا تُومُ",
+  segs: [
+    { ar: "وَمَنْ يَهْتَمُّ أَنْ تَعَطَّلَ", uz: "Buzilgani muhim emas." },
+    { ar: "الْمُهِمُّ", uz: "Muhimi." },
+    { ar: "أَنَّ سِيمْكَا وَمَاسْيَا بِخَيْرٍ يَا تُومُ", uz: "Simka bilan Masya omon, Tom." }
+  ],
+  full_uz: "Buzilgani muhim emas. Muhimi, Simka bilan Masya omon, Tom.",
+  note: null
+},
+
+{
+  num: 42,
+  time: "00:04:08,420 --> 00:04:12,219",
+  arabic: "انْظُرْ، لَا أَحَدَ هُنَا",
+  segs: [
+    { ar: "انْظُرْ", uz: "Qara." },
+    { ar: "لَا أَحَدَ هُنَا", uz: "Bu yerda hech kim yo'q." }
+  ],
+  full_uz: "Qara, bu yerda hech kim yo'q.",
+  note: null
+},
+
+{
+  num: 43,
+  time: "00:04:12,219 --> 00:04:18,139",
+  arabic: "هَذَا صَحِيحٌ لِأَنَّنَا كُنَّا خَلْفَ الْغِطَاءِ",
+  segs: [
+    { ar: "هَذَا صَحِيحٌ", uz: "To'g'ri." },
+    { ar: "لِأَنَّنَا كُنَّا", uz: "Chunki biz." },
+    { ar: "خَلْفَ الْغِطَاءِ", uz: "Qopqoqning orqasida edik." }
+  ],
+  full_uz: "To'g'ri, chunki biz qopqoqning orqasida edik.",
+  note: null
+},
+
+{
+  num: 44,
+  time: "00:04:18,139 --> 00:04:20,600",
+  arabic: "لَمْ تُصَدِّقْ مَا حَدَثَ فِي الدَّاخِلِ",
+  segs: [
+    { ar: "لَمْ تُصَدِّقْ", uz: "Ishonmaysan." },
+    { ar: "مَا حَدَثَ فِي الدَّاخِلِ", uz: "Ichkarida nima bo'lganiga." }
+  ],
+  full_uz: "Ichkarida nima bo'lganiga ishonmaysan.",
+  note: null
+},
+
+{
+  num: 45,
+  time: "00:04:20,600 --> 00:04:21,420",
+  arabic: "أُوهْ",
+  segs: [
+    { ar: "أُوهْ", uz: "Voy." }
+  ],
+  full_uz: "Voy.",
+  note: null
+},
+
+{
+  num: 46,
+  time: "00:04:21,420 --> 00:04:24,180",
+  arabic: "إِذَنْ هَذَا هُوَ السَّبَبُ",
+  segs: [
+    { ar: "إِذَنْ", uz: "Demak." },
+    { ar: "هَذَا هُوَ السَّبَبُ", uz: "Sababi shu ekan." }
+  ],
+  full_uz: "Demak, sababi shu ekan.",
+  note: null
+},
+
+{
+  num: 47,
+  time: "00:04:24,180 --> 00:04:27,759",
+  arabic: "تُومُ، اسْمَعْ، لِمَ وَضَعْتَ الشَّوْكَةَ فِي الْمُسَخِّنِ؟",
+  segs: [
+    { ar: "تُومُ، اسْمَعْ", uz: "Tom, quloq sol." },
+    { ar: "لِمَ وَضَعْتَ", uz: "Nega qo'yding?" },
+    { ar: "الشَّوْكَةَ فِي الْمُسَخِّنِ", uz: "Sanchqini mikroto'lqinli pechga." }
+  ],
+  full_uz: "Tom, quloq sol. Nega sanchqini mikroto'lqinli pechga qo'yding?",
+  note: null
+},
+
+{
+  num: 48,
+  time: "00:04:27,759 --> 00:04:29,420",
+  arabic: "لِمَ لَا؟ أَلَا يَجُوزُ؟",
+  segs: [
+    { ar: "لِمَ لَا؟", uz: "Nega bo'lmas ekan?" },
+    { ar: "أَلَا يَجُوزُ؟", uz: "Mumkin emasmi?" }
+  ],
+  full_uz: "Nega bo'lmas ekan? Mumkin emasmi?",
+  note: null
+},
+
+{
+  num: 49,
+  time: "00:04:30,360 --> 00:04:36,280",
+  arabic: "تَذَكَّرُوا، إِيَّاكُمْ أَنْ تَضَعُوا أَيَّ جِسْمٍ مَعْدَنِيٍّ فِي الْمُسَخِّنِ",
+  segs: [
+    { ar: "تَذَكَّرُوا", uz: "Esingizda bo'lsin." },
+    { ar: "إِيَّاكُمْ أَنْ تَضَعُوا", uz: "Hech qachon qo'ymang." },
+    { ar: "أَيَّ جِسْمٍ مَعْدَنِيٍّ فِي الْمُسَخِّنِ", uz: "Mikroto'lqinli pechga metall buyumni." }
+  ],
+  full_uz: "Esingizda bo'lsin, mikroto'lqinli pechga hech qachon metall buyum qo'ymang.",
+  note: null
+},
+
+{
+  num: 50,
+  time: "00:04:36,280 --> 00:04:40,340",
+  arabic: "إِذَا وَضَعْتُمْ شَوْكَةً أَوْ مِلْعَقَةً فَمِنَ الْمُمْكِنِ أَنْ تُحْرِقُوهُ",
+  segs: [
+    { ar: "إِذَا وَضَعْتُمْ", uz: "Agar qo'ysangiz." },
+    { ar: "شَوْكَةً أَوْ مِلْعَقَةً", uz: "Sanchqi yoki qoshiqni." },
+    { ar: "فَمِنَ الْمُمْكِنِ أَنْ تُحْرِقُوهُ", uz: "Uni kuydirib yuborishingiz mumkin." }
+  ],
+  full_uz: "Agar sanchqi yoki qoshiqni qo'ysangiz, uni kuydirib yuborishingiz mumkin.",
+  note: null
+},
+{
+  num: 51,
+  time: "00:04:40,340 --> 00:04:43,620",
+  arabic: "وَعِنْدَهَا حَتَّى الْفِيكْسِزُ لَنْ يَسْتَطِيعُوا إِصْلَاحَهُ",
+  segs: [
+    { ar: "وَعِنْدَهَا", uz: "Shunda." },
+    { ar: "حَتَّى الْفِيكْسِزُ", uz: "Hatto fiksiklar ham." },
+    { ar: "لَنْ يَسْتَطِيعُوا إِصْلَاحَهُ", uz: "Uni tuzata olishmaydi." }
+  ],
+  full_uz: "Shunda hatto fiksiklar ham uni tuzata olishmaydi.",
+  note: null
+},
+
+{
+  num: 52,
+  time: "00:04:43,620 --> 00:04:48,460",
+  arabic: "حَتَّى خَطٌّ مَعْدَنِيٌّ ضَيِّقٌ عَلَى صَحْنٍ يُمْكِنُ أَنْ يُسَبِّبَ ضَرَرًا جَسِيمًا",
+  segs: [
+    { ar: "حَتَّى خَطٌّ مَعْدَنِيٌّ ضَيِّقٌ", uz: "Hatto ingichka metall chiziq ham." },
+    { ar: "عَلَى صَحْنٍ", uz: "Likopchada bo'lsa." },
+    { ar: "يُمْكِنُ أَنْ يُسَبِّبَ ضَرَرًا جَسِيمًا", uz: "Jiddiy zarar yetkazishi mumkin." }
+  ],
+  full_uz: "Hatto likopchadagi ingichka metall chiziq ham jiddiy zarar yetkazishi mumkin.",
+  note: null
+},
+
+{
+  num: 53,
+  time: "00:04:48,459 --> 00:04:53,599",
+  arabic: "أَيْضًا إِيَّاكُمْ أَنْ تُسَخِّنُوا الطَّعَامَ فِي أَوْعِيَةٍ أَوْ زُجَاجَاتٍ مَخْتُومَةٍ",
+  segs: [
+    { ar: "أَيْضًا", uz: "Yana." },
+    { ar: "إِيَّاكُمْ أَنْ تُسَخِّنُوا الطَّعَامَ", uz: "Ovqatni isitmang." },
+    { ar: "فِي أَوْعِيَةٍ أَوْ زُجَاجَاتٍ مَخْتُومَةٍ", uz: "Yopiq idish yoki shishalarda." }
+  ],
+  full_uz: "Yana ovqatni yopiq idish yoki shishalarda isitishga urinmang.",
+  note: null
+},
+
+{
+  num: 54,
+  time: "00:04:53,599 --> 00:04:58,419",
+  arabic: "وَشَيْءٌ أَخِيرٌ، لَا تُفَكِّرُوا حَتَّى فِي طَهْيِ بَيْضَةٍ بِقِشْرِهَا هُنَاكَ",
+  segs: [
+    { ar: "وَشَيْءٌ أَخِيرٌ", uz: "Yana bir oxirgi narsa." },
+    { ar: "لَا تُفَكِّرُوا حَتَّى", uz: "Hatto o'ylab ham ko'rmang." },
+    { ar: "فِي طَهْيِ بَيْضَةٍ بِقِشْرِهَا هُنَاكَ", uz: "U yerda tuxumni po'chog'i bilan pishirishni." }
+  ],
+  full_uz: "Yana bir oxirgi narsa: u yerda tuxumni po'chog'i bilan pishirishni hatto o'ylab ham ko'rmang.",
+  note: null
+},
+
+{
+  num: 55,
+  time: "00:04:58,419 --> 00:05:01,019",
+  arabic: "وَإِلَّا فَسَوْفَ تَنْفَجِرُ",
+  segs: [
+    { ar: "وَإِلَّا", uz: "Aks holda." },
+    { ar: "فَسَوْفَ تَنْفَجِرُ", uz: "Portlab ketadi." }
+  ],
+  full_uz: "Aks holda portlab ketadi.",
+  note: null
+},
+
+{
+  num: 56,
+  time: "00:05:01,019 --> 00:05:05,219",
+  arabic: "آسِفٌ، لَمْ أَكُنْ أَعْرِفُ هَذَا",
+  segs: [
+    { ar: "آسِفٌ", uz: "Kechirasiz." },
+    { ar: "لَمْ أَكُنْ أَعْرِفُ هَذَا", uz: "Men buni bilmasdim." }
+  ],
+  full_uz: "Kechirasiz, men buni bilmasdim.",
+  note: null
+},
+
+{
+  num: 57,
+  time: "00:05:05,219 --> 00:05:10,419",
+  arabic: "نُولِكْ، فِيمَا كُنْتَ تُفَكِّرُ؟ لِمَاذَا لَمْ تُحَذِّرْ تُومَ مِنْ هَذَا؟",
+  segs: [
+    { ar: "نُولِكْ", uz: "Nolik." },
+    { ar: "فِيمَا كُنْتَ تُفَكِّرُ؟", uz: "Nimani o'ylayotgan eding?" },
+    { ar: "لِمَاذَا لَمْ تُحَذِّرْ تُومَ مِنْ هَذَا؟", uz: "Nega Tomni bu haqida ogohlantirmading?" }
+  ],
+  full_uz: "Nolik, nimani o'ylayotgan eding? Nega Tomni bu haqida ogohlantirmading?",
+  note: null
+},
+
+{
+  num: 58,
+  time: "00:05:10,419 --> 00:05:13,219",
+  arabic: "حَسَنًا، أَنَا...",
+  segs: [
+    { ar: "حَسَنًا", uz: "Xo'sh..." },
+    { ar: "أَنَا...", uz: "Men..." }
+  ],
+  full_uz: "Xo'sh... men...",
+  note: null
+},
+
+{
+  num: 59,
+  time: "00:05:13,219 --> 00:05:17,799",
+  arabic: "هَرَبْتَ مِنَ الدَّرْسِ وَلِذَلِكَ لَمْ تَكُنْ تَعْرِفُ",
+  segs: [
+    { ar: "هَرَبْتَ مِنَ الدَّرْسِ", uz: "Sen darsdan qochgansan." },
+    { ar: "وَلِذَلِكَ", uz: "Shuning uchun." },
+    { ar: "لَمْ تَكُنْ تَعْرِفُ", uz: "Buni bilmading." }
+  ],
+  full_uz: "Sen darsdan qochgansan, shuning uchun buni bilmading.",
+  note: null
+},
+
+{
+  num: 60,
+  time: "00:05:17,800 --> 00:05:22,520",
+  arabic: "نُولِكْ، أَيْنَ تَذْهَبُ؟ أَنَا أَتَحَدَّثُ إِلَيْكَ",
+  segs: [
+    { ar: "نُولِكْ", uz: "Nolik." },
+    { ar: "أَيْنَ تَذْهَبُ؟", uz: "Qayerga ketyapsan?" },
+    { ar: "أَنَا أَتَحَدَّثُ إِلَيْكَ", uz: "Axir senga gapiryapman." }
+  ],
+  full_uz: "Nolik, qayerga ketyapsan? Axir senga gapiryapman.",
+  note: null
+},
+{
+  num: 61,
+  time: "00:05:22,520 --> 00:05:27,319",
+  arabic: "هُمْ... إِلَى أَيْنَ مَثَلًا؟ لِأَدْرُسَ كُلَّ مَا يَتَعَلَّقُ بِالْمُسَخِّنِ",
+  segs: [
+    { ar: "هُمْ... إِلَى أَيْنَ مَثَلًا؟", uz: "Hm... Qayerga bo'lardi?" },
+    { ar: "لِأَدْرُسَ", uz: "O'rganishga." },
+    { ar: "كُلَّ مَا يَتَعَلَّقُ بِالْمُسَخِّنِ", uz: "Mikroto'lqinli pechga oid hamma narsani." }
+  ],
+  full_uz: "Hm... Qayerga bo'lardi? Mikroto'lqinli pechga oid hamma narsani o'rganishga.",
+  note: null
+},
+
+{
+  num: 62,
+  time: "00:05:27,319 --> 00:05:30,360",
+  arabic: "وَأَنَا سَأَذْهَبُ لِأُنْجِزَ وَاجِبَاتِي",
+  segs: [
+    { ar: "وَأَنَا", uz: "Men esa." },
+    { ar: "سَأَذْهَبُ", uz: "Boraman." },
+    { ar: "لِأُنْجِزَ وَاجِبَاتِي", uz: "Uy vazifamni bajarishga." }
+  ],
+  full_uz: "Men esa uy vazifamni bajarishga boraman.",
+  note: null
+},
+
+{
+  num: 63,
+  time: "00:05:30,360 --> 00:05:33,400",
+  arabic: "لَكِنْ أَلَيْسَ عَلَيْكَ أَنْ تَأْكُلَ أَوَّلًا؟",
+  segs: [
+    { ar: "لَكِنْ", uz: "Lekin." },
+    { ar: "أَلَيْسَ عَلَيْكَ", uz: "Avval." },
+    { ar: "أَنْ تَأْكُلَ أَوَّلًا؟", uz: "Ovqatlanishing kerak emasmi?" }
+  ],
+  full_uz: "Lekin avval ovqatlanishing kerak emasmi?",
+  note: null
+},
+
+{
+  num: 64,
+  time: "00:05:33,400 --> 00:05:38,560",
+  arabic: "لَا، لَنْ آكُلَ الطَّعَامَ أَوَّلًا، سَأَلْعَبُ سَاعَةً بِبَعْضِ الْأَلْعَابِ",
+  segs: [
+    { ar: "لَا", uz: "Yo'q." },
+    { ar: "لَنْ آكُلَ الطَّعَامَ أَوَّلًا", uz: "Avval ovqat yemayman." },
+    { ar: "سَأَلْعَبُ سَاعَةً بِبَعْضِ الْأَلْعَابِ", uz: "Bir soat o'yin o'ynayman." }
+  ],
+  full_uz: "Yo'q, avval ovqat yemayman. Bir soat o'yin o'ynayman.",
+  note: null
+}
+];
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}

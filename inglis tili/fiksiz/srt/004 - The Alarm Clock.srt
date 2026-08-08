@@ -1,0 +1,328 @@
+1
+00:00:00,000 --> 00:00:04,219
+The Alarm Clock
+
+2
+00:00:04,219 --> 00:00:09,099
+Ha! It didn't ring again!
+
+3
+00:00:10,060 --> 00:00:12,179
+Nolik, let's go fix the alarm clock.
+
+4
+00:00:12,820 --> 00:00:14,179
+Simka, wake Tom Thomas up.
+
+5
+00:00:17,260 --> 00:00:19,240
+Tom Thomas, get up!
+
+6
+00:00:20,100 --> 00:00:21,280
+Tom Thomas!
+
+7
+00:00:22,859 --> 00:00:25,000
+Hey, you'll be late for school!
+
+8
+00:00:25,000 --> 00:00:28,120
+Tom Thomas, get up already!
+
+9
+00:00:30,000 --> 00:00:34,399
+This is really something!
+
+10
+00:00:35,039 --> 00:00:36,799
+And where's the battery in here?
+
+11
+00:00:36,880 --> 00:00:39,560
+No, this is an old mechanical alarm clock.
+
+12
+00:00:39,640 --> 00:00:41,280
+It doesn't work with a battery.
+
+13
+00:00:41,399 --> 00:00:42,719
+It uses a spring.
+
+14
+00:00:42,880 --> 00:00:43,920
+How's that work?
+
+15
+00:00:44,039 --> 00:00:46,200
+People wind up the spring tightly,
+
+16
+00:00:46,359 --> 00:00:48,439
+and then as it slowly unwinds,
+
+17
+00:00:48,560 --> 00:00:52,439
+it turns the gears which turn the hands of the clock.
+
+18
+00:00:57,799 --> 00:00:59,840
+The alarm clock broke! Let's hurry!
+
+19
+00:00:59,840 --> 00:01:01,080
+and get you washed up!
+
+20
+00:01:05,000 --> 00:01:07,159
+Tom Thomas, are you just getting up?
+
+21
+00:01:07,520 --> 00:01:10,000
+Dad, the alarm clock didn't go off, it's broken!
+
+22
+00:01:10,920 --> 00:01:11,960
+Here's the problem.
+
+23
+00:01:12,040 --> 00:01:14,920
+It won't turn because the feather is stuck in the gears.
+
+24
+00:01:15,040 --> 00:01:16,080
+Nolik, help me!
+
+25
+00:01:22,520 --> 00:01:25,000
+Papus! What's going on?
+
+26
+00:01:25,000 --> 00:01:28,359
+It looks like it's an earthquake!
+
+27
+00:01:29,840 --> 00:01:31,159
+It really is broken.
+
+28
+00:01:31,719 --> 00:01:34,040
+Bad time to throw out this old piece of junk.
+
+29
+00:01:37,000 --> 00:01:38,439
+Tom Thomas, I'm off to work.
+
+30
+00:01:38,560 --> 00:01:39,640
+Don't be late for school.
+
+31
+00:01:39,719 --> 00:01:40,520
+I won't.
+
+32
+00:01:43,840 --> 00:01:45,240
+Where are we?
+
+33
+00:01:49,040 --> 00:01:51,320
+In the trash can!
+
+34
+00:01:51,600 --> 00:01:53,520
+And what's gonna happen to us?
+
+35
+00:01:53,640 --> 00:01:55,400
+Well, you see, Nolik…
+
+36
+00:01:55,400 --> 00:02:02,440
+People throw out broken things without a second thought.
+
+37
+00:02:03,060 --> 00:02:07,880
+Even appliances that can still be fixed end up in the trash all the time.
+
+38
+00:02:08,360 --> 00:02:13,620
+And the trash is taken to a horrible, deadly place called the dump.
+
+39
+00:02:13,740 --> 00:02:19,580
+If a fixie happens to be inside a broken appliance, he will come face to face with great danger.
+
+40
+00:02:20,259 --> 00:02:23,740
+Once, my uncle got thrown into the dump buried inside an old TV.
+
+41
+00:02:23,740 --> 00:02:30,740
+He barely managed to jump out of the bulldozer's path, and it was a miracle he didn't end up in the incinerator.
+
+42
+00:02:31,400 --> 00:02:36,680
+After that, he just roamed around the huge dump, trying to fix anything.
+
+43
+00:02:37,120 --> 00:02:39,840
+He became totally crazed.
+
+44
+00:02:40,800 --> 00:02:45,900
+Good thing the Fixie Rescue Squad managed to find him and bring him back home.
+
+45
+00:02:45,900 --> 00:02:53,939
+I don't want to scare you, but we might be taken to the dump, my boy.
+
+46
+00:02:54,360 --> 00:02:56,020
+Papus, I'm scared.
+
+47
+00:02:57,180 --> 00:02:59,640
+Huh, where is the alarm clock?
+
+48
+00:02:59,759 --> 00:03:01,700
+Maybe my dad took it to get fixed.
+
+49
+00:03:02,099 --> 00:03:04,580
+But Nolik and Papus are in there.
+
+50
+00:03:05,259 --> 00:03:07,159
+Now just a little bit further.
+
+51
+00:03:08,879 --> 00:03:10,780
+I don't want to go to the dump.
+
+52
+00:03:11,140 --> 00:03:13,460
+No tears. There's only one way out of here.
+
+53
+00:03:13,460 --> 00:03:16,060
+We need to fix the clock and make it ring!
+
+54
+00:03:16,460 --> 00:03:17,460
+But how?
+
+55
+00:03:21,860 --> 00:03:25,860
+Inside the clock there is the main spring and there's also a second spring.
+
+56
+00:03:26,060 --> 00:03:29,860
+The second spring is held still by a brake and so it waits.
+
+57
+00:03:30,659 --> 00:03:33,860
+When the little hand reaches the time the alarm was set to go off,
+
+58
+00:03:34,260 --> 00:03:38,860
+the spring jumps off the brake and the gears are free to start turning.
+
+59
+00:03:39,580 --> 00:03:43,660
+That makes a little hammer beat the cup of a bell very, very quickly.
+
+60
+00:03:46,100 --> 00:03:48,180
+And that's how an alarm clock rings.
+
+61
+00:03:52,580 --> 00:03:56,460
+So this feather is stopping the gears and not letting the hammer strike the bell.
+
+62
+00:03:56,820 --> 00:03:57,820
+Exactly!
+
+63
+00:03:57,980 --> 00:04:00,460
+I'll start rocking the gear back and forth and you tug it.
+
+64
+00:04:00,900 --> 00:04:07,860
+And one, and two, and three!
+
+65
+00:04:07,860 --> 00:04:09,100
+Tideesh!
+
+66
+00:04:15,900 --> 00:04:18,420
+Simka, I think I can hear my alarm ringing.
+
+67
+00:04:18,420 --> 00:04:20,540
+Run to the sound! Quickly!
+
+68
+00:04:23,139 --> 00:04:25,980
+Uh-huh! Someone turn the alarm off!
+
+69
+00:04:26,699 --> 00:04:29,980
+Wow! And here comes that earthquake again!
+
+70
+00:04:32,900 --> 00:04:36,220
+Nolik! Nolik! I'm here!
+
+71
+00:04:36,940 --> 00:04:38,060
+No, Leg.
+
+72
+00:04:38,180 --> 00:04:39,660
+We fixed the alarm clock!
+
+73
+00:04:39,660 --> 00:04:41,260
+So what was wrong with it?
+
+74
+00:04:41,460 --> 00:04:43,580
+A feather got jammed in the gears.
+
+75
+00:04:43,660 --> 00:04:46,380
+And how could a feather get in a clock?
+
+76
+00:04:46,620 --> 00:04:50,260
+Oh, it's probably from when I put the alarm clock under my pillow,
+
+77
+00:04:50,340 --> 00:04:51,620
+so it wouldn't wake me up.
+
+78
+00:04:52,580 --> 00:04:56,300
+So you mean because somebody doesn't like to get up in the morning,
+
+79
+00:04:56,620 --> 00:04:58,660
+we almost ended up at the dump?
+
+80
+00:04:59,740 --> 00:05:04,260
+By the way, if that somebody doesn't hurry off to his school soon, he'll be late!
+
+81
+00:05:04,340 --> 00:05:06,060
+Oh, you're right!
+
+82
+00:05:06,220 --> 00:05:07,060
+Come on.
+

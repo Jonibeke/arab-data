@@ -1,0 +1,1367 @@
+const lessons = [
+
+{
+  num:2,
+  time:"00:00:04,190 --> 00:00:06,790",
+  arabic:"مَنْ يُصْلِحُ آلَاتَنَا؟",
+  segs:[
+    { ar:"مَنْ", uz:"Kim?" },
+    { ar:"يُصْلِحُ", uz:"Tuzatadi." },
+    { ar:"آلَاتَنَا", uz:"Qurilmalarimizni." }
+  ],
+  full_uz:"Qurilmalarimizni kim tuzatadi?",
+  note:null
+},
+
+{
+  num:3,
+  time:"00:00:06,799 --> 00:00:08,599",
+  arabic:"أَجْهِزَتِي، أَدَوَاتِي.",
+  segs:[
+    { ar:"أَجْهِزَتِي", uz:"Qurilmalarim." },
+    { ar:"أَدَوَاتِي", uz:"Asboblarim." }
+  ],
+  full_uz:"Qurilmalarim, asboblarim.",
+  note:null
+},
+
+{
+  num:4,
+  time:"00:00:08,599 --> 00:00:10,960",
+  arabic:"سَمَّاعَاتُنَا، شَاشَاتُنَا.",
+  segs:[
+    { ar:"سَمَّاعَاتُنَا", uz:"Quloqchinlarimiz." },
+    { ar:"شَاشَاتُنَا", uz:"Ekranlarimiz." }
+  ],
+  full_uz:"Quloqchinlarimiz, ekranlarimiz.",
+  note:"SRTdagi 'مسعتنا' imlosi 'سماعاتنا' shaklida tuzatildi."
+},
+
+{
+  num:5,
+  time:"00:00:10,960 --> 00:00:12,780",
+  arabic:"هُمْ كُلُّ الْأَوْقَاتِ.",
+  segs:[
+    { ar:"هُمْ", uz:"Ular." },
+    { ar:"كُلُّ الْأَوْقَاتِ", uz:"Har doim." }
+  ],
+  full_uz:"Ular har doim yonimizda.",
+  note:null
+},
+
+{
+  num:6,
+  time:"00:00:12,780 --> 00:00:15,240",
+  arabic:"لَنْ نَسْتَغْنِيَ عَنْهُمْ.",
+  segs:[
+    { ar:"لَنْ", uz:"Hech qachon." },
+    { ar:"نَسْتَغْنِيَ", uz:"Behojat bo'la olmaymiz." },
+    { ar:"عَنْهُمْ", uz:"Ularsiz." }
+  ],
+  full_uz:"Ularsiz yashay olmaymiz.",
+  note:null
+},
+
+{
+  num:7,
+  time:"00:00:15,240 --> 00:00:17,080",
+  arabic:"سَتُظْلِمُ دُونَهُمْ.",
+  segs:[
+    { ar:"سَتُظْلِمُ", uz:"Qorong'i bo'lib qoladi." },
+    { ar:"دُونَهُمْ", uz:"Ularsiz." }
+  ],
+  full_uz:"Ularsiz hammasi qorong'i bo'lib qoladi.",
+  note:null
+},
+
+{
+  num:8,
+  time:"00:00:17,080 --> 00:00:19,920",
+  arabic:"مِنْ أَيْنَ أَتَوْا؟ مَا شَكْلُهُمْ؟",
+  segs:[
+    { ar:"مِنْ أَيْنَ أَتَوْا", uz:"Ular qayerdan kelishgan?" },
+    { ar:"مَا شَكْلُهُمْ", uz:"Ularning ko'rinishi qanday?" }
+  ],
+  full_uz:"Ular qayerdan kelishgan? Ularning ko'rinishi qanday?",
+  note:null
+},
+
+{
+  num:9,
+  time:"00:00:19,920 --> 00:00:21,820",
+  arabic:"مَنْ يَعْرِفُ سِرَّهُمْ؟",
+  segs:[
+    { ar:"مَنْ", uz:"Kim?" },
+    { ar:"يَعْرِفُ", uz:"Biladi." },
+    { ar:"سِرَّهُمْ", uz:"Ularning sirini." }
+  ],
+  full_uz:"Ularning sirini kim biladi?",
+  note:null
+},
+
+{
+  num:10,
+  time:"00:00:21,820 --> 00:00:24,339",
+  arabic:"مِنْ أَيْنَ أَتَوْا؟ مَا شَكْلُهُمْ؟",
+  segs:[
+    { ar:"مِنْ أَيْنَ أَتَوْا", uz:"Ular qayerdan kelishgan?" },
+    { ar:"مَا شَكْلُهُمْ", uz:"Ularning ko'rinishi qanday?" }
+  ],
+  full_uz:"Ular qayerdan kelishgan? Ularning ko'rinishi qanday?",
+  note:null
+},
+{
+  num:11,
+  time:"00:00:24,339 --> 00:00:26,240",
+  arabic:"مَنْ يَعْرِفُ سِرَّهُمْ؟",
+  segs:[
+    { ar:"مَنْ", uz:"Kim?" },
+    { ar:"يَعْرِفُ", uz:"Biladi." },
+    { ar:"سِرَّهُمْ", uz:"Ularning sirini." }
+  ],
+  full_uz:"Ularning sirini kim biladi?",
+  note:null
+},
+
+{
+  num:12,
+  time:"00:00:26,240 --> 00:00:28,740",
+  arabic:"مِنْ أَيْنَ أَتَوْا؟ مَا شَكْلُهُمْ؟",
+  segs:[
+    { ar:"مِنْ أَيْنَ أَتَوْا", uz:"Ular qayerdan kelishgan?" },
+    { ar:"مَا شَكْلُهُمْ", uz:"Ularning ko'rinishi qanday?" }
+  ],
+  full_uz:"Ular qayerdan kelishgan? Ularning ko'rinishi qanday?",
+  note:null
+},
+
+{
+  num:13,
+  time:"00:00:28,739 --> 00:00:30,739",
+  arabic:"مَنْ يَعْرِفُ سِرَّهُمْ؟",
+  segs:[
+    { ar:"مَنْ", uz:"Kim?" },
+    { ar:"يَعْرِفُ", uz:"Biladi." },
+    { ar:"سِرَّهُمْ", uz:"Ularning sirini." }
+  ],
+  full_uz:"Ularning sirini kim biladi?",
+  note:null
+},
+
+{
+  num:14,
+  time:"00:00:34,399 --> 00:00:38,040",
+  arabic:"جَرَسُ الْبَابِ.",
+  segs:[
+    { ar:"جَرَسُ", uz:"Qo'ng'iroq." },
+    { ar:"الْبَابِ", uz:"Eshikning." }
+  ],
+  full_uz:"Eshik qo'ng'irog'i.",
+  note:null
+},
+
+{
+  num:15,
+  time:"00:00:38,739 --> 00:00:39,739",
+  arabic:"نُولِيكْ.",
+  segs:[
+    { ar:"نُولِيكْ", uz:"Nolik." }
+  ],
+  full_uz:"Nolik.",
+  note:null
+},
+
+{
+  num:16,
+  time:"00:00:40,739 --> 00:00:42,739",
+  arabic:"نُولِيكْ، مَاذَا تَفْعَلُ هُنَا؟",
+  segs:[
+    { ar:"نُولِيكْ", uz:"Nolik." },
+    { ar:"مَاذَا تَفْعَلُ", uz:"Nima qilyapsan?" },
+    { ar:"هُنَا", uz:"Bu yerda." }
+  ],
+  full_uz:"Nolik, bu yerda nima qilyapsan?",
+  note:null
+},
+
+{
+  num:17,
+  time:"00:00:42,739 --> 00:00:43,739",
+  arabic:"أُدَنْدِنُ لَحْنًا.",
+  segs:[
+    { ar:"أُدَنْدِنُ", uz:"Xirgoyi qilyapman." },
+    { ar:"لَحْنًا", uz:"Bir kuyni." }
+  ],
+  full_uz:"Bir kuyni xirgoyi qilyapman.",
+  note:null
+},
+
+{
+  num:18,
+  time:"00:00:43,739 --> 00:00:46,739",
+  arabic:"لَقَدْ غَادَرَ تُومْ الْآنَ مَعَ أَهْلِهِ مُدَّةَ أُسْبُوعٍ.",
+  segs:[
+    { ar:"لَقَدْ غَادَرَ تُومْ", uz:"Tom ketdi." },
+    { ar:"مَعَ أَهْلِهِ", uz:"Oilasi bilan." },
+    { ar:"مُدَّةَ أُسْبُوعٍ", uz:"Bir haftaga." }
+  ],
+  full_uz:"Tom hozirgina oilasi bilan bir haftaga ketdi.",
+  note:null
+},
+
+{
+  num:19,
+  time:"00:00:46,739 --> 00:00:49,739",
+  arabic:"هَلْ سَتُدَنْدِنُ هَذَا اللَّحْنَ إِلَى أَنْ يَعُودَ؟",
+  segs:[
+    { ar:"هَلْ سَتُدَنْدِنُ", uz:"Xirgoyi qilaverasanmi?" },
+    { ar:"هَذَا اللَّحْنَ", uz:"Shu kuyni." },
+    { ar:"إِلَى أَنْ يَعُودَ", uz:"U qaytguncha." }
+  ],
+  full_uz:"U qaytguncha shu kuyni xirgoyi qilaverasanmi?",
+  note:null
+},
+
+{
+  num:20,
+  time:"00:00:49,739 --> 00:00:51,739",
+  arabic:"وَلَدَيْنَا زُوَّارٌ قَادِمُونَ.",
+  segs:[
+    { ar:"وَلَدَيْنَا", uz:"Bizning." },
+    { ar:"زُوَّارٌ", uz:"Mehmonlarimiz." },
+    { ar:"قَادِمُونَ", uz:"Kelishyapti." }
+  ],
+  full_uz:"Axir bizning mehmonlarimiz kelishyapti.",
+  note:null
+},
+{
+  num:21,
+  time:"00:00:51,739 --> 00:00:52,739",
+  arabic:"أَنَسِيتَ؟",
+  segs:[
+    { ar:"أَنَسِيتَ", uz:"Esingdan chiqdimi?" }
+  ],
+  full_uz:"Esingdan chiqdimi?",
+  note:null
+},
+
+{
+  num:22,
+  time:"00:00:52,739 --> 00:00:53,739",
+  arabic:"أَيُّ زُوَّارٍ؟",
+  segs:[
+    { ar:"أَيُّ", uz:"Qanday?" },
+    { ar:"زُوَّارٍ", uz:"Mehmonlar?" }
+  ],
+  full_uz:"Qanaqa mehmonlar?",
+  note:null
+},
+
+{
+  num:23,
+  time:"00:00:53,739 --> 00:00:55,739",
+  arabic:"لَقَدْ دَعَوْتُ الْجَمِيعَ إِلَى هُنَا.",
+  segs:[
+    { ar:"لَقَدْ دَعَوْتُ", uz:"Men taklif qildim." },
+    { ar:"الْجَمِيعَ", uz:"Hammalarini." },
+    { ar:"إِلَى هُنَا", uz:"Bu yerga." }
+  ],
+  full_uz:"Men hammalarini bu yerga taklif qildim.",
+  note:null
+},
+
+{
+  num:24,
+  time:"00:00:55,739 --> 00:00:56,739",
+  arabic:"الصَّفُّ؟",
+  segs:[
+    { ar:"الصَّفُّ", uz:"Sinfdagilarni?" }
+  ],
+  full_uz:"Sinfdagilarni?",
+  note:null
+},
+
+{
+  num:25,
+  time:"00:00:56,739 --> 00:00:57,739",
+  arabic:"أَجَلْ.",
+  segs:[
+    { ar:"أَجَلْ", uz:"Ha." }
+  ],
+  full_uz:"Ha.",
+  note:null
+},
+
+{
+  num:26,
+  time:"00:00:57,740 --> 00:00:59,219",
+  arabic:"رَائِعٌ.",
+  segs:[
+    { ar:"رَائِعٌ", uz:"Zo'r!" }
+  ],
+  full_uz:"Zo'r!",
+  note:null
+},
+
+{
+  num:27,
+  time:"00:00:59,219 --> 00:01:08,200",
+  arabic:"هَلْ هُمْ نَائِمُونَ أَمْ مَاذَا؟",
+  segs:[
+    { ar:"هَلْ", uz:"Nahotki." },
+    { ar:"هُمْ نَائِمُونَ", uz:"Ular uxlayotgan bo'lsa?" },
+    { ar:"أَمْ مَاذَا", uz:"Yoki nima?" }
+  ],
+  full_uz:"Ular uxlayaptimi yoki nima?",
+  note:null
+},
+
+{
+  num:28,
+  time:"00:01:08,200 --> 00:01:10,820",
+  arabic:"أَوَّلًا يَدْعُونَنَا وَالْآنَ لَا يُدْخِلُونَنَا.",
+  segs:[
+    { ar:"أَوَّلًا", uz:"Avval." },
+    { ar:"يَدْعُونَنَا", uz:"Bizni taklif qilishadi." },
+    { ar:"وَالْآنَ", uz:"Endi esa." },
+    { ar:"لَا يُدْخِلُونَنَا", uz:"Ichkariga kiritishmayapti." }
+  ],
+  full_uz:"Avval bizni taklif qilishadi, endi esa ichkariga kiritishmayapti.",
+  note:null
+},
+
+{
+  num:29,
+  time:"00:01:10,820 --> 00:01:13,299",
+  arabic:"إِذًا لِنَأْكُلِ الْكَاكَاوَ وَحْدَنَا.",
+  segs:[
+    { ar:"إِذًا", uz:"Unda." },
+    { ar:"لِنَأْكُلْ", uz:"Yeylik." },
+    { ar:"الْكَاكَاوَ", uz:"Kakaoni." },
+    { ar:"وَحْدَنَا", uz:"O'zimiz." }
+  ],
+  full_uz:"Unda kakaoni o'zimiz yeylik.",
+  note:null
+},
+
+{
+  num:30,
+  time:"00:01:13,299 --> 00:01:16,099",
+  arabic:"فَايَرْ، لِمَ لَا تُحَاوِلُ تَشْغِيلَهُ؟",
+  segs:[
+    { ar:"فَايَرْ", uz:"Fire." },
+    { ar:"لِمَ لَا", uz:"Nega." },
+    { ar:"تُحَاوِلُ تَشْغِيلَهُ", uz:"Uni ishga tushirib ko'rmaysan?" }
+  ],
+  full_uz:"Fire, nega uni ishga tushirib ko'rmaysan?",
+  note:null
+},
+{
+  num:31,
+  time:"00:01:17,099 --> 00:01:19,620",
+  arabic:"عِنْدَمَا يَصِلُونَ سَيَقْرَعُونَهُ.",
+  segs:[
+    { ar:"عِنْدَمَا يَصِلُونَ", uz:"Ular kelishganda." },
+    { ar:"سَيَقْرَعُونَهُ", uz:"Uni chalishadi." }
+  ],
+  full_uz:"Ular kelishganda qo'ng'iroqni chalishadi.",
+  note:null
+},
+
+{
+  num:32,
+  time:"00:01:19,620 --> 00:01:24,040",
+  arabic:"لِمَاذَا؟ وَلِمَاذَا لَا يَدْخُلُونَ كَالْعَادَةِ خِلَالَ ثُقْبِ الْمِفْتَاحِ؟",
+  segs:[
+    { ar:"لِمَاذَا", uz:"Nega?" },
+    { ar:"وَلِمَاذَا لَا يَدْخُلُونَ", uz:"Nega ular kirmaydilar?" },
+    { ar:"كَالْعَادَةِ", uz:"Har doimgidek." },
+    { ar:"خِلَالَ ثُقْبِ الْمِفْتَاحِ", uz:"Kalit teshigidan." }
+  ],
+  full_uz:"Nega? Nega ular har doimgidek kalit teshigidan kirishmaydi?",
+  note:null
+},
+
+{
+  num:33,
+  time:"00:01:24,040 --> 00:01:28,080",
+  arabic:"مُسْتَحِيلٌ، الْأَمْرُ لَيْسَ بِتِلْكَ الْبَسَاطَةِ، فَالْيَوْمَ هُمْ ضُيُوفُنَا.",
+  segs:[
+    { ar:"مُسْتَحِيلٌ", uz:"Mumkin emas." },
+    { ar:"الْأَمْرُ لَيْسَ بِتِلْكَ الْبَسَاطَةِ", uz:"Bu ish buncha oddiy emas." },
+    { ar:"فَالْيَوْمَ", uz:"Chunki bugun." },
+    { ar:"هُمْ ضُيُوفُنَا", uz:"Ular bizning mehmonlarimiz." }
+  ],
+  full_uz:"Mumkin emas. Bu ish buncha oddiy emas, chunki bugun ular bizning mehmonlarimiz.",
+  note:null
+},
+
+{
+  num:34,
+  time:"00:01:28,080 --> 00:01:33,280",
+  arabic:"آهْ، يَقْرَعُ الضُّيُوفُ الْجَرَسَ فَيَقُومُ الْمُضِيفُونَ بِإِدْخَالِهِمْ.",
+  segs:[
+    { ar:"آهْ", uz:"Ha-a." },
+    { ar:"يَقْرَعُ الضُّيُوفُ الْجَرَسَ", uz:"Mehmonlar qo'ng'iroqni chalishadi." },
+    { ar:"فَيَقُومُ الْمُضِيفُونَ بِإِدْخَالِهِمْ", uz:"Mezbonlar esa ularni ichkariga kiritishadi." }
+  ],
+  full_uz:"Ha-a, mehmonlar qo'ng'iroqni chalishadi, mezbonlar esa ularni ichkariga kiritishadi.",
+  note:null
+},
+
+{
+  num:35,
+  time:"00:01:33,280 --> 00:01:36,140",
+  arabic:"إِنَّهُ لَا يَرِنُّ.",
+  segs:[
+    { ar:"إِنَّهُ", uz:"U." },
+    { ar:"لَا يَرِنُّ", uz:"Jiringlamayapti." }
+  ],
+  full_uz:"U jiringlamayapti.",
+  note:"SRTda 'إنه لايرين' yozilgan, to'g'ri shakli 'إنه لا يرن'."
+},
+
+{
+  num:36,
+  time:"00:01:36,140 --> 00:01:38,040",
+  arabic:"هَلْ تَظُنُّ أَنَّهُ مُعَطَّلٌ؟",
+  segs:[
+    { ar:"هَلْ تَظُنُّ", uz:"Seningcha." },
+    { ar:"أَنَّهُ مُعَطَّلٌ", uz:"U buzilganmi?" }
+  ],
+  full_uz:"Seningcha u buzilganmi?",
+  note:null
+},
+
+{
+  num:37,
+  time:"00:01:38,840 --> 00:01:39,920",
+  arabic:"هَيَّا بِنَا نُصْلِحْهُ.",
+  segs:[
+    { ar:"هَيَّا بِنَا", uz:"Qani ketdik." },
+    { ar:"نُصْلِحْهُ", uz:"Uni tuzatamiz." }
+  ],
+  full_uz:"Qani, uni tuzatamiz.",
+  note:null
+},
+
+{
+  num:38,
+  time:"00:01:39,920 --> 00:01:43,040",
+  arabic:"قَبْلَ أَنْ نُصْلِحَ أَيَّ شَيْءٍ عَلَيْنَا أَنْ نَعْرِفَ مُشْكِلَتَهُ.",
+  segs:[
+    { ar:"قَبْلَ أَنْ نُصْلِحَ", uz:"Tuzatishdan oldin." },
+    { ar:"أَيَّ شَيْءٍ", uz:"Har qanday narsani." },
+    { ar:"عَلَيْنَا أَنْ نَعْرِفَ مُشْكِلَتَهُ", uz:"Muammosini bilishimiz kerak." }
+  ],
+  full_uz:"Har qanday narsani tuzatishdan oldin uning muammosini bilishimiz kerak.",
+  note:null
+},
+
+{
+  num:39,
+  time:"00:01:43,600 --> 00:01:46,040",
+  arabic:"نُصْلِحُهُ أَوَّلًا فَنَعْرِفُ الْعُطْلَ.",
+  segs:[
+    { ar:"نُصْلِحُهُ أَوَّلًا", uz:"Avval uni tuzatamiz." },
+    { ar:"فَنَعْرِفُ الْعُطْلَ", uz:"Keyin nosozligini bilamiz." }
+  ],
+  full_uz:"Avval uni tuzatamiz, keyin nosozligini bilamiz.",
+  note:null
+},
+
+{
+  num:40,
+  time:"00:01:47,000 --> 00:01:53,260",
+  arabic:"فِي الْمَاضِي كَانَ النَّاسُ يُعَلِّقُونَ جَرَسًا عَلَى أَبْوَابِهِمْ بِالْحَبْلِ.",
+  segs:[
+    { ar:"فِي الْمَاضِي", uz:"Ilgari." },
+    { ar:"كَانَ النَّاسُ يُعَلِّقُونَ", uz:"Odamlar osib qo'yishardi." },
+    { ar:"جَرَسًا عَلَى أَبْوَابِهِمْ", uz:"Eshiklariga qo'ng'iroqni." },
+    { ar:"بِالْحَبْلِ", uz:"Arqon bilan." }
+  ],
+  full_uz:"Ilgari odamlar eshiklariga arqonli qo'ng'iroq osib qo'yishardi.",
+  note:null
+},
+{
+  num:41,
+  time:"00:01:53,260 --> 00:01:56,300",
+  arabic:"وَكَانَ الضُّيُوفُ يَسْحَبُونَ الْحَبْلَ فَيَرِنُّ الْجَرَسُ.",
+  segs:[
+    { ar:"وَكَانَ الضُّيُوفُ", uz:"Mehmonlar esa." },
+    { ar:"يَسْحَبُونَ الْحَبْلَ", uz:"Arqonni tortishardi." },
+    { ar:"فَيَرِنُّ الْجَرَسُ", uz:"Shunda qo'ng'iroq jiringlardi." }
+  ],
+  full_uz:"Mehmonlar arqonni tortishardi va qo'ng'iroq jiringlardi.",
+  note:null
+},
+
+{
+  num:42,
+  time:"00:01:56,300 --> 00:02:01,040",
+  arabic:"الْيَوْمَ الْأَجْرَاسُ كَهْرَبَائِيَّةٌ وَتُصْدِرُ أَنْوَاعًا مُخْتَلِفَةً مِنَ الْأَصْوَاتِ.",
+  segs:[
+    { ar:"الْيَوْمَ", uz:"Hozir." },
+    { ar:"الْأَجْرَاسُ كَهْرَبَائِيَّةٌ", uz:"Qo'ng'iroqlar elektr bilan ishlaydi." },
+    { ar:"وَتُصْدِرُ", uz:"Va chiqaradi." },
+    { ar:"أَنْوَاعًا مُخْتَلِفَةً مِنَ الْأَصْوَاتِ", uz:"Turli xil tovushlarni." }
+  ],
+  full_uz:"Hozir qo'ng'iroqlar elektr bilan ishlaydi va turli xil tovushlarni chiqaradi.",
+  note:null
+},
+
+{
+  num:43,
+  time:"00:02:01,040 --> 00:02:05,580",
+  arabic:"بَعْضُهَا يَطِنُّ وَبَعْضُهَا يَرِنُّ وَبَعْضُهَا يُزَقْزِقُ كَالْعَصَافِيرِ.",
+  segs:[
+    { ar:"بَعْضُهَا يَطِنُّ", uz:"Ba'zilari g'uvillaydi." },
+    { ar:"وَبَعْضُهَا يَرِنُّ", uz:"Ba'zilari jiringlaydi." },
+    { ar:"وَبَعْضُهَا يُزَقْزِقُ كَالْعَصَافِيرِ", uz:"Ba'zilari esa qushlardek sayraydi." }
+  ],
+  full_uz:"Ba'zilari g'uvillaydi, ba'zilari jiringlaydi, yana ba'zilari qushlardek sayraydi.",
+  note:null
+},
+
+{
+  num:44,
+  time:"00:02:05,580 --> 00:02:08,480",
+  arabic:"يَأْتِي الصَّوْتُ مِنْ صُنْدُوقٍ يُوضَعُ دَاخِلَ الْمَنْزِلِ.",
+  segs:[
+    { ar:"يَأْتِي الصَّوْتُ", uz:"Tovush keladi." },
+    { ar:"مِنْ صُنْدُوقٍ", uz:"Bir qutidan." },
+    { ar:"يُوضَعُ دَاخِلَ الْمَنْزِلِ", uz:"Uy ichiga o'rnatilgan." }
+  ],
+  full_uz:"Tovush uy ichiga o'rnatilgan qutidan chiqadi.",
+  note:null
+},
+
+{
+  num:45,
+  time:"00:02:08,480 --> 00:02:11,840",
+  arabic:"وَكَيْ يَرِنَّ عَلَيْكَ أَنْ تَكْبِسَ زِرًّا يَقَعُ فِي الْخَارِجِ.",
+  segs:[
+    { ar:"وَكَيْ يَرِنَّ", uz:"Jiringlashi uchun." },
+    { ar:"عَلَيْكَ أَنْ تَكْبِسَ زِرًّا", uz:"Tugmani bosishing kerak." },
+    { ar:"يَقَعُ فِي الْخَارِجِ", uz:"U tashqarida joylashgan." }
+  ],
+  full_uz:"Jiringlashi uchun tashqarida joylashgan tugmani bosishing kerak.",
+  note:null
+},
+
+{
+  num:46,
+  time:"00:02:11,840 --> 00:02:14,280",
+  arabic:"يَعْمَلُ هَذَا الزِّرُّ كَمِفْتَاحِ الْإِضَاءَةِ.",
+  segs:[
+    { ar:"يَعْمَلُ هَذَا الزِّرُّ", uz:"Bu tugma ishlaydi." },
+    { ar:"كَمِفْتَاحِ الْإِضَاءَةِ", uz:"Chiroq kaliti kabi." }
+  ],
+  full_uz:"Bu tugma chiroq kaliti kabi ishlaydi.",
+  note:null
+},
+
+{
+  num:47,
+  time:"00:02:14,280 --> 00:02:17,460",
+  arabic:"لَكِنْ بَدَلَ أَنْ يُشَغِّلَ مِصْبَاحًا يُشَغِّلُ صَوْتًا.",
+  segs:[
+    { ar:"لَكِنْ", uz:"Lekin." },
+    { ar:"بَدَلَ أَنْ يُشَغِّلَ مِصْبَاحًا", uz:"Chiroqni yoqish o'rniga." },
+    { ar:"يُشَغِّلُ صَوْتًا", uz:"Tovushni ishga tushiradi." }
+  ],
+  full_uz:"Lekin chiroqni yoqish o'rniga tovushni ishga tushiradi.",
+  note:null
+},
+
+{
+  num:49,
+  time:"00:02:17,460 --> 00:02:23,240",
+  arabic:"فَايَرْ، هَلْ تُسَاعِدُنِي؟",
+  segs:[
+    { ar:"فَايَرْ", uz:"Fire." },
+    { ar:"هَلْ تُسَاعِدُنِي", uz:"Menga yordam berasanmi?" }
+  ],
+  full_uz:"Fire, menga yordam berasanmi?",
+  note:"SRTdagi 'فرد' so'zi kontekstga ko'ra 'فاير' deb tuzatildi."
+},
+
+{
+  num:51,
+  time:"00:02:23,240 --> 00:02:29,200",
+  arabic:"عَلَيَّ أَنْ أُفَكِّرَ فِي هَذَا.",
+  segs:[
+    { ar:"عَلَيَّ", uz:"Men." },
+    { ar:"أَنْ أُفَكِّرَ", uz:"O'ylab ko'rishim kerak." },
+    { ar:"فِي هَذَا", uz:"Bu haqida." }
+  ],
+  full_uz:"Bu haqda o'ylab ko'rishim kerak.",
+  note:null
+},
+
+{
+  num:54,
+  time:"00:02:32,780 --> 00:02:35,520",
+  arabic:"هَلْ تَظُنِّينَ أَنَّ ضُيُوفَكِ سَيَأْتُونَ؟",
+  segs:[
+    { ar:"هَلْ تَظُنِّينَ", uz:"Seningcha." },
+    { ar:"أَنَّ ضُيُوفَكِ", uz:"Mehmonlaring." },
+    { ar:"سَيَأْتُونَ", uz:"Kelishadimi?" }
+  ],
+  full_uz:"Seningcha mehmonlaring kelishadimi?",
+  note:null
+},
+
+{
+  num:56,
+  time:"00:02:37,060 --> 00:02:38,820",
+  arabic:"جُولَا، أَهْلًا.",
+  segs:[
+    { ar:"جُولَا", uz:"Jula." },
+    { ar:"أَهْلًا", uz:"Xush kelibsiz." }
+  ],
+  full_uz:"Jula, xush kelibsiz.",
+  note:null
+},
+
+{
+  num:57,
+  time:"00:02:38,820 --> 00:02:41,840",
+  arabic:"إِنَّ الْجَرَسَ لَا يَعْمَلُ، لَا شَكَّ أَنَّهُ مُعَطَّلٌ.",
+  segs:[
+    { ar:"إِنَّ الْجَرَسَ لَا يَعْمَلُ", uz:"Qo'ng'iroq ishlamayapti." },
+    { ar:"لَا شَكَّ", uz:"Shubhasiz." },
+    { ar:"أَنَّهُ مُعَطَّلٌ", uz:"U buzilgan." }
+  ],
+  full_uz:"Qo'ng'iroq ishlamayapti, shubhasiz u buzilgan.",
+  note:null
+},
+
+{
+  num:58,
+  time:"00:02:41,840 --> 00:02:44,740",
+  arabic:"غَرِيبٌ، سَمِعْنَاهُ يَرِنُّ صَبَاحًا.",
+  segs:[
+    { ar:"غَرِيبٌ", uz:"Qiziq." },
+    { ar:"سَمِعْنَاهُ يَرِنُّ", uz:"Uni jiringlaganini eshitgandik." },
+    { ar:"صَبَاحًا", uz:"Ertalab." }
+  ],
+  full_uz:"Qiziq, ertalab uning jiringlaganini eshitgandik.",
+  note:null
+},
+
+{
+  num:59,
+  time:"00:02:44,740 --> 00:02:46,219",
+  arabic:"نُولِيكْ، لِنَذْهَبْ.",
+  segs:[
+    { ar:"نُولِيكْ", uz:"Nolik." },
+    { ar:"لِنَذْهَبْ", uz:"Ketdik." }
+  ],
+  full_uz:"Nolik, ketdik.",
+  note:null
+},
+
+{
+  num:60,
+  time:"00:02:46,219 --> 00:02:50,640",
+  arabic:"أَوَّلًا سَنَفْحَصُ الْأَسْلَاكَ.",
+  segs:[
+    { ar:"أَوَّلًا", uz:"Avval." },
+    { ar:"سَنَفْحَصُ", uz:"Tekshiramiz." },
+    { ar:"الْأَسْلَاكَ", uz:"Simlarni." }
+  ],
+  full_uz:"Avval simlarni tekshiramiz.",
+  note:null
+},
+{
+  num:61,
+  time:"00:02:50,639 --> 00:02:55,879",
+  arabic:"إِنَّهَا مَشْدُودَةٌ.",
+  segs:[
+    { ar:"إِنَّهَا", uz:"Ular." },
+    { ar:"مَشْدُودَةٌ", uz:"Yaxshi mahkamlangan." }
+  ],
+  full_uz:"Ular yaxshi mahkamlangan.",
+  note:null
+},
+
+{
+  num:62,
+  time:"00:02:55,879 --> 00:02:58,019",
+  arabic:"حَسَنًا، إِلَى مُكَبِّرِ الصَّوْتِ.",
+  segs:[
+    { ar:"حَسَنًا", uz:"Xo'p." },
+    { ar:"إِلَى مُكَبِّرِ الصَّوْتِ", uz:"Endi karnayni tekshiramiz." }
+  ],
+  full_uz:"Xo'p, endi karnayni tekshiramiz.",
+  note:null
+},
+
+{
+  num:63,
+  time:"00:02:58,019 --> 00:03:04,219",
+  arabic:"حَالُهُ جَيِّدٌ.",
+  segs:[
+    { ar:"حَالُهُ", uz:"Uning holati." },
+    { ar:"جَيِّدٌ", uz:"Yaxshi." }
+  ],
+  full_uz:"Uning holati yaxshi.",
+  note:null
+},
+
+{
+  num:64,
+  time:"00:03:04,219 --> 00:03:06,719",
+  arabic:"لَعَلَّهَا الْقِطَعُ الْإِلِكْتُرُونِيَّةُ.",
+  segs:[
+    { ar:"لَعَلَّهَا", uz:"Balki." },
+    { ar:"الْقِطَعُ الْإِلِكْتُرُونِيَّةُ", uz:"Elektron qismlardandir." }
+  ],
+  full_uz:"Balki muammo elektron qismlardadir.",
+  note:null
+},
+
+{
+  num:65,
+  time:"00:03:06,719 --> 00:03:10,419",
+  arabic:"مَا رَأْيُكَ أَنْ نَفْصِلَ الْأَسْلَاكَ وَنُبَادِلَهَا؟",
+  segs:[
+    { ar:"مَا رَأْيُكَ", uz:"Nima deysan?" },
+    { ar:"أَنْ نَفْصِلَ الْأَسْلَاكَ", uz:"Simlarni ajratsak." },
+    { ar:"وَنُبَادِلَهَا", uz:"Va o'rnini almashtirsak." }
+  ],
+  full_uz:"Nima deysan, simlarni ajratib, o'rnini almashtirsak?",
+  note:null
+},
+
+{
+  num:66,
+  time:"00:03:10,419 --> 00:03:11,699",
+  arabic:"مَاذَا سَيَحْدُثُ؟",
+  segs:[
+    { ar:"مَاذَا", uz:"Nima." },
+    { ar:"سَيَحْدُثُ", uz:"Bo'ladi?" }
+  ],
+  full_uz:"Nima bo'ladi?",
+  note:null
+},
+
+{
+  num:67,
+  time:"00:03:11,699 --> 00:03:12,579",
+  arabic:"سَنَعْرِفُ الْآنَ.",
+  segs:[
+    { ar:"سَنَعْرِفُ", uz:"Bilamiz." },
+    { ar:"الْآنَ", uz:"Hozir." }
+  ],
+  full_uz:"Hozir bilamiz.",
+  note:null
+},
+
+{
+  num:69,
+  time:"00:03:20,639 --> 00:03:25,139",
+  arabic:"أَتَعْرِفِينَ؟",
+  segs:null,
+  full_uz:"Bilasizlarmi?",
+  note:null
+},
+
+{
+  num:70,
+  time:"00:03:25,139 --> 00:03:27,399",
+  arabic:"لِمَاذَا لَا نَصِلُ هَذِهِ الْأَسْلَاكَ مَعًا؟",
+  segs:[
+    { ar:"لِمَاذَا لَا", uz:"Nega." },
+    { ar:"نَصِلُ هَذِهِ الْأَسْلَاكَ مَعًا", uz:"Bu simlarni bir-biriga ulab qo'ymaymiz?" }
+  ],
+  full_uz:"Nega bu simlarni bir-biriga ulab qo'ymaymiz?",
+  note:null
+},
+{
+  num:71,
+  time:"00:03:27,399 --> 00:03:29,279",
+  arabic:"أَلَيْسَ ذَلِكَ خَطِيرًا؟",
+  segs:[
+    { ar:"أَلَيْسَ", uz:"Nahotki." },
+    { ar:"ذَلِكَ", uz:"Bu." },
+    { ar:"خَطِيرًا", uz:"Xavfli bo'lsa?" }
+  ],
+  full_uz:"Bu xavfli emasmi?",
+  note:null
+},
+
+{
+  num:72,
+  time:"00:03:29,279 --> 00:03:30,399",
+  arabic:"سَنَعْرِفُ ذَلِكَ.",
+  segs:[
+    { ar:"سَنَعْرِفُ", uz:"Bilamiz." },
+    { ar:"ذَلِكَ", uz:"Buni." }
+  ],
+  full_uz:"Buni bilib olamiz.",
+  note:null
+},
+
+{
+  num:73,
+  time:"00:03:30,399 --> 00:03:33,579",
+  arabic:"لَا تَقْلَقِي، لَمْ يَحْدُثْ شَيْءٌ بَعْدُ.",
+  segs:[
+    { ar:"لَا تَقْلَقِي", uz:"Xavotir olma." },
+    { ar:"لَمْ يَحْدُثْ شَيْءٌ", uz:"Hech narsa bo'lmadi." },
+    { ar:"بَعْدُ", uz:"Hali." }
+  ],
+  full_uz:"Xavotir olma, hali hech narsa bo'lmadi.",
+  note:null
+},
+
+{
+  num:74,
+  time:"00:03:33,579 --> 00:03:39,419",
+  arabic:"فَايَرْ هُوَ مُحَرِّكُ صَفِّنَا.",
+  segs:[
+    { ar:"فَايَرْ", uz:"Fire." },
+    { ar:"هُوَ", uz:"U." },
+    { ar:"مُحَرِّكُ صَفِّنَا", uz:"Sinfimizning harakatlantiruvchi kuchidir." }
+  ],
+  full_uz:"Fire sinfimizning harakatlantiruvchi kuchidir.",
+  note:null
+},
+
+{
+  num:75,
+  time:"00:03:39,419 --> 00:03:42,539",
+  arabic:"هُوَ الْأَسْرَعُ وَالْأَرْشَقُ وَالْأَشْجَعُ.",
+  segs:[
+    { ar:"هُوَ الْأَسْرَعُ", uz:"U eng tezkor." },
+    { ar:"وَالْأَرْشَقُ", uz:"Eng chaqqon." },
+    { ar:"وَالْأَشْجَعُ", uz:"Va eng jasur." }
+  ],
+  full_uz:"U eng tezkor, eng chaqqon va eng jasur.",
+  note:null
+},
+
+{
+  num:76,
+  time:"00:03:42,539 --> 00:03:46,239",
+  arabic:"لَا يَلْزَمُ فَايَرْ مَكَانَهُ ثَانِيَةً وَاحِدَةً.",
+  segs:[
+    { ar:"لَا يَلْزَمُ", uz:"Bir joyda turmaydi." },
+    { ar:"فَايَرْ", uz:"Fire." },
+    { ar:"مَكَانَهُ", uz:"O'z o'rnida." },
+    { ar:"ثَانِيَةً وَاحِدَةً", uz:"Bir soniya ham." }
+  ],
+  full_uz:"Fire bir soniya ham bir joyda turmaydi.",
+  note:null
+},
+
+{
+  num:77,
+  time:"00:03:46,239 --> 00:03:48,539",
+  arabic:"وَمُسْتَعِدٌّ دَائِمًا لِلْمُغَامَرَةِ.",
+  segs:[
+    { ar:"وَمُسْتَعِدٌّ دَائِمًا", uz:"Doimo tayyor." },
+    { ar:"لِلْمُغَامَرَةِ", uz:"Sarguzasht uchun." }
+  ],
+  full_uz:"U doimo sarguzashtga tayyor.",
+  note:null
+},
+
+{
+  num:78,
+  time:"00:03:48,539 --> 00:03:51,019",
+  arabic:"الْأَفْكَارُ تَحْتَرِقُ فِي رَأْسِهِ.",
+  segs:[
+    { ar:"الْأَفْكَارُ", uz:"G'oyalar." },
+    { ar:"تَحْتَرِقُ", uz:"Lovullaydi." },
+    { ar:"فِي رَأْسِهِ", uz:"Uning boshida." }
+  ],
+  full_uz:"Uning boshida g'oyalar lovullab turadi.",
+  note:null
+},
+
+{
+  num:79,
+  time:"00:03:51,019 --> 00:03:52,900",
+  arabic:"وَلِهَذَا اسْمُهُ فَايَرْ.",
+  segs:[
+    { ar:"وَلِهَذَا", uz:"Shuning uchun." },
+    { ar:"اسْمُهُ فَايَرْ", uz:"Uning nomi Fire." }
+  ],
+  full_uz:"Shuning uchun uning nomi Fire.",
+  note:null
+},
+
+{
+  num:80,
+  time:"00:03:52,900 --> 00:03:56,379",
+  arabic:"وَلَكِنْ لَيْسَتْ كُلُّ أَفْكَارِهِ جَيِّدَةً.",
+  segs:[
+    { ar:"وَلَكِنْ", uz:"Lekin." },
+    { ar:"لَيْسَتْ كُلُّ أَفْكَارِهِ", uz:"Uning hamma g'oyalari ham." },
+    { ar:"جَيِّدَةً", uz:"Yaxshi emas." }
+  ],
+  full_uz:"Lekin uning hamma g'oyalari ham yaxshi emas.",
+  note:null
+},
+{
+  num:81,
+  time:"00:03:56,379 --> 00:03:59,699",
+  arabic:"وَلِهَذَا يَتَلَقَّى دَائِمًا الْكَدَمَاتِ وَالتَّوْبِيخَاتِ.",
+  segs:[
+    { ar:"وَلِهَذَا", uz:"Shuning uchun." },
+    { ar:"يَتَلَقَّى دَائِمًا", uz:"Doimo duch keladi." },
+    { ar:"الْكَدَمَاتِ", uz:"Ko'karishlarga." },
+    { ar:"وَالتَّوْبِيخَاتِ", uz:"Va tanbehlarga." }
+  ],
+  full_uz:"Shuning uchun u doimo ko'karishlar va tanbehlarga duch keladi.",
+  note:"SRTdagi 'الردود' kontekstga ko'ra 'التوبيخات' shaklida tuzatildi."
+},
+
+{
+  num:82,
+  time:"00:03:59,699 --> 00:04:02,539",
+  arabic:"وَمَعَ ذَلِكَ يَبْقَى دَائِمَ الْحَمَاسَةِ.",
+  segs:[
+    { ar:"وَمَعَ ذَلِكَ", uz:"Shunga qaramay." },
+    { ar:"يَبْقَى", uz:"U qoladi." },
+    { ar:"دَائِمَ الْحَمَاسَةِ", uz:"Doimo g'ayratli." }
+  ],
+  full_uz:"Shunga qaramay u doimo g'ayratli bo'lib qoladi.",
+  note:null
+},
+
+{
+  num:83,
+  time:"00:04:02,539 --> 00:04:04,519",
+  arabic:"وَإِنْ كَانَ يُحْرِقُ فِكْرَةً مَا.",
+  segs:[
+    { ar:"وَإِنْ كَانَ", uz:"Agar u." },
+    { ar:"يُحْرِقُ", uz:"Berilib ketsa." },
+    { ar:"فِكْرَةً مَا", uz:"Biror g'oyaga." }
+  ],
+  full_uz:"Agar u biror g'oyaga berilib ketsa.",
+  note:null
+},
+
+{
+  num:84,
+  time:"00:04:04,519 --> 00:04:06,539",
+  arabic:"فَقَدْ يَنْسَى حِصَصَهُ فِي الْمَدْرَسَةِ.",
+  segs:[
+    { ar:"فَقَدْ يَنْسَى", uz:"U unutib qo'yishi mumkin." },
+    { ar:"حِصَصَهُ", uz:"Darslarini." },
+    { ar:"فِي الْمَدْرَسَةِ", uz:"Maktabdagi." }
+  ],
+  full_uz:"U hatto maktabdagi darslarini ham unutib qo'yishi mumkin.",
+  note:null
+},
+
+{
+  num:85,
+  time:"00:04:07,159 --> 00:04:09,639",
+  arabic:"يُعَاقِبُهُ جْرَانْدْ بُوسْ عَلَى ذَلِكَ.",
+  segs:[
+    { ar:"يُعَاقِبُهُ", uz:"Uni jazolaydi." },
+    { ar:"جْرَانْدْ بُوسْ", uz:"Grand Boss." },
+    { ar:"عَلَى ذَلِكَ", uz:"Shu sababli." }
+  ],
+  full_uz:"Grand Boss uni shu sababli jazolaydi.",
+  note:null
+},
+
+{
+  num:86,
+  time:"00:04:09,639 --> 00:04:12,019",
+  arabic:"وَلَكِنَّ ذَلِكَ لَا يُزْعِجُ فَايَرْ.",
+  segs:[
+    { ar:"وَلَكِنَّ", uz:"Lekin." },
+    { ar:"ذَلِكَ لَا يُزْعِجُ", uz:"Bu bezovta qilmaydi." },
+    { ar:"فَايَرْ", uz:"Fireni." }
+  ],
+  full_uz:"Lekin bu Fireni bezovta qilmaydi.",
+  note:null
+},
+
+{
+  num:87,
+  time:"00:04:12,019 --> 00:04:16,539",
+  arabic:"لِأَنَّ خُطَّةً جَدِيدَةً سَتَنْبُثُقُ دَاخِلَ رَأْسِهِ فِي الثَّانِيَةِ الْمُقْبِلَةِ.",
+  segs:[
+    { ar:"لِأَنَّ", uz:"Chunki." },
+    { ar:"خُطَّةً جَدِيدَةً", uz:"Yangi reja." },
+    { ar:"سَتَنْبُثُقُ", uz:"Paydo bo'ladi." },
+    { ar:"دَاخِلَ رَأْسِهِ", uz:"Uning xayolida." },
+    { ar:"فِي الثَّانِيَةِ الْمُقْبِلَةِ", uz:"Keyingi soniyaning o'zida." }
+  ],
+  full_uz:"Chunki keyingi soniyaning o'zidayoq uning xayolida yangi reja paydo bo'ladi.",
+  note:null
+},
+
+{
+  num:88,
+  time:"00:04:17,100 --> 00:04:21,220",
+  arabic:"بِصَرَاحَةٍ، فَايَرْ هُوَ الْمُفَضَّلُ مِنْ بَيْنِ كُلِّ الطُّلَّابِ.",
+  segs:[
+    { ar:"بِصَرَاحَةٍ", uz:"Rostini aytsam." },
+    { ar:"فَايَرْ", uz:"Fire." },
+    { ar:"هُوَ الْمُفَضَّلُ", uz:"Eng sevimli." },
+    { ar:"مِنْ بَيْنِ كُلِّ الطُّلَّابِ", uz:"Barcha o'quvchilar orasida." }
+  ],
+  full_uz:"Rostini aytsam, Fire barcha o'quvchilar orasida eng sevimlisidir.",
+  note:null
+},
+
+{
+  num:89,
+  time:"00:04:21,220 --> 00:04:23,900",
+  arabic:"لَنْ تَشْعُرَ بِالْمَلَلِ وَهُوَ قَرِيبٌ.",
+  segs:[
+    { ar:"لَنْ تَشْعُرَ", uz:"Hech qachon his qilmaysan." },
+    { ar:"بِالْمَلَلِ", uz:"Zerikishni." },
+    { ar:"وَهُوَ قَرِيبٌ", uz:"U yoningda bo'lsa." }
+  ],
+  full_uz:"U yoningda bo'lsa, hech qachon zerikmaysan.",
+  note:null
+},
+
+{
+  num:90,
+  time:"00:04:23,900 --> 00:04:29,200",
+  arabic:"أَنْتُمَا فِي الْأَسْفَلِ.",
+  segs:[
+    { ar:"أَنْتُمَا", uz:"Siz ikkovingiz." },
+    { ar:"فِي الْأَسْفَلِ", uz:"Pastdasizlar." }
+  ],
+  full_uz:"Siz ikkovingiz pastdasizlar.",
+  note:null
+},
+{
+  num:91,
+  time:"00:04:29,200 --> 00:04:31,700",
+  arabic:"لَقَدِ اكْتَشَفْتُ لِمَاذَا لَا يَعْمَلُ.",
+  segs:[
+    { ar:"لَقَدِ اكْتَشَفْتُ", uz:"Men aniqladim." },
+    { ar:"لِمَاذَا", uz:"Nima uchun." },
+    { ar:"لَا يَعْمَلُ", uz:"Ishlamayotganini." }
+  ],
+  full_uz:"Nima uchun ishlamayotganini aniqladim.",
+  note:null
+},
+
+{
+  num:92,
+  time:"00:04:31,700 --> 00:04:33,560",
+  arabic:"أَخْبِرْنَا لِمَاذَا لَا يَعْمَلُ.",
+  segs:[
+    { ar:"أَخْبِرْنَا", uz:"Bizga ayt." },
+    { ar:"لِمَاذَا", uz:"Nima uchun." },
+    { ar:"لَا يَعْمَلُ", uz:"Ishlamayapti." }
+  ],
+  full_uz:"Bizga nima uchun ishlamayotganini ayt.",
+  note:null
+},
+
+{
+  num:93,
+  time:"00:04:33,560 --> 00:04:35,500",
+  arabic:"مَا مِنْ كَهْرَبَاءَ فِي كُلِّ الْبَيْتِ.",
+  segs:[
+    { ar:"مَا مِنْ كَهْرَبَاءَ", uz:"Elektr yo'q." },
+    { ar:"فِي كُلِّ الْبَيْتِ", uz:"Butun uyda." }
+  ],
+  full_uz:"Butun uyda elektr yo'q.",
+  note:null
+},
+
+{
+  num:94,
+  time:"00:04:35,500 --> 00:04:37,840",
+  arabic:"لِهَذَا السَّبَبِ لَا يَعْمَلُ الْجَرَسُ.",
+  segs:[
+    { ar:"لِهَذَا السَّبَبِ", uz:"Shu sababli." },
+    { ar:"لَا يَعْمَلُ", uz:"Ishlamayapti." },
+    { ar:"الْجَرَسُ", uz:"Qo'ng'iroq." }
+  ],
+  full_uz:"Shu sababli qo'ng'iroq ishlamayapti.",
+  note:null
+},
+
+{
+  num:95,
+  time:"00:04:37,840 --> 00:04:40,480",
+  arabic:"مَاذَا إِذًا؟",
+  segs:[
+    { ar:"مَاذَا", uz:"Nima?" },
+    { ar:"إِذًا", uz:"Unda." }
+  ],
+  full_uz:"Unda nima qilamiz?",
+  note:null
+},
+
+{
+  num:96,
+  time:"00:04:40,480 --> 00:04:44,340",
+  arabic:"أَلَا يُمْكِنُنَا أَنْ نَزُورَهُمْ ضُيُوفًا حَقِيقِيِّينَ حَتَّى تَعُودَ الْكَهْرَبَاءُ؟",
+  segs:[
+    { ar:"أَلَا يُمْكِنُنَا", uz:"Biz qila olmaymizmi?" },
+    { ar:"أَنْ نَزُورَهُمْ", uz:"Ularni mehmon bo'lib ziyorat qilishni." },
+    { ar:"ضُيُوفًا حَقِيقِيِّينَ", uz:"Haqiqiy mehmonlar sifatida." },
+    { ar:"حَتَّى تَعُودَ الْكَهْرَبَاءُ", uz:"Elektr kelguncha." }
+  ],
+  full_uz:"Elektr kelguncha ularni haqiqiy mehmonlar sifatida ziyorat qila olmaymizmi?",
+  note:null
+},
+
+{
+  num:97,
+  time:"00:04:44,340 --> 00:04:45,540",
+  arabic:"وَمَتَى سَتَعُودُ؟",
+  segs:[
+    { ar:"وَمَتَى", uz:"Qachon." },
+    { ar:"سَتَعُودُ", uz:"Qaytadi?" }
+  ],
+  full_uz:"Qachon qaytadi?",
+  note:null
+},
+
+{
+  num:98,
+  time:"00:04:45,540 --> 00:04:49,379",
+  arabic:"لَا أَعْلَمُ، فَقَطْ يَأْخُذُ الْأَمْرُ سَاعَاتٍ.",
+  segs:[
+    { ar:"لَا أَعْلَمُ", uz:"Bilmayman." },
+    { ar:"فَقَطْ", uz:"Faqat." },
+    { ar:"يَأْخُذُ الْأَمْرُ", uz:"Bu ish davom etadi." },
+    { ar:"سَاعَاتٍ", uz:"Bir necha soat." }
+  ],
+  full_uz:"Bilmayman, bu bir necha soat davom etishi mumkin.",
+  note:null
+},
+{
+  num:101,
+  time:"00:04:53,140 --> 00:04:59,560",
+  arabic:"كَفَى يَا فَايَرْ، كُفَّ عَنِ الْعَبَثِ.",
+  segs:[
+    { ar:"كَفَى", uz:"Bas." },
+    { ar:"يَا فَايَرْ", uz:"Fire." },
+    { ar:"كُفَّ عَنِ الْعَبَثِ", uz:"Hazillashishni bas qil." }
+  ],
+  full_uz:"Bas, Fire! Hazillashishni bas qil.",
+  note:null
+},
+
+{
+  num:102,
+  time:"00:04:59,560 --> 00:05:02,379",
+  arabic:"إِنَّهُ لَا يَعْبَثُ.",
+  segs:[
+    { ar:"إِنَّهُ", uz:"U." },
+    { ar:"لَا يَعْبَثُ", uz:"Hazillashmayapti." }
+  ],
+  full_uz:"U hazillashmayapti.",
+  note:null
+},
+
+{
+  num:103,
+  time:"00:05:02,379 --> 00:05:04,040",
+  arabic:"لَسْتُ أَنَا، أَلَا تَرَيْنَ؟",
+  segs:[
+    { ar:"لَسْتُ أَنَا", uz:"Bu men emas." },
+    { ar:"أَلَا تَرَيْنَ", uz:"Ko'rmayapsanmi?" }
+  ],
+  full_uz:"Bu men emas, ko'rmayapsanmi?",
+  note:null
+},
+
+{
+  num:104,
+  time:"00:05:04,040 --> 00:05:06,040",
+  arabic:"إِذًا مَنْ يُرِنُّهُ؟",
+  segs:[
+    { ar:"إِذًا", uz:"Unda." },
+    { ar:"مَنْ", uz:"Kim." },
+    { ar:"يُرِنُّهُ", uz:"Uni chalyapti?" }
+  ],
+  full_uz:"Unda uni kim chalyapti?",
+  note:null
+},
+
+{
+  num:105,
+  time:"00:05:06,040 --> 00:05:06,840",
+  arabic:"لَا أَعْلَمُ.",
+  segs:null,
+  full_uz:"Bilmayman.",
+  note:null
+},
+
+{
+  num:106,
+  time:"00:05:06,840 --> 00:05:12,920",
+  arabic:"أَنَا أَعْلَمُ، إِنَّ جَرَسَ الْبَابِ يَرِنُّ لِأَنَّ فَايَرْ قَامَ بِتَوْصِيلِ الْأَسْلَاكِ مَعًا.",
+  segs:[
+    { ar:"أَنَا أَعْلَمُ", uz:"Men bilaman." },
+    { ar:"إِنَّ جَرَسَ الْبَابِ يَرِنُّ", uz:"Eshik qo'ng'irog'i jiringlayapti." },
+    { ar:"لِأَنَّ فَايَرْ", uz:"Chunki Fire." },
+    { ar:"قَامَ بِتَوْصِيلِ الْأَسْلَاكِ مَعًا", uz:"Simlarni bir-biriga ulab qo'ygan." }
+  ],
+  full_uz:"Men bilaman. Eshik qo'ng'irog'i jiringlayapti, chunki Fire simlarni bir-biriga ulab qo'ygan.",
+  note:null
+},
+
+{
+  num:107,
+  time:"00:05:12,920 --> 00:05:15,320",
+  arabic:"صَحِيحٌ، سَأُصْلِحُ ذَلِكَ الْآنَ.",
+  segs:[
+    { ar:"صَحِيحٌ", uz:"To'g'ri." },
+    { ar:"سَأُصْلِحُ", uz:"Tuzataman." },
+    { ar:"ذَلِكَ الْآنَ", uz:"Hozir." }
+  ],
+  full_uz:"To'g'ri, hozir buni tuzataman.",
+  note:null
+},
+
+{
+  num:108,
+  time:"00:05:15,319 --> 00:05:19,139",
+  arabic:"هَا إِنَّ ضُيُوفَكِ مُزْعِجُونَ.",
+  segs:[
+    { ar:"هَا إِنَّ", uz:"Ana." },
+    { ar:"ضُيُوفَكِ", uz:"Mehmonlaring." },
+    { ar:"مُزْعِجُونَ", uz:"Juda bezor qilishyapti." }
+  ],
+  full_uz:"Ana, mehmonlaring juda bezor qilishyapti.",
+  note:null
+},
+
+{
+  num:109,
+  time:"00:05:19,139 --> 00:05:22,920",
+  arabic:"أَجَلْ، الْحَمْدُ لِلَّهِ أَنَّ الْبَشَرَ لَيْسُوا فِي الْمَنْزِلِ.",
+  segs:[
+    { ar:"أَجَلْ", uz:"Ha." },
+    { ar:"الْحَمْدُ لِلَّهِ", uz:"Xudoga shukr." },
+    { ar:"أَنَّ الْبَشَرَ", uz:"Odamlar." },
+    { ar:"لَيْسُوا فِي الْمَنْزِلِ", uz:"Uyda emas." }
+  ],
+  full_uz:"Ha, Xudoga shukrki, odamlar uyda emas.",
+  note:null
+},
+{
+  num:111,
+  time:"00:05:24,120 --> 00:05:26,219",
+  arabic:"مَرْحَبًا بِضُيُوفِنَا الْأَعِزَّاءِ.",
+  segs:[
+    { ar:"مَرْحَبًا", uz:"Xush kelibsiz." },
+    { ar:"بِضُيُوفِنَا", uz:"Aziz mehmonlarimiz." },
+    { ar:"الْأَعِزَّاءِ", uz:"Qadrli." }
+  ],
+  full_uz:"Aziz mehmonlarimiz, xush kelibsiz.",
+  note:null
+},
+
+{
+  num:112,
+  time:"00:05:26,219 --> 00:05:28,500",
+  arabic:"ادْخُلُوا إِلَى الْمَنْزِلِ مِنْ خِلَالِ الْفَتْحَةِ.",
+  segs:[
+    { ar:"ادْخُلُوا", uz:"Kiringlar." },
+    { ar:"إِلَى الْمَنْزِلِ", uz:"Uyga." },
+    { ar:"مِنْ خِلَالِ الْفَتْحَةِ", uz:"Teshik orqali." }
+  ],
+  full_uz:"Uyga teshik orqali kiringlar.",
+  note:null
+},
+
+{
+  num:113,
+  time:"00:05:28,500 --> 00:05:30,000",
+  arabic:"حَسَنًا، لِنَدْخُلْ.",
+  segs:[
+    { ar:"حَسَنًا", uz:"Mayli." },
+    { ar:"لِنَدْخُلْ", uz:"Unda kiraylik." }
+  ],
+  full_uz:"Mayli, unda kiraylik.",
+  note:null
+},
+
+{
+  num:114,
+  time:"00:05:30,000 --> 00:05:30,839",
+  arabic:"إِلَى أَيْنَ؟",
+  segs:null,
+  full_uz:"Qayerga?",
+  note:null
+},
+
+{
+  num:115,
+  time:"00:05:30,839 --> 00:05:32,139",
+  arabic:"إِلَى الدَّاخِلِ.",
+  segs:[
+    { ar:"إِلَى الدَّاخِلِ", uz:"Ichkariga." }
+  ],
+  full_uz:"Ichkariga.",
+  note:null
+},
+
+{
+  num:116,
+  time:"00:05:32,139 --> 00:05:34,759",
+  arabic:"كَلَّا، لَا يَتَصَرَّفُ الضُّيُوفُ هَكَذَا.",
+  segs:[
+    { ar:"كَلَّا", uz:"Yo'q." },
+    { ar:"لَا يَتَصَرَّفُ", uz:"Bunday qilishmaydi." },
+    { ar:"الضُّيُوفُ", uz:"Mehmonlar." },
+    { ar:"هَكَذَا", uz:"Shunday." }
+  ],
+  full_uz:"Yo'q, mehmonlar bunday qilishmaydi.",
+  note:null
+},
+
+{
+  num:117,
+  time:"00:05:34,759 --> 00:05:35,939",
+  arabic:"وَمَاذَا نَفْعَلُ؟",
+  segs:[
+    { ar:"وَمَاذَا", uz:"Unda nima." },
+    { ar:"نَفْعَلُ", uz:"Qilamiz?" }
+  ],
+  full_uz:"Unda nima qilamiz?",
+  note:null
+},
+
+{
+  num:118,
+  time:"00:05:35,939 --> 00:05:37,839",
+  arabic:"الضُّيُوفُ يُرِنُّونَ جَرَسَ الْبَابِ.",
+  segs:[
+    { ar:"الضُّيُوفُ", uz:"Mehmonlar." },
+    { ar:"يُرِنُّونَ", uz:"Chalishadi." },
+    { ar:"جَرَسَ الْبَابِ", uz:"Eshik qo'ng'irog'ini." }
+  ],
+  full_uz:"Mehmonlar eshik qo'ng'irog'ini chalishadi.",
+  note:null
+},
+
+{
+  num:119,
+  time:"00:05:37,839 --> 00:05:39,959",
+  arabic:"حَسَنًا، أَمْسِكِينِي جَيِّدًا.",
+  segs:[
+    { ar:"حَسَنًا", uz:"Mayli." },
+    { ar:"أَمْسِكِينِي", uz:"Meni mahkam ushla." },
+    { ar:"جَيِّدًا", uz:"Mahkam." }
+  ],
+  full_uz:"Mayli, meni mahkam ushla.",
+  note:null
+}
+];
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}

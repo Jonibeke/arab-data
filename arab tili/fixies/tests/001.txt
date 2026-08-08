@@ -1,0 +1,423 @@
+(1) الفيكسيز يرفعون الأثقال — «Fiksiklar og'irlik ko'taradi» darsi bo'yicha test
+
+1. إِنَّهُ رَقْمٌ قِيَاسِيٌّ جَدِيدٌ فِي رَفْعِ الْأَثْقَالِ — bu jumlaning to'g'ri tarjimasi:
+A) Bu og'irlik ko'tarishda yangi rekord ✅
+B) Bu eski rekordni yangiladi
+C) Bu yengil ish emas
+D) Bu qiziqarli musobaqa
+
+2. "يَعْنِي أَنْتَ قَوِيٌّ؟" savolidan keyin matnda qanday javob keladi?
+A) نَعَمْ، قَوِيٌّ جِدّاً
+B) إِنَّهُ خَفِيفٌ جِدّاً، أَسْتَطِيعُ رَفْعَهُ بِإِصْبَعِي ✅
+C) لَا، أَنَا ضَعِيفٌ
+D) رُبَّمَا
+
+3. "بِإِصْبَعِي" so'zining ma'nosi:
+A) qo'lim bilan
+B) barmog'im bilan ✅
+C) kuchim bilan
+D) yelkam bilan
+
+4. "وَلَكِنْ هَلْ تَسْتَطِيعُ رَفْعَ تِلْكَ الدُّرُوجِ؟" jumlasiga matnda qanday javob berilgan?
+A) بِلَا رَيْبٍ سَتَرَى
+B) لَا أَعْلَمُ، لَمْ أُجَرِّبْ ✅
+C) نَعَمْ بِكُلِّ سُهُولَةٍ
+D) لَا وَقْتَ عِنْدِي لِهَذَا
+
+5. "لِمَ لَا تُجَرِّبُ؟" savoliga matnda berilgan javob:
+A) سَأُجَرِّبُ غَداً
+B) لَقَدْ أَخْفَقْتُ ✅
+C) لَا أُرِيدُ
+D) حَسَناً سَأُحَاوِلُ
+
+6. "أَخْفَقْتُ" so'zining ma'nosi qaysi?
+A) g'alaba qozondim
+B) charchadim
+C) muvaffaqiyatsizlikka uchradim ✅
+D) his qildim
+
+7. "مَعَ أَنَّكَ أَكْبَرُ بِكَثِيرٍ مِنْ تِلْكَ الدُّرُوجِ" iborasidagi "أَكْبَرُ" so'zining ma'nosi:
+A) kichikroq
+B) kattaroq ✅
+C) yengilroq
+D) og'irroq
+
+8. "أَنَا أَسْتَطِيعُ رَفْعَ قَلَمِ رَصَاصٍ مَعَ أَنِّي أَصْغَرُ مِنْهُ بِكَثِيرٍ" jumlasining to'g'ri tarjimasi:
+A) Men undan ancha kattaman, shuning uchun ko'tara olmayman
+B) Men undan ancha kichik bo'lsam ham qalamni ko'tara olaman ✅
+C) Men qalamni topa olmayapman
+D) Men qalamni sindirib qo'ydim
+
+9. "حَسَناً، مَنِ الْأَقْوَى بَيْنَنَا؟" savoliga qanday javob berilgan?
+A) أَنَا الْأَقْوَى
+B) لَسْتُ أَنَا فِيمَا أَظُنُّ ✅
+C) لَا أَحَدَ يَعْلَمُ
+D) كِلَانَا سَوَاءٌ
+
+10. "فِيمَا أَظُنُّ" iborasining ma'nosi:
+A) albatta
+B) hech qachon
+C) menimcha ✅
+D) aslida
+
+11. "رُبَّمَا الْفِيكْسِيزُ صِغَارٌ جِدّاً" jumlasidan keyingi mantiqiy davom qaysi?
+A) لَكِنَّهُمْ بِلَا شَكٍّ أَقْوَى مِنَ الْبَشَرِ ✅
+B) وَلَكِنَّهُمْ ضُعَفَاءُ جِدّاً
+C) لِذَا لَا يَسْتَطِيعُونَ شَيْئاً
+D) وَهُمْ لَا يَتَحَرَّكُونَ
+
+12. "أَنْتُمْ لَا تُصَدِّقُونَنِي؟" so'zidagi fe'l qaysi ma'noni bildiradi?
+A) siz meni sevmaysizmi
+B) siz menga ishonmayapsizmi ✅
+C) siz meni tinglamayapsizmi
+D) siz meni bilmaysizmi
+
+13. "أَيُّهُمَا أَقْوَى، الْفِيلُ أَمِ النَّمْلَةُ؟" — bu qanday turdagi savol?
+A) buyruq gap
+B) tanlov (ikkilanish) savoli — "أَمْ" bilan ✅
+C) rad etish gapi
+D) shart gapi
+
+14. "تَظُنُّونَ أَنَّهُ الْفِيلُ، حَسَناً إِنَّهُ أَكْبَرُ بِكَثِيرٍ" jumlasining to'g'ri tarjimasi:
+A) Sizlar chumoli deb o'ylaysizlar, u kichik
+B) Sizlar fil deb o'ylaysizlar, xo'sh, u ancha katta ✅
+C) Sizlar hech narsa bilmaysizlar
+D) Fil ham, chumoli ham teng
+
+15. Matn bo'yicha, bitta chumoli nechta chumolini ko'tara oladi?
+A) o'nta
+B) yigirmata
+C) ellikta ✅
+D) yuzta
+
+16. "بَيْنَمَا الْفِيلُ لَا يَسْتَطِيعُ أَنْ يَرْفَعَ فِيلاً وَاحِداً" jumlasidagi "بَيْنَمَا" so'zining vazifasi:
+A) sabab bildiradi
+B) qarama-qarshilik/vaqt bog'lovchisi ("holbuki") ✅
+C) shart bildiradi
+D) maqsad bildiradi
+
+17. "لِذَا فَالنَّمْلَةُ أَقْوَى بِكَثِيرٍ مِنَ الْفِيلِ بِالنَّظَرِ إِلَى حَجْمِهَا" — bu xulosaga ko'ra chumoli nima jihatdan kuchli?
+A) umuman
+B) o'z hajmiga nisbatan ✅
+C) tezligi jihatidan
+D) yoshi jihatidan
+
+18. "بِالنَّظَرِ إِلَى حَجْمِهِمْ" iborasidagi "حَجْمِ" so'zining ma'nosi:
+A) kuchi
+B) hajmi ✅
+C) yoshi
+D) rangi
+
+19. Matn bo'yicha, fiksiklar o'zlaridan necha baravar og'ir narsani ko'tara oladi?
+A) o'n baravar
+B) ellik baravar
+C) yuz baravar ✅
+D) ming baravar
+
+20. Matn bo'yicha, fiksiklar o'z bo'ylaridan necha baravar balandga sakray oladi?
+A) o'n baravar
+B) yigirma baravar
+C) ellik baravar ✅
+D) yuz baravar
+
+21. "وَلَوْ كَانَ الْبَشَرُ بِقُوَّةِ الْفِيكْسِيزِ لَكَانَ فِي إِمْكَانِهِمْ أَنْ يَرْفَعُوا سَيَّارَةً" — bu qanday gap turi?
+A) oddiy xabar gap
+B) shart gap ("لَوْ" bilan, real bo'lmagan shart) ✅
+C) buyruq gap
+D) savol gap
+
+22. "حَانَ الْوَقْتُ لِتُقَوِّيَ جِسْمَكَ" jumlasining ma'nosi:
+A) uxlash vaqti keldi
+B) tanangni kuchaytirish vaqti keldi ✅
+C) ovqatlanish vaqti keldi
+D) o'ynash vaqti keldi
+
+23. "كَيْفَ؟" savoliga javoban qaysi jumla keladi?
+A) لَا أَعْلَمُ
+B) ابْدَأْ بِرَفْعِ بَعْضِ الْأَثْقَالِ أَوْ إِذَا أَرَدْتَ يُمْكِنُكَ اسْتِعْمَالُ أَثْقَالِي ✅
+C) سَأَذْهَبُ إِلَى الْبَيْتِ
+D) لَيْسَ الْآنَ
+
+24. "لَا شُكْراً، سَأَسْتَعْمِلُ أَثْقَالَ وَالِدِي" jumlasidagi "وَالِدِي" so'zining ma'nosi:
+A) do'stim
+B) ustozim
+C) otam ✅
+D) akam
+
+25. "أَظُنُّ أَنَّهَا فِي مَكْتَبِهِ" jumlasidagi "مَكْتَبِهِ" so'zining ma'nosi:
+A) uning uyida
+B) uning kabinetida ✅
+C) uning maktabida
+D) uning bog'ida
+
+26. "وَأَيْنَ الْأُخْرَى؟" savolining ma'nosi:
+A) qachon keladi?
+B) ikkinchisi qayerda? ✅
+C) qancha turadi?
+D) kim olib keldi?
+
+27. "سَأُحَاوِلُ إِخْرَاجَهَا فِي الْحَالِ" jumlasidagi "فِي الْحَالِ" iborasining ma'nosi:
+A) ertaga
+B) keyinroq
+C) hoziroq ✅
+D) hech qachon
+
+28. "إِنَّهَا عَالِقَةٌ" jumlasining ma'nosi:
+A) u sinib qolgan
+B) u tiqilib qolgan ✅
+C) u yo'qolgan
+D) u og'ir
+
+29. "مَا كُلُّ هَذِهِ الْجَلَبَةِ؟" jumlasidagi "الْجَلَبَةِ" so'zi nimani bildiradi?
+A) tinchlik
+B) shovqin-suron ✅
+C) tortishuv
+D) o'yin
+
+30. "مَرْحَباً سِيمْكَا، لَمْ نَسْتَطِعْ إِخْرَاجَ الْأَثْقَالِ مِنْ تَحْتِ الْأَرِيكَةِ" jumlasida og'irliklar qayerdan chiqarilishi kerak edi?
+A) shkaf ichidan
+B) divan tagidan ✅
+C) yerto'ladan
+D) mashinadan
+
+31. "لَا عَجَبَ أَنْ لَا تَسْتَطِيعَا، فَالْأَرِيكَةُ تَضْغَطُ عَلَيْهَا" — nega ular og'irliklarni chiqara olmagan?
+A) og'irliklar juda kichik bo'lgani uchun
+B) divan ularning ustini bosib turgani uchun ✅
+C) ular kuchsiz bo'lgani uchun
+D) og'irliklar qulflangani uchun
+
+32. "ظَنَنْتُ أَنَّنِي فَقَدْتُ قُوَّتِي" jumlasining ma'nosi:
+A) kuchimni sindirdim deb o'yladim
+B) kuchimni yo'qotdim deb o'yladim ✅
+C) kuchimni his qildim
+D) kuchim yetarli deb o'yladim
+
+33. "هَذَا يَعْنِي أَنَّ عَلَيْنَا رَفْعَ الْأَرِيكَةِ" dan xulosa qilinganda, ular endi nima qilishlari kerak?
+A) divanni sotish
+B) divanni ko'tarish ✅
+C) divanni yuvish
+D) divanni tashlab yuborish
+
+34. "لَا نَسْتَطِيعُ، إِنَّهَا ثَقِيلَةٌ جِدّاً" jumlasiga javoban qanday qat'iy javob keladi?
+A) رُبَّمَا نَسْتَطِيعُ
+B) بَلْ نَسْتَطِيعُ ✅
+C) لَا نُرِيدُ
+D) لِمَ لَا؟
+
+35. "هَيَّا يَا تُوم، أَحْضِرْ لِي عَصَا الْهُوكِي مِنْ غُرْفَتِكَ" — Tomdan nima olib kelish so'raladi?
+A) kitob
+B) xokkey tayoqchasi ✅
+C) stul
+D) richag
+
+36. "هَلْ نَسْتَطِيعُ تَحْرِيكَ الْأَرِيكَةِ بِعَصَا الْهُوكِي يَا سِيمْكَا؟" savoliga Simkaning javobi qaysi?
+A) لَا أَظُنُّ ذَلِكَ
+B) بِلَا رَيْبٍ، سَتَرَى ✅
+C) هَذَا مُسْتَحِيلٌ
+D) رُبَّمَا غَداً
+
+37. "بِلَا رَيْبٍ" iborasining ma'nosi:
+A) balki
+B) hech qachon
+C) shubhasiz ✅
+D) kamdan-kam
+
+38. "لِمَ نُرِيدُهَا؟" savoliga javoban nima uchun tayoqcha kerakligi aytiladi?
+A) o'ynash uchun
+B) richag sifatida ishlatish uchun ✅
+C) urish uchun
+D) belgi qo'yish uchun
+
+39. "عَتَلَةٌ" so'zining o'zbekcha ma'nosi:
+A) tayanch
+B) richag ✅
+C) taxta
+D) arg'imchoq
+
+40. "تَعْمَلُ الْعَتَلَةُ بِطَرِيقَةِ عَمَلِ الْأُرْجُوحَةِ نَفْسِهَا" jumlasidagi "الْأُرْجُوحَةِ" so'zining ma'nosi:
+A) tarozi
+B) arg'imchoq ✅
+C) g'ildirak
+D) zinapoya
+
+41. Matnga ko'ra richag qanday ishlaydi?
+A) taxta tayanch nuqtasi ustiga qo'yiladi va bir tomoni ikkinchisidan uzunroq bo'ladi ✅
+B) taxta ikkiga bo'linadi va teng bo'laklarga ajratiladi
+C) taxta faqat vertikal holatda ishlatiladi
+D) taxta suvda suzadi
+
+42. "وَهَذَا سِرُّ قُوَّتِهَا" — bu yerda "سِرّ" so'zining ma'nosi:
+A) shakli
+B) siri ✅
+C) rangi
+D) og'irligi
+
+43. "بِمُسَاعَدَةِ الْعَتَلَةِ يُمْكِنُ رَفْعُ أَيِّ وَزْنٍ" jumlasining to'g'ri tarjimasi:
+A) Richag yordamida hech narsani ko'tarib bo'lmaydi
+B) Richag yordamida har qanday og'irlikni ko'tarish mumkin ✅
+C) Richag faqat yengil narsalarni ko'taradi
+D) Richagsiz ham og'irlikni ko'tarish oson
+
+44. "كُلُّ مَا عَلَيْكُمْ فِعْلُهُ هُوَ وَضْعُ الْجَانِبِ الْقَصِيرِ لِلْعَتَلَةِ تَحْتَ الْكُتْلَةِ..." — richagning qaysi tomoni yuk ostiga qo'yiladi?
+A) uzun tomoni
+B) qisqa tomoni ✅
+C) o'rtasi
+D) ikkala tomoni ham
+
+45. "وَالضَّغْطُ عَلَى الْجَانِبِ الطَّوِيلِ" — richagning qaysi tomoniga bosiladi?
+A) qisqa tomoniga
+B) uzun tomoniga ✅
+C) o'rtasiga
+D) hech qaysi tomoniga
+
+46. "وَبِزِيَادَةِ طُولِ الذِّرَاعِ نَحْمِلُ أَشْيَاءَ أَثْقَلَ" jumlasidagi "الذِّرَاعِ" so'zi bu matnda nimani anglatadi?
+A) qo'l
+B) richag yelkasi ✅
+C) oyoq
+D) bo'yin
+
+47. "هَلْ نَسْتَطِيعُ أَنْ نَجِدَ مَسْنَداً هُنَا؟" jumlasidagi "مَسْنَداً" so'zining ma'nosi:
+A) taxta
+B) tayanch ✅
+C) richag
+D) tayoqcha
+
+48. "هَلْ نَسْتَطِيعُ اسْتِعْمَالَ الْأَثْقَالِ مَسْنَداً؟" savoliga javoban qanday tasdiq keladi?
+A) لَا، هَذَا لَنْ يَنْفَعَ
+B) رَائِعٌ، الْآنَ تَفْكِيرُكَ صَحِيحٌ ✅
+C) رُبَّمَا لَاحِقاً
+D) لَا أَعْلَمُ
+
+49. "هَلْ أَنْتَ مُسْتَعِدٌّ؟" savoliga matnda qanday javob keladi?
+A) لَا، لَسْتُ مُسْتَعِدّاً
+B) لِنَنْطَلِقْ ✅
+C) انْتَظِرْ قَلِيلاً
+D) لَا أَظُنُّ ذَلِكَ
+
+50. "لِنَنْطَلِقْ" so'zining ma'nosi:
+A) to'xtaylik
+B) ketdik ✅
+C) kutaylik
+D) yordam beraylik
+
+51. "اضْغَطْ بِقُوَّةٍ يَا تُوم" — bu jumla qaysi fe'l shaklida?
+A) o'tgan zamon (madi)
+B) hozirgi-kelasi zamon (mudari')
+C) buyruq mayli (amr) ✅
+D) undov gap
+
+52. "أَجَلْ، إِنَّهَا تَعْمَلُ" jumlasidagi "أَجَلْ" so'zining ma'nosi qaysi so'zga yaqin?
+A) yo'q
+B) balki
+C) ha ✅
+D) hozir
+
+53. "أَنَا قَوِيٌّ جِدّاً، أَرَأَيْتَ؟" jumlasining ma'nosi:
+A) Men zaifman, ko'rmadingmi?
+B) Men juda kuchliman, ko'rdingmi? ✅
+C) Sen kuchlisan, ko'rdingmi?
+D) Biz kuchlimiz, ko'rdik
+
+54. "وَالْآنَ رَاقِبْ، سَأَرْفَعُ أَثْقَالَ أَبِي أَمَامَكَ" jumlasidagi "سَأَرْفَعُ" fe'li qaysi zamonni bildiradi?
+A) o'tgan zamon
+B) hozirgi zamon
+C) kelasi zamon (سَـ old qo'shimchasi bilan) ✅
+D) buyruq mayli
+
+55. "انْظُرْ، أَسْتَطِيعُ رَفْعَهَا" jumlasidagi "رَفْعَهَا" so'zi kimga/nimaga qaytadi?
+A) og'irlikka
+B) divanga (ariykaga) — matn kontekstida ✅
+C) tayoqchaga
+D) richagga
+
+56. "تَمَاماً كَمَا قُلْتُ لَكَ" iborasining ma'nosi:
+A) buning aksi bo'ldi
+B) xuddi senga aytganimdek ✅
+C) bu men aytmagan gap
+D) sen aldading
+
+57. "مِنَ الْأَفْضَلِ أَنْ تَتَدَرَّبَ بِأَثْقَالِي" jumlasidagi "الْأَفْضَلِ" so'zining ma'nosi:
+A) eng yomon
+B) eng yaxshi/afzal ✅
+C) eng og'ir
+D) eng yengil
+
+58. "أَلَمْ تَرَنِي أَرْفَعُ الْأَرِيكَةَ أَمَامَكَ؟" — bu jumla qanday gap turi?
+A) tasdiq gap
+B) inkor-savol gap ("أَلَمْ" bilan, "ko'rmadingmi?") ✅
+C) buyruq gap
+D) shart gap
+
+59. "أَنْتَ لَمْ تَرْفَعِ الْأَرِيكَةَ، بَلِ الْعَتَلَةَ يَا تُوم" jumlasiga ko'ra, Tom aslida nimani ko'targan?
+A) divanni
+B) richagni ✅
+C) xokkey tayoqchasini
+D) og'irlikni
+
+60. "بَلْ" so'zining bu jumladagi vazifasi:
+A) sabab bildiradi
+B) oldingi fikrni rad etib, to'g'risini keltiradi ("balki, aksincha") ✅
+C) shart bildiradi
+D) taajjub bildiradi
+
+61. "أَلَمْ تَسْمَعْ بِمَقُولَتِي: الْعِلْمُ قُوَّةٌ؟" jumlasidagi mashhur ibora "الْعِلْمُ قُوَّةٌ" ning ma'nosi:
+A) Kuch — ilmdir
+B) Ilm — kuchdir ✅
+C) Ilm foydasizdir
+D) Kuch hammasidir
+
+62. "سَمِعْتُهَا" so'zining ma'nosi:
+A) eshitmadim
+B) eshitganman ✅
+C) unutganman
+D) bilmayman
+
+63. "وَمَعَ ذَلِكَ لَنْ تَضُرَّكَ بَعْضُ التَّمْرِينَاتِ الرِّيَاضِيَّةِ" jumlasidagi "لَنْ تَضُرَّكَ" iborasining ma'nosi:
+A) senga zarar qiladi
+B) senga zarar qilmaydi ✅
+C) senga foyda bermaydi
+D) senga kerak emas
+
+64. "خُذِ الْعَتَلَةَ وَاخْرُجْ لِلَّعِبِ بِالْهُوكِي" jumlasidagi ikkita fe'l qaysi maylda kelgan?
+A) ikkalasi ham mudari' (hozirgi-kelasi)
+B) ikkalasi ham amr (buyruq) ✅
+C) biri madi, biri mudari'
+D) ikkalasi ham madi (o'tgan)
+
+65. "لَعَلَّ عَضَلَاتِكَ تُصْبِحُ كَعَضَلَاتِي" jumlasidagi "لَعَلَّ" so'zining ma'nosi:
+A) albatta
+B) hech qachon
+C) balki/umid bilan ✅
+D) darhol
+
+66. "عَضَلَاتِكَ" so'zining ma'nosi:
+A) mushaklaring ✅
+B) suyaklaring
+C) tomirlaring
+D) barmoqlaring
+
+67. Umumiy matnga ko'ra, nima uchun chumoli va fiksiklar o'z hajmiga nisbatan juda kuchli deb aytiladi?
+A) ular doim ovqatlanadi
+B) ular o'zlaridan ko'p baravar og'ir/baland narsalarni ko'tarish va sakrashga qodir ✅
+C) ular hech qachon charchamaydi
+D) ular boshqalardan katta
+
+68. Matnda richag (عَتَلَة) haqidagi tushuntirishning asosiy g'oyasi qaysi?
+A) richag faqat o'yinchoq
+B) tayanch nuqtasi va uzun yelka yordamida kam kuch bilan og'ir yukni ko'tarish mumkin ✅
+C) richagni faqat kattalar ishlatishi mumkin
+D) richag og'irlikni yengillashtirmaydi
+
+69. "حَسَناً" so'zi matnda eng ko'p qanday ma'noda ishlatilgan?
+A) yo'q
+B) xo'sh/yaxshi (rozilik yoki davom ettirish bildiruvchi so'z) ✅
+C) hech qachon
+D) tez orada
+
+70. Voqealar ketma-ketligiga ko'ra, quyidagilardan qaysi biri to'g'ri tartibda berilgan?
+A) richag haqida gap — divanni ko'tarish — og'irliklarni chiqarish
+B) og'irliklarni divan tagidan chiqarish — divanni ko'tarish zarurati — richag haqida tushuntirish ✅
+C) xokkey o'ynash — richag yasash — og'irlik ko'tarish
+D) ilm kuch — richag — chumoli haqida gap
+
+المفتاح (Javoblar kaliti): 1-A, 2-B, 3-B, 4-B, 5-B, 6-C, 7-B, 8-B, 9-B, 10-C, 11-A, 12-B, 13-B, 14-B, 15-C, 16-B, 17-B, 18-B, 19-C, 20-C, 21-B, 22-B, 23-B, 24-C, 25-B, 26-B, 27-C, 28-B, 29-B, 30-B, 31-B, 32-B, 33-B, 34-B, 35-B, 36-B, 37-C, 38-B, 39-B, 40-B, 41-A, 42-B, 43-B, 44-B, 45-B, 46-B, 47-B, 48-B, 49-B, 50-B, 51-C, 52-C, 53-B, 54-C, 55-B, 56-B, 57-B, 58-B, 59-B, 60-B, 61-B, 62-B, 63-B, 64-B, 65-C, 66-A, 67-B, 68-B, 69-B, 70-B
