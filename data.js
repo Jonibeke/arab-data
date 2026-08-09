@@ -25,14 +25,14 @@ const data = {
             language: "arab-tili",
             title: "الفيكسيز",
             type: "mult",
-            img: "arab tili/fixies/img/cov.avif",
+            img: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/cov.avif",
             meta: "102 ta epizod",
             episodes: [
                 {
                     num: 1,
                     title: "العتلة - الحلقة الرابعة",
                     about: "",
-                    img:      "arab tili/fixies/img/001.avif",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/001.avif",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/001.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/001.srt",
                     // 5-bosqich (Test) uchun. "test" — majburiy, bo'sh
@@ -61,7 +61,7 @@ const data = {
                     num: 2,
                     title: "قلم الحبر - الحلقة 16",
                     about: "",
-                    img:        "arab tili/fixies/img/003.jpg",
+                    img:        "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/003.jpg",
                     video:      "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/002.mp4",
                     subtitle:   "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/002.srt",
                     analyses: [
@@ -83,7 +83,7 @@ const data = {
                     num: 3,
                     title: "فرشاة الأسنان - الحلقة 12",
                     about: "",
-                    img:      "arab tili/fixies/img/002.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/002.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/003.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/003.srt",
                     analyses: [
@@ -105,7 +105,7 @@ const data = {
                     num: 4,
                     title: "المسامير - الحلقة 13",
                     about: "",
-                    img:      "arab tili/fixies/img/004.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/004.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/004.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/004.srt",
                     analyses: [
@@ -127,7 +127,7 @@ const data = {
                     num: 5,
                     title: "الثلاجة - الحلقة السابعة",
                     about: "",
-                    img:      "arab tili/fixies/img/005.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/005.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/005.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/005.srt",
                     analyses: [
@@ -149,7 +149,7 @@ const data = {
                     num: 6,
                     title: "مجفف الشعر - الحلقة 28",
                     about: "",
-                    img:      "arab tili/fixies/img/006.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/006.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/006.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/006.srt",
                     analyses: [
@@ -171,7 +171,7 @@ const data = {
                     num: 7,
                     title: "جهاز التحكم الريموت - الحلقة الخامسة",
                     about: "",
-                    img:      "arab tili/fixies/img/007.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/007.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/007.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/007.srt",
                     analyses: [
@@ -193,7 +193,7 @@ const data = {
                     num: 8,
                     title: "البالوعه - الحلقة الاولى",
                     about: "",
-                    img:      "arab tili/fixies/img/008.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/008.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/008.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/008.srt",
                     analyses: [
@@ -215,7 +215,7 @@ const data = {
                     num: 9,
                     title: "القطار الكهربائي - الحلقة 15",
                     about: "",
-                    img:      "arab tili/fixies/img/009.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/009.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/009.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/009.srt",
                     analyses: [
@@ -237,7 +237,7 @@ const data = {
                     num: 10,
                     title: "القفل التوافقي - الحلقة السادسة",
                     about: "",
-                    img:      "arab tili/fixies/img/010.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/010.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/010.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/010.srt",
                     analyses: [
@@ -259,7 +259,7 @@ const data = {
                     num: 11,
                     title: "المروحه - الحلقة 20",
                     about: "",
-                    img:      "arab tili/fixies/img/011.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/011.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/011.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/011.srt",
                     analyses: [
@@ -281,7 +281,7 @@ const data = {
                     num: 12,
                     title: "ميزان الحرارة - الحلقة 22",
                     about: "",
-                    img:      "arab tili/fixies/img/012.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/012.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/012.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/012.srt",
                     analyses: [
@@ -303,7 +303,7 @@ const data = {
                     num: 13,
                     title: "الدباسة - الحلقة 14",
                     about: "",
-                    img:      "arab tili/fixies/img/013.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/013.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/013.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/013.srt",
                     analyses: [
@@ -325,7 +325,7 @@ const data = {
                     num: 14,
                     title: "الميكرويف - الحلقة 11",
                     about: "",
-                    img:      "arab tili/fixies/img/015.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/015.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/014.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/014.srt",
                     analyses: [
@@ -347,7 +347,7 @@ const data = {
                     num: 15,
                     title: "حوض السمك - الحلقة 19",
                     about: "",
-                    img:      "arab tili/fixies/img/016.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/016.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/015.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/015.srt",
                     analyses: [
@@ -369,7 +369,7 @@ const data = {
                     num: 16,
                     title: "الفريق - الحلقة 54",
                     about: "",
-                    img:      "arab tili/fixies/img/014.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/014.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/016.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/016.srt",
                     analyses: [
@@ -391,7 +391,7 @@ const data = {
                     num: 17,
                     title: "الرجل الآلي - الحلقة 29",
                     about: "",
-                    img:      "arab tili/fixies/img/018.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/018.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/017.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/017.srt",
                     analyses: [
@@ -413,7 +413,7 @@ const data = {
                     num: 18,
                     title: "العصا السحرية - الحلقة 31",
                     about: "",
-                    img:      "arab tili/fixies/img/017.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/017.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/018.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/018.srt",
                     analyses: [
@@ -435,7 +435,7 @@ const data = {
                     num: 19,
                     title: "الابريق الكهربائي - الحلقة الثامنة",
                     about: "",
-                    img:      "arab tili/fixies/img/020.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/020.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/019.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/019.srt",
                     analyses: [
@@ -457,7 +457,7 @@ const data = {
                     num: 20,
                     title: "قطع الغيار - الحلقة 17",
                     about: "",
-                    img:      "arab tili/fixies/img/021.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/021.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/020.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/020.srt",
                     analyses: [
@@ -479,7 +479,7 @@ const data = {
                     num: 21,
                     title: "كاشف الكذب - الحلقة 52",
                     about: "",
-                    img:      "arab tili/fixies/img/019.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/019.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/021.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/021.srt",
                     analyses: [
@@ -501,7 +501,7 @@ const data = {
                     num: 22,
                     title: "المنبه - الحلقة الثالثة",
                     about: "",
-                    img:      "arab tili/fixies/img/022.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/022.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/022.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/022.srt",
                     analyses: [
@@ -523,7 +523,7 @@ const data = {
                     num: 23,
                     title: "القرص المدمج - الحلقة الثانية",
                     about: "",
-                    img:      "arab tili/fixies/img/023.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/023.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/023.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/023.srt",
                     analyses: [
@@ -545,7 +545,7 @@ const data = {
                     num: 24,
                     title: "الكيبورد - لوحة المفاتيح - الحلقة 18",
                     about: "",
-                    img:      "arab tili/fixies/img/024.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/024.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/024.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/024.srt",
                     analyses: [
@@ -567,7 +567,7 @@ const data = {
                     num: 25,
                     title: "المغناطيس - الحلقة 24",
                     about: "",
-                    img:      "arab tili/fixies/img/025.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/025.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/025.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/025.srt",
                     analyses: [
@@ -589,7 +589,7 @@ const data = {
                     num: 26,
                     title: "البالون - الحلقة العاشرة",
                     about: "",
-                    img:      "arab tili/fixies/img/026.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/026.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/026.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/026.srt",
                     analyses: [
@@ -611,7 +611,7 @@ const data = {
                     num: 27,
                     title: "الغساله - الحلقة 21",
                     about: "",
-                    img:      "arab tili/fixies/img/028.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/028.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/027.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/027.srt",
                     analyses: [
@@ -633,7 +633,7 @@ const data = {
                     num: 28,
                     title: "مكعب نوليك - الحلقة 53",
                     about: "",
-                    img:      "arab tili/fixies/img/027.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/027.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/028.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/028.srt",
                     analyses: [
@@ -655,7 +655,7 @@ const data = {
                     num: 29,
                     title: "جرس الباب - الحلقة 59",
                     about: "",
-                    img:      "arab tili/fixies/img/029.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/029.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/029.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/029.srt",
                     analyses: [
@@ -677,7 +677,7 @@ const data = {
                     num: 30,
                     title: "الماس الكهربائي - الحلقة 26",
                     about: "",
-                    img:      "arab tili/fixies/img/035.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/035.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/030.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/030.srt",
                     analyses: [
@@ -699,7 +699,7 @@ const data = {
                     num: 31,
                     title: "الاختفاء - الحلقة 62",
                     about: "",
-                    img:      "arab tili/fixies/img/030.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/030.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/031.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/031.srt",
                     analyses: [
@@ -721,7 +721,7 @@ const data = {
                     num: 32,
                     title: "نظام تحديد المواقع - الحلقة 77",
                     about: "",
-                    img:      "arab tili/fixies/img/031.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/031.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/032.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/032.srt",
                     analyses: [
@@ -743,7 +743,7 @@ const data = {
                     num: 33,
                     title: "الرسائل النصية - الحلقة التاسعة",
                     about: "",
-                    img:      "arab tili/fixies/img/037.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/037.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/033.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/033.srt",
                     analyses: [
@@ -765,7 +765,7 @@ const data = {
                     num: 34,
                     title: "فتحة التهوية - الحلقة 56",
                     about: "",
-                    img:      "arab tili/fixies/img/033.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/033.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/034.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/034.srt",
                     analyses: [
@@ -787,7 +787,7 @@ const data = {
                     num: 35,
                     title: "البوصلة - الحلقة 27",
                     about: "",
-                    img:      "arab tili/fixies/img/041.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/041.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/035.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/035.srt",
                     analyses: [
@@ -809,7 +809,7 @@ const data = {
                     num: 36,
                     title: "البقعة - الحلقة 57",
                     about: "",
-                    img:      "arab tili/fixies/img/034.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/034.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/036.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/036.srt",
                     analyses: [
@@ -831,7 +831,7 @@ const data = {
                     num: 37,
                     title: "المصباح اليدوي - الحلقة 25",
                     about: "",
-                    img:      "arab tili/fixies/img/042.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/042.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/037.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/037.srt",
                     analyses: [
@@ -853,7 +853,7 @@ const data = {
                     num: 38,
                     title: "الانابيب - الحلقة 72",
                     about: "",
-                    img:      "arab tili/fixies/img/038.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/038.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/038.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/038.srt",
                     analyses: [
@@ -875,7 +875,7 @@ const data = {
                     num: 39,
                     title: "الدمية الناطقة - الحلقة 68",
                     about: "",
-                    img:      "arab tili/fixies/img/036.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/036.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/039.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/039.srt",
                     analyses: [
@@ -897,7 +897,7 @@ const data = {
                     num: 40,
                     title: "الشابكة - الحلقة 46",
                     about: "",
-                    img:      "arab tili/fixies/img/039.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/039.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/040.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/040.srt",
                     analyses: [
@@ -919,7 +919,7 @@ const data = {
                     num: 41,
                     title: "الحلوى - الحلقة 50",
                     about: "",
-                    img:      "arab tili/fixies/img/040.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/040.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/041.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/041.srt",
                     analyses: [
@@ -941,7 +941,7 @@ const data = {
                     num: 42,
                     title: "صندوق الموسيقى - الحلقة 23",
                     about: "",
-                    img:      "arab tili/fixies/img/045.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/045.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/042.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/042.srt",
                     analyses: [
@@ -963,7 +963,7 @@ const data = {
                     num: 43,
                     title: "حقيبة الأدوات - الحلقة 60",
                     about: "",
-                    img:      "arab tili/fixies/img/043.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/043.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/043.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/043.srt",
                     analyses: [
@@ -985,7 +985,7 @@ const data = {
                     num: 44,
                     title: "خيال الظل - الحلقة 92",
                     about: "",
-                    img:      "arab tili/fixies/img/032.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/032.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/044.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/044.srt",
                     analyses: [
@@ -1007,7 +1007,7 @@ const data = {
                     num: 45,
                     title: "المنجنيق - الحلقة 55",
                     about: "",
-                    img:      "arab tili/fixies/img/050.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/050.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/045.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/045.srt",
                     analyses: [
@@ -1029,7 +1029,7 @@ const data = {
                     num: 46,
                     title: "التفاعل المتسلسل - الحلقة 65",
                     about: "",
-                    img:      "arab tili/fixies/img/048.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/048.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/046.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/046.srt",
                     analyses: [
@@ -1051,7 +1051,7 @@ const data = {
                     num: 47,
                     title: "الكرتون - الحلقة 35",
                     about: "",
-                    img:      "arab tili/fixies/img/052.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/052.jpg",
                     video:    "https://arabicvideofixies.pages.dev/047.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/047.srt",
                     analyses: [
@@ -1073,7 +1073,7 @@ const data = {
                     num: 48,
                     title: "من هم الفيكسيز؟ أغنية فردية",
                     about: "",
-                    img:      "arab tili/fixies/img/049.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/049.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/048.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/048.srt",
                     analyses: [
@@ -1095,7 +1095,7 @@ const data = {
                     num: 49,
                     title: "معجون التشكيل - الحلقة 64",
                     about: "",
-                    img:      "arab tili/fixies/img/047.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/047.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/049.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/049.srt",
                     analyses: [
@@ -1117,7 +1117,7 @@ const data = {
                     num: 50,
                     title: "البطارية الشمسية - الحلقة 30",
                     about: "",
-                    img:      "arab tili/fixies/img/053.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/053.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/050.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/050.srt",
                     analyses: [
@@ -1139,7 +1139,7 @@ const data = {
                     num: 51,
                     title: "جهاز مراقبة الطفل - الحلقة 96",
                     about: "",
-                    img:      "arab tili/fixies/img/044.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/044.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/051.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/051.srt",
                     analyses: [
@@ -1161,7 +1161,7 @@ const data = {
                     num: 52,
                     title: "الخفاقة - الحلقة 43",
                     about: "",
-                    img:      "arab tili/fixies/img/054.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/054.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/052.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/052.srt",
                     analyses: [
@@ -1183,7 +1183,7 @@ const data = {
                     num: 53,
                     title: "المرآه - الحلقة 51",
                     about: "",
-                    img:      "arab tili/fixies/img/051.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/051.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/053.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/053.srt",
                     analyses: [
@@ -1205,7 +1205,7 @@ const data = {
                     num: 54,
                     title: "الطبل - الحلقة 71",
                     about: "",
-                    img:      "arab tili/fixies/img/046.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/046.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/054.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/054.srt",
                     analyses: [
@@ -1227,7 +1227,7 @@ const data = {
                     num: 55,
                     title: "الاحتكاك - الحلقة 58",
                     about: "",
-                    img:      "arab tili/fixies/img/055.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/055.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/055.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/055.srt",
                     analyses: [
@@ -1249,7 +1249,7 @@ const data = {
                     num: 56,
                     title: "الميزان - الحلقة 45",
                     about: "",
-                    img:      "arab tili/fixies/img/057.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/057.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/056.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/056.srt",
                     analyses: [
@@ -1271,7 +1271,7 @@ const data = {
                     num: 57,
                     title: "السحاب - الحلقة 37",
                     about: "",
-                    img:      "arab tili/fixies/img/058.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/058.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/057.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/057.srt",
                     analyses: [
@@ -1293,7 +1293,7 @@ const data = {
                     num: 58,
                     title: "العدسة المكبرة - الحلقة 38",
                     about: "",
-                    img:      "arab tili/fixies/img/060.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/060.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/058.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/058.srt",
                     analyses: [
@@ -1315,7 +1315,7 @@ const data = {
                     num: 59,
                     title: "الساعات - الحلقة 76",
                     about: "",
-                    img:      "arab tili/fixies/img/056.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/056.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/059.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/059.srt",
                     analyses: [
@@ -1337,7 +1337,7 @@ const data = {
                     num: 60,
                     title: "الطرف الاصطناعي - الحلقة 70",
                     about: "",
-                    img:      "arab tili/fixies/img/061.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/061.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/060.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/060.srt",
                     analyses: [
@@ -1359,7 +1359,7 @@ const data = {
                     num: 61,
                     title: "علب القصدير - الحلقة 48",
                     about: "",
-                    img:      "arab tili/fixies/img/062.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/062.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/061.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/061.srt",
                     analyses: [
@@ -1381,7 +1381,7 @@ const data = {
                     num: 62,
                     title: "ضوء الليل - الحلقة 40",
                     about: "",
-                    img:      "arab tili/fixies/img/066.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/066.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/062.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/062.srt",
                     analyses: [
@@ -1403,7 +1403,7 @@ const data = {
                     num: 63,
                     title: "النحلة - الحلقة 86",
                     about: "",
-                    img:      "arab tili/fixies/img/059.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/059.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/063.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/063.srt",
                     analyses: [
@@ -1425,7 +1425,7 @@ const data = {
                     num: 64,
                     title: "مطفأة الحريق - الحلقة 78",
                     about: "",
-                    img:      "arab tili/fixies/img/063.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/063.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/064.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/064.srt",
                     analyses: [
@@ -1447,7 +1447,7 @@ const data = {
                     num: 65,
                     title: "لاقط الصوت - الحلقة 49",
                     about: "",
-                    img:      "arab tili/fixies/img/070.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/070.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/065.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/065.srt",
                     analyses: [
@@ -1469,7 +1469,7 @@ const data = {
                     num: 66,
                     title: "المقياس - الحلقة 63",
                     about: "",
-                    img:      "arab tili/fixies/img/068.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/068.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/066.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/066.srt",
                     analyses: [
@@ -1491,7 +1491,7 @@ const data = {
                     num: 67,
                     title: "المختبر - الحلقة 91",
                     about: "",
-                    img:      "arab tili/fixies/img/064.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/064.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/067.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/067.srt",
                     analyses: [
@@ -1513,7 +1513,7 @@ const data = {
                     num: 68,
                     title: "الذراع الآلية - الحلقة 79",
                     about: "",
-                    img:      "arab tili/fixies/img/067.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/067.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/068.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/068.srt",
                     analyses: [
@@ -1535,7 +1535,7 @@ const data = {
                     num: 69,
                     title: "العتلة - الحلقة 61",
                     about: "",
-                    img:      "arab tili/fixies/img/072.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/072.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/069.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/069.srt",
                     analyses: [
@@ -1561,7 +1561,7 @@ const data = {
             language: "arab-tili",
             title: "مسلسل الإمام احمد بن حنبل",
             type: "kino",
-            img: "arab tili/img/playlist2.webp",
+            img: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/img/playlist2.webp",
             meta: "30 ta epizod",
             episodes: []
         },
@@ -1574,7 +1574,7 @@ const data = {
             language: "arab-tili",
             title: "قرآن",
             type: "book",
-            img: "arab tili/img/playlist3.jpg",
+            img: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/img/playlist3.jpg",
             meta: "114 sura",
             episodes: [
                 {
@@ -1677,7 +1677,7 @@ const data = {
             language: "ingliz-tili",
             title: "Fixies",
             type: "mult",
-            img: "inglis tili/img/hqdefault.webp",
+            img: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/inglis%20tili/img/hqdefault.webp",
             meta: "epizodlar soni nomalum",
             episodes: [
                 {
