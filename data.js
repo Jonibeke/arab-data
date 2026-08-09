@@ -32,7 +32,7 @@ const data = {
                     num: 1,
                     title: "العتلة - الحلقة الرابعة",
                     about: "",
-                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/001.avif",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/000.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/001.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/001.srt",
                     // 5-bosqich (Test) uchun. "test" — majburiy, bo'sh
