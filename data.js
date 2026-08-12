@@ -32,7 +32,7 @@ const data = {
                     num: 1,
                     title: "العتلة - الحلقة الرابعة",
                     about: "",
-                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/000.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/001.avif",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/001.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/001.srt",
                     // 5-bosqich (Test) uchun. "test" — majburiy, bo'sh
@@ -1550,6 +1550,710 @@ const data = {
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/069B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/069B.js",
                             audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/069B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 70,
+                    title: "الحافظة - الحلقة 44",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/075.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/070.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/070.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/070A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/070A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/070A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/070B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/070B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/070B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 71,
+                    title: "الفرن - الحلقة 80",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/071.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/071.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/071.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/071A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/071A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/071A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/071B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/071B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/071B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 72,
+                    title: "الأسلاك - الحلقة 73",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/076.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/072.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/072.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/072A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/072A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/072A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/072B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/072B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/072B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 73,
+                    title: "المخطط - الحلقة 98",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/069.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/073.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/073.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/073A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/073A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/073A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/073B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/073B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/073B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 74,
+                    title: "هاتف الفكسي - الحلقة 102",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/065.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/074.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/074.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/074A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/074A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/074A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/074B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/074B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/074B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 75,
+                    title: "الوسادة الهوائية - الحلقة 88",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/073.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/075.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/075.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/075A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/075A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/075A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/075B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/075B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/075B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 76,
+                    title: "جهاز الاختبار البيئي - الحلقة 85",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/074.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/076.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/076.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/076A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/076A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/076A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/076B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/076B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/076B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 77,
+                    title: "الشطرنج - الحلقة 90",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/080.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/077.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/077.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/077A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/077A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/077A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/077B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/077B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/077B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 78,
+                    title: "شريط الرموز - الحلقة 69",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/078.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/078.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/078.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/078A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/078A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/078A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/078B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/078B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/078B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 79,
+                    title: "الكلبة - الحلقة 82",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/077.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/079.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/079.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/079A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/079A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/079A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/079B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/079B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/079B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 80,
+                    title: "الكريمة المخفوقة - الحلقة 33",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/084.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/080.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/080.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/080A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/080A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/080A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/080B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/080B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/080B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 81,
+                    title: "الورق - الحلقة 41",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/083.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/081.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/081.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/081A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/081A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/081A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/081B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/081B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/081B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 82,
+                    title: "المكنسة الكهربائية- الحلقة 34",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/082.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/082.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/082.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/082A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/082A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/082A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/082B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/082B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/082B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 83,
+                    title: "التعليمات - الحلقة 87",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/079.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/083.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/083.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/083A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/083A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/083A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/083B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/083B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/083B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 84,
+                    title: "سفينه في زجاجة - الحلقة 32",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/087.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/084.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/084.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/084A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/084A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/084A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/084B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/084B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/084B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 85,
+                    title: "الدرع - الحلقة 74",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/086.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/085.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/085.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/085A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/085A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/085A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/085B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/085B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/085B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 86,
+                    title: "المكالمة المصورة - الحلقة 83",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/085.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/086.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/086.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/086A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/086A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/086A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/086B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/086B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/086B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 87,
+                    title: "آلة التصوير - الكاميرا - الحلقة 67",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/089.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/087.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/087.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/087A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/087A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/087A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/087B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/087B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/087B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 88,
+                    title: "الفرخ - الحلقة 103",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/081.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/088.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/088.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/088A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/088A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/088A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/088B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/088B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/088B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 89,
+                    title: "الموبايل - الحلقة 36",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/092.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/089.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/089.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/089A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/089A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/089A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/089B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/089B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/089B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 90,
+                    title: "الكرة الأرضية - الحلقة 66",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/091.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/090.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/090.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/090A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/090A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/090A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/090B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/090B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/090B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 91,
+                    title: "جهاز الانذار - الحلقة 42",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/088.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/091.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/091.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/091A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/091A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/091A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/091B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/091B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/091B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 92,
+                    title: "حساس الحركة - الحلقة 100",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/090.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/092.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/092.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/092A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/092A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/092A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/092B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/092B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/092B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 93,
+                    title: "البطاقة الالكترونية - الحلقة 84",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/093.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/093.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/093.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/093A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/093A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/093A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/093B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/093B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/093B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 94,
+                    title: "المنعكسات - الحلقة 81",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/095.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/094.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/094.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/094A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/094A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/094A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/094B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/094B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/094B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 95,
+                    title: "قدح الامتصاص - الحلقة 101",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/094.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/095.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/095.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/095A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/095A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/095A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/095B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/095B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/095B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 96,
+                    title: "المصعد - الحلقة 99",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/097.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/096.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/096.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/096A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/096A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/096A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/096B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/096B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/096B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 97,
+                    title: "البطاريات - الحلقة 95",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/098.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/097.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/097.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/097A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/097A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/097A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/097B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/097B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/097B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 98,
+                    title: "الحبر السري - الحلقة 104",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/096.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/098.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/098.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/098A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/098A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/098A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/098B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/098B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/098B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 99,
+                    title: "الحاكي - الحلقة 89",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/099.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/099.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/099.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/099A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/099A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/099A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/099B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/099B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/099B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 100,
+                    title: "الهوائي - الحلقة 94",
+                    about: "",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/100.jpg",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/100.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/100.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/100A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/100A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/100A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/100B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/100B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/100B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 101,
+                    title: "الأدوات - الحلقة 75",
+                    about: "",
+                    img:      "",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/101.mp4",
+                    subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/101.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/101A.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/101A.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/101A.mp3"
+                        },
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/101B.js",
+                            audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/101B.js",
+                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/101B.mp3"
                         }
                     ]
                 }
