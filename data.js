@@ -32,7 +32,7 @@ const data = {
                     num: 1,
                     title: "العتلة - الحلقة الرابعة",
                     about: "",
-                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/001.jpg",
+                    img:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/img/001.avif",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/001.mp4",
                     subtitle: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/sub/001.srt",
                     // 5-bosqich (Test) uchun. "test" — majburiy, bo'sh
@@ -47,13 +47,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/001A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/001A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/001A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/001A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/001B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/001B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/001B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/001B.mp3"
                         }
                     ]
                 },
@@ -69,13 +69,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/002A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/002A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/002A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/002A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/002B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/002B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/002B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/002B.mp3"
                         }
                     ],
                    },
@@ -91,13 +91,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/003A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/003A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/003A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/003A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/003B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/003B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/003B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/003B.mp3"
                         }
                     ]
                 },
@@ -113,13 +113,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/004A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/004A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/004A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/004A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/004B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/004B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/004B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/004B.mp3"
                         }
                     ]
                 },
@@ -135,13 +135,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/005A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/005A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/005A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/005A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/005B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/005B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/005B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/005B.mp3"
                         }
                     ]
                 },
@@ -157,13 +157,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/006A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/006A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/006A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/006A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/006B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/006B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/006B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/006B.mp3"
                         }
                     ]
                 },
@@ -179,13 +179,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/007A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/007A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/007A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/007A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/007B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/007B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/007B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/007B.mp3"
                         }
                     ]
                 },
@@ -201,13 +201,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/008A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/008A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/008A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/008A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/008B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/008B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/008B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/008B.mp3"
                         }
                     ]
                 },
@@ -223,13 +223,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/009A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/009A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/009A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/009A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/009B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/009B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/009B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/009B.mp3"
                         }
                     ]
                 },
@@ -245,13 +245,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/010A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/010A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/010A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/010A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/010B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/010B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/010B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/010B.mp3"
                         }
                     ]
                 },
@@ -267,13 +267,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/011A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/011A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/011A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/011A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/011B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/011B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/011B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/011B.mp3"
                         }
                     ]
                 },
@@ -289,13 +289,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/012A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/012A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/012A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/012A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/012B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/012B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/012B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/012B.mp3"
                         }
                     ]
                 },
@@ -311,13 +311,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/013A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/013A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/013A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/013A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/013B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/013B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/013B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/013B.mp3"
                         }
                     ]
                 },
@@ -333,13 +333,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/014A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/014A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/014A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/014A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/014B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/014B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/014B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/014B.mp3"
                         }
                     ]
                 },
@@ -355,13 +355,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/015A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/015A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/015A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/015A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/015B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/015B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/015B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/015B.mp3"
                         }
                     ]
                 },
@@ -377,13 +377,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/016A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/016A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/016A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/016A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/016B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/016B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/016B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/016B.mp3"
                         }
                     ]
                 },
@@ -399,13 +399,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/017A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/017A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/017A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/017A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/017B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/017B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/017B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/017B.mp3"
                         }
                     ]
                 },
@@ -421,13 +421,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/018A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/018A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/018A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/018A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/018B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/018B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/018B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/018B.mp3"
                         }
                     ]
                 },
@@ -443,13 +443,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/019A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/019A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/019A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/019A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/019B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/019B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/019B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/019B.mp3"
                         }
                     ]
                 },
@@ -465,13 +465,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/020A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/020A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/020A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/020A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/020B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/020B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/020B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/020B.mp3"
                         }
                     ]
                 },
@@ -487,13 +487,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/021A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/021A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/021A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/021A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/021B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/021B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/021B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/021B.mp3"
                         }
                     ]
                 },
@@ -509,13 +509,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/022A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/022A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/022A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/022A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/022B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/022B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/022B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/022B.mp3"
                         }
                     ]
                 },
@@ -531,13 +531,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/023A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/023A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/023A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/023A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/023B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/023B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/023B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/023B.mp3"
                         }
                     ]
                 },
@@ -553,13 +553,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/024A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/024A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/024A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/024A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/024B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/024B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/024B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/024B.mp3"
                         }
                     ]
                 },
@@ -575,13 +575,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/025A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/025A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/025A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/025A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/025B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/025B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/025B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/025B.mp3"
                         }
                     ]
                 },
@@ -597,13 +597,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/026A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/026A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/026A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/026A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/026B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/026B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/026B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/026B.mp3"
                         }
                     ]
                 },
@@ -619,13 +619,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/027A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/027A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/027A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/027A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/027B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/027B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/027B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/027B.mp3"
                         }
                     ]
                 },
@@ -641,13 +641,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -663,13 +663,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/029A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/029A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/029A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/029A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -685,13 +685,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/030A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -707,13 +707,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/031A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -729,13 +729,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -751,13 +751,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -773,13 +773,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -795,13 +795,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/035A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -817,13 +817,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/036A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -839,13 +839,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/037A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -861,13 +861,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/028B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -883,13 +883,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/039A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/039B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/028B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
                         }
                     ]
                 },
@@ -905,13 +905,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/040A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/040A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/040A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/040A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/040B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/040B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/040B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/040B.mp3"
                         }
                     ]
                 },
@@ -927,13 +927,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/041A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/041A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/041A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/041A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/041B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/041B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/041B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/041B.mp3"
                         }
                     ]
                 },
@@ -949,13 +949,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/042A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/042A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/042A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/042A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/042B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/042B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/042B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/042B.mp3"
                         }
                     ]
                 },
@@ -971,13 +971,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/043A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/043A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/043A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/043A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/043B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/043B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/043B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/043B.mp3"
                         }
                     ]
                 },
@@ -993,13 +993,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/044A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/044A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/044A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/044A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/044B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/044B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/044B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/044B.mp3"
                         }
                     ]
                 },
@@ -1015,13 +1015,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/045A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/045A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/045A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/045A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/045B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/045B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/045B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/045B.mp3"
                         }
                     ]
                 },
@@ -1037,13 +1037,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/045A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/045A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/045A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/045A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/045B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/045B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/045B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/045B.mp3"
                         }
                     ]
                 },
@@ -1059,13 +1059,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/047A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/047A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/047A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/047A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/047B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/047B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/047B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/047B.mp3"
                         }
                     ]
                 },
@@ -1081,13 +1081,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/048A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/048A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/048A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/048A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/048B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/048B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/048B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/048B.mp3"
                         }
                     ]
                 },
@@ -1103,13 +1103,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1125,13 +1125,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1147,13 +1147,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1169,13 +1169,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1191,13 +1191,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1213,13 +1213,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1235,13 +1235,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1257,13 +1257,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1279,13 +1279,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1301,13 +1301,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1323,13 +1323,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/049B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/049B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
                         }
                     ]
                 },
@@ -1345,13 +1345,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/060A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/060A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/060A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/060A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/060B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/060B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/060B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/060B.mp3"
                         }
                     ]
                 },
@@ -1367,13 +1367,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/061A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/061A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/061A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/061A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/061B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/061B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/061B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/061B.mp3"
                         }
                     ]
                 },
@@ -1389,13 +1389,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/062A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/062A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/062A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/062A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/062B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/062B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/062B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/062B.mp3"
                         }
                     ]
                 },
@@ -1411,13 +1411,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/063A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/063A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/063A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/063A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/063B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/063B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/063B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/063B.mp3"
                         }
                     ]
                 },
@@ -1433,13 +1433,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/064A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/064A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/064A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/064A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/064B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/064B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/064B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/064B.mp3"
                         }
                     ]
                 },
@@ -1455,13 +1455,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/065A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/065A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/065A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/065A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/065B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/065B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/065B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/065B.mp3"
                         }
                     ]
                 },
@@ -1477,13 +1477,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/066A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/066A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/066A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/066A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/066B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/066B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/066B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/066B.mp3"
                         }
                     ]
                 },
@@ -1499,13 +1499,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/067A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/067A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/067A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/067A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/067B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/067B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/067B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/067B.mp3"
                         }
                     ]
                 },
@@ -1521,13 +1521,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/068A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/068A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/068A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/068A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/068B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/068B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/068B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/068B.mp3"
                         }
                     ]
                 },
@@ -1543,13 +1543,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/069A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/069A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/069A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/069A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/069B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/069B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/069B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/069B.mp3"
                         }
                     ]
                 },
@@ -1565,13 +1565,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/070A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/070A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/070A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/070A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/070B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/070B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/070B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/070B.mp3"
                         }
                     ]
                 },
@@ -1587,13 +1587,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/071A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/071A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/071A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/071A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/071B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/071B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/071B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/071B.mp3"
                         }
                     ]
                 },
@@ -1609,13 +1609,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/072A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/072A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/072A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/072A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/072B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/072B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/072B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/072B.mp3"
                         }
                     ]
                 },
@@ -1631,13 +1631,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/073A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/073A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/073A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/073A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/073B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/073B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/073B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/073B.mp3"
                         }
                     ]
                 },
@@ -1653,13 +1653,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/074A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/074A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/074A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/074A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/074B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/074B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/074B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/074B.mp3"
                         }
                     ]
                 },
@@ -1675,13 +1675,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/075A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/075A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/075A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/075A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/075B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/075B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/075B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/075B.mp3"
                         }
                     ]
                 },
@@ -1697,13 +1697,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/076A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/076A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/076A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/076A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/076B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/076B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/076B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/076B.mp3"
                         }
                     ]
                 },
@@ -1719,13 +1719,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/077A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/077A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/077A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/077A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/077B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/077B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/077B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/077B.mp3"
                         }
                     ]
                 },
@@ -1741,13 +1741,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/078A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/078A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/078A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/078A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/078B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/078B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/078B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/078B.mp3"
                         }
                     ]
                 },
@@ -1763,13 +1763,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/079A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/079A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/079A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/079A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/079B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/079B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/079B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/079B.mp3"
                         }
                     ]
                 },
@@ -1785,13 +1785,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/080A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/080A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/080A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/080A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/080B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/080B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/080B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/080B.mp3"
                         }
                     ]
                 },
@@ -1807,13 +1807,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/081A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/081A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/081A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/081A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/081B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/081B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/081B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/081B.mp3"
                         }
                     ]
                 },
@@ -1829,13 +1829,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/082A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/082A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/082A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/082A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/082B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/082B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/082B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/082B.mp3"
                         }
                     ]
                 },
@@ -1851,13 +1851,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/083A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/083A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/083A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/083A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/083B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/083B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/083B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/083B.mp3"
                         }
                     ]
                 },
@@ -1873,13 +1873,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/084A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/084A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/084A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/084A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/084B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/084B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/084B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/084B.mp3"
                         }
                     ]
                 },
@@ -1895,13 +1895,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/085A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/085A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/085A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/085A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/085B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/085B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/085B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/085B.mp3"
                         }
                     ]
                 },
@@ -1917,13 +1917,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/086A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/086A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/086A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/086A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/086B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/086B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/086B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/086B.mp3"
                         }
                     ]
                 },
@@ -1939,13 +1939,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/087A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/087A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/087A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/087A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/087B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/087B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/087B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/087B.mp3"
                         }
                     ]
                 },
@@ -1961,13 +1961,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/088A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/088A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/088A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/088A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/088B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/088B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/088B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/088B.mp3"
                         }
                     ]
                 },
@@ -1983,13 +1983,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/089A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/089A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/089A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/089A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/089B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/089B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/089B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/089B.mp3"
                         }
                     ]
                 },
@@ -2005,13 +2005,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/090A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/090A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/090A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/090A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/090B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/090B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/090B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/090B.mp3"
                         }
                     ]
                 },
@@ -2027,13 +2027,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/091A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/091A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/091A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/091A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/091B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/091B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/091B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/091B.mp3"
                         }
                     ]
                 },
@@ -2049,13 +2049,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/092A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/092A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/092A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/092A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/092B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/092B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/092B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/092B.mp3"
                         }
                     ]
                 },
@@ -2071,13 +2071,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/093A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/093A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/093A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/093A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/093B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/093B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/093B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/093B.mp3"
                         }
                     ]
                 },
@@ -2093,13 +2093,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/094A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/094A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/094A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/094A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/094B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/094B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/094B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/094B.mp3"
                         }
                     ]
                 },
@@ -2115,13 +2115,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/095A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/095A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/095A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/095A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/095B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/095B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/095B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/095B.mp3"
                         }
                     ]
                 },
@@ -2137,13 +2137,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/096A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/096A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/096A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/096A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/096B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/096B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/096B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/096B.mp3"
                         }
                     ]
                 },
@@ -2159,13 +2159,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/097A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/097A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/097A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/097A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/097B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/097B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/097B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/097B.mp3"
                         }
                     ]
                 },
@@ -2181,13 +2181,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/098A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/098A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/098A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/098A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/098B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/098B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/098B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/098B.mp3"
                         }
                     ]
                 },
@@ -2203,13 +2203,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/099A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/099A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/099A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/099A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/099B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/099B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/099B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/099B.mp3"
                         }
                     ]
                 },
@@ -2225,13 +2225,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/100A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/100A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/100A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/100A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/100B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/100B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/100B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/100B.mp3"
                         }
                     ]
                 },
@@ -2247,13 +2247,13 @@ const data = {
                             label:      "Tahlil A",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/101A.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/101A.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/101A.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/101A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/les/101B.js",
                             audioTimes: "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud_tim/101B.js",
-                            audio:      "https://raw.githubusercontent.com/Jonibeke/arab-data/main/arab%20tili/fixies/aud/101B.mp3"
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/101B.mp3"
                         }
                     ]
                 }
