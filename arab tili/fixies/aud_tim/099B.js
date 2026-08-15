@@ -1,0 +1,358 @@
+const audioTimes = [
+  {
+    "num": 1,
+    "audioStart": "00:00:00,000"
+  },
+  {
+    "num": 2,
+    "audioStart": "00:00:02,354"
+  },
+  {
+    "num": 3,
+    "audioStart": "00:00:08,655"
+  },
+  {
+    "num": 4,
+    "audioStart": "00:00:13,259"
+  },
+  {
+    "num": 5,
+    "audioStart": "00:00:19,597"
+  },
+  {
+    "num": 6,
+    "audioStart": "00:00:26,971"
+  },
+  {
+    "num": 7,
+    "audioStart": "00:00:30,564"
+  },
+  {
+    "num": 8,
+    "audioStart": "00:00:43,518"
+  },
+  {
+    "num": 9,
+    "audioStart": "00:01:02,965"
+  },
+  {
+    "num": 10,
+    "audioStart": "00:01:08,235"
+  },
+  {
+    "num": 11,
+    "audioStart": "00:01:13,966"
+  },
+  {
+    "num": 12,
+    "audioStart": "00:01:19,448"
+  },
+  {
+    "num": 13,
+    "audioStart": "00:01:26,342"
+  },
+  {
+    "num": 14,
+    "audioStart": "00:01:29,562"
+  },
+  {
+    "num": 15,
+    "audioStart": "00:01:31,623"
+  },
+  {
+    "num": 16,
+    "audioStart": "00:01:37,243"
+  },
+  {
+    "num": 17,
+    "audioStart": "00:01:40,133"
+  },
+  {
+    "num": 18,
+    "audioStart": "00:01:46,334"
+  },
+  {
+    "num": 19,
+    "audioStart": "00:01:49,044"
+  },
+  {
+    "num": 20,
+    "audioStart": "00:01:53,478"
+  },
+  {
+    "num": 21,
+    "audioStart": "00:02:12,971"
+  },
+  {
+    "num": 22,
+    "audioStart": "00:02:19,863"
+  },
+  {
+    "num": 23,
+    "audioStart": "00:02:33,464"
+  },
+  {
+    "num": 24,
+    "audioStart": "00:02:46,524"
+  },
+  {
+    "num": 25,
+    "audioStart": "00:03:05,797"
+  },
+  {
+    "num": 26,
+    "audioStart": "00:03:10,673"
+  },
+  {
+    "num": 27,
+    "audioStart": "00:03:16,179"
+  },
+  {
+    "num": 28,
+    "audioStart": "00:03:24,890"
+  },
+  {
+    "num": 29,
+    "audioStart": "00:03:35,716"
+  },
+  {
+    "num": 30,
+    "audioStart": "00:03:42,820"
+  },
+  {
+    "num": 31,
+    "audioStart": "00:03:47,776"
+  },
+  {
+    "num": 32,
+    "audioStart": "00:03:52,641"
+  },
+  {
+    "num": 33,
+    "audioStart": "00:04:02,133"
+  },
+  {
+    "num": 34,
+    "audioStart": "00:04:13,135"
+  },
+  {
+    "num": 35,
+    "audioStart": "00:04:17,980"
+  },
+  {
+    "num": 36,
+    "audioStart": "00:04:39,016"
+  },
+  {
+    "num": 37,
+    "audioStart": "00:04:42,148"
+  },
+  {
+    "num": 38,
+    "audioStart": "00:04:45,827"
+  },
+  {
+    "num": 39,
+    "audioStart": "00:04:49,713"
+  },
+  {
+    "num": 40,
+    "audioStart": "00:04:53,035"
+  },
+  {
+    "num": 41,
+    "audioStart": "00:04:58,064"
+  },
+  {
+    "num": 42,
+    "audioStart": "00:05:04,908"
+  },
+  {
+    "num": 43,
+    "audioStart": "00:05:07,904"
+  },
+  {
+    "num": 44,
+    "audioStart": "00:05:12,483"
+  },
+  {
+    "num": 45,
+    "audioStart": "00:05:15,891"
+  },
+  {
+    "num": 46,
+    "audioStart": "00:05:19,799"
+  },
+  {
+    "num": 47,
+    "audioStart": "00:05:24,079"
+  },
+  {
+    "num": 48,
+    "audioStart": "00:05:27,034"
+  },
+  {
+    "num": 49,
+    "audioStart": "00:05:30,290"
+  },
+  {
+    "num": 50,
+    "audioStart": "00:05:33,566"
+  },
+  {
+    "num": 51,
+    "audioStart": "00:05:35,557"
+  },
+  {
+    "num": 52,
+    "audioStart": "00:05:38,869"
+  },
+  {
+    "num": 53,
+    "audioStart": "00:05:50,256"
+  },
+  {
+    "num": 54,
+    "audioStart": "00:05:56,218"
+  },
+  {
+    "num": 55,
+    "audioStart": "00:06:00,580"
+  },
+  {
+    "num": 56,
+    "audioStart": "00:06:06,818"
+  },
+  {
+    "num": 57,
+    "audioStart": "00:06:13,557"
+  },
+  {
+    "num": 58,
+    "audioStart": "00:06:27,595"
+  },
+  {
+    "num": 59,
+    "audioStart": "00:06:41,070"
+  },
+  {
+    "num": 60,
+    "audioStart": "00:06:45,320"
+  },
+  {
+    "num": 61,
+    "audioStart": "00:07:05,511"
+  },
+  {
+    "num": 62,
+    "audioStart": "00:07:11,749"
+  },
+  {
+    "num": 63,
+    "audioStart": "00:07:18,489"
+  },
+  {
+    "num": 64,
+    "audioStart": "00:07:24,726"
+  },
+  {
+    "num": 65,
+    "audioStart": "00:07:31,466"
+  },
+  {
+    "num": 66,
+    "audioStart": "00:07:36,546"
+  },
+  {
+    "num": 67,
+    "audioStart": "00:07:40,799"
+  },
+  {
+    "num": 68,
+    "audioStart": "00:07:53,995"
+  },
+  {
+    "num": 69,
+    "audioStart": "00:08:05,854"
+  },
+  {
+    "num": 70,
+    "audioStart": "00:08:09,720"
+  },
+  {
+    "num": 71,
+    "audioStart": "00:08:11,916"
+  },
+  {
+    "num": 72,
+    "audioStart": "00:08:16,567"
+  },
+  {
+    "num": 73,
+    "audioStart": "00:08:21,295"
+  },
+  {
+    "num": 74,
+    "audioStart": "00:08:27,663"
+  },
+  {
+    "num": 75,
+    "audioStart": "00:08:32,186"
+  },
+  {
+    "num": 76,
+    "audioStart": "00:08:35,324"
+  },
+  {
+    "num": 77,
+    "audioStart": "00:08:38,616"
+  },
+  {
+    "num": 78,
+    "audioStart": "00:08:42,300"
+  },
+  {
+    "num": 79,
+    "audioStart": "00:08:50,997"
+  },
+  {
+    "num": 80,
+    "audioStart": "00:08:55,247"
+  },
+  {
+    "num": 81,
+    "audioStart": "00:09:15,438"
+  },
+  {
+    "num": 82,
+    "audioStart": "00:09:21,676"
+  },
+  {
+    "num": 83,
+    "audioStart": "00:09:28,416"
+  },
+  {
+    "num": 84,
+    "audioStart": "00:09:34,653"
+  },
+  {
+    "num": 85,
+    "audioStart": "00:09:41,393"
+  },
+  {
+    "num": 86,
+    "audioStart": "00:09:47,597"
+  },
+  {
+    "num": 87,
+    "audioStart": "00:10:04,814"
+  },
+  {
+    "num": 88,
+    "audioStart": "00:10:11,052"
+  }
+];
+
+if (typeof module !== "undefined" && module.exports) {
+    module.exports = audioTimes;
+}
