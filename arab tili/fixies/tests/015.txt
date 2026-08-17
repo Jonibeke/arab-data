@@ -1,0 +1,271 @@
+(2) حَوْضُ السَّمَكِ — «Akvarium» darsi bo‘yicha test
+
+1. حَوْضُ السَّمَكِ so‘z birikmasining ma’nosi:
+A) Akvarium ✅
+B) Filtr
+C) Suv osti qo‘ng‘irog‘i
+D) Baliq havzasi
+
+2. الشَّاطِئُ آمِنٌ — jumlasining tarjimasi:
+A) Sohil uzoqda.
+B) Sohil xavfsiz. ✅
+C) Sohil yopiq.
+D) Sohil xavfli.
+
+3. «Qani, jo‘naymiz.» jumlasining arabcha shakli qaysi?
+A) لِنَتَفَقَّدْ
+B) انْزِلْ
+C) هَيَّا لِنَنْطَلِقْ ✅
+D) تَمَاسَكِي
+
+4. لِمَاذَا تَبْدُو الْأَسْمَاكُ تَعِبَةً؟ — savolining ma’nosi:
+A) Nega baliqlar yo‘qolib qoldi?
+B) Nega baliqlar suvdan chiqdi?
+C) Nega baliqlar och ko‘rinadi?
+D) Nega baliqlar charchagandek ko‘rinadi? ✅
+
+5. لِأَنَّ الْهَوَاءَ لَا يَكْفِيهَا — jumlasining tarjimasi:
+A) Chunki ularga havo yetarli emas. ✅
+B) Chunki ularga suv kerak emas.
+C) Chunki ular havoni ko‘rmaydi.
+D) Chunki suv juda ko‘p.
+
+6. مُلَوَّثٌ so‘zining ma’nosi:
+A) Toza
+B) Ifloslangan ✅
+C) Sho‘r
+D) Chuchuk
+
+7. «Akvariumdagi suv ifloslangan, unga havo kerak.» jumlasining arabcha shakli:
+A) لَكِنْ جِهَازُ التَّرْشِيحِ لَا يَعْمَلُ
+B) نَعَمْ ذَاكَ الْجِهَازُ هُنَاكَ
+C) فَالْمَاءُ فِي الْحَوْضِ مُلَوَّثٌ يَحْتَاجُ إِلَى الْهَوَاءِ ✅
+D) لِأَنَّ الْهَوَاءَ لَا يَكْفِيهَا
+
+8. جِهَازُ التَّرْشِيحِ nimani anglatadi?
+A) Lampochka
+B) Motor
+C) Nasos
+D) Filtr ✅
+
+9. لَا يَعْمَلُ — iborasining ma’nosi:
+A) Ishlamayapti ✅
+B) Ishlayapti
+C) Yopilgan
+D) Aylanmoqda
+
+10. «Ha, ana o‘sha asbob.» jumlasining arabcha shakli:
+A) عَلَيْنَا مُسَاعَدَتُهَا
+B) نَعَمْ ذَاكَ الْجِهَازُ هُنَاكَ ✅
+C) لَا وَقْتَ لَدَيْنَا لِهَذَا
+D) مَاسِيَا، مَا مُشْكِلَةُ جِهَازِ التَّرْشِيحِ؟
+
+11. عَلَيْنَا مُسَاعَدَتُهَا — ma’nosi:
+A) Ularni kuzatishimiz kerak.
+B) Ularga yordam berishimiz kerak. ✅
+C) Ularni chaqirishimiz kerak.
+D) Ulardan qo‘rqishimiz kerak.
+
+12. «Aks holda ular o‘lib qoladi.» jumlasining arabcha shakli:
+A) فَسَتَمُوتُ ✅
+B) فَسَتَعْمَلُ
+C) فَسَتَرْجِعُ
+D) فَسَتَكُونُ
+
+13. أَحْسَنْتِ so‘zining ma’nosi:
+A) Xayr
+B) Rahmat
+C) Barakalla ✅
+D) Iltimos
+
+14. «Avval men lampani tuzataman.» jumlasining arabcha shakli:
+A) أَصْلِحَا عُطْلَ جِهَازِ التَّرْشِيحِ
+B) أَوَّلًا سَأُصْلِحُ الْمِصْبَاحَ ✅
+C) أَنَا أَيْضًا أُرِيدُ أَنْ أَرَى
+D) سَأُنْقِذُهَا فِي الْحَالِ
+
+15. أَصْلِحَا — fe’l shakli kimlarga qaratilgan?
+A) Bitta erkakka
+B) Bitta ayolga
+C) Ikki kishiga ✅
+D) Ko‘plikdagi erkaklarga
+
+16. «Sen Shifa bilan filtr nosozligini tuzatinglar.» jumlasining arabcha shakli:
+A) وَأَنْتِ وَشِيفَا، أَصْلِحَا عُطْلَ جِهَازِ التَّرْشِيحِ ✅
+B) وَأَنَا أَيْضًا أُرِيدُ أَنْ أَرَى هَذَا الْجِهَازَ
+C) لَا يَعْمَلُ جِهَازُ التَّرْشِيحِ
+D) عَلَيْنَا إِصْلَاحُ هَذَا الْمِفْتَاحِ
+
+17. أَرَى fe’lining ma’nosi:
+A) Ko‘raman ✅
+B) Eshitaman
+C) Yozaman
+D) Kutaman
+
+18. «Sen bunga kichkinasan.» jumlasining arabcha shakli:
+A) أَنْتَ صَغِيرٌ عَلَى هَذَا ✅
+B) أَنْتَ الْعِمْلَاقَةُ
+C) أَنْتَ مُحِقٌّ
+D) أَنْتَ فَوْقُ
+
+19. يَكْفِي جِدَالًا — iborasining ma’nosi:
+A) Bahsni boshlaylik.
+B) Bahs qilish yetadi. ✅
+C) Bahsni davom ettiraylik.
+D) Bahsni tushuntiraylik.
+
+20. لِنَتَفَقَّدْ — fe’lining ma’nosi:
+A) Keling, chiqamiz.
+B) Keling, tekshiramiz. ✅
+C) Keling, yashiramiz.
+D) Keling, o‘ynaymiz.
+
+21. أَنَا فَوْقُ — jumlasining tarjimasi:
+A) Men pastdaman.
+B) Men ichkaridaman.
+C) Men tepada. ✅
+D) Men tashqaridaman.
+
+22. «Va u yerda nima qilyapsan?» jumlasining arabcha shakli:
+A) أَيْنَ أَنْتَ؟
+B) وَمَا الَّذِي تَفْعَلُهُ هُنَاكَ؟ ✅
+C) مَا مُشْكِلَةُ الْجِهَازِ؟
+D) لَا شَيْءَ
+
+23. لَا شَيْءَ — ma’nosi:
+A) Hammasi joyida.
+B) Hech narsa. ✅
+C) Biror narsa bor.
+D) Hech kim.
+
+24. «Bunga vaqtimiz yo‘q.» jumlasining arabcha shakli:
+A) لَا وَقْتَ لَدَيْنَا لِهَذَا ✅
+B) لَا شَيْءَ
+C) لِنَنْطَلِقْ
+D) عَلَيْنَا إِصْلَاحُ هَذَا الْمِفْتَاحِ
+
+25. انْزِلْ — buyruq shaklining ma’nosi:
+A) Chiq
+B) Yot
+C) Tush ✅
+D) Yur
+
+26. عَلَيْنَا إِصْلَاحُ هَذَا الْمِفْتَاحِ — tarjimasi:
+A) Bu kalitni topishimiz kerak.
+B) Bu kalitni tuzatishimiz kerak. ✅
+C) Bu kalitni yashirishimiz kerak.
+D) Bu kalitni olishimiz kerak.
+
+27. مَا مُشْكِلَةُ جِهَازِ التَّرْشِيحِ؟ — savolining ma’nosi:
+A) Filtr qayerda?
+B) Filtrning muammosi nimada? ✅
+C) Filtr qachon ishlaydi?
+D) Filtr qanday tayyorlanadi?
+
+28. يَبْدُو أَنَّ شَيْئًا مَا عَالِقٌ دَاخِلَهُ — jumlasining ma’nosi:
+A) Shekilli, ichida biror narsa tiqilib qolgan. ✅
+B) Shekilli, ichida suv qolmagan.
+C) Shekilli, motor ishlayapti.
+D) Shekilli, filtr buzilmagan.
+
+29. يَمْنَعُ دَوَرَانَ الْمُحَرِّكِ — iborasining ma’nosi:
+A) Motorni tezlashtiradi.
+B) Motorning aylanishiga to‘sqinlik qiladi. ✅
+C) Motorni almashtiradi.
+D) Motorni yoqadi.
+
+30. «Filtr akvariumdagi suvni toza saqlaydi.» jumlasining arabcha shakli:
+A) الْمُرَشِّحُ يُبْقِي الْمَاءَ فِي الْحَوْضِ نَظِيفًا ✅
+B) الْمَاءُ فِي الْحَوْضِ مُلَوَّثٌ
+C) يَدُورُ مُحَرِّكُ الْعَنَفَاتِ
+D) يَعُودُ الْمَاءُ النَّظِيفُ إِلَى الْحَوْضِ
+
+31. يَدُورُ مُحَرِّكُ الْعَنَفَاتِ — tarjimasi:
+A) Turbina motori to‘xtaydi.
+B) Turbina motori aylanadi. ✅
+C) Turbina motori buziladi.
+D) Turbina motori qiziydi.
+
+32. «Iflosliklar va chiqindilar shu yerda qoladi, toza suv esa akvariumga qaytadi.» jumlasining arabcha shakli:
+A) تَعْلَقُ الْأَوْسَاخُ وَالشَّوَائِبُ هُنَاكَ وَيَعُودُ الْمَاءُ النَّظِيفُ إِلَى الْحَوْضِ ✅
+B) الْمُرَشِّحُ يُبْقِي الْمَاءَ نَظِيفًا
+C) يَضُخُّ الْمَاءَ فِي شَبَكَةٍ
+D) لَا تُنَقِّي الْمَاءَ فَقَطْ
+
+33. الشَّوَائِبُ so‘zining ma’nosi:
+A) Chiqindilar ✅
+B) Baliqlar
+C) Pufakchalar
+D) To‘lqinlar
+
+34. لَا تُنَقِّي الْمَاءَ فَقَطْ بَلْ تَضُخُّ الْهَوَاءَ فِيهِ — mazmuni:
+A) Faqat suvni isitadi.
+B) Faqat havoni tozalaydi.
+C) Na||||faqat suvni tozalaydi.
+D) Na||||faqat suvni tozalaydi, balki unga havo ham haydaydi. ✅
+
+35. مِقْدَارَ الْأَكْسِجِينِ — birikmasining ma’nosi:
+A) Kislorod miqdori ✅
+B) Kislorod bosimi
+C) Havo harorati
+D) Suv miqdori
+
+36. «Shuning uchun ularga ham xuddi bizga o‘xshab kislorod kerak.» jumlasining arabcha shakli:
+A) تَحْتَاجُ إِلَى الْهَوَاءِ
+B) لِذَا تَحْتَاجُ إِلَى الْأَكْسِجِينِ مِثْلَنَا ✅
+C) وَهَذَا يَزِيدُ مِقْدَارَ الْأَكْسِجِينِ
+D) تَعِيشُ الْأَسْمَاكُ جَمِيعًا
+
+37. لِلتَّنَفُّسِ تَحْتَ الْمَاءِ — ma’nosi:
+A) Suvni tozalash uchun
+B) Suv ustida suzish uchun
+C) Suv ostida nafas olish uchun ✅
+D) Suvni isitish uchun
+
+38. «Sinab ko‘rish uchun bo‘sh stakanni ag‘darib suvga solib ko‘ring.» jumlasining arabcha shakli:
+A) لِتَرَوْا أَنَّ بَعْضًا مِنَ الْهَوَاءِ يَبْقَى هُنَاكَ
+B) لِلتَّجْرِبَةِ جَرِّبُوا وَضْعَ كُوبٍ فَارِغٍ مَقْلُوبٍ فِي الْمَاءِ ✅
+C) يَتِمُّ إِنْزَالُ جَرَسٍ فَارِغٍ
+D) يَتَنَفَّسُ مِنْهُ الْغَوَّاصُ
+
+39. جَرَسُ الْغَطْسِ — iborasining ma’nosi:
+A) Sho‘ng‘in ko‘zoynagi
+B) Sho‘ng‘in qo‘ng‘irog‘i ✅
+C) Suv nasosi
+D) Suv filtri
+
+40. «Shunda uning ichida biroz havo qoladi, sho‘ng‘inchi undan nafas oladi.» jumlasining arabcha shakli:
+A) يَتَنَفَّسُ الْغَطَّاسُ عَنْ طَرِيقِ خُرْطُومٍ
+B) فَيَبْقَى بَعْضُ الْهَوَاءِ دَاخِلَهُ يَتَنَفَّسُ مِنْهُ الْغَوَّاصُ ✅
+C) يَبْقَى بَعْضُ الْهَوَاءِ فَوْقَ الْمَاءِ
+D) يَغُوصُونَ فِي أَعْمَاقٍ كَبِيرَةٍ
+
+41. قَبْلَ مِئَتَيْ سَنَةٍ تَقْرِيبًا — ma’nosi:
+A) Taxminan yuz yil keyin
+B) Taxminan ikki yuz yil oldin ✅
+C) Taxminan ikki yil oldin
+D) Taxminan yuz yil oldin
+
+42. «Sho‘ng‘inchi shlanga orqali nafas oladi.» jumlasining arabcha shakli:
+A) يَتَنَفَّسُ الْغَطَّاسُ عَنْ طَرِيقِ خُرْطُومٍ ✅
+B) يَقُومُ الْغَطَّاسُ بِالتَّنَفُّسِ مِنَ الْأُسْطُوَانَاتِ
+C) يَتَنَفَّسُ الْغَوَّاصُ مِنَ الْهَوَاءِ
+D) يَسْمَحُ هَذَا لِلْغَطَّاسِ بِالْبَقَاءِ
+
+43. تَمَّتِ الْمُهِمَّةُ — tarjimasi:
+A) Vazifa boshlandi.
+B) Vazifa bajarildi. ✅
+C) Vazifa tugamadi.
+D) Vazifa o‘zgardi.
+
+44. تَمَاسَكِي سَأُنْقِذُكِ فِي الْحَالِ — jumlasining ma’nosi:
+A) Chida, hozir seni qutqaraman. ✅
+B) Qara, hozir ketaman.
+C) Kut, keyin seni chaqiraman.
+D) Qoch, seni qutqarolmayman.
+
+45. «Agar bu ovqat men bo‘lmasam, yordam beradi.» jumlasining arabcha shakli:
+A) أَنْتَ مُحِقٌّ إِنَّهَا جَائِعَةٌ
+B) يَا إِلَهِي أَتَظُنُّونَ إِطْعَامَهَا يُسَاعِدُ؟
+C) يُسَاعِدُ إِذَا كَانَ هَذَا الطَّعَامُ لَيْسَ أَنَا ✅
+D) وَكُلُّ مَا أَرَادَتْ فِعْلَهُ هُوَ الْتِهَامُنَا

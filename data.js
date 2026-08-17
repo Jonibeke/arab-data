@@ -64,6 +64,7 @@ const data = {
                     img:        "https://arab-data.pages.dev/arab%20tili/fixies/img/003.jpg",
                     video:      "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/002.mp4",
                     subtitle:   "https://arab-data.pages.dev/arab%20tili/fixies/sub/002.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/002.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -86,6 +87,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/002.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/003.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/003.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/003.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -108,6 +110,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/004.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/004.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/004.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/004.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -130,6 +133,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/005.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/005.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/005.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/005.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -152,6 +156,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/006.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/006.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/006.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/006.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -174,6 +179,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/007.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/007.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/007.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/007.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -196,6 +202,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/008.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/008.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/008.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/008.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -218,6 +225,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/009.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/009.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/009.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/009.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -240,6 +248,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/010.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/010.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/010.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/010.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -262,6 +271,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/011.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/011.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/011.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/011.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -284,6 +294,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/012.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/012.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/012.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/012.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -306,6 +317,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/013.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/013.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/013.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/013.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -328,6 +340,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/015.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/014.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/014.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/014.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -350,6 +363,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/016.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/015.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/015.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/015.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -372,6 +386,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/014.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/016.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/016.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/016.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -394,6 +409,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/018.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/017.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/017.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/017.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -416,6 +432,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/017.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/018.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/018.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/018.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -438,6 +455,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/020.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/019.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/019.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/019.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -460,6 +478,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/021.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/020.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/020.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/020.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -482,6 +501,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/019.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/021.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/021.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/021.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -504,6 +524,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/022.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/022.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/022.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/022.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -526,6 +547,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/023.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/023.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/023.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/023.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -548,6 +570,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/024.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/024.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/024.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/024.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -570,6 +593,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/025.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/025.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/025.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/025.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -592,6 +616,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/026.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/026.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/026.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/026.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -614,6 +639,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/028.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/027.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/027.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/027.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -636,6 +662,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/027.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/028.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/028.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/028.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -658,6 +685,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/029.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/029.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/029.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/029.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -680,6 +708,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/035.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/030.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/030.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/030.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -702,6 +731,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/030.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/031.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/031.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/031.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -724,6 +754,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/031.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/032.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/032.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/032.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -746,6 +777,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/037.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/033.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/033.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/033.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -768,6 +800,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/033.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/034.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/034.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/034.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -790,6 +823,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/041.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/035.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/035.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/035.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -812,6 +846,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/034.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/036.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/036.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/036.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -834,6 +869,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/042.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/037.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/037.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/037.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -856,6 +892,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/038.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/038.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/038.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/038.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -878,6 +915,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/036.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/039.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/039.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/039.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -900,6 +938,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/039.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/040.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/040.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/040.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -922,6 +961,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/040.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/041.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/041.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/041.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -944,6 +984,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/045.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/042.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/042.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/042.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -966,6 +1007,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/043.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/043.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/043.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/043.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -988,6 +1030,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/032.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/044.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/044.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/044.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1010,6 +1053,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/050.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/045.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/045.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/045.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1032,6 +1076,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/048.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/046.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/046.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/046.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1054,6 +1099,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/052.jpg",
                     video:    "https://arabicvideofixies.pages.dev/047.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/047.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/047.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1076,6 +1122,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/049.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/048.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/048.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/048.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1098,6 +1145,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/047.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/049.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/049.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/049.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1120,6 +1168,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/053.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/050.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/050.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/050.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1142,6 +1191,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/044.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/051.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/051.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/051.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1164,6 +1214,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/054.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/052.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/052.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/052.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1186,6 +1237,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/051.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/053.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/053.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/053.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1208,6 +1260,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/046.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/054.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/054.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/054.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1230,6 +1283,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/055.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/055.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/055.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/055.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1252,6 +1306,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/057.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/056.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/056.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/056.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1274,6 +1329,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/058.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/057.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/057.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/057.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1296,6 +1352,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/060.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/058.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/058.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/058.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1318,6 +1375,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/056.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/059.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/059.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/059.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1340,6 +1398,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/061.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/060.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/060.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/060.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1362,6 +1421,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/062.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/061.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/061.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/061.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1384,6 +1444,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/066.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/062.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/062.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/062.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1406,6 +1467,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/059.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/063.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/063.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/063.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1428,6 +1490,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/063.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/064.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/064.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/064.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1450,6 +1513,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/070.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/065.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/065.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/065.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1472,6 +1536,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/068.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/066.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/066.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/066.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1494,6 +1559,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/064.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/067.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/067.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/067.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1516,6 +1582,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/067.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/068.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/068.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/068.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1538,6 +1605,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/072.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/069.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/069.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/069.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1560,6 +1628,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/075.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/070.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/070.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/070.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1582,6 +1651,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/071.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/071.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/071.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/071.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1604,6 +1674,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/076.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/072.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/072.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/072.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1626,6 +1697,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/069.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/073.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/073.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/073.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1648,6 +1720,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/065.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/074.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/074.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/074.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1670,6 +1743,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/073.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/075.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/075.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/075.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1692,6 +1766,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/074.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/076.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/076.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/076.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1714,6 +1789,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/080.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/077.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/077.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/077.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1736,6 +1812,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/078.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/078.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/078.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/078.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1758,6 +1835,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/077.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/079.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/079.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/079.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1780,6 +1858,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/084.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/080.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/080.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/080.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1802,6 +1881,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/083.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/081.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/081.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/081.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1824,6 +1904,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/082.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/082.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/082.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/082.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1846,6 +1927,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/079.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/083.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/083.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/083.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1868,6 +1950,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/087.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/084.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/084.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/084.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1890,6 +1973,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/086.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/085.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/085.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/085.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1912,6 +1996,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/085.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/086.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/086.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/086.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1934,6 +2019,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/089.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/087.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/087.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/087.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1956,6 +2042,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/081.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/088.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/088.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/088.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -1978,6 +2065,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/092.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/089.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/089.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/089.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2000,6 +2088,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/091.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/090.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/090.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/090.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2022,6 +2111,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/088.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/091.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/091.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/091.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2044,6 +2134,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/090.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/092.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/092.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/092.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2066,6 +2157,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/093.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/093.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/093.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/093.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2088,6 +2180,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/095.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/094.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/094.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/094.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2110,6 +2203,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/094.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/095.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/095.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/095.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2132,6 +2226,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/097.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/096.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/096.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/096.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2154,6 +2249,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/098.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/097.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/097.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/097.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2176,6 +2272,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/096.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/098.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/098.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/098.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2198,6 +2295,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/099.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/099.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/099.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/099.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2220,6 +2318,7 @@ const data = {
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/100.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/100.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/100.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/100.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2242,6 +2341,7 @@ const data = {
                     img:      "",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/101.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/101.srt",
+                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/101.txt",
                     analyses: [
                         {
                             label:      "Tahlil A",
@@ -2420,7 +2520,7 @@ const data = {
                 {
                     num: 1,
                     title: "Unit 1",
-                    audioBook: { "Reader": "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud_book/Unit%2001.mp3" },
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2001.mp3" },
                     clipRange: { "Reader": "" },
                     audioBookTimes: { "Reader": "" },
                     analyses: [
@@ -2428,13 +2528,202 @@ const data = {
                             label: "Tahlil",
                             lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/01.js",
                             audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/01P.js",
-                            audio: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud_book/Unit%2001.mp3"
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/01A.mp3"
                         },
                         {
                             label: "Tahlil2",
                             lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/01.js",
                             audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/01P.js",
-                            audio: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud_book/Unit%2001.mp3"
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/01B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 2,
+                    title: "Unit 2",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2002.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/02.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/02P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/02A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/02.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/02P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/02B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 3,
+                    title: "Unit 3",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2003.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/03.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/03P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/03A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/03.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/03P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/03B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 4,
+                    title: "Unit 4",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2004.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/04.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/04P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/04A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/04.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/04P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/04B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 5,
+                    title: "Unit 5",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2005.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/05.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/05P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/05A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/05.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/05P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/05B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 6,
+                    title: "Unit 6",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2006.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/06.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/06P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/06A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/06.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/06P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/06B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 7,
+                    title: "Unit 7",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2007.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/07.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/07P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/07A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/07.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/07P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/07B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 8,
+                    title: "Unit 8",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2008.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/08.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/08P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/08A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/08.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/08P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/08B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 9,
+                    title: "Unit 9",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2009.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/09.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/09P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/09A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/09.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/09P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/09B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 10,
+                    title: "Unit 10",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2010.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/10.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/10P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/10A.mp3"
+                        },
+                        {
+                            label: "Tahlil2",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/10.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/10P.js",
+                            audio: "https://made-video.sgjibebk573x.workers.dev/4000-word/les-aud/10B.mp3"
                         }
                     ]
                 }

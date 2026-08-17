@@ -1,0 +1,271 @@
+(2) الْآلِي — «Robot» darsi bo‘yicha test
+
+1. الْآلِي so‘zining darsdagi ma’nosi:
+A) Robot ✅
+B) Mashina
+C) Kompyuter
+D) Dvigatel
+
+2. هَلْ أَخْبَرْتُكُمْ بِمَا أُرِيدُ هَدِيَّةً لِيَوْمِ وِلَادَتِي؟ — tarjimasi:
+A) Tug‘ilgan kunim qachonligini aytdimmi?
+B) Tug‘ilgan kunimga nima sovg‘a xohlaganimni sizlarga aytdimmi? ✅
+C) Tug‘ilgan kunimga kim sovg‘a olib keladi?
+D) Tug‘ilgan kunimni qayerda nishonlaymiz?
+
+3. أَلْفَ مَرَّةٍ تَقْرِيبًا — iborasining ma’nosi:
+A) Yuz marta
+B) Bir necha marta
+C) Deyarli ming marta ✅
+D) Mingdan ortiq marta
+
+4. الْآلِي إيه آر سَيَكُونُ الْأَفْضَلَ بِلَا رَيْبٍ — jumlasining ma’nosi:
+A) AR roboti yangi bo‘ladi.
+B) AR roboti juda qimmat bo‘ladi.
+C) AR roboti ishlamaydi.
+D) AR roboti shubhasiz eng yaxshisi bo‘ladi. ✅
+
+5. مُزَوَّدٌ بِرُؤْيَةٍ قَوِيَّةٍ — iborasining ma’nosi:
+A) Kuchli ovoz bilan jihozlangan
+B) Kuchli qo‘llar bilan jihozlangan
+C) Kuchli ko‘rish qobiliyati bilan jihozlangan ✅
+D) Kuchli motor bilan jihozlangan
+
+6. «Men uni juda xohlayman.» jumlasining arabcha shakli:
+A) أَنَا سَأُحْضِرُهُ
+B) أَنَا أَعْرِفُهُ
+C) أَنَا لَا أُرِيدُهُ
+D) أَنَا أُرِيدُهُ بِشِدَّةٍ ✅
+
+7. سَتَكْتَشِفُ الْهَدِيَّةَ غَدًا — tarjimasi:
+A) Sovg‘ani ertaga bilib olasan. ✅
+B) Sovg‘ani kecha topding.
+C) Sovg‘ani hozir olasan.
+D) Sovg‘ani unutib qo‘yasan.
+
+8. حَانَ وَقْتُ النَّوْمِ — iborasining ma’nosi:
+A) O‘ynash vaqti keldi.
+B) Uxlash vaqti keldi. ✅
+C) Turish vaqti keldi.
+D) Ovqatlanish vaqti keldi.
+
+9. إِنَّهَا هَدِيَّةٌ رَائِعَةٌ — jumlasining to‘g‘ri tarjimasi:
+A) Bu ajoyib o‘yin.
+B) Bu yangi robot.
+C) Bu qiziqarli sovg‘a.
+D) Bu ajoyib sovg‘a. ✅
+
+10. «Biz esa Tomni xursand qilish uchun hech qanday sovg‘a olib kelmadik.» jumlasining arabcha shakli:
+A) نَحْنُ صَدِيقَانِ سَيِّئَانِ
+B) نَحْنُ أَحْضَرْنَا هَدِيَّةً
+C) أَمَّا نَحْنُ فَلَمْ نُحْضِرْ أَيَّ هَدِيَّةٍ لِتُومْ لِنُفْرِحَهُ ✅
+D) إِنَّهَا هَدِيَّةٌ رَائِعَةٌ
+
+11. نَحْنُ صَدِيقَانِ سَيِّئَانِ — ma’nosi:
+A) Biz yaxshi do‘stlarmiz.
+B) Biz yomon do‘stlarmiz. ✅
+C) Biz Tomning do‘stlarimiz.
+D) Biz ikkita robotmiz.
+
+12. «Qani, bu robot qanday ishlashini ko‘raylik.» jumlasining arabcha shakli:
+A) تَرَى كَيْفَ يَعْمَلُ هَذَا الْآلِي ✅
+B) حَسَنًا
+C) أَنَا سَأُخْبِرُكَ
+D) رَائِعٌ
+
+13. إِذَنْ لِنَقُمْ بِتَجْرِيبِهِ — tarjimasi:
+A) Unda uni sotib olamiz.
+B) Unda uni kutamiz.
+C) Unda uni yashiramiz.
+D) Unda, keling, uni sinab ko‘ramiz. ✅
+
+14. أَوَّلًا سَنَجْعَلُهُ يَمْشِي — jumlasining ma’nosi:
+A) Keyin uni to‘xtatamiz.
+B) Avval uni yurgizamiz. ✅
+C) Avval uni tuzatamiz.
+D) Keyin uni yashiramiz.
+
+15. وَكَيْفَ سَيَعْلَمُ الْآلِي أَيْنَ يَمْشِي؟ — tarjimasi:
+A) Robot qachon ishlashini qanday biladi?
+B) Robot qayerda turishini qanday biladi?
+C) Robot qayerga yurishni qanday biladi? ✅
+D) Robot kimni ko‘rishini qanday biladi?
+
+16. «Men senga aytaman.» jumlasining arabcha shakli:
+A) أَنَا سَأُخْبِرُكَ ✅
+B) أَنَا سَأَرَاكَ
+C) أَنَا سَأُسَاعِدُكَ
+D) أَنَا سَأَنْتَظِرُكَ
+
+17. إِحْدَى عَيْنَيِ الْآلِي — iborasining ma’nosi:
+A) Robotning ikki oyog‘i
+B) Robotning qo‘li
+C) Robotning bir ko‘zi ✅
+D) Robotning kamerasi
+
+18. «Robotning bir ko‘zi aslida kamera.» jumlasining arabcha shakli:
+A) الْآلِي مَا هُوَ إِلَّا آلَةٌ ذَكِيَّةٌ
+B) وَهِيَ تُرْسِلُ الصُّورَةَ إِلَى الشَّاشَةِ
+C) فَيَرَى اللَّاعِبُ إِلَى أَيْنَ يَذْهَبُ الْآلِي
+D) إِحْدَى عَيْنَيِ الْآلِي فِي الْحَقِيقَةِ كَامِيرَا ✅
+
+19. تُرْسِلُ الصُّورَةَ — fe’lining ma’nosi:
+A) Tasvirni saqlaydi.
+B) Tasvirni yuboradi. ✅
+C) Tasvirni o‘chiradi.
+D) Tasvirni chizadi.
+
+20. «U tasvirni boshqaruv pultidagi ekranga jo‘natadi.» jumlasining arabcha shakli:
+A) وَهِيَ تُرْسِلُ الصُّورَةَ إِلَى الشَّاشَةِ فِي جِهَازِ التَّحَكُّمِ ✅
+B) فَيَرَى اللَّاعِبُ إِلَى أَيْنَ يَذْهَبُ الْآلِي
+C) أَنَا سَأُخْبِرُكَ
+D) إِحْدَى عَيْنَيِ الْآلِي كَامِيرَا
+
+21. الْآلِي مَا هُوَ إِلَّا آلَةٌ ذَكِيَّةٌ — ma’nosi:
+A) Robot juda katta qurilma.
+B) Robot oddiy mashina emas.
+C) Robot — bu shunchaki aqlli mashina. ✅
+D) Robot faqat kamera.
+
+22. «U odamlar uchun juda qiyin yoki xavfli bo‘lgan vazifalarni bajara oladi.» jumlasining arabcha shakli:
+A) بِأَذْرُعِهَا الْقَوِيَّةِ يَسْتَطِيعُ الْآلِيُّونَ تَحْرِيكَ الْأَجْسَامِ الثَّقِيلَةِ
+B) تَسْتَطِيعُ إِنْجَازَ مَهَمَّاتٍ صَعْبَةٍ جِدًّا أَوْ خَطِيرَةٍ عَلَى الْبَشَرِ ✅
+C) هُنَاكَ آلِيُّونَ يَسْتَطِيعُونَ فَهْمَ لُغَةِ الْإِنْسَانِ
+D) وَآلِيُّونَ يَتَحَدَّثُونَ وَيُلْقُونَ الدُّعَابَاتِ
+
+23. أَذْرُعِهَا الْقَوِيَّةِ — birikmasining ma’nosi:
+A) Kuchli qo‘llari ✅
+B) Uzun oyoqlari
+C) Katta ko‘zlari
+D) Og‘ir jismlari
+
+24. «Robotlar og‘ir jismlarni ko‘chira oladi.» jumlasining arabcha shakli:
+A) وَيَتِمُّ أَيْضًا إِرْسَالُ الْآلِيِّينَ إِلَى الْفَضَاءِ
+B) أَوْ تَجْمِيعَ بَعْضِ الْأَجْزَاءِ
+C) بِأَذْرُعِهَا الْقَوِيَّةِ يَسْتَطِيعُ الْآلِيُّونَ تَحْرِيكَ الْأَجْسَامِ الثَّقِيلَةِ ✅
+D) لِمُسَاعَدَةِ الْعُلَمَاءِ عَلَى بُحُوثِهِمْ
+
+25. تَجْمِيعَ بَعْضِ الْأَجْزَاءِ مَعَ بَعْضٍ — ma’nosi:
+A) Ba’zi qismlarni ajratish
+B) Ba’zi qismlarni bir-biriga qo‘shish ✅
+C) Ba’zi qismlarni sotish
+D) Ba’zi qismlarni tekshirish
+
+26. «Robotlar koinotga yoki okean tubiga ham yuboriladi.» jumlasining arabcha shakli:
+A) وَيَتِمُّ أَيْضًا إِرْسَالُ الْآلِيِّينَ إِلَى الْفَضَاءِ أَوْ قَاعِ الْمُحِيطِ ✅
+B) يَسْتَطِيعُ إِنْجَازَ مَهَمَّاتٍ صَعْبَةٍ
+C) هُنَاكَ أَيْضًا آلِيُّونَ
+D) كَالْبَشَرِ تَمَامًا
+
+27. لِمُسَاعَدَةِ الْعُلَمَاءِ عَلَى بُحُوثِهِمْ — tarjimasi:
+A) Olimlarni chaqirish uchun
+B) Olimlarni o‘qitish uchun
+C) Olimlarga tadqiqotlarida yordam berish uchun ✅
+D) Olimlardan yordam olish uchun
+
+28. هُنَاكَ أَيْضًا آلِيُّونَ يَسْتَطِيعُونَ فَهْمَ لُغَةِ الْإِنْسَانِ — ma’nosi:
+A) Inson tilini yozadigan robotlar ham bor.
+B) Inson tilini tushuna oladigan robotlar ham bor. ✅
+C) Inson tilidan qo‘rqadigan robotlar bor.
+D) Faqat odamlar robot tilini tushunadi.
+
+29. كَالْبَشَرِ تَمَامًا — iborasining ma’nosi:
+A) Odamlarsiz
+B) Odamlardan keyin
+C) Xuddi odamlarga o‘xshab. ✅
+D) Odamlardan farqli ravishda
+
+30. «Endi tushundim.» jumlasining arabcha shakli:
+A) مَاذَا حَصَلَ؟
+B) رَائِعٌ
+C) حَسَنًا إِلَى الْيَمِينِ قَلِيلًا
+D) الْآنَ قَدْ فَهِمْتُ ✅
+
+31. حَسَنًا إِلَى الْيَمِينِ قَلِيلًا — tarjimasi:
+A) Xo‘p, biroz o‘ngga. ✅
+B) Xo‘p, biroz chapga.
+C) Xo‘p, oldinga yur.
+D) Xo‘p, orqaga qayt.
+
+32. مَاذَا حَصَلَ؟ — savolining ma’nosi:
+A) Qayerga ketding?
+B) Nima bo‘ldi? ✅
+C) Nima xohlaysan?
+D) Nima ko‘ryapsan?
+
+33. انْظُرِي مَا فَعَلْتِ — tarjimasi:
+A) Qara, nima qilib qo‘yding. ✅
+B) Qara, nima topding.
+C) Qara, qayerga ketding.
+D) Qara, nima sotib olding.
+
+34. لَقَدْ حَطَّمَهُ — jumlasining ma’nosi:
+A) U uni tuzatib qo‘ydi.
+B) U uni olib ketdi.
+C) U uni sindirib qo‘ydi.
+D) U uni sindirib qo‘ydi. ✅
+
+35. «Sen u bilan o‘ynayotgan eding, to‘g‘rimi?» jumlasining arabcha shakli:
+A) كُنْتَ تَلْعَبُ بِهِ صَحِيحٌ؟ ✅
+B) لَقَدْ حَطَّمَهُ
+C) نُولِيكْ تَوَقَّفْ
+D) هَلْ تَظُنِّينَ أَنَّ تُومَاسَ يَنْتَبِهُ؟
+
+36. هَلْ تَظُنِّينَ أَنَّ تُومَاسَ يَنْتَبِهُ؟ — ma’nosi:
+A) Tomas ketadi deb o‘ylaysanmi?
+B) Tomas robotni tuzatadi deb o‘ylaysanmi?
+C) Tomas sezadi deb o‘ylaysanmi? ✅
+D) Tomas uyg‘onadi deb o‘ylaysanmi?
+
+37. عَلَيْكَ أَنْ تُصْلِحَهُ طُولَ اللَّيْلِ — iborasining ma’nosi:
+A) Sen tun bo‘yi uni kuzatishing kerak.
+B) Sen tun bo‘yi uni tuzatishing kerak. ✅
+C) Sen tun bo‘yi uni yashirishing kerak.
+D) Sen tun bo‘yi u bilan o‘ynashing kerak.
+
+38. سَأُعِيدُهُ إِلَى الْعَمَلِ — tarjimasi:
+A) Uni ishga qaytarmayman.
+B) Uni olib tashlayman.
+C) Uni yana ishlaydigan holga keltiraman. ✅
+D) Uni yangi robotga almashtiraman.
+
+39. «Uyg‘oq turaman.» jumlasining arabcha shakli:
+A) سَأَبْقَى مُسْتَيْقِظًا ✅
+B) سَأَنَامُ
+C) سَأُعِيدُهُ
+D) لِنَخْتَبِئْ جَمِيعًا
+
+40. لَا نَحْتَاجُ إِلَى الْمُسَاعَدَةِ — ma’nosi:
+A) Bizga yordam kerak.
+B) Biz yordam so‘raymiz.
+C) Biz yordam beramiz.
+D) Bizga yordam kerak emas. ✅
+
+41. عِنْدَ تَعَطُّلِ تِلْفَازِكَ أَوْ هَاتِفِكَ الْمَحْمُولِ — tarjimasi:
+A) Televizoring yoki mobil telefoning buzilganda. ✅
+B) Televizoringni yoqqaningda.
+C) Telefoningni sotganingda.
+D) Kompyuteringni tuzatganingda.
+
+42. «Qayerga borishimizni so‘rama, yechim haqida so‘rama.» jumlasining arabcha shakli:
+A) عَلَيْنَا أَنْ نَخْتَبِئَ
+B) مِنَ الدَّاخِلِ دُونَ جَدَلٍ
+C) لَا تَسْأَلْ أَيْنَ سَنَذْهَبُ لَا تَسْأَلْ عَنِ الْحَلِّ ✅
+D) نَتَحَرَّكُ صُبْحًا مَسَاءً
+
+43. نَحْنُ وُجِدْنَا كَيْ نَعْمَلَ — ma’nosi:
+A) Biz dam olish uchun yaralganmiz.
+B) Biz ishlash uchun yaralganmiz. ✅
+C) Biz yashirinish uchun yaralganmiz.
+D) Biz o‘ynash uchun yaralganmiz.
+
+44. نَرْجُو لَكَ يَوْمًا سَعِيدًا — iborasining ma’nosi:
+A) Senga yaxshi tun tilaymiz.
+B) Senga sog‘lik tilaymiz.
+C) Senga omad tilaymiz.
+D) Senga baxtli kun tilaymiz. ✅
+
+45. فِي اللَّيْلَةِ الْمَاضِيَةِ، الْآلِي تَحَطَّمَ — jumlasining tarjimasi:
+A) Bugun robot ishladi.
+B) Kecha robot ishga tushdi.
+C) O‘tgan kechasi robot sinib qoldi.
+D) O‘tgan kechasi robot sinib qoldi. ✅
