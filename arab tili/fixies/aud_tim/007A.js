@@ -5,319 +5,307 @@ const audioTimes = [
   },
   {
     "num": 2,
-    "audioStart": "00:00:03,664"
+    "audioStart": "00:00:09,342"
   },
   {
     "num": 3,
-    "audioStart": "00:00:15,059"
+    "audioStart": "00:00:20,737"
   },
   {
     "num": 4,
-    "audioStart": "00:00:22,616"
+    "audioStart": "00:00:28,294"
   },
   {
     "num": 5,
-    "audioStart": "00:00:31,077"
+    "audioStart": "00:00:36,755"
   },
   {
     "num": 6,
-    "audioStart": "00:00:37,581"
+    "audioStart": "00:00:43,259"
   },
   {
     "num": 7,
-    "audioStart": "00:00:48,386"
+    "audioStart": "00:00:54,064"
   },
   {
     "num": 8,
-    "audioStart": "00:00:57,291"
+    "audioStart": "00:01:02,949"
   },
   {
     "num": 9,
-    "audioStart": "00:01:01,445"
+    "audioStart": "00:01:05,281"
   },
   {
     "num": 10,
-    "audioStart": "00:01:04,669"
+    "audioStart": "00:01:10,595"
   },
   {
     "num": 11,
-    "audioStart": "00:01:09,982"
+    "audioStart": "00:01:20,766"
   },
   {
     "num": 12,
-    "audioStart": "00:01:13,205"
+    "audioStart": "00:01:29,241"
   },
   {
     "num": 13,
-    "audioStart": "00:01:23,377"
+    "audioStart": "00:01:36,902"
   },
   {
     "num": 14,
-    "audioStart": "00:01:26,600"
+    "audioStart": "00:01:43,744"
   },
   {
     "num": 15,
-    "audioStart": "00:01:35,076"
+    "audioStart": "00:01:57,779"
   },
   {
     "num": 16,
-    "audioStart": "00:01:42,737"
+    "audioStart": "00:02:11,030"
   },
   {
     "num": 17,
-    "audioStart": "00:01:49,578"
+    "audioStart": "00:02:26,001"
   },
   {
     "num": 18,
-    "audioStart": "00:02:03,614"
+    "audioStart": "00:02:37,281"
   },
   {
     "num": 19,
-    "audioStart": "00:02:16,875"
+    "audioStart": "00:02:46,728"
   },
   {
     "num": 20,
-    "audioStart": "00:02:31,846"
+    "audioStart": "00:02:54,967"
   },
   {
     "num": 21,
-    "audioStart": "00:02:43,125"
+    "audioStart": "00:03:07,440"
   },
   {
     "num": 22,
-    "audioStart": "00:02:52,572"
+    "audioStart": "00:03:13,166"
   },
   {
     "num": 23,
-    "audioStart": "00:03:00,812"
+    "audioStart": "00:03:28,397"
   },
   {
     "num": 24,
-    "audioStart": "00:03:13,285"
+    "audioStart": "00:03:40,284"
   },
   {
     "num": 25,
-    "audioStart": "00:03:19,010"
+    "audioStart": "00:03:49,757"
   },
   {
     "num": 26,
-    "audioStart": "00:03:34,231"
+    "audioStart": "00:03:58,127"
   },
   {
     "num": 27,
-    "audioStart": "00:03:46,118"
+    "audioStart": "00:04:07,170"
   },
   {
     "num": 28,
-    "audioStart": "00:03:55,592"
+    "audioStart": "00:04:19,885"
   },
   {
     "num": 29,
-    "audioStart": "00:04:03,961"
+    "audioStart": "00:04:32,296"
   },
   {
     "num": 30,
-    "audioStart": "00:04:12,985"
+    "audioStart": "00:04:48,412"
   },
   {
     "num": 31,
-    "audioStart": "00:04:25,700"
+    "audioStart": "00:04:59,961"
   },
   {
     "num": 32,
-    "audioStart": "00:04:38,111"
+    "audioStart": "00:05:05,686"
   },
   {
     "num": 33,
-    "audioStart": "00:04:54,216"
+    "audioStart": "00:05:25,067"
   },
   {
     "num": 34,
-    "audioStart": "00:05:05,945"
+    "audioStart": "00:05:36,332"
   },
   {
     "num": 35,
-    "audioStart": "00:05:11,671"
+    "audioStart": "00:05:42,976"
   },
   {
     "num": 36,
-    "audioStart": "00:05:31,042"
+    "audioStart": "00:06:12,227"
   },
   {
     "num": 37,
-    "audioStart": "00:05:42,307"
+    "audioStart": "00:06:29,996"
   },
   {
     "num": 38,
-    "audioStart": "00:05:48,950"
+    "audioStart": "00:06:49,089"
   },
   {
     "num": 39,
-    "audioStart": "00:06:18,201"
+    "audioStart": "00:07:10,622"
   },
   {
     "num": 40,
-    "audioStart": "00:06:35,970"
+    "audioStart": "00:07:26,507"
   },
   {
     "num": 41,
-    "audioStart": "00:06:55,063"
+    "audioStart": "00:07:44,934"
   },
   {
     "num": 42,
-    "audioStart": "00:07:16,596"
+    "audioStart": "00:08:02,491"
   },
   {
     "num": 43,
-    "audioStart": "00:07:32,471"
+    "audioStart": "00:08:09,572"
   },
   {
     "num": 44,
-    "audioStart": "00:07:50,898"
+    "audioStart": "00:08:24,029"
   },
   {
     "num": 45,
-    "audioStart": "00:08:08,455"
+    "audioStart": "00:08:37,933"
   },
   {
     "num": 46,
-    "audioStart": "00:08:15,537"
+    "audioStart": "00:08:51,036"
   },
   {
     "num": 47,
-    "audioStart": "00:08:29,994"
+    "audioStart": "00:08:57,211"
   },
   {
     "num": 48,
-    "audioStart": "00:08:43,897"
+    "audioStart": "00:09:06,883"
   },
   {
     "num": 49,
-    "audioStart": "00:08:57,000"
+    "audioStart": "00:09:09,782"
   },
   {
     "num": 50,
-    "audioStart": "00:09:03,176"
+    "audioStart": "00:09:27,052"
   },
   {
     "num": 51,
-    "audioStart": "00:09:12,847"
+    "audioStart": "00:09:38,725"
   },
   {
     "num": 52,
-    "audioStart": "00:09:18,157"
+    "audioStart": "00:09:46,796"
   },
   {
     "num": 53,
-    "audioStart": "00:09:35,426"
+    "audioStart": "00:09:49,012"
   },
   {
     "num": 54,
-    "audioStart": "00:09:47,099"
+    "audioStart": "00:09:55,213"
   },
   {
     "num": 55,
-    "audioStart": "00:09:55,170"
+    "audioStart": "00:10:04,112"
   },
   {
     "num": 56,
-    "audioStart": "00:09:59,102"
+    "audioStart": "00:10:12,656"
   },
   {
     "num": 57,
-    "audioStart": "00:10:05,303"
+    "audioStart": "00:10:21,713"
   },
   {
     "num": 58,
-    "audioStart": "00:10:14,203"
+    "audioStart": "00:10:27,309"
   },
   {
     "num": 59,
-    "audioStart": "00:10:22,736"
+    "audioStart": "00:10:44,150"
   },
   {
     "num": 60,
-    "audioStart": "00:10:31,793"
+    "audioStart": "00:11:07,044"
   },
   {
     "num": 61,
-    "audioStart": "00:10:37,389"
+    "audioStart": "00:11:15,400"
   },
   {
     "num": 62,
-    "audioStart": "00:10:54,230"
+    "audioStart": "00:11:35,299"
   },
   {
     "num": 63,
-    "audioStart": "00:11:17,135"
+    "audioStart": "00:11:50,658"
   },
   {
     "num": 64,
-    "audioStart": "00:11:25,470"
+    "audioStart": "00:12:03,557"
   },
   {
     "num": 65,
-    "audioStart": "00:11:45,369"
+    "audioStart": "00:12:14,699"
   },
   {
     "num": 66,
-    "audioStart": "00:12:00,728"
+    "audioStart": "00:12:28,212"
   },
   {
     "num": 67,
-    "audioStart": "00:12:13,628"
+    "audioStart": "00:12:38,259"
   },
   {
     "num": 68,
-    "audioStart": "00:12:24,779"
+    "audioStart": "00:12:59,608"
   },
   {
     "num": 69,
-    "audioStart": "00:12:38,292"
+    "audioStart": "00:13:14,853"
   },
   {
     "num": 70,
-    "audioStart": "00:12:48,339"
+    "audioStart": "00:13:37,274"
   },
   {
     "num": 71,
-    "audioStart": "00:13:09,688"
+    "audioStart": "00:14:01,203"
   },
   {
     "num": 72,
-    "audioStart": "00:13:24,933"
+    "audioStart": "00:14:24,806"
   },
   {
     "num": 73,
-    "audioStart": "00:13:47,364"
+    "audioStart": "00:14:41,200"
   },
   {
     "num": 74,
-    "audioStart": "00:14:11,303"
+    "audioStart": "00:14:43,301"
   },
   {
     "num": 75,
-    "audioStart": "00:14:34,906"
+    "audioStart": "00:15:00,084"
   },
   {
     "num": 76,
-    "audioStart": "00:14:51,310"
+    "audioStart": "00:15:11,807"
   },
   {
     "num": 77,
-    "audioStart": "00:14:55,013"
-  },
-  {
-    "num": 78,
-    "audioStart": "00:15:11,796"
-  },
-  {
-    "num": 79,
-    "audioStart": "00:15:23,519"
-  },
-  {
-    "num": 80,
-    "audioStart": "00:15:40,408"
+    "audioStart": "00:15:28,696"
   }
 ];
 

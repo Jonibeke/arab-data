@@ -1,0 +1,73 @@
+const lessons = [
+  {"num":1,"time":"00:00:00,840 --> 00:00:03,379","english":"The Jackal and the Sunchild","transcription":"ðə ˈdʒækəl ænd ðə ˈsʌntʃaɪld","parts":[["The Jackal","Chiyabo‘ri"],["and the Sunchild","va Quyosh farzandi"]],"uzbekFull":"Chiyabo‘ri va Quyosh farzandi.","note":"jackal — chiyabo‘ri; sunchild — Quyosh farzandi."},
+
+  {"num":2,"time":"00:00:03,379 --> 00:00:08,320","english":"A jackal is a wild dog with a big black back.","transcription":"ə ˈdʒækəl ɪz ə waɪld dɔːɡ wɪð ə bɪɡ blæk bæk","parts":[["A jackal","Chiyabo‘ri"],["is a wild dog","yovvoyi it"],["with a big black back.","katta qora orqasi bor."]],"uzbekFull":"Chiyabo‘ri katta qora orqasi bo‘lgan yovvoyi itdir.","note":"wild dog — yovvoyi it; with — ...ga ega bo‘lgan."},
+
+  {"num":3,"time":"00:00:08,740 --> 00:00:10,519","english":"It resides in the desert.","transcription":"ɪt rɪˈzaɪdz ɪn ðə ˈdezərt","parts":[["It resides","U yashaydi"],["in the desert.","cho‘lda."]],"uzbekFull":"U cho‘lda yashaydi.","note":"reside — yashamoq; desert — cho‘l."},
+
+  {"num":4,"time":"00:00:11,300 --> 00:00:14,339","english":"But how did the jackal get his black back?","transcription":"bət haʊ dɪd ðə ˈdʒækəl ɡet hɪz blæk bæk","parts":[["But how did","Ammo qanday qilib"],["the jackal get","chiyabo‘ri ega bo‘ldi"],["his black back?","o‘zining qora orqasiga?"]],"uzbekFull":"Ammo chiyabo‘rining orqasi qanday qilib qora bo‘lib qoldi?","note":"how did ...? — qanday qilib ...?; get — ega bo‘lmoq / bo‘lib qolmoq."},
+
+  {"num":5,"time":"00:00:15,000 --> 00:00:16,660","english":"This was how it happened.","transcription":"ðɪs wəz haʊ ɪt ˈhæpənd","parts":[["This was how","Bu shunday bo‘lganki"],["it happened.","bu sodir bo‘lgan."]],"uzbekFull":"Bu shunday sodir bo‘lgan edi.","note":"happen — sodir bo‘lmoq."},
+
+  {"num":6,"time":"00:00:17,559 --> 00:00:20,120","english":"One day, the jackal saw a girl.","transcription":"wʌn deɪ ðə ˈdʒækəl sɔː ə ɡɜːrl","parts":[["One day,","Bir kuni,"],["the jackal saw","chiyabo‘ri ko‘rdi"],["a girl.","bir qizni."]],"uzbekFull":"Bir kuni chiyabo‘ri bir qizni ko‘rdi.","note":"one day — bir kuni; see → saw — ko‘rmoq."},
+
+  {"num":7,"time":"00:00:20,719 --> 00:00:22,440","english":"She was sitting upon a rock.","transcription":"ʃiː wəz ˈsɪtɪŋ əˈpɑːn ə rɑːk","parts":[["She was sitting","U o‘tirgan edi"],["upon a rock.","qoya ustida."]],"uzbekFull":"U qoya ustida o‘tirgan edi.","note":"sit upon — ustida o‘tirmoq; rock — qoya, tosh."},
+
+  {"num":8,"time":"00:00:22,940 --> 00:00:24,800","english":"She was not a normal child.","transcription":"ʃiː wəz nɑːt ə ˈnɔːrməl tʃaɪld","parts":[["She was not","U ... emas edi"],["a normal child.","oddiy bola."]],"uzbekFull":"U oddiy bola emas edi.","note":"normal — oddiy, odatiy; child — bola."},
+
+  {"num":9,"time":"00:00:25,420 --> 00:00:28,160","english":"She was a rare and beautiful sunchild.","transcription":"ʃiː wəz ə rer ænd ˈbjuːtɪfəl ˈsʌntʃaɪld","parts":[["She was","U edi"],["a rare and beautiful","noyob va chiroyli"],["sunchild.","Quyosh farzandi."]],"uzbekFull":"U noyob va chiroyli Quyosh farzandi edi.","note":"rare — noyob; beautiful — chiroyli."},
+
+  {"num":10,"time":"00:00:28,920 --> 00:00:31,260","english":"She was bright and warm like the sun.","transcription":"ʃiː wəz braɪt ænd wɔːrm laɪk ðə sʌn","parts":[["She was bright and warm","U yorqin va iliq edi"],["like the sun.","Quyosh kabi."]],"uzbekFull":"U Quyosh kabi yorqin va iliq edi.","note":"bright — yorqin; warm — iliq; like — kabi."},
+
+  {"num":11,"time":"00:00:32,039 --> 00:00:34,299","english":"The child saw the jackal and smiled.","transcription":"ðə tʃaɪld sɔː ðə ˈdʒækəl ænd smaɪld","parts":[["The child saw","Bola ko‘rdi"],["the jackal","chiyabo‘rini"],["and smiled.","va jilmaydi."]],"uzbekFull":"Bola chiyabo‘rini ko‘rdi va jilmaydi.","note":"smile — jilmaymoq."},
+
+  {"num":12,"time":"00:00:35,259 --> 00:00:35,899","english":"She said,","transcription":"ʃiː sed","parts":[["She said,","U dedi,"]],"uzbekFull":"U dedi:","note":"say → said — aytmoq."},
+
+  {"num":13,"time":"00:00:36,420 --> 00:00:40,759","english":"Jackal, I have been relaxing on this rock for too long.","transcription":"ˈdʒækəl aɪ hæv bɪn rɪˈlæksɪŋ ɑːn ðɪs rɑːk fər tuː lɔːŋ","parts":[["Jackal,","Chiyabo‘ri,"],["I have been relaxing","men dam olib o‘tiribman"],["on this rock","bu qoya ustida"],["for too long.","juda uzoq vaqt davomida."]],"uzbekFull":"“Chiyabo‘ri, men bu qoya ustida juda uzoq vaqt dam olib o‘tirdim.","note":"have been + V-ing — ma’lum vaqt davomida davom etib kelayotgan ish; for too long — juda uzoq vaqt."},
+
+  {"num":14,"time":"00:00:40,759 --> 00:00:46,219","english":"I must get home soon, but I am slow and you are fast.","transcription":"aɪ mʌst ɡet hoʊm suːn bət aɪ æm sloʊ ænd juː ɑːr fæst","parts":[["I must get home soon,","Men tez orada uyga yetib borishim kerak,"],["but I am slow","ammo men sekinman"],["and you are fast.","siz esa tez yurasiz."]],"uzbekFull":"Men tez orada uyga yetib borishim kerak, ammo men sekinman, siz esa tezsiz.","note":"must — kerak, shart; get home — uyga yetib bormoq."},
+
+  {"num":15,"time":"00:00:46,760 --> 00:00:49,299","english":"You will likely get me home more quickly.","transcription":"juː wɪl ˈlaɪkli ɡet miː hoʊm mɔːr ˈkwɪkli","parts":[["You will likely","Siz ehtimol"],["get me home","meni uyga yetkazasiz"],["more quickly.","tezroq."]],"uzbekFull":"Siz meni ehtimol uyga tezroq yetkazib qo‘yasiz.","note":"likely — ehtimol; get someone home — birovni uyiga yetkazmoq."},
+
+  {"num":16,"time":"00:00:50,439 --> 00:00:51,439","english":"Then she requested,","transcription":"ðen ʃiː rɪˈkwestɪd","parts":[["Then","Keyin"],["she requested,","u iltimos qildi,"]],"uzbekFull":"Keyin u iltimos qildi:","note":"request — iltimos qilmoq, so‘ramoq."},
+
+  {"num":17,"time":"00:00:52,000 --> 00:00:53,539","english":"Will you carry me home?","transcription":"wɪl juː ˈkæri miː hoʊm","parts":[["Will you carry me","Meni ko‘tarib borasizmi"],["home?","uyga?"]],"uzbekFull":"“Meni uyga ko‘tarib olib borasizmi?”","note":"carry — ko‘tarib olib bormoq."},
+
+  {"num":18,"time":"00:00:53,939 --> 00:00:56,379","english":"If you do, I'll give you a gift.","transcription":"ɪf juː duː aɪl ɡɪv juː ə ɡɪft","parts":[["If you do,","Agar shunday qilsangiz,"],["I'll give you","men sizga beraman"],["a gift.","sovg‘a."]],"uzbekFull":"“Agar shunday qilsangiz, sizga sovg‘a beraman.”","note":"If you do — agar shunday qilsangiz; gift — sovg‘a."},
+
+  {"num":19,"time":"00:00:56,940 --> 00:01:01,179","english":"This necklace belongs to me, but I will give it to you.","transcription":"ðɪs ˈnekləs bɪˈlɔːŋz tə miː bət aɪ wɪl ɡɪv ɪt tə juː","parts":[["This necklace","Bu marjon"],["belongs to me,","menga tegishli,"],["but I will give it to you.","ammo men uni sizga beraman."]],"uzbekFull":"“Bu marjon menga tegishli, ammo men uni sizga beraman.”","note":"belong to — ...ga tegishli bo‘lmoq; necklace — marjon."},
+
+  {"num":20,"time":"00:01:01,920 --> 00:01:07,079","english":"The wild jackal agreed, so the sun child sat on the dog's back.","transcription":"ðə waɪld ˈdʒækəl əˈɡriːd soʊ ðə sʌn tʃaɪld sæt ɑːn ðə dɔːɡz bæk","parts":[["The wild jackal agreed,","Yovvoyi chiyabo‘ri rozi bo‘ldi,"],["so the sun child sat","shuning uchun Quyosh farzandi o‘tirdi"],["on the dog's back.","itning orqasiga."]],"uzbekFull":"Yovvoyi chiyabo‘ri rozi bo‘ldi, shuning uchun Quyosh farzandi itning orqasiga o‘tirdi.","note":"agree — rozi bo‘lmoq; sit on — ustiga o‘tirmoq."},
+
+  {"num":21,"time":"00:01:07,180 --> 00:01:11,240","english":"They started to walk, but soon the jackal felt ill.","transcription":"ðeɪ ˈstɑːrtɪd tə wɔːk bət suːn ðə ˈdʒækəl felt ɪl","parts":[["They started to walk,","Ular yurishni boshlashdi,"],["but soon","ammo ko‘p o‘tmay"],["the jackal felt ill.","chiyabo‘rining mazasi qochdi."]],"uzbekFull":"Ular yurishni boshlashdi, ammo ko‘p o‘tmay chiyabo‘rining mazasi qochdi.","note":"start to do — biror ishni boshlamoq; feel ill — mazasi qochmoq."},
+
+  {"num":22,"time":"00:01:11,840 --> 00:01:14,500","english":"The sun child was very hot on his back.","transcription":"ðə sʌn tʃaɪld wəz ˈveri hɑːt ɑːn hɪz bæk","parts":[["The sun child","Quyosh farzandi"],["was very hot","juda issiq edi"],["on his back.","uning orqasida."]],"uzbekFull":"Quyosh farzandi uning orqasida juda issiq edi.","note":"hot — issiq."},
+
+  {"num":23,"time":"00:01:15,140 --> 00:01:17,659","english":"The heat was hurting his back very badly.","transcription":"ðə hiːt wəz ˈhɜːrtɪŋ hɪz bæk ˈveri ˈbædli","parts":[["The heat","Issiqlik"],["was hurting","og‘ritayotgan edi"],["his back","uning orqasini"],["very badly.","juda qattiq."]],"uzbekFull":"Issiqlik uning orqasini juda qattiq og‘ritayotgan edi.","note":"heat — issiqlik; hurt — og‘ritmoq; badly — qattiq, yomon tarzda."},
+
+  {"num":24,"time":"00:01:18,680 --> 00:01:22,560","english":"I made a terrible error in judgment, he thought.","transcription":"aɪ meɪd ə ˈterəbəl ˈerər ɪn ˈdʒʌdʒmənt hiː θɔːt","parts":[["I made","Men qildim"],["a terrible error","dahshatli xato"],["in judgment,","qaror qilishda,"],["he thought.","deb o‘yladi u."]],"uzbekFull":"“Men qaror qilishda dahshatli xato qildim”, deb o‘yladi u.","note":"make an error — xato qilmoq; judgment — qaror, mulohaza."},
+
+  {"num":25,"time":"00:01:23,019 --> 00:01:27,579","english":"He shouldn't have agreed to carry her, so he asked her to get off.","transcription":"hiː ˈʃʊdənt həv əˈɡriːd tə ˈkæri hər soʊ hiː æskt hər tə ɡet ɔːf","parts":[["He shouldn't have agreed","U rozi bo‘lmasligi kerak edi"],["to carry her,","uni ko‘tarib olib borishga,"],["so he asked her","shuning uchun u undan so‘radi"],["to get off.","tushishni."]],"uzbekFull":"U uni ko‘tarib olib borishga rozi bo‘lmasligi kerak edi, shuning uchun undan tushishini so‘radi.","note":"shouldn't have + V3 — ... qilmasligi kerak edi; get off — tushmoq."},
+
+  {"num":26,"time":"00:01:28,200 --> 00:01:29,180","english":"But she did not.","transcription":"bət ʃiː dɪd nɑːt","parts":[["But","Ammo"],["she did not.","u bunday qilmadi."]],"uzbekFull":"Ammo u tushmadi.","note":"did not — o‘tgan zamondagi inkor."},
+
+  {"num":27,"time":"00:01:29,820 --> 00:01:32,680","english":"The jackal's back continued to get hotter and hotter.","transcription":"ðə ˈdʒækəlz bæk kənˈtɪnjuːd tə ɡet ˈhɑːtər ænd ˈhɑːtər","parts":[["The jackal's back","Chiyabo‘rining orqasi"],["continued to get","tobora ... bo‘lib borishda davom etdi"],["hotter and hotter.","issiqroq va issiqroq."]],"uzbekFull":"Chiyabo‘rining orqasi tobora issiqroq bo‘lib boraverdi.","note":"continue to — ...da davom etmoq; hotter and hotter — tobora issiqroq."},
+
+  {"num":28,"time":"00:01:33,460 --> 00:01:37,280","english":"He had to get away from the sun child, so he made a plan.","transcription":"hiː hæd tə ɡet əˈweɪ frəm ðə sʌn tʃaɪld soʊ hiː meɪd ə plæn","parts":[["He had to","U ... kerak edi"],["get away from","uzoqlashish"],["the sun child,","Quyosh farzandidan,"],["so he made a plan.","shuning uchun u reja tuzdi."]],"uzbekFull":"U Quyosh farzandidan uzoqlashishi kerak edi, shuning uchun reja tuzdi.","note":"have to — kerak bo‘lmoq; get away from — ...dan uzoqlashmoq; make a plan — reja tuzmoq."},
+
+  {"num":29,"time":"00:01:38,120 --> 00:01:40,340","english":"First he ran as fast as he could.","transcription":"fɜːrst hiː ræn æz fæst æz hiː kʊd","parts":[["First","Avval"],["he ran","u yugurdi"],["as fast as he could.","qo‘lidan kelganicha tez."]],"uzbekFull":"Avval u qo‘lidan kelganicha tez yugurdi.","note":"as fast as he could — qo‘lidan kelganicha tez."},
+
+  {"num":30,"time":"00:01:40,820 --> 00:01:44,420","english":"He hoped the sun child would fall off, but she did not.","transcription":"hiː hoʊpt ðə sʌn tʃaɪld wʊd fɔːl ɔːf bət ʃiː dɪd nɑːt","parts":[["He hoped","U umid qildi"],["the sun child would fall off,","Quyosh farzandi tushib ketishiga"],["but she did not.","ammo u tushmadi."]],"uzbekFull":"U Quyosh farzandi tushib ketishiga umid qildi, ammo u tushmadi.","note":"hope — umid qilmoq; fall off — tushib ketmoq."},
+
+  {"num":31,"time":"00:01:44,980 --> 00:01:50,520","english":"So when the sun child was looking at the sky, not aware of the jackal's next plan,","transcription":"soʊ wen ðə sʌn tʃaɪld wəz ˈlʊkɪŋ æt ðə skaɪ nɑːt əˈwer əv ðə ˈdʒækəlz nekst plæn","parts":[["So when","Shuning uchun qachonki"],["the sun child was looking at the sky,","Quyosh farzandi osmonga qarayotganida,"],["not aware of","...dan bexabar holda"],["the jackal's next plan,","chiyabo‘rining keyingi rejasidan,"]],"uzbekFull":"Shunday qilib, Quyosh farzandi chiyabo‘rining keyingi rejasidan bexabar holda osmonga qarayotganida,","note":"be aware of — ...dan xabardor bo‘lmoq; not aware of — ...dan bexabar."},
+
+  {"num":32,"time":"00:01:50,519 --> 00:01:56,579","english":"he jumped into a field of flowers. As a result, the child rolled off his back.","transcription":"hiː dʒʌmpt ˈɪntuː ə fiːld əv ˈflaʊərz æz ə rɪˈzʌlt ðə tʃaɪld roʊld ɔːf hɪz bæk","parts":[["he jumped into","u ... ichiga sakradi"],["a field of flowers.","gullar dalasiga."],["As a result,","Natijada,"],["the child rolled off","bola dumalab tushdi"],["his back.","uning orqasidan."]],"uzbekFull":"U gullar dalasiga sakradi. Natijada, bola uning orqasidan dumalab tushdi.","note":"jump into — ichiga sakramoq; as a result — natijada; roll off — dumalab tushmoq."},
+
+  {"num":33,"time":"00:01:57,099 --> 00:02:04,679","english":"The jackal ran away. But the sun child left a mark on the jackal's back, a visible black mark.","transcription":"ðə ˈdʒækəl ræn əˈweɪ bət ðə sʌn tʃaɪld left ə mɑːrk ɑːn ðə ˈdʒækəlz bæk ə ˈvɪzəbəl blæk mɑːrk","parts":[["The jackal ran away.","Chiyabo‘ri qochib ketdi."],["But the sun child","Ammo Quyosh farzandi"],["left a mark","iz qoldirdi"],["on the jackal's back,","chiyabo‘rining orqasida,"],["a visible black mark.","ko‘rinadigan qora iz."]],"uzbekFull":"Chiyabo‘ri qochib ketdi. Ammo Quyosh farzandi chiyabo‘rining orqasida ko‘rinadigan qora iz qoldirdi.","note":"run away — qochib ketmoq; leave a mark — iz qoldirmoq; visible — ko‘rinadigan."},
+
+  {"num":34,"time":"00:02:05,479 --> 00:02:11,060","english":"Ever since his experience with the sun child, the jackal has had a black back.","transcription":"ˈevər sɪns hɪz ɪkˈspɪriəns wɪð ðə sʌn tʃaɪld ðə ˈdʒækəl hæz hæd ə blæk bæk","parts":[["Ever since","Shu paytdan beri"],["his experience with the sun child,","uning Quyosh farzandi bilan bo‘lgan voqeasidan,"],["the jackal has had","chiyabo‘rining bo‘lib kelgan"],["a black back.","qora orqasi."]],"uzbekFull":"Quyosh farzandi bilan bo‘lgan voqeadan beri chiyabo‘rining orqasi qora bo‘lib kelgan.","note":"ever since — ...dan beri; experience — voqea, tajriba; has had — ega bo‘lib kelgan."}
+];
+
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}

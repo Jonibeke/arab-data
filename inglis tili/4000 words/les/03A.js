@@ -1,0 +1,75 @@
+const lessons = [
+  {"num":1,"time":"00:00:00,980 --> 00:00:02,180","english":"The Report","transcription":"ðə rɪˈpɔːrt","parts":[["The Report","Hisobot"]],"uzbekFull":"Hisobot","note":"report — hisobot."},
+
+  {"num":2,"time":"00:00:02,180 --> 00:00:08,460","english":"Lee sat among the books at the library and thought about his group project.","transcription":"liː sæt əˈmʌŋ ðə bʊks æt ðə ˈlaɪbreri ænd θɔːt əˈbaʊt hɪz ɡruːp ˈprɑːdʒekt","parts":[["Lee sat","Li o‘tirdi"],["among the books","kitoblar orasida"],["at the library","kutubxonada"],["and thought about","va ... haqida o‘yladi"],["his group project.","guruh loyihasi haqida."]],"uzbekFull":"Li kutubxonada kitoblar orasida o‘tirib, guruh loyihasi haqida o‘yladi.","note":"among — orasida; think about — ... haqida o‘ylamoq."},
+
+  {"num":3,"time":"00:00:09,339 --> 00:00:13,720","english":"They had to turn it in soon, but he hadn't even started his part.","transcription":"ðeɪ hæd tə tɜːrn ɪt ɪn suːn, bət hiː ˈhædənt ˈiːvən ˈstɑːrtɪd hɪz pɑːrt","parts":[["They had to","ular ...ga majbur edilar"],["turn it in soon,","uni tez orada topshirishlari kerak edi,"],["but he hadn't even started","ammo u hatto boshlamagan edi"],["his part.","o‘z qismini."]],"uzbekFull":"Ular uni tez orada topshirishlari kerak edi, ammo Li hatto o‘z qismini ham boshlamagandi.","note":"turn in — topshirmoq; had to — majbur bo‘lmoq, kerak bo‘lmoq; hadn't even started — hatto boshlamagan edi."},
+
+  {"num":4,"time":"00:00:14,660 --> 00:00:16,760","english":"Jack and Claire were in his group.","transcription":"dʒæk ænd kler wər ɪn hɪz ɡruːp","parts":[["Jack and Claire","Jek va Kler"],["were in his group.","uning guruhida edilar."]],"uzbekFull":"Jek va Kler uning guruhida edilar.","note":"be in a group — guruhda bo‘lmoq."},
+
+  {"num":5,"time":"00:00:17,420 --> 00:00:18,539","english":"They had worked hard.","transcription":"ðeɪ hæd wɜːrkt hɑːrd","parts":[["They had worked hard.","Ular qattiq mehnat qilishgandi."]],"uzbekFull":"Ular qattiq mehnat qilishgandi.","note":"work hard — qattiq mehnat qilmoq."},
+
+  {"num":6,"time":"00:00:19,039 --> 00:00:23,740","english":"They were also very smart, and Lee didn't want them to get a bad grade.","transcription":"ðeɪ wər ˈɔːlsoʊ ˈveri smɑːrt, ænd liː ˈdɪdənt wɑːnt ðəm tə ɡet ə bæd ɡreɪd","parts":[["They were also very smart,","Ular juda aqlli ham edilar,"],["and Lee didn't want","va Li xohlamadi"],["them to get","ular ... olishlarini"],["a bad grade.","yomon baho olishlarini."]],"uzbekFull":"Ular juda aqlli ham edilar, Li esa ularning yomon baho olishlarini istamasdi.","note":"want someone to do — birovning biror ish qilishini xohlamoq; get a bad grade — yomon baho olmoq."},
+
+  {"num":7,"time":"00:00:24,620 --> 00:00:25,800","english":"Jack did the report.","transcription":"dʒæk dɪd ðə rɪˈpɔːrt","parts":[["Jack did","Jek bajardi"],["the report.","hisobotni."]],"uzbekFull":"Jek hisobotni tayyorladi.","note":"do the report — hisobotni tayyorlamoq."},
+
+  {"num":8,"time":"00:00:25,800 --> 00:00:31,700","english":"He wrote a lot of very good sentences and described things with great adjectives.","transcription":"hiː roʊt ə lɑːt əv ˈveri ɡʊd ˈsentənsɪz ænd dɪˈskraɪbd θɪŋz wɪð ɡreɪt ˈædʒɪktɪvz","parts":[["He wrote","U yozdi"],["a lot of very good sentences","juda ko‘p yaxshi gaplar"],["and described things","va narsalarni tasvirladi"],["with great adjectives.","ajoyib sifatlar bilan."]],"uzbekFull":"U juda ko‘p yaxshi gaplar yozdi va narsalarni ajoyib sifatlar bilan tasvirladi.","note":"a lot of — juda ko‘p; describe — tasvirlamoq; adjective — sifat."},
+
+  {"num":9,"time":"00:00:32,480 --> 00:00:34,840","english":"Claire drew a nice map of the stars.","transcription":"kler druː ə naɪs mæp əv ðə stɑːrz","parts":[["Claire drew","Kler chizdi"],["a nice map","chiroyli xaritani"],["of the stars.","yulduzlarning."]],"uzbekFull":"Kler yulduzlarning chiroyli xaritasini chizdi.","note":"draw — chizmoq; a map of — ...ning xaritasi."},
+
+  {"num":10,"time":"00:00:35,380 --> 00:00:38,620","english":"Now Lee needed to do his part of the project.","transcription":"naʊ liː ˈniːdɪd tə duː hɪz pɑːrt əv ðə ˈprɑːdʒekt","parts":[["Now","Endi"],["Lee needed to do","Li qilishi kerak edi"],["his part","o‘z qismini"],["of the project.","loyihaning."]],"uzbekFull":"Endi Li loyihadagi o‘z qismini qilishi kerak edi.","note":"need to do — qilish kerak bo‘lmoq."},
+
+  {"num":11,"time":"00:00:39,359 --> 00:00:43,420","english":"Well, I suppose I need to start my model, Lee thought.","transcription":"wel, aɪ səˈpoʊz aɪ niːd tə stɑːrt maɪ ˈmɑːdl, liː θɔːt","parts":[["Well,","Xo‘sh,"],["I suppose","menimcha"],["I need to start","men boshlashim kerak"],["my model,","modelimni,"],["Lee thought.","deb o‘yladi Li."]],"uzbekFull":"“Xo‘sh, menimcha, modelimni boshlashim kerak”, deb o‘yladi Li.","note":"I suppose — menimcha; need to — kerak bo‘lmoq."},
+
+  {"num":12,"time":"00:00:44,120 --> 00:00:46,960","english":"Making a model of a planet was really hard.","transcription":"ˈmeɪkɪŋ ə ˈmɑːdl əv ə ˈplænɪt wəz ˈrɪəli hɑːrd","parts":[["Making a model","model yasash"],["of a planet","sayyoraning"],["was really hard.","juda qiyin edi."]],"uzbekFull":"Sayyoraning modelini yasash juda qiyin edi.","note":"make a model — model yasamoq; really hard — juda qiyin."},
+
+  {"num":13,"time":"00:00:47,780 --> 00:00:52,820","english":"Lee tried to read several books, but he couldn't comprehend any of the charts.","transcription":"liː traɪd tə riːd ˈsevrəl bʊks, bət hiː ˈkʊdənt ˌkɑːmprɪˈhend ˈeni əv ðə tʃɑːrts","parts":[["Lee tried to read","Li o‘qishga harakat qildi"],["several books,","bir nechta kitobni,"],["but he couldn't comprehend","ammo u tushuna olmadi"],["any of the charts.","diagrammalarning hech birini."]],"uzbekFull":"Li bir nechta kitobni o‘qishga harakat qildi, ammo diagrammalarning hech birini tushuna olmadi.","note":"try to do — qilishga harakat qilmoq; comprehend — tushunmoq; several — bir nechta."},
+
+  {"num":14,"time":"00:00:53,579 --> 00:00:57,240","english":"We're going to fail because of me, Lee said.","transcription":"wɪr ˈɡoʊɪŋ tə feɪl bɪˈkɔːz əv miː, liː sed","parts":[["We're going to fail","Biz muvaffaqiyatsizlikka uchraymiz"],["because of me,","men sababli,"],["Lee said.","dedi Li."]],"uzbekFull":"“Men sababli biz muvaffaqiyatsizlikka uchraymiz”, dedi Li.","note":"be going to — ...moqchi / ... bo‘ladi; because of — sababli."},
+
+  {"num":15,"time":"00:00:57,740 --> 00:01:00,640","english":"He put his head down on the table and said,","transcription":"hiː pʊt hɪz hed daʊn ɑːn ðə ˈteɪbl ænd sed","parts":[["He put his head down","U boshini qo‘ydi"],["on the table","stol ustiga"],["and said,","va dedi,"]],"uzbekFull":"U boshini stol ustiga qo‘yib, dedi:","note":"put ... down — ...ni pastga qo‘ymoq."},
+
+  {"num":16,"time":"00:01:01,280 --> 00:01:05,519","english":"I wish I could see a planet instead of having to read about it.","transcription":"aɪ wɪʃ aɪ kʊd siː ə ˈplænɪt ɪnˈsted əv ˈhævɪŋ tə riːd əˈbaʊt ɪt","parts":[["I wish","Qaniydi"],["I could see a planet","men sayyorani ko‘ra olsam"],["instead of","o‘rniga"],["having to read about it.","u haqida o‘qishga to‘g‘ri kelishining."]],"uzbekFull":"Qaniydi, u haqida o‘qishga to‘g‘ri kelmasdan, sayyorani ko‘ra olsam.","note":"I wish I could — Qaniydi, men ... qila olsam; instead of — o‘rniga."},
+
+  {"num":17,"time":"00:01:06,340 --> 00:01:08,640","english":"Suddenly, there was a bright light.","transcription":"ˈsʌdənli, ðer wəz ə braɪt laɪt","parts":[["Suddenly,","To‘satdan,"],["there was","paydo bo‘ldi"],["a bright light.","yorqin nur."]],"uzbekFull":"To‘satdan yorqin nur paydo bo‘ldi.","note":"suddenly — to‘satdan; bright — yorqin."},
+
+  {"num":18,"time":"00:01:09,579 --> 00:01:15,039","english":"Lee was pulled from his chair, through the roof, and right into a strange ship.","transcription":"liː wəz pʊld frəm hɪz tʃer, θruː ðə ruːf, ænd raɪt ˈɪntuː ə streɪndʒ ʃɪp","parts":[["Lee was pulled","Li tortib olindi"],["from his chair,","stulidan,"],["through the roof,","tom orqali,"],["and right into","va to‘g‘ridan-to‘g‘ri ichiga"],["a strange ship.","g‘alati kemaning."]],"uzbekFull":"Li stulidan tortib olinib, tom orqali to‘g‘ridan-to‘g‘ri g‘alati kemaga tushib qoldi.","note":"be pulled — tortib olinmoq; right into — to‘g‘ridan-to‘g‘ri ichiga."},
+
+  {"num":19,"time":"00:01:15,400 --> 00:01:17,960","english":"Hello, kid, said an alien.","transcription":"həˈloʊ kɪd, sed ən ˈeɪliən","parts":[["Hello, kid,","Salom, bolakay,"],["said an alien.","dedi bir o‘zga sayyoralik."]],"uzbekFull":"“Salom, bolakay”, dedi bir o‘zga sayyoralik.","note":"kid — bolakay; alien — o‘zga sayyoralik."},
+
+  {"num":20,"time":"00:01:18,379 --> 00:01:19,960","english":"Did you ask for help?","transcription":"dɪd juː æsk fər help","parts":[["Did you ask","siz so‘radingizmi"],["for help?","yordam so‘rab?"]],"uzbekFull":"“Siz yordam so‘ragan edingizmi?”","note":"ask for help — yordam so‘ramoq."},
+
+  {"num":21,"time":"00:01:20,719 --> 00:01:24,139","english":"Lee told the friendly alien all about his project.","transcription":"liː toʊld ðə ˈfrendli ˈeɪliən ɔːl əˈbaʊt hɪz ˈprɑːdʒekt","parts":[["Lee told","Li aytib berdi"],["the friendly alien","mehribon o‘zga sayyoralikka"],["all about","hammasini"],["his project.","o‘z loyihasi haqida."]],"uzbekFull":"Li mehribon o‘zga sayyoralikka loyihasi haqida hammasini aytib berdi.","note":"all about — ... haqidagi barcha narsalar; friendly — do‘stona, mehribon."},
+
+  {"num":22,"time":"00:01:24,899 --> 00:01:27,939","english":"The alien agreed to help Lee solve his problem.","transcription":"ði ˈeɪliən əˈɡriːd tə help liː sɑːlv hɪz ˈprɑːbləm","parts":[["The alien agreed","O‘zga sayyoralik rozi bo‘ldi"],["to help Lee","Liga yordam berishga"],["solve his problem.","muammosini hal qilishga."]],"uzbekFull":"O‘zga sayyoralik Lining muammosini hal qilishiga yordam berishga rozi bo‘ldi.","note":"agree to do — biror ishni qilishga rozi bo‘lmoq; solve a problem — muammoni hal qilmoq."},
+
+  {"num":23,"time":"00:01:28,759 --> 00:01:31,679","english":"First, we'll fly through space to view the universe.","transcription":"fɜːrst, wiːl flaɪ θruː speɪs tə vjuː ðə ˈjuːnɪvɜːrs","parts":[["First,","Avvalo,"],["we'll fly through space","biz kosmos bo‘ylab uchamiz"],["to view","ko‘rish uchun"],["the universe.","koinotni."]],"uzbekFull":"Avvalo, koinotni ko‘rish uchun kosmos bo‘ylab uchamiz.","note":"fly through — orqali uchmoq; to view — ko‘rish uchun."},
+
+  {"num":24,"time":"00:01:32,299 --> 00:01:35,399","english":"Then I can help you make a model of my planet.","transcription":"ðen aɪ kən help juː meɪk ə ˈmɑːdl əv maɪ ˈplænɪt","parts":[["Then","Keyin"],["I can help you","men sizga yordam bera olaman"],["make a model","model yasashga"],["of my planet.","sayyoramning."]],"uzbekFull":"Keyin men sizga sayyoramning modelini yasashda yordam bera olaman.","note":"help someone do — birovga biror ishni qilishda yordam bermoq."},
+
+  {"num":25,"time":"00:01:36,359 --> 00:01:38,639","english":"Soon, they were going through the clouds.","transcription":"suːn, ðeɪ wər ˈɡoʊɪŋ θruː ðə klaʊdz","parts":[["Soon,","Ko‘p o‘tmay,"],["they were going through","ular ... orqali ketayotgan edilar"],["the clouds.","bulutlar."]],"uzbekFull":"Ko‘p o‘tmay, ular bulutlar orasidan o‘tib ketishdi.","note":"go through — orqali o‘tmoq; cloud — bulut."},
+
+  {"num":26,"time":"00:01:39,079 --> 00:01:40,339","english":"They passed the moon.","transcription":"ðeɪ pæst ðə muːn","parts":[["They passed","Ular o‘tib ketishdi"],["the moon.","Oydan."]],"uzbekFull":"Ular Oyning yonidan o‘tib ketishdi.","note":"pass — yonidan o‘tmoq."},
+
+  {"num":27,"time":"00:01:40,799 --> 00:01:42,179","english":"Then they viewed Mars.","transcription":"ðen ðeɪ vjuːd mɑːrz","parts":[["Then","Keyin"],["they viewed","ular tomosha qilishdi"],["Mars.","Marsni."]],"uzbekFull":"Keyin ular Marsni ko‘rishdi.","note":"view — ko‘rmoq, tomosha qilmoq."},
+
+  {"num":28,"time":"00:01:42,939 --> 00:01:44,599","english":"Lee was very excited.","transcription":"liː wəz ˈveri ɪkˈsaɪtɪd","parts":[["Lee was","Li edi"],["very excited.","juda hayajonlangan."]],"uzbekFull":"Li juda hayajonlangan edi.","note":"excited — hayajonlangan."},
+
+  {"num":29,"time":"00:01:44,780 --> 00:01:49,639","english":"Instead of a bad grade, his group would have the best project ever.","transcription":"ɪnˈsted əv ə bæd ɡreɪd, hɪz ɡruːp wʊd hæv ðə best ˈprɑːdʒekt ˈevər","parts":[["Instead of a bad grade,","Yomon baho o‘rniga,"],["his group would have","uning guruhi ega bo‘lardi"],["the best project ever.","eng yaxshi loyihaga."]],"uzbekFull":"Yomon baho o‘rniga, uning guruhi eng yaxshi loyihaga ega bo‘lishardi.","note":"instead of — o‘rniga; the best ... ever — eng yaxshi ...; ever — shu paytgacha."},
+
+  {"num":30,"time":"00:01:49,959 --> 00:01:54,039","english":"It's time to go home, the alien finally said.","transcription":"ɪts taɪm tə ɡoʊ hoʊm, ði ˈeɪliən ˈfaɪnəli sed","parts":[["It's time to go home,","Uyga borish vaqti keldi,"],["the alien finally said.","nihoyat o‘zga sayyoralik dedi."]],"uzbekFull":"“Uyga borish vaqti keldi”, dedi nihoyat o‘zga sayyoralik.","note":"It's time to — ... vaqti keldi."},
+
+  {"num":31,"time":"00:01:54,739 --> 00:01:59,119","english":"On the way back, he helped Lee make a model of the planet Mars.","transcription":"ɑːn ðə weɪ bæk, hiː helpt liː meɪk ə ˈmɑːdl əv ðə ˈplænɪt mɑːrz","parts":[["On the way back,","Qaytish yo‘lida,"],["he helped Lee","u Liga yordam berdi"],["make a model","model yasashga"],["of the planet Mars.","Mars sayyorasining."]],"uzbekFull":"Qaytish yo‘lida u Liga Mars sayyorasining modelini yasashga yordam berdi.","note":"on the way back — qaytish yo‘lida; help someone make — birovga ... yasashga yordam bermoq."},
+
+  {"num":32,"time":"00:01:59,879 --> 00:02:01,639","english":"Soon they were on Earth.","transcription":"suːn ðeɪ wər ɑːn ɜːrθ","parts":[["Soon","Ko‘p o‘tmay"],["they were on Earth.","ular Yerda edilar."]],"uzbekFull":"Ko‘p o‘tmay, ular Yerga qaytib kelishdi.","note":"on Earth — Yerda."},
+
+  {"num":33,"time":"00:02:02,439 --> 00:02:03,780","english":"Thanks, Lee said.","transcription":"θæŋks, liː sed","parts":[["Thanks,","Rahmat,"],["Lee said.","dedi Li."]],"uzbekFull":"“Rahmat”, dedi Li.","note":"Thanks — rahmat."},
+
+  {"num":34,"time":"00:02:03,780 --> 00:02:05,780","english":"My model will be awesome.","transcription":"maɪ ˈmɑːdl wɪl biː ˈɔːsəm","parts":[["My model","Mening modelim"],["will be awesome.","ajoyib bo‘ladi."]],"uzbekFull":"Mening modelim ajoyib bo‘ladi.","note":"awesome — ajoyib, juda zo‘r."},
+
+  {"num":35,"time":"00:02:06,619 --> 00:02:10,379","english":"Then he took his model and said goodbye to his new friend.","transcription":"ðen hiː tʊk hɪz ˈmɑːdl ænd sed ɡʊdˈbaɪ tə hɪz nuː frend","parts":[["Then","Keyin"],["he took his model","u modelini oldi"],["and said goodbye","va xayrlashdi"],["to his new friend.","yangi do‘sti bilan."]],"uzbekFull":"Keyin u modelini olib, yangi do‘sti bilan xayrlashdi.","note":"say goodbye to — ... bilan xayrlashmoq; new friend — yangi do‘st."}
+];
+
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}
