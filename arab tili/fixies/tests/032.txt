@@ -1,0 +1,271 @@
+(2) حَاسِبُ الْفِيكْسِيِّ — «Fiksiylar hisoblagichi» darsi bo'yicha test
+
+1. وَلِكَيْ يُصْبِحَ خَبِيرًا يَتَعَلَّمُ حَلَّ الْمُشْكِلَاتِ jumlasida وَلِكَيْ يُصْبِحَ qanday ma'noni ifodalamoqda?
+   A) Mutaxassis bo'lgani uchun
+   B) Mutaxassis bo'lish uchun ✅
+   C) Mutaxassis bo'lsa ham
+   D) Mutaxassis bo'lgandan keyin
+
+2. لِكَيْ يُتْقِنَهُ أَخِيرًا birikmasida يُتْقِنَهُ fe'lining mazmuni qaysi?
+   A) Uni nihoyat unutishi
+   B) Uni nihoyat mukammal egallashi ✅
+   C) Uni nihoyat topishi
+   D) Uni nihoyat tekshirishi
+
+3. لَدَيْهِمْ مِثْلُ مَدَارِسَ لِيَحْصُلَ عِلْمُهُمْ jumlasidagi لِيَحْصُلَ qanday munosabatni bildiradi?
+   A) Sabab
+   B) Maqsad ✅
+   C) Shart
+   D) Qarama-qarshilik
+
+4. عَلَيَّ أَنْ أَخْتَارَ birikmasining eng aniq ma'nosi qaysi?
+   A) Men tanlashni xohlayman
+   B) Men tanlashim kerak ✅
+   C) Men tanlagan edim
+   D) Men tanlay olishim mumkin
+
+5. هَلْ أَذْهَبُ مِنْ هُنَا أَمْ مِنْ هُنَاكَ؟ savolida مِنْ ... أَمْ ... qarama-qarshiligi nimani bildiradi?
+   A) Ikki vaqtni
+   B) Ikki ehtimoliy yo'nalishni ✅
+   C) Ikki kishini
+   D) Ikki sababni
+
+6. دَوْرِي so'zi kontekstda qanday ma'noda ishlatilgan?
+   A) Vazifam
+   B) Navbatim ✅
+   C) Yo'nalishim
+   D) Tanlovim
+
+7. نُولِيكْ مَاذَا تَفْعَلُ عِنْدَكَ؟ jumlasidagi عِنْدَكَ bu yerda qaysi ma'noda kelgan?
+   A) Sening yoningda / u yerda ✅
+   B) Sening fikringcha
+   C) Sening oldingdan
+   D) Sening o'rningdan
+
+8. أَنْتَظِرُ فِي مَكَانِي jumlasidagi فِي مَكَانِي nimani bildiradi?
+   A) Men o'z joyimda ✅
+   B) Men o'z joyimdan
+   C) Men o'z joyimga
+   D) Men o'z joyimni
+
+9. لَا تَتَحَرَّكْ fe'lining ushbu kontekstdagi tabiiy tarjimasi qaysi?
+   A) Yurma
+   B) Qimirlama ✅
+   C) Yo'nalma
+   D) Qochma
+
+10. دَرْسُنَا عَلَى وَشْكِ أَنْ يَبْدَأَ jumlasidagi عَلَى وَشْكِ أَنْ ... qanday vaqt mazmunini ifodalaydi?
+    A) Ish allaqachon tugagan
+    B) Ish sodir bo'lish arafasida ✅
+    C) Ish uzoq vaqt oldin sodir bo'lgan
+    D) Ishning sodir bo'lishi taqiqlangan
+
+11. أَلَمْ نَلْعَبْ؟ jumlasidagi أَلَمْ shakli savolga qanday ohang beradi?
+    A) Kelajakdagi rejani
+    B) O'tgan ishni tasdiqlatishga qaratilgan savolni ✅
+    C) Buyruqni
+    D) Shartni
+
+12. فِيمَا بَعْدُ iborasi qaysi ma'noga yaqin?
+    A) Oldindan
+    B) Keyinroq ✅
+    C) Hozirgina
+    D) Darhol
+
+13. عِنْدَمَا يَدْخُلُ أَطْفَالُ الْفِيكْسِزِ إِلَى مَدْرَسَةِ الْفِيكْسِزِ jumlasida عِنْدَمَا qanday munosabatni bildiradi?
+    A) Shart
+    B) Vaqt ✅
+    C) Sabab
+    D) Maqsad
+
+14. يَحْصُلُ كُلٌّ مِنْهُمْ عَلَى حَاسِبِ فِيكْسِيٍّ jumlasidagi كُلٌّ مِنْهُمْ nimani anglatadi?
+    A) Ularning ayrimlari
+    B) Ularning har biri ✅
+    C) Ularning ikkitasi
+    D) Ularning barchasi birgalikda
+
+15. إِنَّهُ حَاسُوبٌ لَوْحِيٌّ يُمْكِنُهُ فِعْلُ أَيِّ شَيْءٍ jumlasida لَوْحِيٌّ qaysi qurilma ma'nosini aniqlashtirmoqda?
+    A) Stol kompyuteri
+    B) Planshet kompyuter ✅
+    C) Hisoblagich
+    D) Navigator
+
+16. حَسَنًا أَيَّ شَيْءٍ تَقْرِيبًا jumlasidagi تَقْرِيبًا so'zi oldingi أَيَّ شَيْءٍ ma'nosini qanday o'zgartiradi?
+    A) Mutlaqo hech narsani
+    B) Deyarli har qanday narsani ✅
+    C) Faqat bitta narsani
+    D) Birinchi navbatdagi narsani
+
+17. إِنَّ الدِّرَاسَةَ بِاسْتِعْمَالِهِ شَيْءٌ رَائِعٌ jumlasida بِاسْتِعْمَالِهِ qanday ma'noni beradi?
+    A) Uni ishlatmasdan
+    B) Uni ishlatish orqali ✅
+    C) Uni ishlatishdan oldin
+    D) Uni ishlatishga qarshi
+
+18. يُمْكِنُكَ أَنْ تَقْرَأَ مِنْهُ وَكَأَنَّهُ كِتَابٌ jumlasidagi وَكَأَنَّهُ كِتَابٌ nimani ifodalaydi?
+    A) U kitobning o'zi ekanini
+    B) U kitob kabi ekanini ✅
+    C) U kitobdan yaxshiroq ekanini
+    D) U kitobga tegishli ekanini
+
+19. وَتَكْتُبُ عَلَيْهِ وَكَأَنَّهُ دَفْتَرٌ jumlasida عَلَيْهِ va مِنْهُ o'rtasidagi farq qaysi?
+    A) Ikkalasi ham "undan" ma'nosida
+    B) Biri "unga/ustiga", ikkinchisi "undan" ma'nosida ✅
+    C) Biri "uning yonida", ikkinchisi "uning uchun"
+    D) Ikkalasi ham "unga" ma'nosida
+
+20. وَإِنْ أَرَدْتَ أَمْكَنَكَ اسْتِعْمَالُهُ ... jumlasida إِنْ أَرَدْتَ qanday munosabatni bildiradi?
+    A) Shart ✅
+    B) Sabab
+    C) Natija
+    D) Qarama-qarshilik
+
+21. أَمْكَنَكَ اسْتِعْمَالُهُ jumlasining ushbu kontekstdagi mazmuni qaysi?
+    A) Uni ishlatishingiz taqiqlangan
+    B) Uni ishlatishingiz mumkin ✅
+    C) Uni ishlatishingiz kerak
+    D) Uni ishlatishingiz shart emas
+
+22. الشَّابِكَةِ الَّتِي يَسْتَعْمِلُهَا الْبَشَرُ jumlasida الَّتِي ... الْبَشَرُ qaysi narsani aniqlab bermoqda?
+    A) Fiksiylarning maxfiy tarmog'ini
+    B) Odamlar ishlatadigan tarmoqni ✅
+    C) Sun'iy yo'ldoshlarni
+    D) Fiksiy planshetini
+
+23. أَوْ زِيَارَةَ الشَّابِكَةِ السِّرِّيَّةِ لِلْفِيكْسِزِ jumlasida السِّرِّيَّةِ qanday ma'noni beradi?
+    A) Ochiq
+    B) Maxfiy ✅
+    C) Umumiy
+    D) Vaqtinchalik
+
+24. حَيْثُ يُمْكِنُكَ مُتَابَعَةَ أَخْبَارِ عَالَمِ الْفِيكْسِزِ jumlasidagi حَيْثُ qanday mazmunni bog'lamoqda?
+    A) Joy / o'sha yerda ✅
+    B) Sabab / shuning uchun
+    C) Shart / agar
+    D) Vaqt / keyin
+
+25. فَلَا تَلْعَبْ بِهَا حَتَّى تُنْهِيَ وَاجِبَاتِكَ jumlasida حَتَّى تُنْهِيَ qanday ma'noni bildiradi?
+    A) Vazifangni tugatganingdan keyin
+    B) Vazifangni tugatguningcha ✅
+    C) Vazifangni boshlashing uchun
+    D) Vazifangni tugatmasliging uchun
+
+26. أَسْرِعَا سَنَتَأَخَّرُ jumlasidagi أَسْرِعَا fe'lining shakli nimani ko'rsatadi?
+    A) Bir erkakka buyruq
+    B) Ikki kishiga buyruq ✅
+    C) Ko'plikka buyruq
+    D) Bir ayolga buyruq
+
+27. أَعْرِفُ طَرِيقَةً مُخْتَصَرَةً مِنْ هُنَا jumlasida مُخْتَصَرَةً qanday ma'noni aniqlayapti?
+    A) Uzun
+    B) Qisqa / ixcham ✅
+    C) Yashirin
+    D) To'g'ri
+
+28. رُبَّمَا مِنْ هُنَا أَوْ لَعَلَّهَا مِنْ هُنَا jumlasidagi رُبَّمَا va لَعَلَّ ... o'rtasidagi umumiy mazmun qaysi?
+    A) Aniq ishonch
+    B) Ehtimol / gumon ✅
+    C) Buyruq
+    D) Taqiqlash
+
+29. أَنَا حَائِرٌ jumlasining oddiy "xafa bo'ldim" emas, balki kontekstdagi to'g'ri ma'nosi qaysi?
+    A) Men qo'rqib ketdim
+    B) Men gangib qoldim / ikkilanib qoldim ✅
+    C) Men charchab qoldim
+    D) Men jahlim chiqdi
+
+30. حَلَّقْنَا مِنْ هُنَا صَحِيحٌ؟ jumlasidagi حَلَّقْنَا qanday mazmunni bildiradi?
+    A) Bu yerdan yurdik
+    B) Bu yerdan uchdik ✅
+    C) Bu yerda qoldik
+    D) Bu yerni tark etmadik
+
+31. لَنْ نُحَلِّقَ مِنْ هُنَاكَ بَلْ مِنْ هُنَا jumlasida لَنْ ... بَلْ ... tuzilmasi qanday ma'no beradi?
+    A) Kelajakdagi inkor va uning o'rniga to'g'ri variantni ko'rsatish ✅
+    B) O'tgan zamon va sabab
+    C) Buyruq va shart
+    D) Shubha va tasdiq
+
+32. آهْ أَظُنُّ أَنَّنَا تَائِهُونَ jumlasida تَائِهُونَ qanday holatni bildiradi?
+    A) Tayyor holat
+    B) Adashgan holat ✅
+    C) Charchagan holat
+    D) Yashiringan holat
+
+33. تَوَقَّفْ عَنِ الْهَلَعِ jumlasida عَنِ الْهَلَعِ nimani anglatadi?
+    A) Vahimaga o't
+    B) Vahima qilishni bas qil ✅
+    C) Vahimadan foydalan
+    D) Vahima haqida gapir
+
+34. وَلَمْ أَهْلَعْ بَعْدُ jumlasidagi بَعْدُ qanday qo'shimcha ma'noni beradi?
+    A) Avval
+    B) Hali ✅
+    C) Birdan
+    D) Doim
+
+35. وَمَا أَدْرَانِي iborasining tabiiy mazmuni qaysi?
+    A) Men buni albatta bilaman
+    B) Qayerdan bilay ✅
+    C) Men eslay olmayman
+    D) Menga aytib ber
+
+36. كُلُّ مَا أَعْلَمُهُ أَنَّنَا تَأَخَّرْنَا jumlasidagi كُلُّ مَا أَعْلَمُهُ qanday ma'no beradi?
+    A) Men biladigan hamma sabablar
+    B) Men biladigan yagona narsa ✅
+    C) Men hech narsani bilmayman
+    D) Men bilishni xohlaydigan narsa
+
+37. لَمْ أَقْصِدْ ذَلِكَ iborasidagi أَقْصِدْ ushbu kontekstda qaysi ma'noda?
+    A) Men buni atay nazarda tutmadim ✅
+    B) Men bunga erishmadim
+    C) Men buni topmadim
+    D) Men bunga qarshi chiqdim
+
+38. لَقَدْ نَسِيتُ أَنَّ دَاخِلَ لَوْحِ الْفِيكْسِزِ وُضِعَ نِظَامُ تَحْدِيدِ الْمَوَاقِعِ jumlasida وُضِعَ qanday nisbatda?
+    A) Faol nisbat: "o'rnatdi"
+    B) Majhul nisbat: "o'rnatilgan" ✅
+    C) O'zlik nisbat
+    D) Buyruq mayli
+
+39. بِاسْتِعْمَالِ إِشَارَاتٍ تُرْسَلُ إِلَيْهِ مِنَ الْأَقْمَارِ الصِّنَاعِيَّةِ jumlasida تُرْسَلُ qanday ma'noni beradi?
+    A) Yo'ldoshlar signallarni yuboradilar
+    B) Signallar sun'iy yo'ldoshlardan unga yuboriladi ✅
+    C) U sun'iy yo'ldoshlarni yuboradi
+    D) Signallar yo'ldoshlarga yuboriladi
+
+40. كُلُّ مَا عَلَيْكَ فِعْلُهُ هُوَ أَنْ تَكْتُبَ عُنْوَانَ الْمَكَانِ الَّذِي تُرِيدُ الذَّهَابَ إِلَيْهِ jumlasining eng aniq mazmuni qaysi?
+    A) Sen faqat borishni xohlagan joyingning manzilini yozishing kifoya ✅
+    B) Sen boradigan joyni o'zing topishing kerak
+    C) Sen faqat manzilni o'qib chiqishing mumkin
+    D) Sen manzilni yozishni xohlasang, avval yo'lni tanlashing kerak
+
+41. لِيَجِدَ لَكَ طَرِيقًا لِإِيصَالِكَ إِلَى هُنَاكَ jumlasida لِيَجِدَ va لِإِيصَالِكَ ketma-ketligi qanday mazmunni beradi?
+    A) U yo'lni topadi va o'zi boradi
+    B) U seni u yerga olib boradigan yo'lni topishi uchun ✅
+    C) Sen yo'lni topib, uni olib borishing uchun
+    D) U yo'lni ko'rib, u yerdan qaytishi uchun
+
+42. ثُمَّ يُخْبِرُكَ وَأَنْتَ فِي طَرِيقِكَ أَيْنَ وَمَتَى يَجِبُ أَنْ تَنْعَطِفَ jumlasida وَأَنْتَ فِي طَرِيقِكَ qanday holatni ifodalaydi?
+    A) Yo'lga chiqishdan oldingi holatni
+    B) Yo'lda ketayotgan paytdagi holatni ✅
+    C) Yo'ldan qaytganidan keyingi holatni
+    D) Manzilga yetgandan keyingi holatni
+
+43. فَتَتَمَكَّنُ مِنَ الْوُصُولِ إِلَى وِجْهَتِكَ بِسُهُولَةٍ jumlasida تَتَمَكَّنُ مِنَ ... qanday ma'noni bildiradi?
+    A) Yetib borishga majbur bo'ladi
+    B) Yetib borishga muvaffaq bo'ladi / imkon topadi ✅
+    C) Yetib borishni rad etadi
+    D) Yetib borishni rejalashtiradi
+
+44. وَإِذَا مَا تُهْتَ عَنِ الطَّرِيقِ فَإِنَّ النِّظَامَ سَيَدُلُّكَ عَلَى طَرِيقٍ أُخْرَى jumlasida إِذَا مَا ... فَإِنَّ ... tuzilmasining mazmuni qaysi?
+    A) Agar ... bo'lsa, unda ... ✅
+    B) Garchi ... bo'lsa ham, ...
+    C) Chunki ..., shuning uchun ...
+    D) Qachonki ... bo'lsa ham, ...
+
+45. وَلَكِنْ مِنَ الْآنَ فَصَاعِدًا يَجِبُ أَنْ تَصِلُوا فِي مِيعَادِكُمْ jumlasidagi مِنَ الْآنَ فَصَاعِدًا qanday nozik ma'noni beradi?
+    A) Hozirdan boshlab / bundan buyon ✅
+    B) Hozirgacha
+    C) Hozirdan oldin
+    D) Faqat hozir

@@ -30,7 +30,7 @@ const data = {
             episodes: [
                 {
                     num: 1,
-                    title: "العتلة - الحلقة الرابعة",
+                    title: "العتلة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/001.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/001.mp4",
@@ -59,7 +59,7 @@ const data = {
                 },
                 {
                     num: 2,
-                    title: "قلم الحبر - الحلقة 16",
+                    title: "قلم الحبر",
                     about: "",
                     img:        "https://arab-data.pages.dev/arab%20tili/fixies/img/003.jpg",
                     video:      "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/002.mp4",
@@ -82,7 +82,7 @@ const data = {
                    },
                 {
                     num: 3,
-                    title: "فرشاة الأسنان - الحلقة 12",
+                    title: "فرشاة الأسنان",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/002.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/003.mp4",
@@ -105,7 +105,7 @@ const data = {
                 },
                 {
                     num: 4,
-                    title: "المسامير - الحلقة 13",
+                    title: "المسامير",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/004.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/004.mp4",
@@ -128,7 +128,7 @@ const data = {
                 },
                 {
                     num: 5,
-                    title: "الثلاجة - الحلقة السابعة",
+                    title: "الثلاجة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/005.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/005.mp4",
@@ -151,7 +151,7 @@ const data = {
                 },
                 {
                     num: 6,
-                    title: "مجفف الشعر - الحلقة 28",
+                    title: "مجفف الشعر",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/006.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/006.mp4",
@@ -174,7 +174,7 @@ const data = {
                 },
                 {
                     num: 7,
-                    title: "جهاز التحكم الريموت - الحلقة الخامسة",
+                    title: "جهاز التحكم الريموت",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/007.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/007.mp4",
@@ -197,7 +197,7 @@ const data = {
                 },
                 {
                     num: 8,
-                    title: "البالوعه - الحلقة الاولى",
+                    title: "البالوعه",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/008.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/008.mp4",
@@ -220,7 +220,7 @@ const data = {
                 },
                 {
                     num: 9,
-                    title: "القطار الكهربائي - الحلقة 15",
+                    title: "القطار الكهربائي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/009.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/009.mp4",
@@ -243,7 +243,7 @@ const data = {
                 },
                 {
                     num: 10,
-                    title: "القفل التوافقي - الحلقة السادسة",
+                    title: "القفل التوافقي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/010.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/010.mp4",
@@ -266,7 +266,7 @@ const data = {
                 },
                 {
                     num: 11,
-                    title: "المروحه - الحلقة 20",
+                    title: "المروحه",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/011.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/011.mp4",
@@ -289,7 +289,7 @@ const data = {
                 },
                 {
                     num: 12,
-                    title: "ميزان الحرارة - الحلقة 22",
+                    title: "ميزان الحرارة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/012.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/012.mp4",
@@ -312,7 +312,7 @@ const data = {
                 },
                 {
                     num: 13,
-                    title: "الدباسة - الحلقة 14",
+                    title: "الدباسة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/013.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/013.mp4",
@@ -335,7 +335,7 @@ const data = {
                 },
                 {
                     num: 14,
-                    title: "الميكرويف - الحلقة 11",
+                    title: "الميكرويف",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/015.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/014.mp4",
@@ -358,7 +358,7 @@ const data = {
                 },
                 {
                     num: 15,
-                    title: "حوض السمك - الحلقة 19",
+                    title: "حوض السمك",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/016.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/015.mp4",
@@ -381,7 +381,7 @@ const data = {
                 },
                 {
                     num: 16,
-                    title: "الفريق - الحلقة 54",
+                    title: "الفريق",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/014.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/016.mp4",
@@ -404,7 +404,7 @@ const data = {
                 },
                 {
                     num: 17,
-                    title: "الرجل الآلي - الحلقة 29",
+                    title: "الرجل الآلي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/018.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/017.mp4",
@@ -427,7 +427,7 @@ const data = {
                 },
                 {
                     num: 18,
-                    title: "العصا السحرية - الحلقة 31",
+                    title: "العصا السحرية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/017.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/018.mp4",
@@ -450,7 +450,7 @@ const data = {
                 },
                 {
                     num: 19,
-                    title: "الابريق الكهربائي - الحلقة الثامنة",
+                    title: "الابريق الكهربائي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/020.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/019.mp4",
@@ -473,7 +473,7 @@ const data = {
                 },
                 {
                     num: 20,
-                    title: "قطع الغيار - الحلقة 17",
+                    title: "قطع الغيار",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/021.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/020.mp4",
@@ -496,7 +496,7 @@ const data = {
                 },
                 {
                     num: 21,
-                    title: "كاشف الكذب - الحلقة 52",
+                    title: "كاشف الكذب",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/019.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/021.mp4",
@@ -519,7 +519,7 @@ const data = {
                 },
                 {
                     num: 22,
-                    title: "المنبه - الحلقة الثالثة",
+                    title: "المنبه",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/022.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/022.mp4",
@@ -542,7 +542,7 @@ const data = {
                 },
                 {
                     num: 23,
-                    title: "القرص المدمج - الحلقة الثانية",
+                    title: "القرص المدمج",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/023.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/023.mp4",
@@ -565,7 +565,7 @@ const data = {
                 },
                 {
                     num: 24,
-                    title: "الكيبورد - لوحة المفاتيح - الحلقة 18",
+                    title: "الكيبورد - لوحة المفاتيح",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/024.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/024.mp4",
@@ -588,7 +588,7 @@ const data = {
                 },
                 {
                     num: 25,
-                    title: "المغناطيس - الحلقة 24",
+                    title: "المغناطيس",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/025.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/025.mp4",
@@ -611,7 +611,7 @@ const data = {
                 },
                 {
                     num: 26,
-                    title: "البالون - الحلقة العاشرة",
+                    title: "البالون",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/026.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/026.mp4",
@@ -634,7 +634,7 @@ const data = {
                 },
                 {
                     num: 27,
-                    title: "الغساله - الحلقة 21",
+                    title: "الغساله",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/028.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/027.mp4",
@@ -657,7 +657,7 @@ const data = {
                 },
                 {
                     num: 28,
-                    title: "مكعب نوليك - الحلقة 53",
+                    title: "مكعب نوليك",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/027.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/028.mp4",
@@ -680,7 +680,7 @@ const data = {
                 },
                 {
                     num: 29,
-                    title: "جرس الباب - الحلقة 59",
+                    title: "جرس الباب",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/029.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/029.mp4",
@@ -695,15 +695,15 @@ const data = {
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/029B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/029B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/029B.mp3"
                         }
                     ]
                 },
                 {
                     num: 30,
-                    title: "الماس الكهربائي - الحلقة 26",
+                    title: "الماس الكهربائي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/035.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/030.mp4",
@@ -713,20 +713,20 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/030A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/030A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/030A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/030B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/030B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/030B.mp3"
                         }
                     ]
                 },
                 {
                     num: 31,
-                    title: "الاختفاء - الحلقة 62",
+                    title: "الاختفاء",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/030.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/031.mp4",
@@ -736,20 +736,20 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/031A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/031A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/031A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/031B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/031B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/031B.mp3"
                         }
                     ]
                 },
                 {
                     num: 32,
-                    title: "نظام تحديد المواقع - الحلقة 77",
+                    title: "نظام تحديد المواقع",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/031.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/032.mp4",
@@ -758,21 +758,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/032A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/032A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/032A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/032B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/032B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/032B.mp3"
                         }
                     ]
                 },
                 {
                     num: 33,
-                    title: "الرسائل النصية - الحلقة التاسعة",
+                    title: "الرسائل النصية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/037.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/033.mp4",
@@ -781,21 +781,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/033A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/033A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/033A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/033B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/033B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/033B.mp3"
                         }
                     ]
                 },
                 {
                     num: 34,
-                    title: "فتحة التهوية - الحلقة 56",
+                    title: "فتحة التهوية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/033.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/034.mp4",
@@ -804,21 +804,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/034A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/034A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/034A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/034B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/034B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/034B.mp3"
                         }
                     ]
                 },
                 {
                     num: 35,
-                    title: "البوصلة - الحلقة 27",
+                    title: "البوصلة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/041.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/035.mp4",
@@ -828,20 +828,20 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/035A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/035A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/035A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/035B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/035B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/035B.mp3"
                         }
                     ]
                 },
                 {
                     num: 36,
-                    title: "البقعة - الحلقة 57",
+                    title: "البقعة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/034.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/036.mp4",
@@ -851,20 +851,20 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/036A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/036A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/036A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/036B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/036B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/036B.mp3"
                         }
                     ]
                 },
                 {
                     num: 37,
-                    title: "المصباح اليدوي - الحلقة 25",
+                    title: "المصباح اليدوي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/042.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/037.mp4",
@@ -874,20 +874,20 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/037A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/037A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/037A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/037B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/037B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/037B.mp3"
                         }
                     ]
                 },
                 {
                     num: 38,
-                    title: "الانابيب - الحلقة 72",
+                    title: "الانابيب",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/038.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/038.mp4",
@@ -896,21 +896,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/038A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/038A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/038A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/028B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/038B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/038B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/038B.mp3"
                         }
                     ]
                 },
                 {
                     num: 39,
-                    title: "الدمية الناطقة - الحلقة 68",
+                    title: "الدمية الناطقة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/036.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/039.mp4",
@@ -920,20 +920,20 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/039A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028A.mp3"
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/039A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/039A.mp3"
                         },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/039B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/028B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/028B.mp3"
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/039B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/039B.mp3"
                         }
                     ]
                 },
                 {
                     num: 40,
-                    title: "الشابكة - الحلقة 46",
+                    title: "الشابكة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/039.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/040.mp4",
@@ -956,7 +956,7 @@ const data = {
                 },
                 {
                     num: 41,
-                    title: "الحلوى - الحلقة 50",
+                    title: "الحلوى",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/040.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/041.mp4",
@@ -979,7 +979,7 @@ const data = {
                 },
                 {
                     num: 42,
-                    title: "صندوق الموسيقى - الحلقة 23",
+                    title: "صندوق الموسيقى",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/045.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/042.mp4",
@@ -1002,7 +1002,7 @@ const data = {
                 },
                 {
                     num: 43,
-                    title: "حقيبة الأدوات - الحلقة 60",
+                    title: "حقيبة الأدوات",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/043.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/043.mp4",
@@ -1025,7 +1025,7 @@ const data = {
                 },
                 {
                     num: 44,
-                    title: "خيال الظل - الحلقة 92",
+                    title: "خيال الظل",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/032.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/044.mp4",
@@ -1048,7 +1048,7 @@ const data = {
                 },
                 {
                     num: 45,
-                    title: "المنجنيق - الحلقة 55",
+                    title: "المنجنيق",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/050.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/045.mp4",
@@ -1071,7 +1071,7 @@ const data = {
                 },
                 {
                     num: 46,
-                    title: "التفاعل المتسلسل - الحلقة 65",
+                    title: "التفاعل المتسلسل",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/048.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/046.mp4",
@@ -1080,24 +1080,24 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/045A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/045A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/045A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/046A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/046A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/046A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/045B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/045B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/045B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/046B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/046B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/046B.mp3"
                         }
                     ]
                 },
                 {
                     num: 47,
-                    title: "الكرتون - الحلقة 35",
+                    title: "الكرتون",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/052.jpg",
-                    video:    "https://arabicvideofixies.pages.dev/047.mp4",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/047.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/047.srt",
                     test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/047.txt",
                     analyses: [
@@ -1140,7 +1140,7 @@ const data = {
                 },
                 {
                     num: 49,
-                    title: "معجون التشكيل - الحلقة 64",
+                    title: "معجون التشكيل",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/047.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/049.mp4",
@@ -1163,7 +1163,7 @@ const data = {
                 },
                 {
                     num: 50,
-                    title: "البطارية الشمسية - الحلقة 30",
+                    title: "البطارية الشمسية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/053.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/050.mp4",
@@ -1172,21 +1172,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/050A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/050A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/050A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/050B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/050B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/050B.mp3"
                         }
                     ]
                 },
                 {
                     num: 51,
-                    title: "جهاز مراقبة الطفل - الحلقة 96",
+                    title: "جهاز مراقبة الطفل",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/044.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/051.mp4",
@@ -1195,21 +1195,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/051A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/051A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/051A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/051B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/051B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/051B.mp3"
                         }
                     ]
                 },
                 {
                     num: 52,
-                    title: "الخفاقة - الحلقة 43",
+                    title: "الخفاقة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/054.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/052.mp4",
@@ -1218,21 +1218,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/052A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/052A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/052A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/052B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/052B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/052B.mp3"
                         }
                     ]
                 },
                 {
                     num: 53,
-                    title: "المرآه - الحلقة 51",
+                    title: "المرآه",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/051.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/053.mp4",
@@ -1241,21 +1241,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/053A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/053A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/053A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/053B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/053B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/053B.mp3"
                         }
                     ]
                 },
                 {
                     num: 54,
-                    title: "الطبل - الحلقة 71",
+                    title: "الطبل",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/046.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/054.mp4",
@@ -1264,21 +1264,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/054A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/054A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/054A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/054B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/054B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/054B.mp3"
                         }
                     ]
                 },
                 {
                     num: 55,
-                    title: "الاحتكاك - الحلقة 58",
+                    title: "الاحتكاك",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/055.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/055.mp4",
@@ -1287,21 +1287,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/055A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/055A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/055A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/055B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/055B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/055B.mp3"
                         }
                     ]
                 },
                 {
                     num: 56,
-                    title: "الميزان - الحلقة 45",
+                    title: "الميزان",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/057.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/056.mp4",
@@ -1310,21 +1310,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/056A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/056A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/056A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/056B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/056B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/056B.mp3"
                         }
                     ]
                 },
                 {
                     num: 57,
-                    title: "السحاب - الحلقة 37",
+                    title: "السحاب",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/058.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/057.mp4",
@@ -1333,21 +1333,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/057A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/057A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/057A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/057B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/057B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/057B.mp3"
                         }
                     ]
                 },
                 {
                     num: 58,
-                    title: "العدسة المكبرة - الحلقة 38",
+                    title: "العدسة المكبرة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/060.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/058.mp4",
@@ -1356,21 +1356,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/058A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/058A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/058A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/058B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/058B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/058B.mp3"
                         }
                     ]
                 },
                 {
                     num: 59,
-                    title: "الساعات - الحلقة 76",
+                    title: "الساعات",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/056.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/059.mp4",
@@ -1379,21 +1379,21 @@ const data = {
                     analyses: [
                         {
                             label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049A.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/059A.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/059A.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/059A.mp3"
                         },
                         {
                             label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/049B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/049B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/049B.mp3"
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/059B.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/059B.js",
+                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/059B.mp3"
                         }
                     ]
                 },
                 {
                     num: 60,
-                    title: "الطرف الاصطناعي - الحلقة 70",
+                    title: "الطرف الاصطناعي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/061.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/060.mp4",
@@ -1416,7 +1416,7 @@ const data = {
                 },
                 {
                     num: 61,
-                    title: "علب القصدير - الحلقة 48",
+                    title: "علب القصدير",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/062.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/061.mp4",
@@ -1439,7 +1439,7 @@ const data = {
                 },
                 {
                     num: 62,
-                    title: "ضوء الليل - الحلقة 40",
+                    title: "ضوء الليل",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/066.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/062.mp4",
@@ -1462,7 +1462,7 @@ const data = {
                 },
                 {
                     num: 63,
-                    title: "النحلة - الحلقة 86",
+                    title: "النحلة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/059.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/063.mp4",
@@ -1485,7 +1485,7 @@ const data = {
                 },
                 {
                     num: 64,
-                    title: "مطفأة الحريق - الحلقة 78",
+                    title: "مطفأة الحريق",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/063.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/064.mp4",
@@ -1508,7 +1508,7 @@ const data = {
                 },
                 {
                     num: 65,
-                    title: "لاقط الصوت - الحلقة 49",
+                    title: "لاقط الصوت",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/070.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/065.mp4",
@@ -1531,7 +1531,7 @@ const data = {
                 },
                 {
                     num: 66,
-                    title: "المقياس - الحلقة 63",
+                    title: "المقياس",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/068.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/066.mp4",
@@ -1554,7 +1554,7 @@ const data = {
                 },
                 {
                     num: 67,
-                    title: "المختبر - الحلقة 91",
+                    title: "المختبر",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/064.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/067.mp4",
@@ -1577,7 +1577,7 @@ const data = {
                 },
                 {
                     num: 68,
-                    title: "الذراع الآلية - الحلقة 79",
+                    title: "الذراع الآلية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/067.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/068.mp4",
@@ -1600,7 +1600,7 @@ const data = {
                 },
                 {
                     num: 69,
-                    title: "العتلة - الحلقة 61",
+                    title: "العتلة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/072.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/069.mp4",
@@ -1623,7 +1623,7 @@ const data = {
                 },
                 {
                     num: 70,
-                    title: "الحافظة - الحلقة 44",
+                    title: "الحافظة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/075.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/070.mp4",
@@ -1646,7 +1646,7 @@ const data = {
                 },
                 {
                     num: 71,
-                    title: "الفرن - الحلقة 80",
+                    title: "الفرن",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/071.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/071.mp4",
@@ -1669,7 +1669,7 @@ const data = {
                 },
                 {
                     num: 72,
-                    title: "الأسلاك - الحلقة 73",
+                    title: "الأسلاك",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/076.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/072.mp4",
@@ -1692,7 +1692,7 @@ const data = {
                 },
                 {
                     num: 73,
-                    title: "المخطط - الحلقة 98",
+                    title: "المخطط",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/069.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/073.mp4",
@@ -1715,7 +1715,7 @@ const data = {
                 },
                 {
                     num: 74,
-                    title: "هاتف الفكسي - الحلقة 102",
+                    title: "هاتف الفكسي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/065.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/074.mp4",
@@ -1738,7 +1738,7 @@ const data = {
                 },
                 {
                     num: 75,
-                    title: "الوسادة الهوائية - الحلقة 88",
+                    title: "الوسادة الهوائية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/073.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/075.mp4",
@@ -1761,7 +1761,7 @@ const data = {
                 },
                 {
                     num: 76,
-                    title: "جهاز الاختبار البيئي - الحلقة 85",
+                    title: "جهاز الاختبار البيئي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/074.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/076.mp4",
@@ -1784,7 +1784,7 @@ const data = {
                 },
                 {
                     num: 77,
-                    title: "الشطرنج - الحلقة 90",
+                    title: "الشطرنج",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/080.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/077.mp4",
@@ -1807,7 +1807,7 @@ const data = {
                 },
                 {
                     num: 78,
-                    title: "شريط الرموز - الحلقة 69",
+                    title: "شريط الرموز",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/078.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/078.mp4",
@@ -1830,7 +1830,7 @@ const data = {
                 },
                 {
                     num: 79,
-                    title: "الكلبة - الحلقة 82",
+                    title: "الكلبة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/077.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/079.mp4",
@@ -1853,7 +1853,7 @@ const data = {
                 },
                 {
                     num: 80,
-                    title: "الكريمة المخفوقة - الحلقة 33",
+                    title: "الكريمة المخفوقة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/084.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/080.mp4",
@@ -1876,7 +1876,7 @@ const data = {
                 },
                 {
                     num: 81,
-                    title: "الورق - الحلقة 41",
+                    title: "الورق",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/083.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/081.mp4",
@@ -1899,7 +1899,7 @@ const data = {
                 },
                 {
                     num: 82,
-                    title: "المكنسة الكهربائية- الحلقة 34",
+                    title: "المكنسة الكهربائية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/082.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/082.mp4",
@@ -1922,7 +1922,7 @@ const data = {
                 },
                 {
                     num: 83,
-                    title: "التعليمات - الحلقة 87",
+                    title: "التعليمات",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/079.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/083.mp4",
@@ -1945,7 +1945,7 @@ const data = {
                 },
                 {
                     num: 84,
-                    title: "سفينه في زجاجة - الحلقة 32",
+                    title: "سفينه في زجاجة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/087.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/084.mp4",
@@ -1968,7 +1968,7 @@ const data = {
                 },
                 {
                     num: 85,
-                    title: "الدرع - الحلقة 74",
+                    title: "الدرع",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/086.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/085.mp4",
@@ -1991,7 +1991,7 @@ const data = {
                 },
                 {
                     num: 86,
-                    title: "المكالمة المصورة - الحلقة 83",
+                    title: "المكالمة المصورة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/085.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/086.mp4",
@@ -2014,7 +2014,7 @@ const data = {
                 },
                 {
                     num: 87,
-                    title: "آلة التصوير - الكاميرا - الحلقة 67",
+                    title: "آلة التصوير - الكاميرا",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/089.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/087.mp4",
@@ -2037,7 +2037,7 @@ const data = {
                 },
                 {
                     num: 88,
-                    title: "الفرخ - الحلقة 103",
+                    title: "الفرخ",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/081.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/088.mp4",
@@ -2060,7 +2060,7 @@ const data = {
                 },
                 {
                     num: 89,
-                    title: "الموبايل - الحلقة 36",
+                    title: "الموبايل",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/092.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/089.mp4",
@@ -2083,7 +2083,7 @@ const data = {
                 },
                 {
                     num: 90,
-                    title: "الكرة الأرضية - الحلقة 66",
+                    title: "الكرة الأرضية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/091.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/090.mp4",
@@ -2106,7 +2106,7 @@ const data = {
                 },
                 {
                     num: 91,
-                    title: "جهاز الانذار - الحلقة 42",
+                    title: "جهاز الانذار",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/088.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/091.mp4",
@@ -2129,7 +2129,7 @@ const data = {
                 },
                 {
                     num: 92,
-                    title: "حساس الحركة - الحلقة 100",
+                    title: "حساس الحركة",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/090.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/092.mp4",
@@ -2152,7 +2152,7 @@ const data = {
                 },
                 {
                     num: 93,
-                    title: "البطاقة الالكترونية - الحلقة 84",
+                    title: "البطاقة الالكترونية",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/093.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/093.mp4",
@@ -2175,7 +2175,7 @@ const data = {
                 },
                 {
                     num: 94,
-                    title: "المنعكسات - الحلقة 81",
+                    title: "المنعكسات",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/095.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/094.mp4",
@@ -2198,7 +2198,7 @@ const data = {
                 },
                 {
                     num: 95,
-                    title: "قدح الامتصاص - الحلقة 101",
+                    title: "قدح الامتصاص",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/094.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/095.mp4",
@@ -2221,7 +2221,7 @@ const data = {
                 },
                 {
                     num: 96,
-                    title: "المصعد - الحلقة 99",
+                    title: "المصعد",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/097.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/096.mp4",
@@ -2244,7 +2244,7 @@ const data = {
                 },
                 {
                     num: 97,
-                    title: "البطاريات - الحلقة 95",
+                    title: "البطاريات",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/098.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/097.mp4",
@@ -2267,7 +2267,7 @@ const data = {
                 },
                 {
                     num: 98,
-                    title: "الحبر السري - الحلقة 104",
+                    title: "الحبر السري",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/096.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/098.mp4",
@@ -2290,7 +2290,7 @@ const data = {
                 },
                 {
                     num: 99,
-                    title: "الحاكي - الحلقة 89",
+                    title: "الحاكي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/099.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/099.mp4",
@@ -2313,7 +2313,7 @@ const data = {
                 },
                 {
                     num: 100,
-                    title: "الهوائي - الحلقة 94",
+                    title: "الهوائي",
                     about: "",
                     img:      "https://arab-data.pages.dev/arab%20tili/fixies/img/100.jpg",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/100.mp4",
@@ -2336,7 +2336,7 @@ const data = {
                 },
                 {
                     num: 101,
-                    title: "الأدوات - الحلقة 75",
+                    title: "الأدوات",
                     about: "",
                     img:      "",
                     video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/101.mp4",
@@ -2940,4 +2940,4 @@ const data = {
             ]
         }
     ]
-};;
+};

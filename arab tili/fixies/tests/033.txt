@@ -1,0 +1,271 @@
+(2) الرَّسَائِلُ النَّصِّيَّةُ — «SMS xabarlar» darsi bo'yicha test
+
+1. مَا مِنْ أَحَدٍ هُنَا؟ jumlasining eng aniq mazmuni qaysi?
+   A) Bu yerda kimdir bormi?
+   B) Bu yerda hech kim yo'qmi? ✅
+   C) Bu yerda faqat bir kishi bormi?
+   D) Bu yerda hamma bormi?
+
+2. أَتَظُنُّ أَنَّهُ هَاتِفُ تُومْ الْجَدِيدُ؟ jumlasida أَتَظُنُّ qanday ma'noni ifodalaydi?
+   A) Sen aniq bilasanmi?
+   B) Sen deb o'ylaysanmi? ✅
+   C) Sen eslayapsanmi?
+   D) Sen tekshirdingmi?
+
+3. نُحَاوِلُ إِنْقَاذَ هَاتِفِكَ jumlasida إِنْقَاذَ qanday ma'noni beradi?
+   A) telefoningni topish
+   B) telefoningni qutqarish ✅
+   C) telefoningni buzish
+   D) telefoningni almashtirish
+
+4. هَذَا لَيْسَ لِي jumlasidagi لِي qanday ma'noda kelgan?
+   A) men uchun
+   B) meniki ✅
+   C) mendan
+   D) menga
+
+5. كَاتْيَا نَسِيَتْهُ jumlasidagi -هُ olmoshi nimaga qaytadi?
+   A) SMS xabarga
+   B) telefonga ✅
+   C) Katyaga
+   D) Tomga
+
+6. فَاتَ الْأَوَانُ iborasining tabiiy ma'nosi qaysi?
+   A) Vaqt yaqinlashdi
+   B) Vaqt o'tib ketdi ✅
+   C) Vaqt to'xtadi
+   D) Vaqt qaytib keldi
+
+7. لَنْ تَقْرَأَهَا، أَلَيْسَ كَذَلِكَ؟ jumlasida لَنْ qanday ma'no beradi?
+   A) o'tmishda inkor
+   B) kelajakda inkor ✅
+   C) hozirgi davomiylik
+   D) buyruq
+
+8. قَدْ تَكُونُ رِسَالَةً مُهِمَّةً jumlasidagi قَدْ qanday nozik ma'noni bildiradi?
+   A) qat'iylik
+   B) ehtimollik ✅
+   C) taqiqlash
+   D) buyruq
+
+9. إِيَّاكَ يَا تُومْ وَأَنْ تَتَجَرَّأَ وَتَقْرَأَ رَسَائِلَهَا jumlasining mazmuni qaysi?
+   A) Tom, uning xabarlarini o'qishni unutma
+   B) Tom, uning xabarlarini o'qishga aslo jur'at etma ✅
+   C) Tom, uning xabarlarini tezroq o'qi
+   D) Tom, uning xabarlarini o'qishga urinib ko'r
+
+10. تَتَجَرَّأَ fe'lining kontekstdagi ma'nosi qaysi?
+    A) jur'at etmoq ✅
+    B) unutmoq
+    C) qo'rqmoq
+    D) kutmoq
+
+11. انْظُرَا لَدَيْهَا رَسَائِلُ كَثِيرَةٌ jumlasida انْظُرَا kimga qaratilgan?
+    A) bir erkakka
+    B) bir ayolga
+    C) ikki kishiga ✅
+    D) ko'plikdagi kishilarga
+
+12. اذْهَبْ وَشَتِّتْ انْتِبَاهَهُ عَنِ الْهَاتِفِ jumlasida شَتِّتْ انْتِبَاهَهُ عَنِ الْهَاتِفِ qanday ma'noda?
+    A) uning diqqatini telefonga qarat
+    B) uning diqqatini telefondan chalg'it ✅
+    C) uning telefonini yashir
+    D) uning diqqatini telefonda ushla
+
+13. سَاعِدُونِي shakli nimani bildiradi?
+    A) Menga yordam ber ✅
+    B) Menga yordam beringlar ✅
+    C) Men yordam beraman
+    D) Ular menga yordam berishadi
+
+14. كَفَى نُبَاحًا iborasining eng yaqin mazmuni qaysi?
+    A) Vovullashni boshlagin
+    B) Vovullashing yetar ✅
+    C) Vovullashga urin
+    D) Vovullashni eshit
+
+15. انْتَهَيْنَا لَنْ يَعْمَلَ jumlasida لَنْ يَعْمَلَ qanday ma'noni beradi?
+    A) Hozir ishlamayapti
+    B) Keyin ishlamaydi ✅
+    C) Ilgari ishlamagan
+    D) Ishlashni boshlashi mumkin
+
+16. لَقَدْ تَوَقَّفَ فَجْأَةً jumlasidagi فَجْأَةً qanday ma'noni kuchaytiradi?
+    A) asta-sekin
+    B) to'satdan ✅
+    C) ataylab
+    D) oldindan
+
+17. يَبْدُو أَنَّكَ خَرَّبْتَهُ jumlasidagi يَبْدُو أَنَّ ... qanday ma'no beradi?
+    A) aniq hukm
+    B) ko'rinish / taxmin ✅
+    C) buyruq
+    D) taqiqlash
+
+18. بَلَى لَقَدْ فَعَلْتَ javobida بَلَى nima uchun ishlatilgan?
+    A) oldingi ijobiy gapni inkor qilish uchun
+    B) oldingi inkor ma'nodagi gapni tasdiqlash uchun ✅
+    C) savolni takrorlash uchun
+    D) kelajakni bildirish uchun
+
+19. وَهُوَ مُعَطَّلٌ jumlasidagi وَهُوَ ... qanday holatni ifodalamoqda?
+    A) "u buzilgan holatda" ✅
+    B) "u buzildi va..."
+    C) "u buziladi"
+    D) "u buzishni boshladi"
+
+20. كَيْفَ سَتُعِيدُهُ إِلَى كَاتْيَا وَهُوَ مُعَطَّلٌ؟ jumlasida وَهُوَ مُعَطَّلٌ nimani aniqlashtirmoqda?
+    A) uni qaytarish vaqtini
+    B) uni qaytarishdagi holatini ✅
+    C) uni qaytarish sababini
+    D) uni qaytarish joyini
+
+21. دُونَ عِلْمِهِ iborasining aniq ma'nosi qaysi?
+    A) uning yordami bilan
+    B) uning bilimisiz ✅
+    C) uning oldida
+    D) uning roziligi bilan
+
+22. هَذَا مَا يَحْدُثُ عِنْدَمَا تَقْرَأُ بَرِيدَ شَخْصٍ آخَرَ jumlasida عِنْدَمَا qanday ma'no beradi?
+    A) agar
+    B) qachonki / ...ganda ✅
+    C) shuning uchun
+    D) garchi
+
+23. إِنَّهَا رِسَالَةٌ وَحَسْبُ jumlasidagi وَحَسْبُ qanday nozik ma'noda kelgan?
+    A) bundan tashqari
+    B) xolos / shunchaki ✅
+    C) aksincha
+    D) ayniqsa
+
+24. لَكِنَّهَا أَقْصَرُ jumlasidagi -هَا nimaga qaytadi?
+    A) telefonga
+    B) SMS xabarga ✅
+    C) oddiy odamga
+    D) xat yozuvchisiga
+
+25. تُعَدُّ قِرَاءَةُ الرَّسَائِلِ عَلَى جِهَازِ شَخْصٍ آخَرَ تَصَرُّفًا غَيْرَ لَائِقٍ jumlasida تُعَدُّ qanday ma'noda?
+    A) hisoblanadi / deb qaraladi ✅
+    B) yoziladi
+    C) yashiriladi
+    D) yuboriladi
+
+26. تَصَرُّفًا غَيْرَ لَائِقٍ birikmasining ma'nosi qaysi?
+    A) to'g'ri xatti-harakat
+    B) noo'rin / odobsiz xatti-harakat ✅
+    C) tasodifiy harakat
+    D) yashirin harakat
+
+27. وَقَدْ يُزْعِجُ هَذَا الشَّخْصَ jumlasidagi قَدْ يُزْعِجُ qanday ma'no beradi?
+    A) albatta xafa qiladi
+    B) xafa qilishi mumkin ✅
+    C) xafa qilmaydi
+    D) xafa qilishni buyuradi
+
+28. حَتَّى لَا نَسْمَعَ مُحَادَثَاتِ النَّاسِ الْخَاصَّةَ بِالْخَطَأِ jumlasida حَتَّى لَا nimani anglatadi?
+    A) toki ... qilmaslik uchun ✅
+    B) garchi ... qilmasa ham
+    C) chunki ... qilmaydi
+    D) agar ... qilmasa
+
+29. بِالْخَطَأِ iborasi ushbu kontekstda qanday ma'no beradi?
+    A) ataylab
+    B) bilmasdan / tasodifan ✅
+    C) majburan
+    D) yashirincha
+
+30. وَهَذَا هُوَ التَّصَرُّفُ السَّلِيمُ jumlasidagi السَّلِيمُ ning eng mos ma'nosi:
+    A) yashirin
+    B) to'g'ri / sog'lom ✅
+    C) murakkab
+    D) xavfli
+
+31. أَعِدُكُمَا أَنَّنِي لَنْ أَقْرَأَ رَسَائِلَ أَحَدٍ آخَرَ jumlasida أَعِدُكُمَا kimga qaratilgan?
+    A) bir kishiga
+    B) ikki kishiga ✅
+    C) ko'plikdagi kishilarga
+    D) faqat ayolga
+
+32. رَسَائِلَ أَحَدٍ آخَرَ birikmasida أَحَدٍ آخَرَ qanday ma'noni beradi?
+    A) aynan o'sha odam
+    B) boshqa birov ✅
+    C) hamma odam
+    D) birinchi odam
+
+33. وَلَكِنْ هَذَا لَنْ يَجْعَلَ الْهَاتِفَ يَعْمَلُ jumlasidagi يَجْعَلَ ... يَعْمَلُ tuzilmasining mazmuni qaysi?
+    A) telefonni ishlashga majbur qiladi / ishlashiga sabab bo'ladi ✅
+    B) telefon ishlamasligini bildiradi
+    C) telefonni o'zi ishlaydi
+    D) telefon ishlashni xohlaydi
+
+34. لِأَنَّنَا نَحْنُ مَنْ أَوْقَفَهُ jumlasida مَنْ nimani ta'kidlamoqda?
+    A) sababni
+    B) aynan biz ekanimizni ✅
+    C) vaqtni
+    D) joyni
+
+35. سَنُعِيدُ تَشْغِيلَهُ fe'lining ma'nosi qaysi?
+    A) uni o'chiramiz
+    B) uni qayta ishga tushiramiz ✅
+    C) uni almashtiramiz
+    D) uni ta'mirlamaymiz
+
+36. لَمْ تَكُنْ مَوْصُولَةً jumlasidagi مَوْصُولَةً qanday holatni bildiradi?
+    A) yoqilgan
+    B) ulanmagan ✅
+    C) buzilgan
+    D) yashirilgan
+
+37. الْفِيكْسِزُ الْعَامِلِينَ عِنْدَ كَاتْيَا birikmasida الْعَامِلِينَ qanday ma'noni beradi?
+    A) Katyaga tegishli
+    B) Katya yonida ishlaydigan ✅
+    C) Katyani kutayotgan
+    D) Katyadan ketgan
+
+38. وَالْعَمَلُ الَّذِي يُكَلَّفُونَ بِهِ لَا يَنْتَهِي jumlasida يُكَلَّفُونَ بِهِ qanday mazmunni anglatadi?
+    A) ularga topshirilgan ish ✅
+    B) ular tanlagan ish
+    C) ular rad etgan ish
+    D) ular tugatgan ish
+
+39. يَتَوَقَّفُ عَنِ الدَّوَرَانِ birikmasi qaysi ma'noni beradi?
+    A) aylanishni boshlaydi
+    B) aylanishdan to'xtaydi ✅
+    C) aylanishni tezlashtiradi
+    D) aylanishni davom ettiradi
+
+40. وَفَوْقَ هَذَا كُلِّهِ iborasining mazmuni qaysi?
+    A) Bularning ustiga yana ✅
+    B) Faqat bularning o'zi
+    C) Bularning ostida
+    D) Bularning o'rniga
+
+41. لِسُوءِ الْحَظِّ iborasi qanday ma'noda ishlatilgan?
+    A) omadim kelib
+    B) afsuski / omadsizlik tufayli ✅
+    C) baxtimizga
+    D) omad tilab
+
+42. يَنْغَمِسُ كَثِيرًا فِي الْعَمَلِ jumlasida يَنْغَمِسُ فِي الْعَمَلِ qanday obrazli ma'noni anglatadi?
+    A) ishdan uzoqlashadi
+    B) ishga juda berilib ketadi ✅
+    C) ishni tugatadi
+    D) ishni boshqalarga topshiradi
+
+43. بَيْنَ وَقْتٍ لِآخَرَ iborasining tabiiy tarjimasi qaysi?
+    A) har kuni
+    B) vaqti-vaqti bilan ✅
+    C) bir martaga
+    D) ayni vaqtda
+
+44. أَوْ عَلَى الْأَقَلِ تَحِيَّاتِهِمْ jumlasidagi عَلَى الْأَقَلِ qanday ma'noni beradi?
+    A) hech bo'lmaganda ✅
+    B) bundan tashqari
+    C) ayniqsa
+    D) albatta
+
+45. لِكَيْ يَبْقَوْا عَلَى تَوَاصُلٍ دَائِمٍ jumlasining eng aniq mazmuni qaysi?
+    A) Bir-birlarini doim kuzatish uchun
+    B) Doimiy aloqada bo'lib qolish uchun ✅
+    C) Bir joyda birga qolish uchun
+    D) Doim telefon ishlatish uchun

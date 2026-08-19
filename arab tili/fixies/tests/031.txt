@@ -1,0 +1,271 @@
+(2) الِاخْتِفَاءُ — «Yashirinish» darsi bo'yicha test
+
+1. وَلَا سِيَّمَا أَنَّهُ بِلَا أَسْمَاكٍ؟ jumlasidagi وَلَا سِيَّمَا qanday ma'noni kuchaytiradi?
+   A) ayniqsa / qolaversa ✅
+   B) shuning uchun
+   C) aks holda
+   D) nihoyat
+
+2. أَوَّلًا إِنَّهَا حَوْضُ زَوَاحِفَ jumlasida حَوْضُ زَوَاحِفَ qanday mazmunni bildiradi?
+   A) baliqlar yashaydigan akvarium
+   B) sudralib yuruvchilar uchun akvarium ✅
+   C) suv hayvonlari uchun hovuz
+   D) bo'sh akvarium
+
+3. وَلَيْسَ لِلسَّمَكِ بَلْ لِلْعَظَايَا وَالثَّعَابِينِ tuzilmasida بَلْ qanday vazifada ishlatilgan?
+   A) oldingi fikrni kuchaytirib boradi
+   B) oldingi fikrni inkor qilib, to'g'ri variantni keltiradi ✅
+   C) sababni bildiradi
+   D) shartni bildiradi
+
+4. طَلَبَتْ إِلَيَّ كَاتْيَا أَنْ أَعْتَنِيَ بِهَا مُدَّةَ غِيَابِهَا jumlasidagi مُدَّةَ غِيَابِهَا nimani bildiradi?
+   A) uning qaytib kelganidan keyingi vaqtni
+   B) uning yo'qligi davom etadigan vaqtni ✅
+   C) uning kelishidan oldingi qisqa vaqtni
+   D) uning yashirinish usulini
+
+5. طَلَبَتْ إِلَيَّ أَنْ أَعْتَنِيَ بِهَا jumlasida أَنْ أَعْتَنِيَ qanday ma'noni beradi?
+   A) unga qarashimni ✅
+   B) uni izlashimni
+   C) undan yashirishimni
+   D) uni ozod qilishimni
+
+6. وَلِذَلِكَ أَحْضَرْتُهَا jumlasidagi أَحْضَرْتُهَا fe'lida -هَا nimaga qaytadi?
+   A) Katyaning o'ziga
+   B) buqalamunga / nazarda tutilgan jonivorga ✅
+   C) akvariumga
+   D) Tomga
+
+7. مَا مِنْ أَحَدٍ هُنَا؟ jumlasining mazmuni qaysi?
+   A) Bu yerda kimdir bormi?
+   B) Bu yerda aynan kim bor?
+   C) Bu yerda hech kim yo'qmi? ✅
+   D) Bu yerda hamma bormi?
+
+8. إِنَّهَا حِرْبَاءٌ jumlasida إِنَّ ning qo'llanishidan ko'zlangan ma'no qaysi?
+   A) gumon qilish
+   B) ta'kidlash ✅
+   C) savol berish
+   D) shart qo'yish
+
+9. إِنَّ إِخْرَاجَهَا فِكْرَةٌ سَيِّئَةٌ jumlasining eng aniq tarjimasi qaysi?
+   A) Uni chiqarish yomon fikr. ✅
+   B) Uni chiqarish yomon bo'lishi mumkin.
+   C) Uni chiqarish haqida yomon fikr bor.
+   D) U yomon fikr bilan tashqariga chiqadi.
+
+10. فَقَطْ تَهْرَبُ jumlasidagi فَقَطْ qanday ma'noni beradi?
+    A) hali
+    B) shunchaki / faqat ✅
+    C) albatta
+    D) yana
+
+11. لَا تَقْلَقِي أَنَا سَأُمْسِكُهَا jumlasida لَا تَقْلَقِي kimga qaratilgan?
+    A) erkakka
+    B) ikki kishiga
+    C) ayolga ✅
+    D) ko'plikdagi erkaklarga
+
+12. يَا لَهَا مِنْ وَحْشٍ iborasi oddiy xabar emas. Uning tabiiy mazmuni qaysi?
+    A) U vahshiy jonivorni qidirmoqda.
+    B) Naqadar vahshiy jonivor-a. ✅
+    C) Vahshiy jonivor qayerda?
+    D) Bu jonivor vahshiy emas.
+
+13. لَمْ أَتَمَكَّنْ مِنْ رُؤْيَتِهَا jumlasida أَتَمَكَّنْ qanday mazmunni beradi?
+    A) ko'rishni xohladim
+    B) ko'ra oldim
+    C) ko'ra olmadim / imkonim bo'lmadi ✅
+    D) ko'rib bo'ldim
+
+14. لِأَنَّ الْحِرْبَاءَ تَعْلَمُ كَيْفَ تُخْفِي نَفْسَهَا jumlasidagi تُخْفِي نَفْسَهَا ning aniq mazmuni:
+    A) o'zini ko'rsatadi
+    B) o'zini yashiradi ✅
+    C) o'zini o'zgartiradi
+    D) o'zini yo'qotadi
+
+15. عَنْ طَرِيقِ تَغْيِيرِ لَوْنِ جَسَدِهَا كَامِلًا iborasi qanday usulni bildiradi?
+    A) tanasining rangini butunlay o'zgartirish orqali ✅
+    B) tanasini yashirish orqali
+    C) rangini qisman o'zgartirish orqali
+    D) tanasining shaklini o'zgartirish orqali
+
+16. هَلْ سَبَقَ لَكُمْ أَنْ رَأَيْتُمْ زِيًّا عَسْكَرِيًّا؟ jumlasidagi سَبَقَ لَكُمْ أَنْ ... qanday nozik mazmunni beradi?
+    A) sizlarga ... buyurilganmi
+    B) ilgari ... qilganmisiz / shunday tajribangiz bo'lganmi ✅
+    C) hozir ... qilyapsizmi
+    D) ... qilishingiz kerakmi
+
+17. يُصَمَّمُ الزِّيُّ بِأَلْوَانٍ وَأَنْمَاطٍ مُخْتَلِفَةٍ jumlasida يُصَمَّمُ qanday nisbatda?
+    A) faol nisbat
+    B) majhul nisbat ✅
+    C) o'zlik nisbat
+    D) buyruq mayli
+
+18. تُسَاعِدُ الْجُنْدِيَّ عَلَى الِاخْتِبَاءِ birikmasidagi عَلَى الِاخْتِبَاءِ qanday ma'noni beradi?
+    A) askarni yashirinishi uchun
+    B) askarga yashirinishga ✅
+    C) askardan yashirish uchun
+    D) askar bilan yashirish uchun
+
+19. هَذَا يُدْعَى التَّمْوِيهُ jumlasining asosiy nozik jihati qaysi?
+    A) التَّمْوِيهُ uni bajaruvchi shaxsni bildiradi
+    B) bu narsa "kamuflyaj deb ataladi" degan majhul ma'noni beradi ✅
+    C) التَّمْوِيهُ fe'lning o'tgan zamon shaklidir
+    D) يُدْعَى "yo'qoladi" degan ma'noda
+
+20. وَقَدْ تَعَلَّمَهُ النَّاسُ مِنَ الْحَيَوَانَاتِ jumlasida -هُ nimaga ishora qiladi?
+    A) harbiy kiyimga
+    B) kamuflyaj usuliga ✅
+    C) hayvonlarga
+    D) yashirinish joyiga
+
+21. مَثَلًا قَدْ تَبْدُو الْيَرَقَانَةُ كَغُصَيْنٍ jumlasidagi قَدْ تَبْدُو qanday mazmunni ifodalashi mumkin?
+    A) qurt shox ekanini qat'iy tasdiqlaydi
+    B) qurt shoxchaga o'xshab ko'rinishi mumkin ✅
+    C) qurt shoxni o'zgartiradi
+    D) qurt shoxga aylanib ketadi
+
+22. وَيُصْبِحُ الْأَرْنَبُ الرَّمَادِيُّ أَبْيَضَ فِي الشِّتَاءِ jumlasida يُصْبِحُ qanday ma'noni beradi?
+    A) oq rangda tug'iladi
+    B) oq bo'lib qoladi / oq holatga o'tadi ✅
+    C) oq rangni yashiradi
+    D) oq rangni ko'rsatadi
+
+23. يُوَاجِهُ الذِّئْبُ صُعُوبَةً فِي الْعُثُورِ عَلَيْهِ jumlasining mazmuni qaysi?
+    A) bo'ri uni topishga yordam beradi
+    B) bo'ri uni topishda qiynaladi ✅
+    C) bo'ri undan yashirinadi
+    D) bo'ri uni topishni rad etadi
+
+24. بَطَلُ التَّمْوِيهِ هُوَ الْحِرْبَاءُ iborasida بَطَلُ qanday ma'noda ishlatilgan?
+    A) raqib
+    B) qahramon / eng ustasi ✅
+    C) qo'riqchi
+    D) tomoshabin
+
+25. فَسَيِّدَةُ التَّمْوِيهِ هَذِهِ jumlasidagi سَيِّدَةُ qanday obrazli ma'noda kelgan?
+    A) kamuflyajning o'quvchisi
+    B) kamuflyaj malikasi / eng mohir vakili ✅
+    C) kamuflyaj dushmani
+    D) kamuflyaj qo'riqchisi
+
+26. يُمْكِنُهَا أَنْ تُغَيِّرَ لَوْنَهَا فِي ثَوَانٍ jumlasining to'g'ri mazmuni qaysi?
+    A) U rangini bir necha soniyada o'zgartira olmaydi.
+    B) U rangini bir necha soniyada o'zgartira oladi. ✅
+    C) U bir necha soniyada rangni tanlaydi.
+    D) U bir necha soniya davomida rangini yashiradi.
+
+27. لَقَدِ اخْتَفَتْ va لَمْ تَخْتَفِ shakllari o'rtasidagi asosiy farq qaysi?
+    A) birinchisi yo'qolib qolganini, ikkinchisi esa yo'qolmaganini bildiradi ✅
+    B) ikkalasi ham bir xil ma'noda
+    C) birinchisi kelajakni, ikkinchisi o'tmishni bildiradi
+    D) birinchisi buyruq, ikkinchisi taqiqlash
+
+28. بَلِ اخْتَبَأَتْ jumlasidagi بَلْ qanday ma'noni beradi?
+    A) balki / aksincha ✅
+    B) shuning uchun
+    C) ayniqsa
+    D) demak
+
+29. لَنْ تَخْتَبِئَ طَوِيلًا jumlasidagi لَنْ fe'lga qanday vaqt va inkor ma'nosini beradi?
+    A) o'tmishda sodir bo'lmagan ish
+    B) hozir sodir bo'lmayotgan ish
+    C) kelajakda sodir bo'lmaslik ✅
+    D) doimiy odat
+
+30. لِنَبْحَثْ عَنْهَا jumlasining eng aniq mazmuni:
+    A) uni qidirishdi
+    B) uni qidiramiz
+    C) uni qidiraylik ✅
+    D) uni qidirmaylik
+
+31. أَرَأَيْتُمَاهَا؟ shaklidagi -هَا nimaga qaytadi?
+    A) Tomga
+    B) buqalamunga ✅
+    C) Shusakaga
+    D) Katya-ga
+
+32. لَا، لَنْ تَدَعَنَا نُمْسِكُ بِهَا jumlasining mazmuni qaysi?
+    A) U bizni ushlashni buyurmaydi.
+    B) U bizga uni ushlashga imkon bermaydi. ✅
+    C) U bizdan yashirinmaydi.
+    D) U biz bilan birga uni ushlaydi.
+
+33. عَلَيْنَا أَنْ نَخْدَعَهَا كَيْ تَأْتِيَ إِلَيْنَا jumlasida عَلَيْنَا أَنْ ... qanday ma'noni beradi?
+    A) biz xohlasak
+    B) bizdan talab qilinmaydi
+    C) biz ... qilishimiz kerak ✅
+    D) biz ... qilishimiz mumkin
+
+34. نُعِدُّ لَهَا فَخًّا بِاسْتِعْمَالِ شَيْءٍ تُحِبُّهُ jumlasidagi بِاسْتِعْمَالِ qanday munosabatni bildiradi?
+    A) sabab
+    B) foydalanish vositasi ✅
+    C) vaqt
+    D) qarama-qarshilik
+
+35. تُرَى مَا تُحِبُّ أَنْ تَأْكُلَ الْحِرْبَاءُ iborasidagi تُرَى qanday vazifada ishlatilgan?
+    A) qat'iy buyruq
+    B) "qani ko'raylik / qiziq, ..." mazmunidagi ibora ✅
+    C) o'tgan zamon
+    D) taqiqlash
+
+36. سَأَنَالُ مِنْكِ jumlasidagi أَنَالُ ning ushbu kontekstdagi ma'nosi:
+    A) seni ko'raman
+    B) senga yetib olaman ✅
+    C) sendan qochaman
+    D) senga yordam beraman
+
+37. كَمَا أَنَّنَا لَا نَرَى الْيَرَقَانَةَ تَتَزَمَّرُ jumlasida كَمَا أَنَّنَا qanday ma'noni qo'shmoqda?
+    A) "bundan tashqari / yana shuni ham" ✅
+    B) "shunga qaramay"
+    C) "aks holda"
+    D) "faqat"
+
+38. أَخْفِقْ بِجَنَاحَيْكَ jumlasida بِجَنَاحَيْكَ nimani anglatadi?
+    A) qanotlaring bilan ✅
+    B) qanotlaringdan
+    C) qanotlaring uchun
+    D) qanotlaring ichida
+
+39. تَابِعْ ذَلِكَ حَتَّى تَظْهَرَ الْحِرْبَاءُ jumlasidagi حَتَّى تَظْهَرَ qanday munosabatni ifodalaydi?
+    A) "buqalamun paydo bo'lgunga qadar" ✅
+    B) "buqalamun paydo bo'lishidan oldin ham"
+    C) "buqalamun paydo bo'lgani uchun"
+    D) "buqalamun paydo bo'lmasligi uchun"
+
+40. لَقَدْ أَمْسَكْتُ va أَمْسَكْتُ بِكِ shakllarining ikkalasida ham asosiy fe'l qaysi?
+    A) أَمْسَكَ ✅
+    B) مَسَّ
+    C) تَمَسَّكَ
+    D) أَقْبَضَ
+
+41. يَلْجَؤُونَ إِلَى التَّمْوِيهِ jumlasidagi يَلْجَؤُونَ إِلَى qanday iboraviy ma'noga ega?
+    A) kamuflyajni rad etishadi
+    B) kamuflyajga murojaat qilishadi / undan foydalanishga o'tishadi ✅
+    C) kamuflyajni yashirishadi
+    D) kamuflyajni o'rgatishadi
+
+42. يَجْعَلُهَا تَتَّفِقُ مَعَ مُحِيطِهَا jumlasidagi تَتَّفِقُ مَعَ qanday ma'noni beradi?
+    A) qarshi chiqadi
+    B) mos keladi ✅
+    C) yashiradi
+    D) ajratadi
+
+43. يَصْعُبُ كَشْفُهَا بِالْكَاشِفِ jumlasining nozik ma'nosi qaysi?
+    A) uni radar bilan aniqlash qiyin ✅
+    B) u radarni aniqlashni qiyinlashtiradi
+    C) radar uni oson aniqlaydi
+    D) radar ishlashi uchun undan foydalaniladi
+
+44. يَفْعَلُونَ كُلَّ مَا فِي وُسْعِهِمْ لِإِخْفَاءِ مَكَانِهِمْ iborasidagi مَا فِي وُسْعِهِمْ qanday ma'noni beradi?
+    A) ular bilmagan barcha narsani
+    B) ularning qo'lidan keladigan barcha narsani ✅
+    C) ular yashiradigan barcha joyni
+    D) ular xohlamaydigan barcha narsani
+
+45. لَيْتَنِي أَسْتَطِيعُ إِخْفَاءَ نَفْسِي مِثْلَهَا jumlasidagi لَيْتَنِي qanday ma'noni ifodalaydi?
+    A) Men bunga ishonaman
+    B) Qani edi men ... qila olsam ✅
+    C) Men albatta ... qilaman
+    D) Men ... qilishim kerak

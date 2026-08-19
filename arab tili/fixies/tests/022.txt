@@ -1,0 +1,271 @@
+(2) الْمُنَبِّهُ — «Budilnik» darsi bo‘yicha test
+
+1. الْمُنَبِّهُ so‘zining ma’nosi:
+A) Budilnik ✅
+B) Soat
+C) Prujina
+D) Qo‘ng‘iroq
+
+2. لَمْ يَرِنَّ مُجَدَّدًا — iborasining ma’nosi:
+A) Yana jiringladi.
+B) Yana jiringlamadi. ✅
+C) Tez jiringladi.
+D) Hali jiringlamadi.
+
+3. «Nolik, budilnikni tuzataylik.» jumlasining arabcha shakli:
+A) سِيمْكَا أَيْقِظِي تُومْ
+B) هَيَّا اسْتَيْقِظْ
+C) نُولِيكْ لِنُصْلِحِ الْمُنَبِّهَ ✅
+D) لَقَدْ أَصْلَحْنَا الْمُنَبِّهَ
+
+4. أَيْقِظِي تُومْ — ma’nosi:
+A) Tomni uyg‘ot. ✅
+B) Tomni kut.
+C) Tomni chaqir.
+D) Tomni kuzat.
+
+5. هَيَّا اسْتَيْقِظْ — iborasining ma’nosi:
+A) Qani, tur.
+B) Qani, uyg‘on. ✅
+C) Qani, yugur.
+D) Qani, yot.
+
+6. «Tom, maktabga kechikasan.» jumlasining arabcha shakli:
+A) تُومْ سَتَتَأَخَّرُ عَنِ الْمَدْرَسَةِ ✅
+B) هَيَّا انْهَضْ
+C) تُومْ يَا تُومْ
+D) أَلَيْسَ هُنَاكَ مِدْخَرَةٌ؟
+
+7. هَيَّا انْهَضْ — ma’nosi:
+A) Qani, uyg‘on.
+B) Qani, tur. ✅
+C) Qani, yuvin.
+D) Qani, tezlash.
+
+8. هَذَا مُدْهِشٌ حَقًّا — tarjimasi:
+A) Bu juda qiyin.
+B) Bu haqiqatan hayratlanarli. ✅
+C) Bu juda oddiy.
+D) Bu mutlaqo noto‘g‘ri.
+
+9. «Unda akkumulyator yo‘qmi?» savolining arabcha shakli:
+A) لَا يَعْمَلُ عَلَى الْمِدْخَرَاتِ
+B) أَلَيْسَ هُنَاكَ مِدْخَرَةٌ؟ ✅
+C) مَاذَا تَقْصِدُ؟
+D) أَيْنَ نَحْنُ الْآنَ؟
+
+10. لَا يَعْمَلُ عَلَى الْمِدْخَرَاتِ — ma’nosi:
+A) Akkumulyator bilan ishlaydi.
+B) Akkumulyatorni zaryadlaydi.
+C) Akkumulyator bilan ishlamaydi. ✅
+D) Akkumulyatorni almashtiradi.
+
+11. بَلْ يَعْمَلُ بِالنَّابِضِ — tarjimasi:
+A) Balki prujina bilan ishlaydi. ✅
+B) Balki akkumulyator bilan ishlaydi.
+C) Balki elektr bilan ishlaydi.
+D) Balki batareya bilan ishlamaydi.
+
+12. النَّابِضُ so‘zining ma’nosi:
+A) Tishli g‘ildirak
+B) Prujina ✅
+C) Soat mili
+D) Bolg‘acha
+
+13. النَّاسُ يَشُدُّونَ النَّابِضَ بِقُوَّةٍ — ma’nosi:
+A) Odamlar prujinani sekin tortadi.
+B) Odamlar prujinani kuchli tortadi. ✅
+C) Odamlar prujinani almashtiradi.
+D) Odamlar prujinani bo‘shatadi.
+
+14. «Prujina asta-sekin bo‘shashib borar ekan...» jumlasining arabcha qismi:
+A) وَبَيْنَمَا يَرْتَخِي النَّابِضُ بِبُطْءٍ ✅
+B) يُدِيرُ الْمُسَنَّنَاتِ
+C) لَقَدْ حَانَ وَقْتُ
+D) وَمَاذَا سَيَحْدُثُ لَنَا؟
+
+15. يُدِيرُ الْمُسَنَّنَاتِ — iborasining ma’nosi:
+A) Tishli g‘ildiraklarni to‘xtatadi.
+B) Tishli g‘ildiraklarni aylantiradi. ✅
+C) Tishli g‘ildiraklarni tozalaydi.
+D) Tishli g‘ildiraklarni chiqaradi.
+
+16. عَقَارِبَ السَّاعَةِ — birikmasining ma’nosi:
+A) Soatning qutisi
+B) Soat mili ✅
+C) Soatning prujinasi
+D) Soat ovozi
+
+17. «Budilnik buzilgan.» jumlasining arabcha shakli:
+A) إِنَّ الْمُنَبِّهَ مُعَطَّلٌ ✅
+B) لَمْ يَرِنَّ مُجَدَّدًا
+C) هَذَا مُدْهِشٌ حَقًّا
+D) إِنَّهَا مُعَطَّلَةٌ حَقًّا
+
+18. هَيَّا أَسْرِعْ وَاغْسِلْ وَجْهَكَ — tarjimasi:
+A) Qani, tezroq, yuzingni yuv. ✅
+B) Qani, tezroq, kiyining.
+C) Qani, uyg‘on va yugur.
+D) Qani, yuzingni art.
+
+19. «Tom, hali tayyor bo‘lmadingmi?» jumlasining arabcha shakli:
+A) تُومْ سَتَتَأَخَّرُ عَنِ الْمَدْرَسَةِ
+B) تُومْ أَلَمْ تَسْتَعِدَّ بَعْدُ؟ ✅
+C) تُومْ يَا تُومْ
+D) مَاذَا تَقْصِدُ؟
+
+20. أَلَمْ تَسْتَعِدَّ بَعْدُ؟ — ma’nosi:
+A) Hali uyg‘onmadingmi?
+B) Hali tayyor bo‘lmadingmi? ✅
+C) Hali maktabga bormadingmi?
+D) Hali yuzingni yuvmadingmi?
+
+21. الْمُسَنَّنَاتُ لَنْ تَدُورَ — tarjimasi:
+A) Tishli g‘ildiraklar aylanadi.
+B) Tishli g‘ildiraklar aylanmaydi. ✅
+C) Tishli g‘ildiraklar yo‘qoladi.
+D) Tishli g‘ildiraklar buzildi.
+
+22. الرِّيشَةُ عَالِقَةٌ — iborasining ma’nosi:
+A) Pat toza.
+B) Pat tushib ketdi.
+C) Pat tiqilib qolgan. ✅
+D) Pat uchib ketdi.
+
+23. «Uni tortib chiqaraylik.» jumlasining arabcha shakli:
+A) فَلْنَسْحَبْهَا ✅
+B) اسْحَبْهَا
+C) سَأَقُومُ بِالدَّفْعِ
+D) لِنُصْلِحِ الْمُنَبِّهَ
+
+24. يَبْدُو أَنَّهَا هَزَّةٌ أَرْضِيَّةٌ — ma’nosi:
+A) Shekilli, bu kuchli shamol.
+B) Shekilli, bu zilzila. ✅
+C) Shekilli, bu portlash.
+D) Shekilli, bu mashina ovozi.
+
+25. «Bu eskilikni chiqarib tashlash vaqti keldi.» jumlasining arabcha shakli:
+A) لَقَدْ حَانَ وَقْتُ التَّخَلُّصِ مِنْ هَذِهِ الْخُرْدَةِ ✅
+B) لَقَدْ أَصْلَحْنَا الْمُنَبِّهَ
+C) أَيْنَ نَحْنُ الْآنَ؟
+D) لَا أُرِيدُ أَنْ أَذْهَبَ إِلَى الْمَرْمَى
+
+26. فِي سَلَّةِ الْمُهْمَلَاتِ — tarjimasi:
+A) Chiqindi savatida. ✅
+B) Chiqindixonada.
+C) Uyda.
+D) Yostiq ostida.
+
+27. يَرْمِي النَّاسُ الْأَشْيَاءَ الْمُعَطَّلَةَ — ma’nosi:
+A) Odamlar buzilgan narsalarni tuzatishadi.
+B) Odamlar buzilgan narsalarni sotishadi.
+C) Odamlar buzilgan narsalarni tashlab yuborishadi. ✅
+D) Odamlar buzilgan narsalarni saqlashadi.
+
+28. حَتَّى الْأَجْهِزَةُ الَّتِي يُمْكِنُ إِصْلَاحُهَا — tarjimasi:
+A) Faqat yangi asboblar
+B) Hatto tuzatib bo‘ladigan asboblar ✅
+C) Faqat buzilgan asboblar
+D) Barcha elektr asboblar
+
+29. مَرْمَى النُّفَايَاتِ — birikmasining ma’nosi:
+A) Chiqindi qutisi
+B) Chiqindixona ✅
+C) Chiqindi savati
+D) Tozalash joyi
+
+30. «Agar biror fiksiy buzilgan asbob ichida bo‘lsa, u katta xavf ostida qoladi.» jumlasining arabcha shakli:
+A) وَإِذَا مَا كَانَ أَيُّ فِكْسِيٍّ دَاخِلَ جِهَازٍ مُعَطَّلٍ فَسَيَكُونُ أَمَامَ خَطَرٍ مُحْدِقٍ ✅
+B) مَرَّةً أُلْقِيَ عَمِّي فِي مَرْمَى النُّفَايَاتِ
+C) لِحُسْنِ الْحَظِّ عَثَرَتْ عَلَيْهِ
+D) وَأَعَادَتْهُ إِلَى الْمَنْزِلِ
+
+31. وَكَادَ يُدْهَسُ بِجَرَّافَةٍ ضَخْمَةٍ — ma’nosi:
+A) U katta buldozer yasadi.
+B) U katta buldozerni ko‘rdi.
+C) U katta buldozer tagida qolib ketishiga sal qoldi. ✅
+D) U katta buldozerni tuzatdi.
+
+32. «Yaxshiyamki, uni fiksiyalar qutqaruv guruhi topib oldi.» jumlasining arabcha shakli:
+A) لَقَدْ أَصْبَحَ مَجْنُونًا تَمَامًا
+B) لِحُسْنِ الْحَظِّ عَثَرَتْ عَلَيْهِ وَحْدَةُ إِنْقَاذٍ آلِيُّ فِيكْسِزَ ✅
+C) وَبَعْدَ ذَلِكَ بَقِيَ يَتَجَوَّلُ
+D) وَأَعَادَتْهُ إِلَى الْمَنْزِلِ
+
+33. لَا أُرِيدُ أَنْ أُخِيفَكَ — tarjimasi:
+A) Seni qo‘rqitmoqchi emasman. ✅
+B) Seni uyg‘otmoqchi emasman.
+C) Seni aldamoqchi emasman.
+D) Seni chaqirmoqchi emasman.
+
+34. «Men chiqindixonaga bormoqchi emasman.» jumlasining arabcha shakli:
+A) لَا أُرِيدُ أَنْ أَذْهَبَ إِلَى الْمَرْمَى ✅
+B) لَا تَبْكِ هُنَاكَ
+C) لَكِنْ كَيْفَ؟
+D) أَيْنَ صَارَ الْمُنَبِّهُ؟
+
+35. لَا تَبْكِ — buyruq shaklining ma’nosi:
+A) Yig‘lama. ✅
+B) Yugurma.
+C) Kutma.
+D) Qo‘rqma.
+
+36. «Chiqishning bitta yo‘li bor — budilnikni tuzatib, uni jiringlatishimiz kerak.» jumlasining arabcha shakli:
+A) لَكِنْ كَيْفَ؟
+B) فِي دَاخِلِ السَّاعَةِ نَابِضٌ رَئِيسِيٌّ
+C) لَا تَبْكِ هُنَاكَ طَرِيقٌ وَاحِدَةٌ لِنَخْرُجَ عَلَيْنَا إِصْلَاحُ الْمُنَبِّهِ لِيَرِنَّ ✅
+D) وَهَكَذَا يَعْمَلُ الْمُنَبِّهُ
+
+37. فِي دَاخِلِ السَّاعَةِ نَابِضٌ رَئِيسِيٌّ وَنَابِضٌ ثَانَوِيٌّ آخَرُ — ma’nosi:
+A) Soat ichida asosiy prujina va yana bir ikkilamchi prujina bor. ✅
+B) Soat ichida bitta prujina bor.
+C) Soat ichida akkumulyator va motor bor.
+D) Soat ichida ikkita tishli g‘ildirak bor.
+
+38. «Ikkilamchi prujina kutib turadi, u tormoz bilan mahkamlangan.» jumlasining arabcha shakli:
+A) يَتَحَرَّرُ النَّابِضُ مِنَ الْمِكْبَحِ
+B) النَّابِضُ الثَّانَوِيُّ يَبْقَى مُنْتَظِرًا وَهُوَ مُثَبَّتٌ بِمِكْبَحٍ ✅
+C) يُدِيرُ الْمُسَنَّنَاتِ
+D) النَّابِضُ يَرْتَخِي بِبُطْءٍ
+
+39. عِنْدَمَا يَصِلُ الْعَقْرَبُ الصَّغِيرُ إِلَى الْوَقْتِ الْمُحَدَّدِ — tarjimasi:
+A) Katta mil tez aylanganda
+B) Kichik mil belgilangan vaqtga yetganda ✅
+C) Prujina tortilganda
+D) Budilnik buzilganda
+
+40. «Prujina tormozdan ozod bo‘ladi va tishli g‘ildiraklar erkin harakatlana boshlaydi.» jumlasining arabcha shakli:
+A) وَهَذَا يَجْعَلُ مِطْرَقَةً صَغِيرَةً
+B) يَتَحَرَّرُ النَّابِضُ مِنَ الْمِكْبَحِ وَتُصْبِحُ الْمُسَنَّنَاتُ حُرَّةَ الْحَرَكَةِ ✅
+C) وَهَكَذَا يَعْمَلُ الْمُنَبِّهُ
+D) الرِّيشَةُ تُعِيقُ الْمُسَنَّنَاتِ
+
+41. وَهَذَا يَجْعَلُ مِطْرَقَةً صَغِيرَةً تَنْقُرُ الْجَرَسَ — ma’nosi:
+A) Bu kichik bolg‘achani qo‘ng‘iroqni urishga majbur qiladi. ✅
+B) Bu qo‘ng‘iroqni to‘xtatadi.
+C) Bu budilnikni buzadi.
+D) Bu prujinani bo‘shatadi.
+
+42. «Pat tishli g‘ildiraklarga to‘sqinlik qilyapti, shuning uchun bolg‘acha qo‘ng‘iroqni urmayapti.» jumlasining arabcha shakli:
+A) صَحِيحٌ سَأَقُومُ بِالدَّفْعِ
+B) الرِّيشَةُ تُعِيقُ الْمُسَنَّنَاتِ فَلَا تَقْرَعُ الْمِطْرَقَةُ الْجَرَسَ، صَحِيحٌ؟ ✅
+C) أَظُنُّ أَنَّنِي أَسْمَعُ صَوْتَ الْمُنَبِّهِ
+D) أَحَدُهُمْ أَوْقَفَ الْمُنَبِّهَ
+
+43. صَحِيحٌ سَأَقُومُ بِالدَّفْعِ وَعَلَيْكَ سَحْبَهَا — tarjimasi:
+A) To‘g‘ri, men tortaman, sen esa itar.
+B) To‘g‘ri, men itaraman, sen esa uni tort. ✅
+C) Yo‘q, men kutaman, sen esa chiqar.
+D) Ha, men tuzataman, sen esa tekshir.
+
+44. «Biz budilnikni tuzatdik.» jumlasining arabcha shakli:
+A) وَمَا سَبَبُ الْعُطْلِ؟
+B) رِيشَةٌ عَالِقَةٌ بِالْمُسَنَّنَاتِ
+C) لَقَدْ أَصْلَحْنَا الْمُنَبِّهَ ✅
+D) أَتَسَاءَلُ كَيْفَ دَخَلَتْ إِلَى هُنَاكَ؟
+
+45. لَقَدْ أَصْلَحْنَا الْمُنَبِّهَ ... so‘zidan keyingi «Buzilishning sababi nima edi?» savolining arabcha shakli:
+A) أَيْنَ صَارَ الْمُنَبِّهُ؟
+B) وَمَا سَبَبُ الْعُطْلِ؟ ✅
+C) لَكِنْ كَيْفَ؟
+D) مَاذَا سَيَحْدُثُ لَنَا؟
