@@ -2333,30 +2333,8 @@ const data = {
                             audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/100B.mp3"
                         }
                     ]
-                },
-                {
-                    num: 101,
-                    title: "الأدوات",
-                    about: "",
-                    img:      "",
-                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/fixies/101.mp4",
-                    subtitle: "https://arab-data.pages.dev/arab%20tili/fixies/sub/101.srt",
-                    test:     "https://arab-data.pages.dev/arab%20tili/fixies/tests/101.txt",
-                    analyses: [
-                        {
-                            label:      "Tahlil A",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/101A.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/101A.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/101A.mp3"
-                        },
-                        {
-                            label:      "Tahlil B",
-                            lessons:    "https://arab-data.pages.dev/arab%20tili/fixies/les/101B.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/fixies/aud_tim/101B.js",
-                            audio:      "https://ia601601.us.archive.org/6/items/f_1_001P2/101B.mp3"
-                        }
-                    ]
                 }
+
                 
             ]
         },
@@ -2367,7 +2345,168 @@ const data = {
             type: "kino",
             img: "https://arab-data.pages.dev/arab%20tili/img/playlist2.webp",
             meta: "30 ta epizod",
-            episodes: []
+            episodes: [
+                {
+                    num: 1,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/01.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/01.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/01B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 2,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/02.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/02.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/02B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 3,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/03.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/03.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/03B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 4,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/04.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/04.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/04B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 5,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/05.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/05.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/05B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 6,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/06.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/06.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/06B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 7,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/07.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/07.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/07B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 8,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/08.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/08.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/08B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 9,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/09.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/09.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/09B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 10,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/10.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/10.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/10B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                }
+            ]
         },
 
         // ================= QUR'ON =================
@@ -2934,6 +3073,156 @@ const data = {
                             lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/20B.js",
                             audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/20B.js",
                             audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/20B.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 21,
+                    title: "Unit 21",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2021.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/21A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/21A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/21A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 22,
+                    title: "Unit 22",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2022.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/22A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/22A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/22A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 23,
+                    title: "Unit 23",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2023.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/23A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/23A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/23A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 24,
+                    title: "Unit 24",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2024.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/24A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/24A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/24A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 25,
+                    title: "Unit 25",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2025.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/25A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/25A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/25A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 26,
+                    title: "Unit 26",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2026.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/26A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/26A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/26A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 27,
+                    title: "Unit 27",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2027.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/27A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/27A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/27A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 28,
+                    title: "Unit 28",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2028.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/28A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/28A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/28A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 29,
+                    title: "Unit 29",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2029.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/29A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/29A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/29A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 30,
+                    title: "Unit 30",
+                    audioBook: { "Reader": "https://made-video.sgjibebk573x.workers.dev/4000-word/book-aud/Unit%2030.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000%20words/les/30A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000%20words/aud-tim-book/30A.js",
+                            audio: "https://ia601406.us.archive.org/15/items/4000-essential-words-analysis/30A.mp3"
                         }
                     ]
                 }
