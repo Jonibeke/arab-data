@@ -1,0 +1,271 @@
+(2) الدُّمْيَةُ النَّاطِقَةُ — «Gapiruvchi qo'g'irchoq» darsi bo'yicha murakkab test
+
+1. وَالْآنَ تَعْلَمُونَ مَا الَّذِي عَلَيْكُمْ فِعْلُهُ لِإِصْلَاحِهِ jumlasidagi عَلَيْكُمْ فِعْلُهُ qanday ma'noni anglatadi?
+A) Uni tuzatishingiz mumkin
+B) Uni tuzatishingiz kerak ✅
+C) Uni tuzatishni xohlaysiz
+D) Uni tuzatishdan voz kechishingiz kerak
+
+2. أَنَا آسِفٌ عَلَى الْإِزْعَاجِ iborasidagi عَلَى الْإِزْعَاجِ qanday ma'noni beradi?
+A) Bezovta qilganim uchun ✅
+B) Bezovta qilganimdan keyin
+C) Bezovta qilish uchun
+D) Bezovta qilishdan qo'rqib
+
+3. فَقَدِ انْتَهَيْنَا jumlasidagi قَدْ fe'lga qanday nozik ma'no qo'shmoqda?
+A) Ishning ehtimolligini
+B) Ishning allaqachon tugaganini ta'kidlaydi ✅
+C) Kelajakdagi ishni
+D) Buyruqni
+
+4. لَدَيَّ مَسْأَلَةٌ عَاجِلَةٌ jumlasidagi مَسْأَلَةٌ عَاجِلَةٌ qanday ma'noni anglatadi?
+A) Oddiy savol
+B) Shoshilinch masala ✅
+C) Yashirin xabar
+D) Murakkab topshiriq
+
+5. الْمُشْكِلَةُ فِي جَعْلِهَا تَتَكَلَّمُ لُغَتَنَا jumlasida جَعْلِهَا تَتَكَلَّمُ qanday mazmunni beradi?
+A) Uning o'zi gapirayotganini
+B) Uni gapirtirishni ✅
+C) Uning gaplashishni xohlamasligini
+D) Unga gapirishni taqiqlashni
+
+6. سَنُعَلِّمُهَا jumlasidagi -هَا kimga emas, nimaga ishora qiladi?
+A) Janob Yevjeniusga
+B) Qo'g'irchoqqa ✅
+C) Tula-ga
+D) Dijitga
+
+7. أَنَا مُرْتَبِكٌ so'zidagi مُرْتَبِكٌ qanday nozik holatni bildiradi?
+A) Xotirjam
+B) Gangib qolgan / dovdiragan ✅
+C) G'azablangan
+D) Zerikkan
+
+8. سَنَجِدُ طَرِيقَةً لِتَعْلِيمِهَا jumlasidagi لِتَعْلِيمِهَا qanday maqsadni ifodalaydi?
+A) Unga o'rgatish uchun ✅
+B) Unga o'rgatganidan keyin
+C) Unga o'rgatmaslik uchun
+D) Unga o'rgatishdan qo'rqib
+
+9. أَنْتَ دَائِمًا بِجَانِبِي عِنْدَمَا أَطْلُبُكَ jumlasida أَطْلُبُكَ qanday ma'noda?
+A) Seni izlayman
+B) Seni chaqiraman / senga murojaat qilaman ✅
+C) Seni buyuraman
+D) Seni kutaman
+
+10. مَاذَا أَفْعَلُ لَوْلَا أَنْتَ؟ jumlasidagi لَوْلَا qanday munosabatni ifodalaydi?
+A) Shartning oddiy shaklini
+B) "Sen bo'lmaganingda..." mazmunidagi shartni ✅
+C) Sababni
+D) Vaqtni
+
+11. حَانَ وَقْتُ الِانْصِرَافِ jumlasidagi حَانَ qanday ma'noga ega?
+A) Kechikdi
+B) Vaqti keldi ✅
+C) Tugadi
+D) Boshladi
+
+12. أَيُّ أَحَدٍ يُمْكِنُهُ فِعْلُ هَذَا jumlasida أَيُّ أَحَدٍ qanday umumiy ma'noni beradi?
+A) Faqat biror kishi
+B) Har qanday kishi / istalgan odam ✅
+C) Hech kim
+D) Faqat mutaxassis
+
+13. أَوَّلُ دُمْيَةٍ نَاطِقَةٍ كَانَتْ تَعْمَلُ بِاسْتِعْمَالِ مُضَخِّمِ الضَّوْضَاءِ jumlasidagi مُضَخِّمِ الضَّوْضَاءِ qanday qurilmani anglatadi?
+A) Shovqin/tovushni kuchaytiruvchi moslama ✅
+B) Ovozni yozuvchi chip
+C) Qo'g'irchoqning ichki akkumulyatori
+D) Harakatni boshqaruvchi mexanizm
+
+14. كَانَتْ تَعْمَلُ بِاسْتِعْمَالِ ... tuzilmasida بِاسْتِعْمَالِ qanday ma'noni beradi?
+A) ...siz
+B) ...dan foydalanib ✅
+C) ...ga qarshi
+D) ...dan keyin
+
+15. عِنْدَمَا تُقْلَبُ الدُّمْيَةُ jumlasidagi تُقْلَبُ qanday nisbatda?
+A) Faol nisbat
+B) Majhul nisbat ✅
+C) Buyruq
+D) O'zlik nisbat
+
+16. يَدْفَعُ الْهَوَاءُ فِي مُضَخِّمِ الضَّوْضَاءِ مُحْدِثًا صَرِيرًا jumlasida مُحْدِثًا صَرِيرًا qanday mazmunni beradi?
+A) G'ijirlash tovushini hosil qilib ✅
+B) G'ijirlash tovushini yo'qotib
+C) Tovushni eshitib
+D) Tovushni yashirib
+
+17. صَرِيرًا so'zining eng mos ma'nosi qaysi?
+A) Qarsak tovushi
+B) G'ijirlash / ishqalanish tovushi ✅
+C) Qichqiriq
+D) Hushtak
+
+18. وَمُصْدِرًا صَوْتًا يَبْدُو مِثْلَ كَلِمَةِ مَامَا jumlasidagi يَبْدُو مِثْلَ qanday ma'noni bildiradi?
+A) "mama" so'ziga o'xshab eshitiladi ✅
+B) "mama" so'zidan kuchliroq
+C) "mama" so'zini takrorlaydi
+D) "mama" so'zini anglatmaydi
+
+19. تُسَجَّلُ الْأَصْوَاتُ الْيَوْمَ عَلَى شَرِيحَةٍ إِلِكْتِرُونِيَّةٍ jumlasidagi تُسَجَّلُ qanday ma'noda?
+A) Tovushlar yoziladi ✅
+B) Tovushlar yozadi
+C) Tovushlar o'chiriladi
+D) Tovushlar eshittiriladi
+
+20. هِيَ جُزْءٌ مِنْ مُشَغِّلٍ صَغِيرٍ دَاخِلَ الدُّمْيَةِ jumlasida دَاخِلَ الدُّمْيَةِ nimani aniqlaydi?
+A) Pleyerning qo'g'irchoq ichida joylashganini ✅
+B) Chipning tashqarida turganini
+C) Ovozning qo'g'irchoqdan chiqishini
+D) Qo'g'irchoqning kichikligini
+
+21. اضْغَطِ الزِّرَّ فَقَطْ لِتَسْمَعَ الْأَصْوَاتَ jumlasidagi لِتَسْمَعَ qanday ma'noda?
+A) Tovushlarni eshitishing uchun ✅
+B) Tovushlarni eshitganingdan keyin
+C) Tovushlarni eshitmaslik uchun
+D) Tovushlarni yozish uchun
+
+22. صَارَتِ الدُّمَى تَقُولُ أَشْيَاءَ أَكْثَرَ مِنْ أُمِّي أَوْ أَبِي jumlasida صَارَتْ qanday o'zgarish ma'nosini beradi?
+A) Qo'g'irchoqlar endi ko'proq narsani ayta boshlaganini ✅
+B) Qo'g'irchoqlar gapirishni to'xtatganini
+C) Qo'g'irchoqlar avvalgidan kamroq gapirganini
+D) Qo'g'irchoqlar faqat "mama" deyishini
+
+23. هَا هِيَ ذِي الشَّرِيحَةُ iborasining mazmuni qaysi?
+A) Chip qayerda?
+B) Mana bu chip ✅
+C) Chip yo'q
+D) Chipni olib kel
+
+24. بِلَا شَكٍّ iborasining tabiiy ma'nosi qaysi?
+A) Ehtimol
+B) Shubhasiz / albatta ✅
+C) Afsuski
+D) Shartli ravishda
+
+25. لَقَدْ خَطَرَتْ لِي فِكْرَةٌ مُضْحِكَةٌ jumlasidagi خَطَرَتْ لِي فِكْرَةٌ qanday iboraviy ma'noni beradi?
+A) Men fikrni majburan topdim
+B) Xayolimga bir fikr keldi ✅
+C) Men bir fikrni unutdim
+D) Men fikrni boshqalardan eshitdim
+
+26. مَا رَأْيُكَ أَنْ... iborasi kontekstda qanday taklifni ifodalaydi?
+A) Nima haqida o'ylayapsan?
+B) ... qilsak qanday bo'ladi? ✅
+C) Nega ... qilding?
+D) ... qilishga majbursan
+
+27. الْآنَ وَكَمَا وَعَدْتُكُمْ بِالْأَمْسِ jumlasidagi كَمَا وَعَدْتُكُمْ qanday ma'noni beradi?
+A) Kecha aytganimga qarshi
+B) Kecha va'da berganimdek ✅
+C) Kecha va'da berganimdan oldin
+D) Kecha va'da berganim uchun
+
+28. سَوْفَ أُخْبِرُكُمْ بِكُلِّ شَيْءٍ jumlasidagi سَوْفَ qanday vaqt ma'nosini beradi?
+A) O'tgan zamondagi ish
+B) Kelajakdagi ish ✅
+C) Hozir tugayotgan ish
+D) Davomiy o'tmish
+
+29. بَعْضُهَا يَتَكَلَّمُ عِنْدَمَا تَهُزُّهَا jumlasida تَهُزُّهَا qanday ma'noni anglatadi?
+A) Uni ochasan
+B) Uni siltaysan / silkitasan ✅
+C) Uni aylantirasan
+D) Uni ta'mirlaysan
+
+30. وَبَعْضُهَا الْآخَرُ يَسْتَجِيبُ لِلضَّجِيجِ jumlasida يَسْتَجِيبُ لِـ qanday ma'noga ega?
+A) Shovqindan qochadi
+B) Shovqinga javob beradi ✅
+C) Shovqinni kuchaytiradi
+D) Shovqinni yashiradi
+
+31. أَمَّا هَذِهِ الصَّغِيرَةُ فَعَلَيْكَ كَبْسُ الزِّرِّ لِجَعْلِهَا تَتَكَلَّمُ jumlasidagi كَبْسُ الزِّرِّ qanday mazmunda?
+A) Tugmani bosish ✅
+B) Tugmani almashtirish
+C) Tugmani tortish
+D) Tugmani yashirish
+
+32. لِجَعْلِهَا تَتَكَلَّمُ tuzilmasining eng aniq ma'nosi qaysi?
+A) Uni gapirishga majbur qilish uchun
+B) Uni gapirtirish uchun ✅
+C) Uning gapirayotganini eshitish uchun
+D) Unga gapirishni o'rgatish uchun
+
+33. وَسَتَسْمَعِينَهَا تَقُولُ مَرْحَبًا مَامَا jumlasida تَقُولُ مَرْحَبًا مَامَا qanday vazifani bajaradi?
+A) Eshitiladigan nutq mazmunini ko'rsatadi ✅
+B) Kelajakdagi alohida buyruqni bildiradi
+C) O'tgan voqeani bildiradi
+D) Shartni bildiradi
+
+34. كَيْفَ أَمْكَنَكَ مَعْرِفَةُ ذَلِكَ؟ jumlasidagi أَمْكَنَكَ qanday ma'noda?
+A) Buni qanday bilishing mumkin bo'ldi? / qanday bilding? ✅
+B) Buni bilishing shart edi
+C) Buni bilishni xohlamading
+D) Buni unutib qo'yding
+
+35. هَلْ تَخْشَيْنَا الظَّلَامَ؟ jumlasidagi تَخْشَيْنَا qaysi ma'noni bildiradi?
+A) Bizni ko'rasan
+B) Bizdan qo'rqasan
+C) Qorong'ulikdan qo'rqasan ✅
+D) Qorong'ulikni yashirasan
+
+36. يُسَمُّونَ ذَلِكَ مِزَاحًا jumlasidagi يُسَمُّونَ ... مِزَاحًا qanday mazmunni anglatadi?
+A) Uni hazil deb atashadi ✅
+B) Uni hazil bilan to'xtatishadi
+C) Uni hazildan ajratishadi
+D) Uni hazilga aylantirishadi
+
+37. سَنَقْلِبُ الْمَزْحَةَ عَلَيْهِمَا jumlasidagi نَقْلِبُ الْمَزْحَةَ عَلَيْهِمَا qanday iboraviy ma'noga ega?
+A) Hazilni ularga qarshi qaytaramiz ✅
+B) Hazilni ulardan yashiramiz
+C) Hazilni ular bilan bo'lishamiz
+D) Hazilni butunlay to'xtatamiz
+
+38. إِنَّ أَذْكَى فِيكْسِيٍّ فِي صَفِّنَا هُوَ دِيجِيتْ jumlasida أَذْكَى qanday darajani bildiradi?
+A) Aqlli
+B) Aqlliroq
+C) Eng aqlli ✅
+D) Juda kam aqlli
+
+39. يُفَضِّلُ دِيجِيتْ أَنْ يَحُلَّ مُشْكِلَاتِهِ بِاسْتِعْمَالِ دِمَاغِهِ jumlasidagi يُفَضِّلُ ... أَنْ ... qanday ma'noni beradi?
+A) Dijit ... qilishni afzal ko'radi ✅
+B) Dijit ... qilishga majbur
+C) Dijit ... qilishdan qo'rqadi
+D) Dijit ... qilishni rad etadi
+
+40. وَلِشِدَّةِ لُطْفِهِ تُرْغَبُ فِي مُسَاعَدَتِهِ jumlasidagi لِشِدَّةِ لُطْفِهِ qanday nozik ma'noni bildiradi?
+A) Uning yoqimliligi juda yuqori bo'lgani uchun ✅
+B) U juda zaif bo'lgani uchun
+C) U juda aqlli bo'lgani uchun
+D) U juda ko'p gapirgani uchun
+
+41. وَلِلْأَمَانَةِ iborasi ushbu kontekstda qanday ma'noni beradi?
+A) To'g'risini aytsam / rostini aytganda ✅
+B) Va'da beraman
+C) Sir saqlash uchun
+D) Qasam ichib
+
+42. لَا أَحَدَ يَفْهَمُ الْآلِيَّةَ أَكْثَرَ مِنْهُ jumlasidagi أَكْثَرَ مِنْهُ qanday ma'no hosil qiladi?
+A) Undan kamroq
+B) Undan yaxshiroq / ko'proq ✅
+C) U bilan teng
+D) Undan keyin
+
+43. فَإِنْ تَعَطَّلَ شَيْءٌ فَإِنَّهُ بِسُرْعَةٍ وَدِقَّةٍ يَسْتَطِيعُ مَعْرِفَةَ ذَلِكَ الْعُطْلِ jumlasidagi إِنْ ... فَإِنَّهُ ... tuzilmasi qanday munosabatni ifodalaydi?
+A) Agar ... bo'lsa, unda ... ✅
+B) Garchi ... bo'lsa ham
+C) Chunki ... shuning uchun
+D) Qachon ... bo'lsa ham
+
+44. يُرَجَّحُ أَنَّهُمَا ظَنَّا أَنَّ الدُّمْيَةَ سَتَقْضِي عَلَيْهِمَا jumlasidagi يُرَجَّحُ qanday ma'noni bildiradi?
+A) Aniq ma'lumki
+B) Ehtimol / katta ehtimol bilan ✅
+C) Rad etiladi
+D) Buyuriladi
+
+45. لَا شَيْءَ يُرْضِيكِ jumlasidagi يُرْضِيكِ qanday ma'noni anglatadi?
+A) Seni hech narsa qoniqtirmaydi ✅
+B) Sen hech narsani yoqtirmaysan
+C) Hech narsa seni qo'rqitmaydi
+D) Sen hech narsani tushunmaysan
