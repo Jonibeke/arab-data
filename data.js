@@ -26,7 +26,7 @@ const data = {
             title: "الفيكسيز",
             type: "mult",
             img: "https://arab-data.pages.dev/arab%20tili/fixies/img/cov.avif",
-            meta: "102 ta epizod",
+            meta: "100 ta epizod, daraja: A1-A2",
             episodes: [
                 {
                     num: 1,
@@ -2344,7 +2344,7 @@ const data = {
             title: "مسلسل الإمام احمد بن حنبل",
             type: "kino",
             img: "https://arab-data.pages.dev/arab%20tili/img/playlist2.webp",
-            meta: "30 ta epizod",
+            meta: "30 ta epizod, daraja: B2-C1",
             episodes: [
                 {
                     num: 1,
@@ -2518,7 +2518,7 @@ const data = {
             title: "قرآن",
             type: "book",
             img: "https://arab-data.pages.dev/arab%20tili/img/playlist3.jpg",
-            meta: "114 sura",
+            meta: "114 sura, daraja: B2-C1",
             episodes: [
                 {
                     num: 1,
@@ -2621,7 +2621,7 @@ const data = {
             title: "Fixies",
             type: "mult",
             img: "https://arab-data.pages.dev/inglis%20tili/img/hqdefault.webp",
-            meta: "epizodlar soni nomalum",
+            meta: "epizodlar soni nomalum, daraja: A1-A2",
             episodes: [
                 {
                     num: 1,
@@ -2653,7 +2653,7 @@ const data = {
             type: "book",              // "quran" EMAS — shunda isQuranBook false bo'ladi
             title: "4000 Words 1",
             img: "https://arab-data.pages.dev/inglis%20tili/img/4000-1.jpg",
-            meta: "",
+            meta: "daraja: A2-B1",
             language: "ingliz-tili",
             episodes: [
                 {
