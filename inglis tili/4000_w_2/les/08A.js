@@ -1,0 +1,65 @@
+const lessons = [
+  {"num":1,"time":"00:00:00,000 --> 00:00:02,300","english":"Tricky Turtle","transcription":"ˈtrɪki ˈtɜːrtəl","parts":[["Tricky","Ayyor"],["Turtle","toshbaqa"]],"uzbekFull":"Ayyor toshbaqa.","note":"tricky — ayyor, hiylakor; turtle — toshbaqa."},
+
+  {"num":2,"time":"00:00:02,300 --> 00:00:07,900","english":"Ricky the Rabbit and Tara the Turtle met by the edge of the river.","transcription":"ˈrɪki ðə ˈræbɪt ænd ˈterə ðə ˈtɜːrtəl met baɪ ði edʒ əv ðə ˈrɪvər","parts":[["Ricky the Rabbit","Quyon Riki"],["and Tara the Turtle","va Toshbaqa Tara"],["met by the edge of the river.","daryo bo‘yida uchrashishdi."]],"uzbekFull":"Quyon Riki va Toshbaqa Tara daryo bo‘yida uchrashishdi.","note":"rabbit — quyon; turtle — toshbaqa; edge of the river — daryo bo‘yi, daryoning cheti; meet — uchrashmoq."},
+
+  {"num":3,"time":"00:00:08,839 --> 00:00:12,519","english":"No one is capable of beating me in a race, Ricky said.","transcription":"noʊ wʌn ɪz ˈkeɪpəbəl əv ˈbiːtɪŋ miː ɪn ə reɪs ˈrɪki sɛd","parts":[["No one is capable of","Hech kim ... qila olmaydi"],["beating me","meni yengishni"],["in a race,","poygada,"],["Ricky said.","dedi Riki."]],"uzbekFull":"“Hech kim poygada meni yenga olmaydi”, dedi Riki.","note":"be capable of + V-ing — ... qila olmoq; beat — yengmoq; race — poyga."},
+
+  {"num":4,"time":"00:00:13,099 --> 00:00:16,420","english":"He was confident. His smile conveyed that.","transcription":"hi wəz ˈkɑːnfɪdənt hɪz smaɪl kənˈveɪd ðæt","parts":[["He was confident.","U o‘ziga ishongan edi."],["His smile","Uning tabassumi"],["conveyed that.","buni ko‘rsatardi."]],"uzbekFull":"U o‘ziga ishongan edi. Uning tabassumi ham buni ko‘rsatardi.","note":"confident — o‘ziga ishongan; smile — tabassum; convey — ifodalamoq, ko‘rsatmoq."},
+
+  {"num":5,"time":"00:00:17,199 --> 00:00:19,460","english":"I can beat you, Tara said.","transcription":"aɪ kən biːt juː ˈterə sɛd","parts":[["I can beat you,","Men sizni yenga olaman,"],["Tara said.","dedi Tara."]],"uzbekFull":"“Men sizni yenga olaman”, dedi Tara.","note":"can — qila olmoq; beat — yengmoq."},
+
+  {"num":6,"time":"00:00:20,460 --> 00:00:21,760","english":"Ricky laughed with delight.","transcription":"ˈrɪki læft wɪð dɪˈlaɪt","parts":[["Ricky laughed","Riki kuldi"],["with delight.","xursandchilik bilan."]],"uzbekFull":"Riki xursandchilik bilan kuldi.","note":"laugh — kulmoq; delight — katta xursandchilik, quvonch; with delight — xursandchilik bilan."},
+
+  {"num":7,"time":"00:00:22,960 --> 00:00:25,240","english":"Tara said, We will race tomorrow.","transcription":"ˈterə sɛd wi wɪl reɪs təˈmɑːroʊ","parts":[["Tara said,","Tara dedi:"],["We will race","Biz poygalashamiz"],["tomorrow.","ertaga."]],"uzbekFull":"Tara dedi: “Biz ertaga poygalashamiz.”","note":"will — kelasi zamon; race — poygalashmoq; tomorrow — ertaga."},
+
+  {"num":8,"time":"00:00:26,179 --> 00:00:27,539","english":"The destination is the hill.","transcription":"ðə ˌdestəˈneɪʃən ɪz ðə hɪl","parts":[["The destination","Manzil"],["is the hill.","tepalik."]],"uzbekFull":"Manzil tepalik edi.","note":"destination — manzil; hill — tepalik."},
+
+  {"num":9,"time":"00:00:28,240 --> 00:00:29,440","english":"Ricky agreed.","transcription":"ˈrɪki əˈɡriːd","parts":[["Ricky agreed.","Riki rozi bo‘ldi."]],"uzbekFull":"Riki rozi bo‘ldi.","note":"agree — rozi bo‘lmoq, kelishmoq; agreed — rozi bo‘ldi."},
+
+  {"num":10,"time":"00:00:30,000 --> 00:00:32,380","english":"Tara concentrated on winning the race.","transcription":"ˈterə ˈkɑːnsəntreɪtɪd ɑːn ˈwɪnɪŋ ðə reɪs","parts":[["Tara concentrated on","Tara ...ga diqqatini qaratdi"],["winning the race.","poygada g‘olib bo‘lishga."]],"uzbekFull":"Tara poygada g‘olib bo‘lishga diqqatini qaratdi.","note":"concentrate on — ...ga diqqatni qaratmoq; win — yutmoq, g‘olib bo‘lmoq; winning — g‘olib bo‘lish."},
+
+  {"num":11,"time":"00:00:33,039 --> 00:00:34,920","english":"She was not faster than Ricky.","transcription":"ʃi wəz nɑːt ˈfæstər ðæn ˈrɪki","parts":[["She was not faster","U tezroq emas edi"],["than Ricky.","Rikidan."]],"uzbekFull":"U Rikidan tezroq emas edi.","note":"faster than — ...dan tezroq; than — ...dan."},
+
+  {"num":12,"time":"00:00:35,659 --> 00:00:38,039","english":"She needed a definite way to succeed.","transcription":"ʃi ˈniːdɪd ə ˈdefənət weɪ tə səkˈsiːd","parts":[["She needed","Unga kerak edi"],["a definite way","aniq bir yo‘l"],["to succeed.","muvaffaqiyat qozonish uchun."]],"uzbekFull":"Unga muvaffaqiyat qozonish uchun aniq bir yo‘l kerak edi.","note":"definite — aniq; way — yo‘l, usul; succeed — muvaffaqiyat qozonmoq."},
+
+  {"num":13,"time":"00:00:38,820 --> 00:00:40,859","english":"She told her family about the race.","transcription":"ʃi toʊld hər ˈfæməli əˈbaʊt ðə reɪs","parts":[["She told her family","U oilasiga aytdi"],["about the race.","poyga haqida."]],"uzbekFull":"U oilasiga poyga haqida aytdi.","note":"tell someone about — birovga ... haqida aytmoq; family — oila."},
+
+  {"num":14,"time":"00:00:41,780 --> 00:00:44,820","english":"I have concluded that I have to resort to something bad.","transcription":"aɪ hæv kənˈkluːdɪd ðæt aɪ hæv tə rɪˈzɔːrt tə ˈsʌmθɪŋ bæd","parts":[["I have concluded","Men xulosa qildim"],["that I have to","men ...im kerakligini"],["resort to something bad.","yomon bir narsaga murojaat qilish."]],"uzbekFull":"“Men yomon bir usulga murojaat qilishim kerak, degan xulosaga keldim.”","note":"conclude — xulosa qilmoq; have to — kerak bo‘lmoq; resort to — ...ga murojaat qilmoq, oxirgi chora sifatida foydalanmoq."},
+
+  {"num":15,"time":"00:00:45,439 --> 00:00:46,120","english":"I will cheat.","transcription":"aɪ wɪl tʃiːt","parts":[["I will cheat.","Men aldab qo‘yaman."]],"uzbekFull":"“Men aldab qo‘yaman.”","note":"cheat — aldamoq, qoidani buzmoq; will — kelasi zamon."},
+
+  {"num":16,"time":"00:00:47,079 --> 00:00:49,000","english":"She dictated her instructions to them.","transcription":"ʃi dɪkˈteɪtɪd hər ɪnˈstrʌkʃənz tə ðem","parts":[["She dictated","U aytib turdi"],["her instructions","o‘z ko‘rsatmalarini"],["to them.","ularga."]],"uzbekFull":"U ularga o‘z ko‘rsatmalarini aytib berdi.","note":"dictate — aytib turib yozdirmoq, ko‘rsatma bermoq; instructions — ko‘rsatmalar, yo‘riqnomalar."},
+
+  {"num":17,"time":"00:00:50,179 --> 00:00:52,620","english":"At the race, they all wore white feathers.","transcription":"æt ðə reɪs ðeɪ ɔːl wɔːr waɪt ˈfeðərz","parts":[["At the race,","Poygada,"],["they all wore","ularning barchasi taqdi"],["white feathers.","oq patlarni."]],"uzbekFull":"Poygada ularning barchasi oq patlar taqishdi.","note":"wear — kiymoq/taqmoq; wore — wear fe’lining o‘tgan zamoni; feather — pat."},
+
+  {"num":18,"time":"00:00:53,659 --> 00:00:55,019","english":"They looked exactly the same.","transcription":"ðeɪ lʊkt ɪɡˈzæktli ðə seɪm","parts":[["They looked","Ular ko‘rinardi"],["exactly the same.","aynan bir xil."]],"uzbekFull":"Ularning barchasi aynan bir xil ko‘rinardi.","note":"exactly — aynan; the same — bir xil; look the same — bir xil ko‘rinmoq."},
+
+  {"num":19,"time":"00:00:55,859 --> 00:00:58,420","english":"Then her family members hid in shadows on the path.","transcription":"ðen hər ˈfæməli ˈmembərz hɪd ɪn ˈʃædoʊz ɑːn ðə pæθ","parts":[["Then","Keyin"],["her family members hid","uning oila a’zolari yashirinishdi"],["in shadows","soyalarda"],["on the path.","yo‘l bo‘yida."]],"uzbekFull":"Keyin uning oila a’zolari yo‘l bo‘yidagi soyalarda yashirinishdi.","note":"family member — oila a’zosi; hide — yashirinmoq; hid — hide fe’lining o‘tgan zamoni; shadow — soya; path — yo‘l, so‘qmoq."},
+
+  {"num":20,"time":"00:00:59,420 --> 00:01:00,320","english":"The race began.","transcription":"ðə reɪs bɪˈɡæn","parts":[["The race","Poyga"],["began.","boshlandi."]],"uzbekFull":"Poyga boshlandi.","note":"begin — boshlanmoq; began — boshlan(di)."},  
+
+  {"num":21,"time":"00:01:01,579 --> 00:01:03,179","english":"Terra was soon far behind.","transcription":"ˈterə wəz suːn fɑːr bɪˈhaɪnd","parts":[["Terra was","Terra edi"],["soon far behind.","ko‘p o‘tmay ancha orqada."]],"uzbekFull":"Ko‘p o‘tmay Terra ancha orqada qoldi.","note":"far behind — ancha orqada; soon — ko‘p o‘tmay."},
+
+  {"num":22,"time":"00:01:04,000 --> 00:01:07,780","english":"However, Terra's brother hid behind a bush in the valley below.","transcription":"haʊˈevər ˈterəz ˈbrʌðər hɪd bɪˈhaɪnd ə bʊʃ ɪn ðə ˈvæli bɪˈloʊ","parts":[["However,","Biroq,"],["Terra's brother hid","Terraning akasi yashirindi"],["behind a bush","bir buta ortida"],["in the valley below.","pastdagi vodiyda."]],"uzbekFull":"Biroq, Terraning akasi pastdagi vodiydagi bir buta ortida yashirindi.","note":"however — biroq; brother — aka/uka; hide behind — ... ortida yashirinmoq; bush — buta; valley — vodiy."},
+
+  {"num":23,"time":"00:01:08,780 --> 00:01:11,780","english":"When Ricky got close, Terra's brother began to run.","transcription":"wen ˈrɪki ɡɑːt kloʊs ˈterəz ˈbrʌðər bɪˈɡæn tə rʌn","parts":[["When Ricky got close,","Riki yaqinlashganda,"],["Terra's brother","Terraning akasi"],["began to run.","yugura boshladi."]],"uzbekFull":"Riki yaqinlashganda, Terraning akasi yugura boshladi.","note":"get close — yaqinlashmoq; begin to run — yugurishni boshlamoq."},
+
+  {"num":24,"time":"00:01:12,659 --> 00:01:14,099","english":"He looked just like Terra.","transcription":"hi lʊkt dʒʌst laɪk ˈterə","parts":[["He looked","U ko‘rinardi"],["just like Terra.","xuddi Terra kabi."]],"uzbekFull":"U xuddi Terra kabi ko‘rinardi.","note":"just like — xuddi ... kabi; look like — ...ga o‘xshab ko‘rinmoq."},
+
+  {"num":25,"time":"00:01:15,099 --> 00:01:17,840","english":"Ricky ran as fast as he could along the path.","transcription":"ˈrɪki ræn æz fæst æz hi kʊd əˈlɔːŋ ðə pæθ","parts":[["Ricky ran","Riki yugurdi"],["as fast as he could","qo‘lidan kelganicha tez"],["along the path.","yo‘l bo‘ylab."]],"uzbekFull":"Riki yo‘l bo‘ylab qo‘lidan kelganicha tez yugurdi.","note":"as fast as he could — qo‘lidan kelganicha tez; along — bo‘ylab; ran — run fe’lining o‘tgan zamoni."},
+
+  {"num":26,"time":"00:01:18,480 --> 00:01:21,879","english":"But to him, it seemed like Terra was always ahead.","transcription":"bət tə hɪm ɪt siːmd laɪk ˈterə wəz ˈɔːlweɪz əˈhed","parts":[["But to him,","Ammo uning nazarida,"],["it seemed like","...dek tuyuldi"],["Terra was always ahead.","Terra doimo oldinda edi."]],"uzbekFull":"Ammo uning nazarida Terra doimo oldinda ketayotgandek tuyuldi.","note":"it seemed like — ...dek tuyuldi; to him — uning nazarida; ahead — oldinda."},
+
+  {"num":27,"time":"00:01:23,000 --> 00:01:25,219","english":"Ricky had used a considerable amount of energy.","transcription":"ˈrɪki hæd juːzd ə kənˈsɪdərəbəl əˈmaʊnt əv ˈenərdʒi","parts":[["Ricky had used","Riki ishlatgan edi"],["a considerable amount","anchagina miqdorda"],["of energy.","energiyani."]],"uzbekFull":"Riki anchagina energiya sarflab bo‘lgan edi.","note":"considerable — anchagina, sezilarli; amount of — miqdori; energy — energiya; had used — ishlatgan edi."},
+
+  {"num":28,"time":"00:01:25,219 --> 00:01:29,599","english":"He reached the top, but Tara's sister was already there.","transcription":"hi riːtʃt ðə tɑːp bət ˈterəz ˈsɪstər wəz ɔːlˈredi ðer","parts":[["He reached the top,","U cho‘qqiga yetib bordi,"],["but Tara's sister","ammo Taraning singlisi"],["was already there.","allaqachon u yerda edi."]],"uzbekFull":"U cho‘qqiga yetib bordi, ammo Taraning singlisi allaqachon u yerda edi.","note":"reach the top — cho‘qqiga yetib bormoq; already — allaqachon; sister — opa/singil."},
+
+  {"num":29,"time":"00:01:30,760 --> 00:01:33,480","english":"Well, you win, Ricky said.","transcription":"wel juː wɪn ˈrɪki sɛd","parts":[["Well,","Xo‘sh,"],["you win,","siz yutdingiz,"],["Ricky said.","dedi Riki."]],"uzbekFull":"“Xo‘sh, siz yutdingiz”, dedi Riki.","note":"win — yutmoq, g‘olib bo‘lmoq; you win — siz yutdingiz/yutasiz."},
+
+  {"num":30,"time":"00:01:34,519 --> 00:01:37,340","english":"Later, Tara had a broad smile on her face.","transcription":"ˈleɪtər ˈterə hæd ə brɔːd smaɪl ɑːn hər feɪs","parts":[["Later,","Keyinroq,"],["Tara had","Taraning bor edi"],["a broad smile","katta tabassum"],["on her face.","yuzida."]],"uzbekFull":"Keyinroq Taraning yuzida katta tabassum paydo bo‘ldi.","note":"broad smile — katta tabassum; on one's face — yuzida; later — keyinroq."},
+
+  {"num":31,"time":"00:01:38,420 --> 00:01:39,579","english":"Ricky never suspected.","transcription":"ˈrɪki ˈnevər səˈspektɪd","parts":[["Ricky","Riki"],["never suspected.","hech qachon shubhalanmadi."]],"uzbekFull":"Riki hech qachon shubhalanmadi.","note":"suspect — shubhalanmoq; never — hech qachon."},
+
+  {"num":32,"time":"00:01:40,760 --> 00:01:43,280","english":"He had been tricked by a family of slow turtles.","transcription":"hi hæd bɪn trɪkt baɪ ə ˈfæməli əv sloʊ ˈtɜːrtəlz","parts":[["He had been tricked","U aldangan edi"],["by a family","bir oila tomonidan"],["of slow turtles.","sekin toshbaqalardan iborat."]],"uzbekFull":"U sekin toshbaqalardan iborat bir oila tomonidan aldangan edi.","note":"had been tricked — aldanib qolgan edi; Passive Voice: had been + V3; trick — aldamoq; slow — sekin."}
+];

@@ -1,0 +1,271 @@
+(2) صُنْدُوقُ الْمُوسِيقَى — «Musiqa qutichasi» darsi bo'yicha murakkab test
+
+1. وَعِنْدَمَا بَدَأَ الْعَازِفُ الْمُنْقِذُ بِالْعَزْفِ بِالنَّايِ الْعَجِيبِ jumlasidagi الْعَازِفُ الْمُنْقِذُ birikmasining eng aniq mazmuni qaysi?
+A) qutqaruvchi nay
+B) qutqaruvchi navogar ✅
+C) sehrli qutqaruvchi
+D) nay yasovchi qutqaruvchi
+
+2. خَرَجَتِ الْجُرْذَانُ مِنْ جُحُورِهَا jumlasidagi جُحُورِهَا so'zi nimani bildiradi?
+A) ularning izlari
+B) ularning inlari ✅
+C) ularning uyalari oldi
+D) ularning yashirin joylari tashqarisi
+
+3. وَلَمْ يَرَهَا أَحَدٌ فِي هَامْلِينَ بَعْدَ هَذَا قَطُّ jumlasida قَطُّ qanday nozik ma'no beradi?
+A) ba'zan
+B) hech qachon / bundan keyin mutlaqo ✅
+C) aynan shu paytda
+D) bir necha marta
+
+4. لَمْ أَعُدْ أَسْتَطِيعُ الْقِرَاءَةَ jumlasidagi لَمْ أَعُدْ ... qanday ma'noni ifodalaydi?
+A) Men hali o'qishni boshlamadim
+B) Men endi o'qiy olmayapman ✅
+C) Men yana o'qiy boshladim
+D) Men ilgari o'qiy olmaganman
+
+5. شَيْءٌ مَا يُصْدِرُ صَوْتًا هُنَا jumlasidagi شَيْءٌ مَا qanday ma'noni bildiradi?
+A) aynan biror narsa
+B) biror noma'lum narsa ✅
+C) hech qanday narsa
+D) barcha narsalar
+
+6. إِذَنْ قَدْ يَكُونُ فَأْرًا jumlasida قَدْ يَكُونُ qanday mazmun beradi?
+A) Bu albatta sichqon
+B) Bu sichqon bo'lishi mumkin ✅
+C) Bu sichqon bo'lmaydi
+D) Bu sichqon bo'lib qolgan
+
+7. لِنَتَحَقَّقَ هَذَا الْأَمْرَ jumlasidagi لِنَتَحَقَّقَ qanday maqsadni bildiradi?
+A) Bu ishni yashirish uchun
+B) Bu ishni tekshirib ko'rish uchun ✅
+C) Bu ishni tugatganimizdan keyin
+D) Bu ishni rad etish uchun
+
+8. إِنْ كَانَ هُنَاكَ فَأْرًا حَقًّا jumlasidagi حَقًّا qanday ma'noni kuchaytiradi?
+A) ehtimol
+B) haqiqatan / rostdan ham ✅
+C) tasodifan
+D) taxminan
+
+9. هَذِهِ قَوَارِضُ كَبِيرَةٌ جِدًّا jumlasidagi قَوَارِضُ oddiy "sichqonlar"dan qanday farq qiladi?
+A) Kemiruvchilar ✅
+B) Yirtqichlar
+C) Hasharotlar
+D) Qushlar
+
+10. وَلِمَ قَرَأْتُ لَكَ ذَلِكَ الْكِتَابَ؟ jumlasidagi وَلِمَ qanday ma'noda?
+A) Qayerda?
+B) Nega? ✅
+C) Kim bilan?
+D) Qachongacha?
+
+11. لِتُهْرِبَ الْفِئْرَانَ jumlasidagi لِتُهْرِبَ qanday maqsadni bildiradi?
+A) Sichqonlarni ushlash uchun
+B) Sichqonlarni qochirish uchun ✅
+C) Sichqonlarni yashirish uchun
+D) Sichqonlarni kuzatish uchun
+
+12. وَلَكِنْ مِنْ أَيْنَ سَآتِي بِالنَّايِ؟ jumlasidagi سَآتِي بِـ qanday iboraviy ma'noga ega?
+A) Nayni qayerga qo'yaman?
+B) Nayni qayerdan topaman / olib kelaman? ✅
+C) Nay bilan qayerga boraman?
+D) Nayni kimga beraman?
+
+13. كَمَا قُلْتُ لَكَ مِنْ قَبْلُ iborasidagi كَمَا nimani anglatadi?
+A) Shunga qaramay
+B) Men avval senga aytganimdek ✅
+C) Men senga aytganimdan oldin
+D) Men senga aytganim uchun
+
+14. لَمْ يَعُدْ هُنَاكَ فِئْرَانٌ jumlasidagi لَمْ يَعُدْ هُنَاكَ qanday nozik mazmunni beradi?
+A) Sichqonlar yana paydo bo'ldi
+B) Endi sichqonlar yo'q ✅
+C) Sichqonlar avval ham yo'q edi
+D) Sichqonlar hali kelmagan
+
+15. لِنَعْزِفْ أَكْثَرَ حَتَّى لَا تَعُودَ الْفِئْرَانُ jumlasida حَتَّى لَا qanday maqsadni ifodalaydi?
+A) Sichqonlar qaytganidan keyin
+B) Sichqonlar qaytmasligi uchun ✅
+C) Sichqonlar qaytganiga qaramay
+D) Sichqonlar qaytishi sababli
+
+16. إِذَنْ أَنْتُمَا مَنْ كَانَ يَعْبَثُ هُنَا jumlasining eng aniq mazmuni qaysi?
+A) Demak, bu yerda o'ynab yurgan aynan siz ikkovingiz ekansizlar ✅
+B) Demak, bu yerda ishlagan odam sizsiz
+C) Demak, bu yerda yashiringan odamlar sizsiz
+D) Demak, bu yerda yurgan har kim sizsiz
+
+17. كَانَ يَعْبَثُ هُنَا jumlasidagi يَعْبَثُ qanday ma'noga ega?
+A) Jiddiy ishlamoq
+B) O'ynab / bekorchilik qilib yurmoq ✅
+C) Yashirincha qochmoq
+D) Ta'mirlamoq
+
+18. طُولَ النَّهَارِ iborasining aniq ma'nosi qaysi?
+A) Tong otguncha
+B) Kun bo'yi ✅
+C) Kunning oxirida
+D) Har kuni
+
+19. مُنْذُ الصَّبَاحِ iborasidagi مُنْذُ qanday vaqt munosabatini bildiradi?
+A) Ertalabgacha
+B) Ertalabdan beri ✅
+C) Ertalabdan oldin
+D) Ertalabdan keyin
+
+20. رَائِعٌ مَا هَذِهِ الْآلَةُ jumlasida مَا هَذِهِ الْآلَةُ qanday ohangda ishlatilgan?
+A) "Bu qanday ajoyib asbob!" tarzidagi taajjub ✅
+B) "Bu asbob qayerda?" mazmunidagi savol
+C) "Bu asbobni ol" mazmunidagi buyruq
+D) "Bu asbob ishlamaydi" mazmunidagi xabar
+
+21. حَسَنًا آلَةُ تَحُكُّ الْأَقْدَامَ jumlasidagi تَحُكُّ الْأَقْدَامَ qanday ma'noni bildiradi?
+A) Oyoqlarni yuvadi
+B) Oyoqlarni qashiydi ✅
+C) Oyoqlarni bog'laydi
+D) Oyoqlarni isitadi
+
+22. لَقَدْ تَمَّ اخْتِرَاعُ صَنَادِيقِ الْمُوسِيقَى jumlasidagi تَمَّ اخْتِرَاعُ qanday nisbat va mazmunni bildiradi?
+A) Faol nisbat: kimdir ixtiro qildi
+B) Majhul shakl: musiqa qutichalari ixtiro qilingan ✅
+C) Buyruq: ixtiro qil
+D) O'zlik nisbat: o'z-o'zidan ixtiro bo'ldi
+
+23. وَتَحْوِي فِي الْعَادَةِ أُسْطُوَانَةً ذَاتَ نُتُوءَاتٍ بَارِزَةٍ jumlasidagi ذَاتَ نُتُوءَاتٍ بَارِزَةٍ qanday ma'noni beradi?
+A) Ichida yashirin teshiklar bor
+B) Bo'rtiq / chiqib turgan qismlarga ega ✅
+C) Tashqi tomoni tekis
+D) Juda uzun metall tishlarga ega
+
+24. وَأَمَامَ تِلْكَ الْأُسْطُوَانَةِ مُشْطٌ ذُو أَسْنَانٍ مَعْدِنِيَّةٍ jumlasidagi ذُو أَسْنَانٍ qanday grammatik-iboraviy ma'noni bildiradi?
+A) Metall tishlardan yasalgan
+B) Metall tishlarga ega bo'lgan ✅
+C) Metall tishlarni yasaydigan
+D) Metall tishlardan ajralgan
+
+25. فَإِذَا مَا نُقِرَتْ عَلَى أَحَدِ الْأَسْنَانِ jumlasidagi فَإِذَا مَا ... qanday munosabatni ifodalaydi?
+A) Shart — agar ... bo'lsa ✅
+B) Qarama-qarshilik
+C) Sabab
+D) Vaqtning o'tgan shakli
+
+26. نُقِرَتْ عَلَى أَحَدِ الْأَسْنَانِ jumlasida نُقِرَتْ qanday nisbatda?
+A) Faol
+B) Majhul ✅
+C) Buyruq
+D) O'zlik
+
+27. الْأَسْنَانُ الْقَصِيرَةُ تُصْدِرُ أَصْوَاتًا أَعْلَى وَالطَّوِيلَةُ تُصْدِرُ أَصْوَاتًا أَخْفَضَ jumlasidagi أَعْلَى va أَخْفَضَ qanday ma'noni bildiradi?
+A) Eng baland va eng past ✅
+B) Balandroq va pastroq
+C) Baland va past
+D) Juda baland va juda past
+
+28. تَنْقُرُ النُّتُوءَاتُ عَلَى الْأَسْنَانِ jumlasida تَنْقُرُ qanday ma'noda ishlatilgan?
+A) Tishlarni kesadi
+B) Tishlarga uriladi / taqillatadi ✅
+C) Tishlarni yuvadi
+D) Tishlarni tortadi
+
+29. خَرَجَ النَّابِضُ مِنْ مَكَانِهِ jumlasida النَّابِضُ nimani anglatadi?
+A) Taroq
+B) Prujina ✅
+C) Kalit
+D) Silindr
+
+30. عَلَيْنَا أَنْ نُعِيدَهُ إِلَى مَكَانِهِ الصَّحِيحِ jumlasidagi عَلَيْنَا أَنْ ... qanday ma'noni beradi?
+A) Biz xohlasak
+B) Uni ... qilishimiz kerak ✅
+C) Biz ... qila olmaymiz
+D) Biz ... qilmasligimiz kerak
+
+31. أَلَمْ تَنْتَهِيَا بَعْدُ؟ jumlasidagi بَعْدُ qanday nozik ma'noni beradi?
+A) Oldin
+B) Hali ✅
+C) Keyinroq
+D) Yana bir bor
+
+32. عَلَيْكَ أَنْ تُدِيرَ النَّابِضَةَ أَوَّلًا بِاسْتِعْمَالِ الْمِفْتَاحِ jumlasida بِاسْتِعْمَالِ الْمِفْتَاحِ qanday munosabatni bildiradi?
+A) Kalitni ishlatmasdan
+B) Kalitdan foydalanib ✅
+C) Kalitga qarshi
+D) Kalitdan keyin
+
+33. أَيُمْكِنُكَ أَنْ تُخَمِّنَ مَا هَذِهِ الْآلَةُ؟ jumlasidagi تُخَمِّنَ qanday ma'noga ega?
+A) Tekshirib ko'rmoq
+B) Taxmin qilmoq ✅
+C) Isbotlamoq
+D) Ta'mirlamoq
+
+34. أَرْبِطْهُ بِهَذَا الْمِفْتَاحِ لِتَكْتَشِفَ jumlasida لِتَكْتَشِفَ qanday maqsadni bildiradi?
+A) Ulamaslik uchun
+B) Bilish / aniqlash uchun ✅
+C) Ulab bo'lgandan keyin
+D) Ulashga qaramay
+
+35. ضَعْ مِسْطَرَةً عَلَى حَافَّةِ الْمِنْضَدَةِ jumlasidagi حَافَّةِ الْمِنْضَدَةِ nimani bildiradi?
+A) Stolning markazi
+B) Stolning cheti ✅
+C) Stolning osti
+D) Stolning ustki qismi
+
+36. وَثَبِّتْ إِحْدَى نِهَايَتَيْهَا jumlasidagi إِحْدَى نِهَايَتَيْهَا qanday ma'noga ega?
+A) Uning barcha uchlarini
+B) Uning ikki uchidan birini ✅
+C) Uning ikkinchi uchini
+D) Uning bir nechta qismini
+
+37. كُلَّمَا جَعَلْتَ الْقِسْمَ الْبَارِزَ أَقْصَرَ jumlasidagi كُلَّمَا qanday munosabatni bildiradi?
+A) Har safar / ...sari ✅
+B) Faqat bir marta
+C) Garchi
+D) Aks holda
+
+38. الْقِسْمَ الْبَارِزَ أَقْصَرَ jumlasida الْبَارِزَ qanday ma'noni anglatadi?
+A) Yashirin
+B) Bo'rtib chiqqan / tashqariga chiqqan ✅
+C) Ichkariga kirgan
+D) Uzilgan
+
+39. وَالْأَجْرَاسُ تَعْمَلُ بِالطَّرِيقَةِ نَفْسِهَا jumlasidagi بِالطَّرِيقَةِ نَفْسِهَا qanday nozik ma'noni beradi?
+A) Boshqa usul bilan
+B) Xuddi shu usulda ✅
+C) Faqat bir marta
+D) O'z-o'zidan
+
+40. كُلَّمَا صَغُرَ الْجَرَسُ عَلَى رَنِينِهِ jumlasidagi رَنِينُ qanday kamroq kundalik ma'noga ega?
+A) Jiringlash / jaranglash tovushi ✅
+B) Qattiq zarba
+C) Tinchlik
+D) Shovqin
+
+41. يَعْتَمِدَانِ عَلَى مَدَى سُخُونَةِ الْأَوْتَارِ jumlasidagi يَعْتَمِدَانِ عَلَى qanday iboraviy ma'noda?
+A) ...ga bog'liq bo'lmoq ✅
+B) ...ni rad etmoq
+C) ...ni yashirmoq
+D) ...ni boshqarmoq
+
+42. وَشَدُّ الْأَوْتَارِ يُحْدِثُ فَارِقًا فِي الصَّوْتِ jumlasidagi يُحْدِثُ فَارِقًا qanday ma'noni beradi?
+A) Farqni yo'q qiladi
+B) Ovozda farq keltirib chiqaradi ✅
+C) Ovozning bir xil bo'lishiga sabab bo'ladi
+D) Ovozga ta'sir qilmaydi
+
+43. كُلَّمَا ازْدَادَ الشَّدُّ عَلَى الْحَبْلِ jumlasidagi ازْدَادَ الشَّدُّ qanday mazmunni bildiradi?
+A) Arqondagi taranglik kamaydi
+B) Arqondagi taranglik oshdi ✅
+C) Arqon uzildi
+D) Arqon bo'shashdi
+
+44. لَقَدْ فَهِمْتُ الْآنَ إِنَّهَا مُشَغِّلٌ قَدِيمٌ لِلْمُوسِيقَى jumlasidagi مُشَغِّلٌ qanday ma'noda?
+A) Musiqani yaratadigan shaxs
+B) Musiqani ijro ettiruvchi / musiqa pleyeri ✅
+C) Musiqani yozadigan daftar
+D) Musiqani o'chiradigan qurilma
+
+45. لَا تَبُحْ بِالسِّرِّ jumlasidagi تَبُحْ بِالسِّرِّ qanday kamroq uchraydigan iboraviy ma'noni bildiradi?
+A) Sirni eslab qolma
+B) Sirni oshkor qilma ✅
+C) Sirni yozib ol
+D) Sirni boshqalardan so'ra
