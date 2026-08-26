@@ -2355,6 +2355,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/01.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/01A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/01B.js",
                             audioTimes: "",
@@ -2637,6 +2643,33 @@ const data = {
             ]
         },
 
+        {
+            id: "ajaib",
+            language: "arab-tili",
+            title: "عجائب الدنيا",
+            type: "kino",
+            img: "https://arab-data.pages.dev/arab%20tili/img/ajaib.jpg",
+            meta: "1 ta video, daraja: B2-C2",
+            episodes: [
+                {
+                    num: 1,
+                    title: "40 موقعا من مواقع التراث العالمي لليونيسكو سيذهلك",
+                    about: "https://youtu.be/IRVjuz6DvOI",
+                    img:      "",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/ajaib/ajaib_dunya.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/ajaib/srt/ajaib_dunya.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/ajaib/les/ajaib_dunyaA.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                }
+            ]
+        },
+
         // ================= QUR'ON =================
         // id albatta "quran" bo'lishi shart — book-init.js shu orqali
         // Qur'onga xos rejimni (bismillah, ayah-marker, RTL Quron shrifti) yoqadi.
@@ -2749,7 +2782,7 @@ const data = {
             title: "Fixies",
             type: "mult",
             img: "https://arab-data.pages.dev/inglis%20tili/img/hqdefault.webp",
-            meta: "epizodlar soni nomalum, daraja: A1-A2",
+            meta: "epizodlar soni nomalum, daraja: A2-B2",
             episodes: [
                 {
                     num: 1,
