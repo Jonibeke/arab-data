@@ -2714,6 +2714,22 @@ const data = {
                             audio:      ""
                         }
                     ]
+                },
+                {
+                    num: 3,
+                    title: "حين يتجلّى إبداع الخالق في الأرض",
+                    about: "https://youtu.be/zjkpAYy_i-I",
+                    img:      "",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/ajaib/naim_dunya.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/ajaib/srt/naim_dunya.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/ajaib/les/naim_dunyaA.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_time/naim_dunya.js",
+                            audio:      ""
+                        }
+                    ]
                 }
             ]
         },
