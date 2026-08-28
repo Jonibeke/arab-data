@@ -1,4 +1,3 @@
-// 19-qism — TO'LIQ (asl SRT raqamlari 2 dan 590 gachani, ya'ni butun faylni qamrab oladi)
 const lessons = [
  {
   "num": 2,

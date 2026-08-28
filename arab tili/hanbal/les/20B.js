@@ -1,5 +1,4 @@
-// 20-qism — TO'LIQ (asl SRT raqamlari 3 dan 532 gachani, ya'ni butun faylni qamrab oladi)
-const lessons20 = [
+const lessons = [
  {
   "num": 3,
   "time": "00:01:00,000 --> 00:01:07,180",
@@ -3267,4 +3266,6 @@ const lessons20 = [
   "full_uz": "Va agar yashab qolsang, ulug'lanib yashaysan.",
   "note": null
  }
-];
+]; if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}
