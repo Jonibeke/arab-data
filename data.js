@@ -2639,6 +2639,38 @@ const data = {
                             audio:      ""
                         }
                     ]
+                },
+                {
+                    num: 19,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/19.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/19.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/19B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 20,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/20.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/20.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/20B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
                 }
             ]
         },
@@ -2646,7 +2678,7 @@ const data = {
         {
             id: "ajaib",
             language: "arab-tili",
-            title: "عجائب الدنيا",
+            title: "عجائب العالم",
             type: "kino",
             img: "https://arab-data.pages.dev/arab%20tili/img/ajaib.jpg",
             meta: "1 ta video, daraja: B2-C2",
@@ -2662,7 +2694,23 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/ajaib/les/ajaib_dunyaA.js",
-                            audioTimes: "",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_time/ajaib_dunya.js",
+                            audio:      "https://ia601008.us.archive.org/32/items/ajaib/ajaib_dunya.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 2,
+                    title: "أجمل الأماكن في فلسطين وثائقي ساحر بدقة",
+                    about: "https://youtu.be/C8_YKIXjsXo",
+                    img:      "",
+                    video:    "https://pub-faafccdb77b742b298c107f7c8436b69.r2.dev/videos/ajaib/ajaib_falastin.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/ajaib/srt/ajaib_falastin.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/ajaib/les/ajaib_falastinA.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_time/ajaib_falastin.js",
                             audio:      ""
                         }
                     ]
