@@ -2671,6 +2671,86 @@ const data = {
                             audio:      ""
                         }
                     ]
+                },
+                {
+                    num: 21,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/21.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/21.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/21B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 22,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/22.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/22.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/22B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 23,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/23.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/23.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/23B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 24,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/24.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/24.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/24B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 25,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/25.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/25.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/25B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
                 }
             ]
         },
@@ -2694,7 +2774,7 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/ajaib/les/ajaib_dunyaA.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_time/ajaib_dunya.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_tim/ajaib_dunyaA.js",
                             audio:      "https://ia601008.us.archive.org/32/items/ajaib/ajaib_dunya.mp3"
                         }
                     ]
@@ -2710,7 +2790,7 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/ajaib/les/ajaib_falastinA.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_time/ajaib_falastin.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_tim/ajaib_falastinA.js",
                             audio:      ""
                         }
                     ]
@@ -2726,7 +2806,7 @@ const data = {
                         {
                             label:      "Tahlil A",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/ajaib/les/naim_dunyaA.js",
-                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_time/naim_dunya.js",
+                            audioTimes: "https://arab-data.pages.dev/arab%20tili/ajaib/aud_tim/naim_dunyaA.js",
                             audio:      ""
                         }
                     ]
