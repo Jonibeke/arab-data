@@ -1,5 +1,5 @@
 // 23-qism — TO'LIQ (asl SRT raqamlari 3 dan 497 gachani, ya'ni butun faylni qamrab oladi)
-const lessons23 = [
+const lessons = [
  {
   "num": 3,
   "time": "00:00:31,839 --> 00:00:57,159",

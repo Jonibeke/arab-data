@@ -1,4 +1,4 @@
-const lessons25 = [
+const lessons = [
 {"num": 2, "time": "00:00:30,000 --> 00:00:32,000", "arabic": "تَعَالِي تَعَالِي، أَعْطِينِي هَذِي.", "segs": null, "full_uz": "Kel, kel, buni menga ber.", "note": null},
 {"num": 3, "time": "00:00:35,500 --> 00:00:41,000", "arabic": "تَأَخَّرْتُمْ، أَسْرِعِي يَا أُمَّ سَلَمَةَ، فَالْمَرْأَةُ تُوشِكُ أَنْ تَلْفِظَ أَنْفَاسَهَا، أَسْرِعِي.", "segs": [{"ar": "تَأَخَّرْتُمْ، أَسْرِعِي يَا أُمَّ سَلَمَةَ،", "uz": "Kechikdinglar, tezroq bo'ling, ey Umm Salama,"}, {"ar": "فَالْمَرْأَةُ تُوشِكُ أَنْ تَلْفِظَ أَنْفَاسَهَا، أَسْرِعِي.", "uz": "ayol jon berish arafasida, tezroq bo'ling."}], "full_uz": "Kechikdinglar, tezroq bo'ling, ey Umm Salama, ayol jon berish arafasida, tezroq bo'ling.", "note": null},
 {"num": 5, "time": "00:00:41,000 --> 00:00:43,000", "arabic": "إِلَى أَيْنَ؟", "segs": null, "full_uz": "Qayoqqa?", "note": null},
