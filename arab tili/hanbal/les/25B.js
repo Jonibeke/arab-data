@@ -234,4 +234,6 @@ const lessons = [
 {"num": 461, "time": "00:38:47,099 --> 00:38:52,579", "arabic": "قُلْتُ لَكَ مِنْ قَبْلُ، لِكُلِّ حَادِثٍ حَدِيثٌ.", "segs": null, "full_uz": "Senga oldin ham aytgan edim, har bir voqeaning o'ziga yarasha gapi bor.", "note": null}
 ];
 
-export default lessons25;
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}

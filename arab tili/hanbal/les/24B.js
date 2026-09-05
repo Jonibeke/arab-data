@@ -252,4 +252,6 @@ const lessons = [
 {"num": 497, "time": "00:41:43,620 --> 00:41:48,180", "arabic": "قَالَ تَعَالَى: وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً.", "segs": null, "full_uz": "Alloh taolo aytadi: \"Sizlarni yomonlik va yaxshilik bilan sinov tariqasida sinaymiz.\"", "note": "Qur'on, Anbiyo surasi, 35-oyat."}
 ];
 
-export default lessons24;
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}

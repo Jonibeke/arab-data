@@ -3154,4 +3154,6 @@ const lessons = [
   "full_uz": "Ishoq!",
   "note": null
  }
-];
+]; if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}

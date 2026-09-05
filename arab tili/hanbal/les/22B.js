@@ -3264,3 +3264,6 @@ const lessons = [
   "note": "STT xatosi ehtimoli: asl subtitrda noaniq eshitilgan qism ehtimoliy tiklandi — bu jumla e'tiroz bildirilayotgan tomonga qarshi har bir dalilning aslida ularga zarar qilishini anglatadi."
  }
 ];
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}

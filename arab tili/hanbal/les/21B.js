@@ -3268,3 +3268,6 @@ const lessons = [
   "note": "STT xatosi ehtimoli: asl subtitrda noaniq eshitilgan qism ehtimoliy tiklandi."
  }
 ];
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = lessons;
+}
