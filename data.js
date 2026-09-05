@@ -2789,7 +2789,24 @@ const data = {
                             audio:      ""
                         }
                     ]
+                },
+                {
+                    num: 28,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/28.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/28.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/28B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
                 }
+                
             ]
         },
 
