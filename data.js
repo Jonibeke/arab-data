@@ -2377,6 +2377,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/02.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/02A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/02B.js",
                             audioTimes: "",
@@ -2747,6 +2753,38 @@ const data = {
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/25B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 26,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/26.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/26.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/26B.js",
+                            audioTimes: "",
+                            audio:      ""
+                        }
+                    ]
+                },
+                {
+                    num: 27,
+                    title: "",
+                    about: "",
+                    img:      "",
+                    video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/27.mp4",
+                    subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/27.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil B",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/27B.js",
                             audioTimes: "",
                             audio:      ""
                         }
