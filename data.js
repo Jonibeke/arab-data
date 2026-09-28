@@ -26,7 +26,7 @@ const data = {
             title: "الفيكسيز",
             type: "mult",
             img: "https://arab-data.pages.dev/arab%20tili/fixies/img/cov.avif",
-            meta: "100 ta epizod, daraja: A2-B2",
+            meta: "daraja: A2-B2",
             episodes: [
                 {
                     num: 1,
@@ -2344,7 +2344,7 @@ const data = {
             title: "مسلسل الإمام احمد بن حنبل",
             type: "kino",
             img: "https://arab-data.pages.dev/arab%20tili/img/playlist2.webp",
-            meta: "30 ta epizod, daraja: B2-C1",
+            meta: "daraja: B2-C1",
             episodes: [
                 {
                     num: 1,
@@ -2881,7 +2881,7 @@ const data = {
             title: "عجائب العالم",
             type: "kino",
             img: "https://arab-data.pages.dev/arab%20tili/img/ajaib.jpg",
-            meta: "1 ta video, daraja: B2-C2",
+            meta: "daraja: B2-C2",
             episodes: [
                 {
                     num: 1,
@@ -2943,7 +2943,7 @@ const data = {
             title: "قرآن",
             type: "book",
             img: "https://arab-data.pages.dev/arab%20tili/img/playlist3.jpg",
-            meta: "114 sura, daraja: B2-C1",
+            meta: "daraja: B2-C1",
             episodes: [
                 {
                     num: 1,
@@ -3046,7 +3046,7 @@ const data = {
             title: "Fixies",
             type: "mult",
             img: "https://arab-data.pages.dev/inglis%20tili/img/hqdefault.webp",
-            meta: "epizodlar soni nomalum, daraja: A2-B2",
+            meta: "daraja: A2-B2",
             episodes: [
                 {
                     num: 1,
@@ -5374,7 +5374,468 @@ const data = {
                     ]
                 }
             ]
+        },
+        {
+            id: "fixies-english-book-6",
+            language: "ingliz-tili",
+            title: "4000 Words 6",
+            type: "book",
+            img: "https://arab-data.pages.dev/inglis%20tili/img/4000_6.jpg",
+            meta: "daraja: B2-C1",
+            episodes: [
+                {
+                    num: 1,
+                    title: "Unit 1",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/01.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/01A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/01A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/01A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 2,
+                    title: "Unit 2",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/02.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/02A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/02A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/02A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 3,
+                    title: "Unit 3",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/03.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/03A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/03A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/03A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 4,
+                    title: "Unit 4",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/04.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/04A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/04A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/04A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 5,
+                    title: "Unit 5",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/05.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/05A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/05A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/05A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 6,
+                    title: "Unit 6",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/06.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/06A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/06A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/06A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 7,
+                    title: "Unit 7",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/07.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/07A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/07A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/07A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 8,
+                    title: "Unit 8",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/08.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/08A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/08A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/08A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 9,
+                    title: "Unit 9",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/09.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/09A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/09A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/09A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 10,
+                    title: "Unit 10",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/10.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/10A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/10A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/10A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 11,
+                    title: "Unit 11",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/11.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/11A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/11A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/11A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 12,
+                    title: "Unit 12",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/12.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/12A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/12A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/12A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 13,
+                    title: "Unit 13",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/13.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/13A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/13A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/13A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 14,
+                    title: "Unit 14",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/14.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/14A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/14A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/14A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 15,
+                    title: "Unit 15",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/15.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/15A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/15A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/15A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 16,
+                    title: "Unit 16",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/16.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/16A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/16A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/16A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 17,
+                    title: "Unit 17",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/17.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/17A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/17A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/17A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 18,
+                    title: "Unit 18",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/18.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/18A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/18A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/18A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 19,
+                    title: "Unit 19",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/19.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/19A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/19A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/19A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 20,
+                    title: "Unit 20",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/20.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/20A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/20A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/20A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 21,
+                    title: "Unit 21",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/21.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/21A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/21A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/21A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 22,
+                    title: "Unit 22",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/22.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/22A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/22A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/22A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 23,
+                    title: "Unit 23",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/23.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/23A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/23A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/23A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 24,
+                    title: "Unit 24",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/24.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/24A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/24A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/24A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 25,
+                    title: "Unit 25",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/25.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/25A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/25A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/25A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 26,
+                    title: "Unit 26",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/26.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/26A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/26A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/26A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 27,
+                    title: "Unit 27",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/27.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/27A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/27A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/27A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 28,
+                    title: "Unit 28",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/28.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/28A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/28A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/28A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 29,
+                    title: "Unit 29",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/29.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/29A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/29A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/29A.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 30,
+                    title: "Unit 30",
+                    audioBook: { "Reader": "https://ia600504.us.archive.org/26/items/4000-essential-english-words-6/30.mp3" },
+                    clipRange: { "Reader": "" },
+                    audioBookTimes: { "Reader": "" },
+                    analyses: [
+                        {
+                            label: "Tahlil",
+                            lessons: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/les/30A.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/4000_w_6/aud-tim-book/30A.js",
+                            audio: "https://ia601800.us.archive.org/30/items/4000-essential-english-words-6-text-analysis/30A.mp3"
+                        }
+                    ]
+                }
+            ]
         }
+
 
 
 
