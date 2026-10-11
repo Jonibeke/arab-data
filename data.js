@@ -2465,6 +2465,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/06.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/06A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/06B.js",
                             audioTimes: "",
@@ -2480,6 +2486,12 @@ const data = {
                     video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/07.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/07.srt",
                     analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/07A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/07B.js",
@@ -2497,6 +2509,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/08.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/08A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/08B.js",
                             audioTimes: "",
@@ -2512,6 +2530,12 @@ const data = {
                     video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/09.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/09.srt",
                     analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/09A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/09B.js",
@@ -2529,6 +2553,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/10.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/10A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/10B.js",
                             audioTimes: "",
@@ -2544,6 +2574,12 @@ const data = {
                     video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/11.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/11.srt",
                     analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/11A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/11B.js",
@@ -2561,6 +2597,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/12.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/12A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/12B.js",
                             audioTimes: "",
@@ -2576,6 +2618,12 @@ const data = {
                     video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/13.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/13.srt",
                     analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/13A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/13B.js",
@@ -2593,6 +2641,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/14.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/14A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/14B.js",
                             audioTimes: "",
@@ -2608,6 +2662,12 @@ const data = {
                     video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/15.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/15.srt",
                     analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/15A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/15B.js",
@@ -2625,6 +2685,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/16.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/16A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/16B.js",
                             audioTimes: "",
@@ -2641,6 +2707,12 @@ const data = {
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/17.srt",
                     analyses: [
                         {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/17A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
+                        {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/17B.js",
                             audioTimes: "",
@@ -2656,6 +2728,12 @@ const data = {
                     video:    "https://ia800807.us.archive.org/31/items/imom-ibn-hanbal/18.mp4",
                     subtitle: "https://arab-data.pages.dev/arab%20tili/hanbal/sub/18.srt",
                     analyses: [
+                        {
+                            label:      "Tahlil A",
+                            lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/18A.js",
+                            audioTimes: "",
+                            audio:      ""
+                        },
                         {
                             label:      "Tahlil B",
                             lessons:    "https://arab-data.pages.dev/arab%20tili/hanbal/les/18B.js",
