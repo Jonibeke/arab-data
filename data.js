@@ -3131,7 +3131,7 @@ const data = {
                     title: "The Drain",
                     about: "Tahlil ovozi qo'yilmagan",
                     img:      "",
-                    video:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/videos/002%20-%20The%20Drain.mp4",
+                    video:    "https://pub-2c1e2434fdce4f429834edfe2eb19a51.r2.dev/videos/fixies/002%20-%20The%20Drain.mp4",
                     subtitle: "https://arab-data.pages.dev/inglis%20tili/fiksiz/srt/002%20-%20The%20Drain.srt",
                     analyses: [
                         {
@@ -3145,6 +3145,28 @@ const data = {
                             lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_001C.js",
                             audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_001C.js",
                             audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_001C.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 2,
+                    title: "The DVD",
+                    about: "",
+                    img:      "",
+                    video:    "https://pub-2c1e2434fdce4f429834edfe2eb19a51.r2.dev/videos/fixies/003%20-%20The%20DVD.mp4",
+                    subtitle: "https://arab-data.pages.dev/inglis%20tili/fiksiz/srt/003%20-%20The%20DVD.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil 1",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_002P.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_002P.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_002P.mp3"
+                        },
+                        {
+                            label:      "Tahlil 2",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_002C.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_002C.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_002C.mp3"
                         }
                     ]
                 }
