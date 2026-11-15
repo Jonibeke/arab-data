@@ -3169,6 +3169,94 @@ const data = {
                             audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_002C.mp3"
                         }
                     ]
+                },
+                {
+                    num: 3,
+                    title: "The Alarm Clock",
+                    about: "",
+                    img:      "",
+                    video:    "https://pub-2c1e2434fdce4f429834edfe2eb19a51.r2.dev/videos/fixies/004%20-%20The%20Alarm%20Clock.mp4",
+                    subtitle: "https://arab-data.pages.dev/inglis%20tili/fiksiz/srt/004%20-%20The%20Alarm%20Clock.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil 1",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_003P.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_003P.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_003P.mp3"
+                        },
+                        {
+                            label:      "Tahlil 2",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_003C.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_003C.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_003C.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 4,
+                    title: "The Lever",
+                    about: "",
+                    img:      "",
+                    video:    "https://pub-2c1e2434fdce4f429834edfe2eb19a51.r2.dev/videos/fixies/005%20-%20The%20Lever.mp4",
+                    subtitle: "https://arab-data.pages.dev/inglis%20tili/fiksiz/srt/005%20-%20The%20Lever.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil 1",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_004P.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_004P.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_004P.mp3"
+                        },
+                        {
+                            label:      "Tahlil 2",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_004C.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_004C.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_004C.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 5,
+                    title: "The Remote",
+                    about: "",
+                    img:      "",
+                    video:    "https://pub-2c1e2434fdce4f429834edfe2eb19a51.r2.dev/videos/fixies/006%20-%20The%20Remote.mp4",
+                    subtitle: "https://arab-data.pages.dev/inglis%20tili/fiksiz/srt/006_-_The_Remote.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil 1",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_005P.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_005P.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_005P.mp3"
+                        },
+                        {
+                            label:      "Tahlil 2",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_005C.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_005C.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_005C.mp3"
+                        }
+                    ]
+                },
+                {
+                    num: 6,
+                    title: "The Combination Lock",
+                    about: "",
+                    img:      "",
+                    video:    "https://pub-2c1e2434fdce4f429834edfe2eb19a51.r2.dev/videos/fixies/007%20-%20The%20Combination%20Lock.mp4",
+                    subtitle: "https://arab-data.pages.dev/inglis%20tili/fiksiz/srt/007_-_The_Combination_Lock.srt",
+                    analyses: [
+                        {
+                            label:      "Tahlil 1",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_006P.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_006P.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_006P.mp3"
+                        },
+                        {
+                            label:      "Tahlil 2",
+                            lessons:    "https://arab-data.pages.dev/inglis%20tili/fiksiz/lessons/f_1_006C.js",
+                            audioTimes: "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio_times/f_1_006C.js",
+                            audio:      "https://arab-data.pages.dev/inglis%20tili/fiksiz/audio/f_1_006C.mp3"
+                        }
+                    ]
                 }
             ]
         },
