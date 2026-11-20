@@ -1,0 +1,339 @@
+1
+00:00:00,000 --> 00:00:02,000
+The Screws
+
+2
+00:00:06,280 --> 00:00:08,080
+Hey, Tom Thomas!
+
+3
+00:00:08,359 --> 00:00:09,480
+What are you thinking about? Huh?
+
+4
+00:00:10,359 --> 00:00:12,200
+For school I have to write an essay.
+
+5
+00:00:12,359 --> 00:00:13,679
+My very best friend.
+
+6
+00:00:13,800 --> 00:00:15,519
+I don't know. Who should I write about?
+
+7
+00:00:15,519 --> 00:00:16,640
+What do you mean who?
+
+8
+00:00:16,719 --> 00:00:18,160
+Aren't I your closest friend?
+
+9
+00:00:18,160 --> 00:00:19,000
+Of course!
+
+10
+00:00:19,120 --> 00:00:20,839
+How could I forget to write about you?
+
+11
+00:00:20,839 --> 00:00:22,359
+And you can keep forgetting!
+
+12
+00:00:22,559 --> 00:00:24,160
+That's our secret, right?
+
+13
+00:00:24,480 --> 00:00:27,320
+Don't you remember the promise you made when we met?
+
+14
+00:00:27,320 --> 00:00:30,320
+Hmm, sure, how could I forget?
+
+15
+00:00:37,320 --> 00:00:39,320
+What's wrong with Chewsocka today?
+
+16
+00:00:44,320 --> 00:00:48,320
+Chewsocka, why are these screws bothering you so badly?
+
+17
+00:01:03,000 --> 00:01:05,700
+What's with you? Leave them alone already!
+
+18
+00:01:05,800 --> 00:01:08,100
+Will you just calm down?
+
+19
+00:01:08,200 --> 00:01:10,500
+You're going to destroy my plane!
+
+20
+00:01:20,100 --> 00:01:22,500
+Let's get out of here!
+
+21
+00:01:24,600 --> 00:01:26,700
+What's going on?
+
+22
+00:01:29,900 --> 00:01:32,500
+What's going on?
+
+23
+00:01:34,300 --> 00:01:38,500
+Hey, if you don't turn back again, I'm not letting you go.
+
+24
+00:01:39,000 --> 00:01:42,400
+Oh, please, don't be afraid. I'm not going to hurt you, too.
+
+25
+00:01:42,500 --> 00:01:46,900
+I'll just ask you one question and let you go.
+
+26
+00:01:49,319 --> 00:01:51,319
+Nolik!
+
+27
+00:01:51,319 --> 00:01:52,319
+We can't!
+
+28
+00:01:52,559 --> 00:01:53,879
+Don't worry about it.
+
+29
+00:01:54,279 --> 00:01:55,479
+Quit your staring!
+
+30
+00:01:55,599 --> 00:01:57,000
+Ask your question, boy!
+
+31
+00:01:57,119 --> 00:01:59,039
+No way you can talk!
+
+32
+00:01:59,239 --> 00:02:02,079
+Just… just… just tell me, who are you?
+
+33
+00:02:03,519 --> 00:02:04,359
+Fixies!
+
+34
+00:02:04,519 --> 00:02:07,560
+That's all! We answered! Now you… let us out!
+
+35
+00:02:07,639 --> 00:02:10,199
+Oh, wait! But what's it mean that you're Fixies?
+
+36
+00:02:10,280 --> 00:02:12,240
+That's already question number two!
+
+37
+00:02:12,319 --> 00:02:14,280
+You promised to let us out, didn't you?
+
+38
+00:02:14,519 --> 00:02:15,560
+I'm sorry.
+
+39
+00:02:16,079 --> 00:02:17,479
+You can leave now.
+
+40
+00:02:17,959 --> 00:02:19,519
+Simka, it's fine.
+
+41
+00:02:19,520 --> 00:02:22,200
+I can see from his look that we can trust him.
+
+42
+00:02:23,760 --> 00:02:26,120
+Uh, alright, we'll tell him.
+
+43
+00:02:26,600 --> 00:02:30,360
+You gotta swear that you don't tell anyone else!
+
+44
+00:02:30,480 --> 00:02:31,439
+I swear it!
+
+45
+00:02:33,920 --> 00:02:34,840
+Fixies
+
+46
+00:02:35,360 --> 00:02:40,200
+We're the little people that live inside of machines and appliances and take care of them,
+
+47
+00:02:40,320 --> 00:02:43,200
+fixing them, cleaning them and oiling them.
+
+48
+00:02:43,320 --> 00:02:45,120
+Humans never suspect us.
+
+49
+00:02:45,240 --> 00:02:48,840
+They think that if something breaks and then suddenly starts working again,
+
+50
+00:02:48,840 --> 00:02:50,840
+that it happened all by itself.
+
+51
+00:02:51,039 --> 00:02:53,439
+Well, nothing happens by itself!
+
+52
+00:02:53,560 --> 00:02:57,439
+It happens because we, the Fixies, are living inside.
+
+53
+00:02:57,680 --> 00:03:03,199
+Yes, without the Fixies, humans would have so many more problems with their machines.
+
+54
+00:03:04,719 --> 00:03:06,080
+That's awesome!
+
+55
+00:03:06,599 --> 00:03:08,199
+And so what are your names?
+
+56
+00:03:08,400 --> 00:03:10,960
+That's already question number three.
+
+57
+00:03:16,360 --> 00:03:18,800
+You can call me Nolik and her name is Simka.
+
+58
+00:03:19,360 --> 00:03:22,599
+And my name is Tom Thomas. Will you come back over?
+
+59
+00:03:23,840 --> 00:03:24,840
+Oh well.
+
+60
+00:03:26,000 --> 00:03:31,360
+Uh, I was this close to becoming the first kid in the whole world to make friends with the Fixies.
+
+61
+00:03:33,719 --> 00:03:36,560
+I thought you guys would never come back over.
+
+62
+00:03:36,960 --> 00:03:39,000
+And we didn't plan on coming back.
+
+63
+00:03:39,080 --> 00:03:42,560
+But then we thought it would be really great to be the only Fixies in the whole world
+
+64
+00:03:42,640 --> 00:03:45,000
+who are friends with the only kid in the whole world
+
+65
+00:03:45,199 --> 00:03:46,800
+who is friends with the Fixies!
+
+66
+00:03:46,800 --> 00:03:50,520
+And who has told no one about us!
+
+67
+00:03:53,120 --> 00:03:57,680
+The Fixies do everything they can do to hide from humans.
+
+68
+00:03:57,840 --> 00:04:00,920
+They are afraid that if humans discovered Fixies,
+
+69
+00:04:01,000 --> 00:04:03,360
+they would hunt them down and capture them,
+
+70
+00:04:03,439 --> 00:04:06,480
+and start keeping them in cages just like pets.
+
+71
+00:04:06,600 --> 00:04:08,040
+And worse than that,
+
+72
+00:04:08,280 --> 00:04:12,960
+they would take them into their laboratories and start examining them under microscopes,
+
+73
+00:04:13,040 --> 00:04:16,439
+even conducting scientific experiments on them.
+
+74
+00:04:16,800 --> 00:04:20,240
+Or suppose that humans thought we'd do all their work for them,
+
+75
+00:04:20,319 --> 00:04:24,759
+and so they decided that they didn't have to take care of their appliances any longer.
+
+76
+00:04:25,879 --> 00:04:27,879
+Well then, let me tell you this.
+
+77
+00:04:27,960 --> 00:04:32,600
+If humans decided that they didn't have to clean or fix their own appliances, then
+
+78
+00:04:32,680 --> 00:04:36,800
+not even the Fixies will be able to stop them from breaking no matter what they do!
+
+79
+00:04:37,560 --> 00:04:41,759
+That's why the Fixies are very smart to hide from humans.
+
+80
+00:04:43,884 --> 00:04:47,759
+Okay, then, I'll write about someone else.
+
+81
+00:04:47,759 --> 00:04:54,917
+I have the very best friend ever.
+
+82
+00:04:54,917 --> 00:04:56,322
+Period.
+
+83
+00:04:56,322 --> 00:04:59,674
+When something's broken, he repairs it.
+
+84
+00:04:59,674 --> 00:05:02,935
+He's the one and only Nol...
+
+85
+00:05:02,935 --> 00:05:07,136
+The one and only Nolan!
