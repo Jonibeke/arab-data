@@ -1,0 +1,320 @@
+1
+00:00:01,000 --> 00:00:02,120
+The fan!
+
+2
+00:00:03,200 --> 00:00:04,400
+Pass him on the left!
+
+3
+00:00:04,639 --> 00:00:05,440
+Step on it!
+
+4
+00:00:05,480 --> 00:00:06,719
+Now pass him on the right!
+
+5
+00:00:07,160 --> 00:00:08,359
+Look out for the wall!
+
+6
+00:00:08,480 --> 00:00:09,599
+Hit the brakes!
+
+7
+00:00:11,800 --> 00:00:13,320
+Why didn't you hit the brakes?
+
+8
+00:00:13,519 --> 00:00:15,280
+He was just too scared!
+
+9
+00:00:15,439 --> 00:00:17,120
+What do you mean too scared?
+
+10
+00:00:17,280 --> 00:00:19,199
+Something got into my eyes.
+
+11
+00:00:19,240 --> 00:00:20,400
+Those were your hands.
+
+12
+00:00:20,400 --> 00:00:21,240
+My turn.
+
+13
+00:00:21,679 --> 00:00:23,559
+Let me show you how it's really done.
+
+14
+00:00:26,120 --> 00:00:27,400
+Oh, what's wrong with the computer?
+
+15
+00:00:27,519 --> 00:00:29,960
+Oh, it's been really acting up for a while.
+
+16
+00:00:30,000 --> 00:00:34,000
+It turns off by itself. It's no big deal. I just turn it back on.
+
+17
+00:00:34,119 --> 00:00:35,719
+I don't like this at all.
+
+18
+00:00:35,880 --> 00:00:38,519
+Come on, Nolik, let's go inside and take a look.
+
+19
+00:00:40,920 --> 00:00:43,880
+Just like people, machines can get sick too.
+
+20
+00:00:43,960 --> 00:00:48,280
+They can get a very high temperature and even start coughing and sneezing.
+
+21
+00:00:49,640 --> 00:00:53,079
+And if a machine or an appliance gets seriously sick,
+
+22
+00:00:53,359 --> 00:00:56,280
+sometimes it can be too late to fix them at all.
+
+23
+00:00:56,280 --> 00:01:00,640
+So wouldn't it be better if we could keep them from getting sick in the first place?
+
+24
+00:01:00,640 --> 00:01:06,879
+Everybody knows that people who look after their health get sick less often and live longer.
+
+25
+00:01:06,879 --> 00:01:09,000
+And the same goes for machines.
+
+26
+00:01:09,000 --> 00:01:13,719
+Machines break less often and live longer if they're properly taken care of.
+
+27
+00:01:13,719 --> 00:01:19,159
+That's why machines need to be checked from time to time, and cleaned, and oiled.
+
+28
+00:01:19,159 --> 00:01:23,359
+And that's what's called preventive maintenance.
+
+29
+00:01:23,359 --> 00:01:29,959
+And preventive maintenance is something that always should be kept in mind by humans and by Fixies.
+
+30
+00:01:42,439 --> 00:01:43,400
+Oh, what is that?
+
+31
+00:01:44,439 --> 00:01:45,400
+What is what?
+
+32
+00:01:45,680 --> 00:01:46,920
+Can you hear that?
+
+33
+00:01:47,079 --> 00:01:49,079
+What are all those sounds?
+
+34
+00:01:49,319 --> 00:01:50,719
+It's probably just… um…
+
+35
+00:01:51,359 --> 00:01:53,039
+a Fixie eater that woke up.
+
+36
+00:01:53,359 --> 00:01:55,599
+What? What do you mean, Fixie-eater?
+
+37
+00:01:55,879 --> 00:02:02,280
+Didn't you know that inside of some appliances there live horrible monsters?
+
+38
+00:02:02,680 --> 00:02:07,159
+They love to attack Fixies and eat them up!
+
+39
+00:02:07,280 --> 00:02:14,560
+And the smaller the Fixies are, the more the Fixie-eater likes to eat them!
+
+40
+00:02:15,800 --> 00:02:19,960
+And how come you never told me anything about Fixie-eaters before?
+
+41
+00:02:20,280 --> 00:02:23,319
+I didn't want you to get scared!
+
+42
+00:02:27,200 --> 00:02:30,480
+All right, Scaredy Cat, let's keep going.
+
+43
+00:02:39,700 --> 00:02:42,280
+Simka, where are you?
+
+44
+00:02:59,600 --> 00:03:01,780
+Oh, no! Don't eat me, Fixie-eater!
+
+45
+00:03:05,900 --> 00:03:09,680
+Oh! Simka! Come over here!
+
+46
+00:03:09,939 --> 00:03:11,939
+The sound is coming from here! Take a look!
+
+47
+00:03:11,939 --> 00:03:13,819
+It's not a Fixie-eater at all!
+
+48
+00:03:14,060 --> 00:03:15,579
+It's just a fan!
+
+49
+00:03:16,020 --> 00:03:18,219
+Not just Nolik, it needs our help!
+
+50
+00:03:18,500 --> 00:03:20,060
+See how sick that fan is?
+
+51
+00:03:20,219 --> 00:03:22,699
+Let's go and get it working! Right now!
+
+52
+00:03:24,699 --> 00:03:28,259
+A computer can only run when all of its parts are working.
+
+53
+00:03:28,419 --> 00:03:32,939
+And even though a fan looks like nothing more than a simple little engine with a propeller,
+
+54
+00:03:33,060 --> 00:03:34,939
+the computer couldn't work without it.
+
+55
+00:03:35,139 --> 00:03:40,780
+It has the very important job of keeping all of those other parts cool when they start heating up.
+
+56
+00:03:41,539 --> 00:03:45,419
+It cools down the inside of a computer by blowing a stream of air.
+
+57
+00:03:45,539 --> 00:03:48,539
+But if the fan gets dirty and starts working poorly,
+
+58
+00:03:48,620 --> 00:03:51,539
+the computer might get overheated and turn off.
+
+59
+00:03:51,740 --> 00:03:53,740
+Or it can simply break!
+
+60
+00:03:57,539 --> 00:03:59,180
+You have to turn off your computer!
+
+61
+00:03:59,259 --> 00:04:00,020
+How come?
+
+62
+00:04:00,099 --> 00:04:01,379
+I'll tell you later!
+
+63
+00:04:13,400 --> 00:04:15,800
+That part's done. Now we oil it.
+
+64
+00:04:16,800 --> 00:04:18,000
+Let me try!
+
+65
+00:04:18,100 --> 00:04:19,500
+Alright!
+
+66
+00:04:23,200 --> 00:04:24,900
+It's oiled up!
+
+67
+00:04:25,000 --> 00:04:26,500
+Just like your nose!
+
+68
+00:04:26,600 --> 00:04:27,600
+Tom Thomas!
+
+69
+00:04:27,700 --> 00:04:29,000
+Turn it on!
+
+70
+00:04:31,779 --> 00:04:32,779
+Tideesh!
+
+71
+00:04:36,800 --> 00:04:41,900
+And then suddenly I hear this terrible roar of a Fixie-eater!
+
+72
+00:04:42,139 --> 00:04:44,299
+But I wasn't scared one little bit,
+
+73
+00:04:44,419 --> 00:04:47,219
+and I just ran right into the battle!
+
+74
+00:04:47,339 --> 00:04:48,139
+And Simka?
+
+75
+00:04:48,139 --> 00:04:50,019
+Oh, she was hiding somewhere.
+
+76
+00:04:50,019 --> 00:04:52,699
+You know, she's a girl and they're all cowards.
+
+77
+00:04:52,779 --> 00:04:56,219
+So I had to fight the monster all by myself.
+
+78
+00:04:58,579 --> 00:05:03,299
+Oh, I guess that was an example of how girls hide like cowards when they're too scared.
+
+79
+00:05:04,500 --> 00:05:05,739
+Well, um…
+
+80
+00:05:05,859 --> 00:05:06,500
+Yeah!
+

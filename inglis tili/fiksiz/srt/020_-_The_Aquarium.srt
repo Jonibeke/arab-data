@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:04,000
+The Aquarium
+
+2
+00:00:07,160 --> 00:00:08,320
+The coast is clear.
+
+3
+00:00:08,480 --> 00:00:09,640
+The humans have left.
+
+4
+00:00:10,320 --> 00:00:11,519
+Come on, let's go!
+
+5
+00:00:16,719 --> 00:00:19,960
+Masiya, why are the fish looking so tired?
+
+6
+00:00:20,160 --> 00:00:22,280
+Because they're not getting enough air in there.
+
+7
+00:00:22,400 --> 00:00:27,719
+The water in the aquarium is dirty and it needs air, but the filter isn't working.
+
+8
+00:00:28,320 --> 00:00:29,400
+The filter?
+
+9
+00:00:29,399 --> 00:00:31,879
+Yes, that device over there.
+
+10
+00:00:32,519 --> 00:00:36,399
+These fish need our help! And if we don't do something right now, they could die!
+
+11
+00:00:36,519 --> 00:00:38,600
+Right! First I'll fix that light,
+
+12
+00:00:38,759 --> 00:00:41,920
+while you and Masiya go over there and see what is wrong with the filter.
+
+13
+00:00:42,399 --> 00:00:44,839
+But I want to go and look at the filter too!
+
+14
+00:00:45,000 --> 00:00:46,879
+You're too small for this!
+
+15
+00:00:47,039 --> 00:00:48,320
+Oh, whoa-whoa-whoa!
+
+16
+00:00:48,480 --> 00:00:51,320
+And you're a giant! I mean, you're like six feet tall, huh?
+
+17
+00:00:51,439 --> 00:00:54,280
+That's enough arguing! Nolik, let's go!
+
+18
+00:00:59,399 --> 00:01:01,920
+Well, let's check it!
+
+19
+00:01:02,600 --> 00:01:03,600
+Not working.
+
+20
+00:01:04,039 --> 00:01:05,280
+Nolik, where are you?
+
+21
+00:01:05,400 --> 00:01:06,400
+I'm up here!
+
+22
+00:01:06,599 --> 00:01:08,200
+What are you doing up there?
+
+23
+00:01:08,840 --> 00:01:09,679
+Nothing.
+
+24
+00:01:09,799 --> 00:01:10,840
+Holding on.
+
+25
+00:01:11,000 --> 00:01:12,439
+We don't have time for that.
+
+26
+00:01:12,560 --> 00:01:13,439
+Get down!
+
+27
+00:01:13,920 --> 00:01:15,759
+We have to get this switch working!
+
+28
+00:01:20,879 --> 00:01:24,280
+Masiya, what's the matter with the filter?
+
+29
+00:01:24,799 --> 00:01:29,280
+Well, probably something's caught inside and it's stopping the motor from turning.
+
+30
+00:01:29,400 --> 00:01:36,300
+A filter is used to keep the aquarium water clean. A motor in a filter turns
+
+31
+00:01:36,300 --> 00:01:41,560
+the paddles and pumps water through a fine net or a sponge. The dirt in the
+
+32
+00:01:41,560 --> 00:01:45,600
+water gets trapped in there, and the cleaned water is put back into the
+
+33
+00:01:45,600 --> 00:01:51,540
+aquarium. Many filters not only clean the water but also add air to it, so there
+
+34
+00:01:51,540 --> 00:01:57,180
+will be more oxygen in the water. You see, even though fish live their lives in
+
+35
+00:01:57,180 --> 00:02:00,100
+water, they need oxygen just like all of us.
+
+36
+00:02:11,800 --> 00:02:13,000
+Hmm.
+
+37
+00:02:27,180 --> 00:02:29,180
+Tideesh!
+
+38
+00:02:34,000 --> 00:02:36,000
+Way to go there!
+
+39
+00:02:38,200 --> 00:02:40,000
+Oh!
+
+40
+00:03:07,600 --> 00:03:10,460
+There are lots of ways for people to breathe under water.
+
+41
+00:03:10,460 --> 00:03:14,460
+As an experiment, try putting an empty glass upside down in water
+
+42
+00:03:14,460 --> 00:03:17,300
+and you'll see that some of the air stays in there.
+
+43
+00:03:17,379 --> 00:03:20,260
+That's the idea behind the ancient diving bell.
+
+44
+00:03:20,260 --> 00:03:22,659
+An empty bell was lowered under the water,
+
+45
+00:03:22,659 --> 00:03:26,060
+and some of the air remained in there for the diver to breathe.
+
+46
+00:03:26,180 --> 00:03:29,780
+And about 200 years ago the first diving suits were invented.
+
+47
+00:03:29,939 --> 00:03:33,539
+The diver got air from a hose that started above the water.
+
+48
+00:03:33,819 --> 00:03:37,259
+This let the diver spend a long time under the water,
+
+49
+00:03:37,379 --> 00:03:40,579
+and even walk around on the bottom, but just not too far.
+
+50
+00:03:40,859 --> 00:03:45,259
+Later on, people learned to squeeze a lot of air inside of metal tanks.
+
+51
+00:03:45,419 --> 00:03:47,859
+And that's when scuba diving started.
+
+52
+00:03:47,860 --> 00:03:53,020
+Scuba divers breathe the air stored in these tanks so they can swim freely,
+
+53
+00:03:53,020 --> 00:03:56,420
+and even dive deep down below the water.
+
+54
+00:03:58,140 --> 00:03:59,500
+Our work is done.
+
+55
+00:03:59,500 --> 00:04:02,340
+The light is on and the filter is working.
+
+56
+00:04:02,700 --> 00:04:04,620
+And the fish look so excited!
+
+57
+00:04:04,620 --> 00:04:07,540
+As if they're not fish but monsters!
+
+58
+00:04:07,540 --> 00:04:09,500
+Thank goodness they're behind glass!
+
+59
+00:04:09,500 --> 00:04:10,500
+Papus!
+
+60
+00:04:10,860 --> 00:04:13,700
+Just hang on! We'll be right there to save you!
+
+61
+00:04:14,380 --> 00:04:16,699
+But I don't even have my pack-o-mat!
+
+62
+00:04:16,699 --> 00:04:19,420
+Look how they're chopping their teeth!
+
+63
+00:04:19,420 --> 00:04:20,899
+They must be so hungry!
+
+64
+00:04:20,899 --> 00:04:23,860
+You're right! They're hungry! Nolik, come on!
+
+65
+00:04:43,539 --> 00:04:46,339
+I can't believe those fish! They're so ungrateful!
+
+66
+00:04:46,339 --> 00:04:50,619
+We went ahead and fixed their filter, and all they wanted to do was gobble us up!
+
+67
+00:04:50,739 --> 00:04:52,659
+And I'm the one who saved you from them!
+
+68
+00:04:52,779 --> 00:04:54,699
+I was the one watching what was going on.
+
+69
+00:05:00,339 --> 00:05:01,339
+Oh, gee!
+
+70
+00:05:01,620 --> 00:05:02,459
+Hold it!
+
+71
+00:05:02,659 --> 00:05:04,779
+Do you think giving her some, uh, food will help?
+
+72
+00:05:05,099 --> 00:05:07,659
+As long as you're not thinking that food is me!
+
